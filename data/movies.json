@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T01:04:12.707160+00:00",
+  "last_updated": "2026-07-13T09:44:20.527388+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -162,7 +162,8 @@
       "trailer_youtube_id": "tVPi4mJ7ZqU",
       "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Furious%20official%20trailer",
       "ratings": {
-        "imdb": "7.5"
+        "imdb": "7.5",
+        "rotten_tomatoes": "98%"
       },
       "imdb_id": "tt33311069",
       "release_date": "2025-09-06",
@@ -191,8 +192,11 @@
       "poster": "https://www.skycinemaskw.com/images/movies/9999001455.jpg",
       "trailer_youtube_id": "RrCjUcFfy48",
       "trailer_search_url": "https://www.youtube.com/results?search_query=Moana%20-%20Arabic%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
+      "ratings": {
+        "imdb": "7.6",
+        "rotten_tomatoes": "95%"
+      },
+      "imdb_id": "tt3521164",
       "release_date": null,
       "matched": false,
       "languages": [
@@ -254,7 +258,7 @@
       "trailer_youtube_id": "dna4DHlSZno",
       "trailer_search_url": "https://www.youtube.com/results?search_query=Seven%20Snipers%20official%20trailer",
       "ratings": {},
-      "imdb_id": null,
+      "imdb_id": "tt36926359",
       "release_date": null,
       "matched": false,
       "languages": [
@@ -347,8 +351,10 @@
       "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004417_891.jpg",
       "trailer_youtube_id": "pVWyRUF83zE",
       "trailer_search_url": "https://www.youtube.com/results?search_query=Siccin%209%20-%20Turkish%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
+      "ratings": {
+        "imdb": "5.1"
+      },
+      "imdb_id": "tt42006709",
       "release_date": null,
       "matched": false,
       "languages": [
@@ -373,8 +379,11 @@
       "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004278_871.jpg",
       "trailer_youtube_id": "iCLWkA0G0LE",
       "trailer_search_url": "https://www.youtube.com/results?search_query=Obsession%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
+      "ratings": {
+        "imdb": "8.0",
+        "rotten_tomatoes": "94%"
+      },
+      "imdb_id": "tt37287335",
       "release_date": null,
       "matched": false,
       "languages": [
@@ -457,8 +466,11 @@
       "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004424_981.jpg",
       "trailer_youtube_id": "EiD1UcvnhLY",
       "trailer_search_url": "https://www.youtube.com/results?search_query=Couture%20-%20French%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
+      "ratings": {
+        "imdb": "5.7",
+        "rotten_tomatoes": "60%"
+      },
+      "imdb_id": "tt34688195",
       "release_date": null,
       "matched": false,
       "languages": [
@@ -483,8 +495,11 @@
       "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004133_804.jpg",
       "trailer_youtube_id": "POi_VxrchyA",
       "trailer_search_url": "https://www.youtube.com/results?search_query=Keeper%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
+      "ratings": {
+        "imdb": "5.5",
+        "rotten_tomatoes": "50%"
+      },
+      "imdb_id": "tt32332404",
       "release_date": null,
       "matched": false,
       "languages": [
@@ -511,7 +526,7 @@
       "trailer_youtube_id": "nAXjxQcMeNA",
       "trailer_search_url": "https://www.youtube.com/results?search_query=Dhamaal%204%20-%20Hindi%20official%20trailer",
       "ratings": {},
-      "imdb_id": null,
+      "imdb_id": "tt27548557",
       "release_date": null,
       "matched": false,
       "languages": [
@@ -538,7 +553,7 @@
       "trailer_youtube_id": "P11_dkW0A_s",
       "trailer_search_url": "https://www.youtube.com/results?search_query=I%2C%20Nobody%20-%20Malayalam%20official%20trailer",
       "ratings": {},
-      "imdb_id": null,
+      "imdb_id": "tt4276690",
       "release_date": null,
       "matched": true,
       "languages": [
