@@ -1,0 +1,43 @@
+name: Daily movie data update
+
+on:
+  schedule:
+    - cron: "0 4 * * *"   # 07:00 Kuwait time, daily
+  workflow_dispatch: {}    # manual "Run workflow" button
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run tests
+        run: |
+          python test_parsers.py
+          python test_enrich.py
+
+      - name: Scrape cinemas
+        run: python main.py || echo "::warning::One or more cinema sources failed - publishing partial data"
+
+      - name: Enrich (Wikidata / IMDb datasets / Arabic Wikipedia / OMDb)
+        env:
+          OMDB_API_KEY: ${{ secrets.OMDB_API_KEY }}
+        run: python enrich.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "data-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          git commit -m "Daily data update $(date -u +%F)" || echo "No changes today"
+          git push
