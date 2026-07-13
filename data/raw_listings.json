@@ -1,9 +1,48 @@
 {
-  "scraped_at": "2026-07-13T09:44:14.698790+00:00",
+  "scraped_at": "2026-07-13T13:03:25.429463+00:00",
   "failures": [
     "vox"
   ],
   "movies": {
+    "odyssey": {
+      "title_en": "The Odyssey",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/the-odyssey/9999001458/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001458.jpg"
+    },
+    "shamshounwdalila": {
+      "title_en": "Shamshoun W Dalila",
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/shamshoun-w-dalila-(egyptian)-arabic/9999001457/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001457.jpg"
+    },
+    "matchenglishspanish": {
+      "title_en": "The Match - English.Spanish",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/the-match-english.spanish/9999001456/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001456.jpg"
+    },
     "moana": {
       "title_en": "Moana - Arabic",
       "languages": [

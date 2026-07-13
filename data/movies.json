@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T09:44:20.527388+00:00",
+  "last_updated": "2026-07-13T13:03:35.263541+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -45,6 +45,36 @@
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/evil-dead-burn/9999001453/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "wd-Q131547207",
+      "title_ar": "الأوديسة",
+      "title_en": "The Odyssey",
+      "synopsis_ar": "الأوديسة هو فلم فنتازيا وحركة ملحمي صدر عام 2026، كتبه وأخرجه كريستوفر نولان، وشارك في إنتاجه مع زوجته إيما توماس من خلال شركة سينكوبي. يقتبس الفلم ملحمة الأوديسة الإغريقية للشاعر هوميروس، ويتتبع رحلة أوديسيوس — ملك إيثاكا الإغريقي — الذي يؤديه مات ديمون أثناء سعيه للعودة إلى وطنه بعد انتهاء حرب طروادة، وما يواجهه خلال رحلته من أخطار وكائنات أسطورية، بينما يحاول لمّ شمله بزوجته بينيلوبي، التي تؤدي دورها آن هاثاواي. يضم طاقم التمثيل أيضًا كلًا من توم هولاند وروبرت باتينسون ولوبيتا نيونغو وسامانثا مورتن وزيندايا وتشارليز ثيرون.",
+      "genres_ar": [
+        "فلم خيال",
+        "فلم مغامرة",
+        "فلم أكشن",
+        "فلم تاريخي",
+        "فلم ملحمي"
+      ],
+      "runtime_min": 172,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001458.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Odyssey%20official%20trailer",
+      "ratings": {},
+      "imdb_id": "tt33764258",
+      "release_date": "2026-07-06",
+      "matched": true,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/the-odyssey/9999001458/NowShowing"
         }
       ]
     },
@@ -175,6 +205,54 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Furious/HO00004393"
+        }
+      ]
+    },
+    {
+      "id": "local-shamshounwdalila",
+      "title_ar": "Shamshoun W Dalila",
+      "title_en": "Shamshoun W Dalila",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001457.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Shamshoun%20W%20Dalila%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/shamshoun-w-dalila-(egyptian)-arabic/9999001457/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "local-matchenglishspanish",
+      "title_ar": "The Match - English.Spanish",
+      "title_en": "The Match - English.Spanish",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001456.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Match%20-%20English.Spanish%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/the-match-english.spanish/9999001456/NowShowing"
         }
       ]
     },
