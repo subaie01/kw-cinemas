@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="ar">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>سينما الكويت — كل الأفلام المعروضة الآن | Kuwait Cinemas</title>
+<meta name="description" content="جميع الأفلام المعروضة حالياً في صالات سينما الكويت (سينسكيب، ڤوكس، جراند، سكاي) مع التقييمات والمقاطع الدعائية — يُحدَّث يومياً. All movies now showing in Kuwait cinemas, updated daily.">
+<style>
+:root{--bg:#0b0d14;--card:#151826;--card2:#1b1f30;--text:#f2f3f7;--muted:#9aa0b4;--gold:#f5c518;--accent:#e0364f;--chip:#252a40}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:var(--bg);color:var(--text);font-family:"Segoe UI",Tahoma,Arial,sans-serif;min-height:100vh}
+header{padding:24px 16px 10px;text-align:center;position:relative}
+header h1{font-size:1.9rem;letter-spacing:.5px}
+header h1 span{color:var(--gold)}
+header p{color:var(--muted);margin-top:6px;font-size:.95rem}
+#langbtn{position:absolute;top:18px;inset-inline-end:16px;background:var(--chip);color:var(--gold);border:1px solid #333a55;border-radius:18px;padding:7px 16px;font-size:.9rem;cursor:pointer;font-family:inherit;font-weight:700}
+#langbtn:hover{border-color:var(--gold)}
+.tabs{display:flex;justify-content:center;gap:10px;margin:18px 0 6px}
+.tabs button{background:var(--chip);color:var(--text);border:1px solid #333a55;border-radius:20px;padding:8px 20px;font-size:.95rem;cursor:pointer;font-family:inherit}
+.tabs button.active{background:var(--gold);color:#111;border-color:var(--gold);font-weight:700}
+#grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:14px;padding:18px;max-width:1200px;margin:0 auto}
+.card{background:var(--card);border-radius:14px;overflow:hidden;display:flex;flex-direction:column;transition:transform .15s}
+.card:hover{transform:translateY(-4px)}
+.poster{position:relative;aspect-ratio:2/3;background:linear-gradient(160deg,#232741,#12141f);display:flex;align-items:center;justify-content:center}
+.poster img{width:100%;height:100%;object-fit:cover;display:block}
+.poster .noimg{font-size:2.2rem;opacity:.35}
+.imdb{position:absolute;top:8px;inset-inline-end:8px;background:var(--gold);color:#111;font-weight:800;font-size:.78rem;padding:3px 8px;border-radius:8px}
+.rt{position:absolute;top:8px;inset-inline-start:8px;background:var(--accent);color:#fff;font-weight:800;font-size:.78rem;padding:3px 8px;border-radius:8px}
+.info{padding:10px 12px 12px;display:flex;flex-direction:column;gap:7px;flex:1}
+.title{font-size:1rem;font-weight:700;line-height:1.4}
+.sub{color:var(--muted);font-size:.78rem}
+.meta{color:var(--muted);font-size:.78rem;line-height:1.6}
+.chips{display:flex;flex-wrap:wrap;gap:5px;margin-top:auto}
+.chips a{background:var(--chip);color:var(--text);text-decoration:none;font-size:.75rem;padding:4px 10px;border-radius:12px;border:1px solid #333a55}
+.chips a:hover{border-color:var(--gold);color:var(--gold)}
+.trailer{display:block;text-align:center;background:var(--card2);color:var(--gold);text-decoration:none;font-size:.82rem;padding:7px;border-radius:9px;border:1px solid #333a55;margin-top:8px}
+.trailer:hover{background:var(--gold);color:#111}
+footer{text-align:center;color:var(--muted);font-size:.8rem;padding:26px 16px 34px}
+#loading{text-align:center;padding:60px;color:var(--muted)}
+@media (max-width:480px){#grid{grid-template-columns:repeat(2,1fr);gap:10px;padding:12px}}
+</style>
+</head>
+<body>
+<header>
+  <button id="langbtn">English</button>
+  <h1 id="h-title"></h1>
+  <p id="h-tag"></p>
+</header>
+<div class="tabs">
+  <button id="tab-new" class="active"></button>
+  <button id="tab-top"></button>
+</div>
+<div id="loading">…</div>
+<div id="grid"></div>
+<footer id="foot"></footer>
+<script>
+const DATA_URL = "data/movies.json";
+const T = {
+  ar: {title:'🎬 سينما <span>الكويت</span>', tag:'كل الأفلام المعروضة الآن في صالات الكويت — في مكان واحد',
+       newest:'الأحدث', top:'الأعلى تقييماً', trailer:'▶ المقطع الدعائي', min:'دقيقة',
+       foot:(d,n)=>`يُحدَّث تلقائياً كل صباح — آخر تحديث: ${d} • عدد الأفلام: ${n}`,
+       err:'تعذّر تحميل البيانات — حاول لاحقاً', load:'جارٍ التحميل…', btn:'English',
+       cinemas:{cinescape:'سينسكيب', vox:'ڤوكس', grand:'جراند', sky:'سكاي'}},
+  en: {title:'🎬 Kuwait <span>Cinemas</span>', tag:'Every movie now showing in Kuwait — in one place',
+       newest:'Latest', top:'Top Rated', trailer:'▶ Watch Trailer', min:'min',
+       foot:(d,n)=>`Updates automatically every morning — last update: ${d} • ${n} movies`,
+       err:'Could not load data — try again later', load:'Loading…', btn:'العربية',
+       cinemas:{cinescape:'Cinescape', vox:'VOX', grand:'Grand', sky:'Sky'}}
+};
+let lang = localStorage.getItem("lang") || "ar";
+let movies = [], lastUpdated = "", currentSort = "new";
+
+function esc(s){const d=document.createElement("div");d.textContent=s||"";return d.innerHTML}
+function t(){return T[lang]}
+
+function card(m){
+  const L = t();
+  const mainTitle = lang==="ar" ? (m.title_ar||m.title_en) : (m.title_en||m.title_ar);
+  const subTitle  = lang==="ar" ? (m.title_en && m.title_en!==mainTitle ? m.title_en : "")
+                                : (m.title_ar && m.title_ar!==mainTitle ? m.title_ar : "");
+  const imdb = m.ratings && m.ratings.imdb ? `<div class="imdb">⭐ ${esc(m.ratings.imdb)}</div>` : "";
+  const rt = m.ratings && m.ratings.rotten_tomatoes ? `<div class="rt">🍅 ${esc(m.ratings.rotten_tomatoes)}</div>` : "";
+  const img = m.poster ? `<img src="${esc(m.poster)}" alt="${esc(mainTitle)}" loading="lazy" onerror="this.remove()">` : `<div class="noimg">🎬</div>`;
+  const genres = (m.genres_ar||[]).slice(0,3).join(" · ");
+  const rt_min = m.runtime_min ? `${m.runtime_min} ${L.min}` : "";
+  const meta = [genres, rt_min].filter(Boolean).join(" — ");
+  const chips = (m.cinemas||[]).map(c =>
+    `<a href="${esc(c.booking_url)}" target="_blank" rel="noopener">🎟️ ${esc(L.cinemas[c.id]||c.id)}</a>`).join("");
+  const tUrl = m.trailer_youtube_id ? `https://www.youtube.com/watch?v=${esc(m.trailer_youtube_id)}` : m.trailer_search_url;
+  const trailer = tUrl ? `<a class="trailer" href="${esc(tUrl)}" target="_blank" rel="noopener">${L.trailer}</a>` : "";
+  return `<div class="card">
+    <div class="poster">${img}${imdb}${rt}</div>
+    <div class="info">
+      <div class="title">${esc(mainTitle)}</div>
+      ${subTitle ? `<div class="sub">${esc(subTitle)}</div>` : ""}
+      <div class="meta">${esc(meta)}</div>
+      <div class="chips">${chips}</div>
+      ${trailer}
+    </div>
+  </div>`;
+}
+
+function sortNew(){return [...movies].sort((a,b)=>(b.release_date||"").localeCompare(a.release_date||""))}
+function sortTop(){
+  const val = m => parseFloat((m.ratings||{}).imdb || "0") || 0;
+  return [...movies].filter(m=>val(m)>0).sort((a,b)=>val(b)-val(a)).concat([...movies].filter(m=>val(m)===0));
+}
+
+function render(){
+  const list = currentSort==="new" ? sortNew() : sortTop();
+  document.getElementById("grid").innerHTML = list.map(card).join("");
+}
+
+function applyLang(){
+  const L = t();
+  document.documentElement.dir = lang==="ar" ? "rtl" : "ltr";
+  document.documentElement.lang = lang;
+  document.getElementById("h-title").innerHTML = L.title;
+  document.getElementById("h-tag").textContent = L.tag;
+  document.getElementById("tab-new").textContent = L.newest;
+  document.getElementById("tab-top").textContent = L.top;
+  document.getElementById("langbtn").textContent = L.btn;
+  const loading = document.getElementById("loading");
+  if (loading) loading.textContent = L.load;
+  if (movies.length){
+    render();
+    document.getElementById("foot").textContent = L.foot(lastUpdated, movies.length);
+  }
+}
+
+document.getElementById("langbtn").onclick = () => {
+  lang = lang==="ar" ? "en" : "ar";
+  localStorage.setItem("lang", lang);
+  applyLang();
+};
+document.getElementById("tab-new").onclick = e => {setTab(e.target);currentSort="new";render()};
+document.getElementById("tab-top").onclick = e => {setTab(e.target);currentSort="top";render()};
+function setTab(btn){document.querySelectorAll(".tabs button").forEach(b=>b.classList.remove("active"));btn.classList.add("active")}
+
+applyLang();
+fetch(DATA_URL).then(r=>r.json()).then(d=>{
+  movies = d.movies||[];
+  lastUpdated = (d.last_updated||"").slice(0,10);
+  const loading = document.getElementById("loading");
+  if (loading) loading.remove();
+  applyLang();
+}).catch(()=>{
+  document.getElementById("loading").textContent = t().err;
+});
+</script>
+</body>
+</html>
