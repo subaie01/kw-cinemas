@@ -3,6 +3,7 @@ import gzip
 import io
 import json
 import re
+import os
 import sys
 import time
 from datetime import datetime, timezone
@@ -37,6 +38,14 @@ def wd_get(**params):
     r = requests.get(WD_API, params=params, headers=HEADERS, timeout=30)
     r.raise_for_status()
     return r.json()
+
+
+def clean_search_title(title):
+    """'Moana - Arabic' -> 'Moana'; 'Sakr W Canaria (Egyptian) - Arabic' -> 'Sakr W Canaria'"""
+    t = re.sub(r"\((egyptian|lebanese|kuwaiti|indian|turkish)\)", "", title, flags=re.I)
+    t = re.sub(r"\s*-\s*(english|arabic|turkish|hindi|french|malayalam|tamil|telugu)"
+               r"(\s*[.]?\s*(english|arabic))?\s*$", "", t, flags=re.I)
+    return re.sub(r"\s+", " ", t).strip()
 
 
 def wd_search(title):
@@ -119,12 +128,19 @@ def runtime_minutes(claims):
 
 def pick_film_entity(qids):
     entities = wd_entities(qids)
-    films = [(e, release_date(e.get("claims", {})) or "0000")
+    films = [(e, release_date(e.get("claims", {})))
              for e in entities.values() if is_film(e.get("claims", {}))]
     if not films:
         return None
-    films.sort(key=lambda x: x[1], reverse=True)
-    return films[0][0]
+    # now-showing movies are new: prefer releases from the last ~2 years,
+    # then films with no release date yet (typical for brand-new entries)
+    min_year = datetime.now(timezone.utc).year - 2
+    recent = [f for f in films if f[1] and int(f[1][:4]) >= min_year]
+    if recent:
+        recent.sort(key=lambda x: x[1], reverse=True)
+        return recent[0][0]
+    undated = [f for f in films if not f[1]]
+    return undated[0][0] if undated else None
 
 
 def arwiki_summary(title):
@@ -162,9 +178,34 @@ def load_imdb_ratings(imdb_ids):
     return ratings
 
 
+def omdb_lookup(imdb_id, title, api_key):
+    """Free OMDb key (email-only signup) -> IMDb + Rotten Tomatoes ratings."""
+    params = {"apikey": api_key}
+    if imdb_id:
+        params["i"] = imdb_id
+    else:
+        params["t"] = title
+    try:
+        r = requests.get("https://www.omdbapi.com/", params=params, timeout=30)
+        d = r.json()
+    except Exception:
+        return {}
+    if d.get("Response") != "True":
+        return {}
+    out = {}
+    if d.get("imdbRating") and d["imdbRating"] != "N/A":
+        out["imdb"] = d["imdbRating"]
+    for item in d.get("Ratings", []):
+        if item.get("Source") == "Rotten Tomatoes":
+            out["rotten_tomatoes"] = item.get("Value")
+    if d.get("imdbID"):
+        out["_imdb_id"] = d["imdbID"]
+    return out
+
+
 def enrich_one(key, raw, overrides):
     ov = overrides.get(key, {})
-    cache_file = CACHE_DIR / f"{key}.json"
+    cache_file = CACHE_DIR / f"{key}.v2.json"
     if cache_file.exists() and not ov.get("refresh"):
         return json.loads(cache_file.read_text(encoding="utf-8"))
 
@@ -172,7 +213,7 @@ def enrich_one(key, raw, overrides):
     if ov.get("wikidata_qid"):
         entity = wd_entities([ov["wikidata_qid"]]).get(ov["wikidata_qid"])
     else:
-        qids = wd_search(raw["title_en"])
+        qids = wd_search(clean_search_title(raw["title_en"]))
         time.sleep(0.3)
         if qids:
             entity = pick_film_entity(qids)
@@ -254,6 +295,20 @@ def main():
     for m in movies:
         if m["imdb_id"] in imdb_map:
             m["ratings"]["imdb"] = imdb_map[m["imdb_id"]]
+
+    omdb_key = os.environ.get("OMDB_API_KEY")
+    if omdb_key:
+        for m in movies:
+            if "imdb" in m["ratings"] and "rotten_tomatoes" in m["ratings"]:
+                continue
+            res = omdb_lookup(m["imdb_id"],
+                              clean_search_title(m["title_en"]), omdb_key)
+            for k in ("imdb", "rotten_tomatoes"):
+                if k in res and k not in m["ratings"]:
+                    m["ratings"][k] = res[k]
+            if not m["imdb_id"] and res.get("_imdb_id"):
+                m["imdb_id"] = res["_imdb_id"]
+            time.sleep(0.2)
 
     movies.sort(key=lambda m: m.get("release_date") or "", reverse=True)
 
