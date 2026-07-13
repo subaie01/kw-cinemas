@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-12T20:08:58.773295+00:00",
+  "scraped_at": "2026-07-13T01:03:55.549037+00:00",
   "failures": [
     "vox"
   ],
@@ -123,6 +123,9 @@
       "poster_src": "https://www.skycinemaskw.com/images/movies/9999001450.jpg",
       "title_ar": "انفلتريت",
       "synopsis_ar": "يجب على العميلة الحكومية ليلي تشن الاختيار بين الواجب والعائلة عندما يتم اختطاف زوجها ويتم ابتزازها لاغتيال مجرمين رفيعي المستوى لإنقاذه.",
+      "genres_ar": [
+        "أكشن"
+      ],
       "runtime_min": 90,
       "trailer_youtube_id": "ssndYDliSsE"
     },
@@ -301,6 +304,11 @@
       "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004364_140.jpg",
       "title_ar": "7  دوقز",
       "synopsis_ar": "يُجبر ضابط الإنتربول خالد العزازي على الدخول في تحالف متوتر مع عضوٍ سابق في عصابة «الكلاب السبعة» لتفكيك شبكة إجرامية عالمية، في مهمة عالية المخاطر يعتمد نجاحها على ثقة هشة بين عدوّين.",
+      "genres_ar": [
+        "أكشن",
+        "كوميدي",
+        "جريمة"
+      ],
       "runtime_min": 123,
       "trailer_youtube_id": "Jw9a9Av61DY"
     },
@@ -318,6 +326,10 @@
       "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004393_919.jpg",
       "title_ar": "ذا فيورياس",
       "synopsis_ar": "بعد اختطاف ابنة وانغ وي من قبل شبكة إجرامية، فإن حليفه الوحيد هو نافين، وهو صحفي اختفت زوجته في ظروف غامضة. بدافع من الانتقام الغاضب، يجد الثنائي غير المحتمل نفسه في مواجهة فنون قتالية متفجرة ضد عصابة لا هوادة فيها من البلطجية. \"الغاضب\" فيلم الفنون",
+      "genres_ar": [
+        "أكشن",
+        "إثارة"
+      ],
       "runtime_min": 113,
       "trailer_youtube_id": "tVPi4mJ7ZqU"
     },
@@ -335,6 +347,9 @@
       "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004424_981.jpg",
       "title_ar": "كوتور",
       "synopsis_ar": "تذهب مخرجة أفلام أمريكية في رحلة عند وصولها إلى باريس لحضور أسبوع الموضة. تكتشف أنها مصابة بالسرطان.",
+      "genres_ar": [
+        "دراما"
+      ],
       "runtime_min": 91,
       "trailer_youtube_id": "EiD1UcvnhLY"
     },
@@ -352,6 +367,9 @@
       "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004133_804.jpg",
       "title_ar": "كيبر",
       "synopsis_ar": "تصبح الزوجة معزولة في كوخ منعزل وعليها أن تتصدى لشر لا يوصف.",
+      "genres_ar": [
+        "رعب"
+      ],
       "runtime_min": 96,
       "trailer_youtube_id": "POi_VxrchyA"
     },
