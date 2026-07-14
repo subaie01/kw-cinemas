@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T13:03:35.263541+00:00",
+  "last_updated": "2026-07-14T10:25:16.841395+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -29,7 +29,7 @@
       "trailer_youtube_id": "IeHwMiFzSm4",
       "trailer_search_url": "https://www.youtube.com/results?search_query=Evil%20Dead%20Burn%20official%20trailer",
       "ratings": {
-        "imdb": "6.9"
+        "imdb": "6.8"
       },
       "imdb_id": "tt31170389",
       "release_date": "2026-07-09",
@@ -558,35 +558,6 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Couture---French/HO00004424"
-        }
-      ]
-    },
-    {
-      "id": "local-keeper",
-      "title_ar": "كيبر",
-      "title_en": "Keeper",
-      "synopsis_ar": "تصبح الزوجة معزولة في كوخ منعزل وعليها أن تتصدى لشر لا يوصف.",
-      "genres_ar": [
-        "رعب"
-      ],
-      "runtime_min": 96,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004133_804.jpg",
-      "trailer_youtube_id": "POi_VxrchyA",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Keeper%20official%20trailer",
-      "ratings": {
-        "imdb": "5.5",
-        "rotten_tomatoes": "50%"
-      },
-      "imdb_id": "tt32332404",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Keeper/HO00004133"
         }
       ]
     },
