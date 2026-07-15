@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-14T10:25:10.302807+00:00",
+  "scraped_at": "2026-07-15T10:30:56.130222+00:00",
   "failures": [
     "vox"
   ],
@@ -11,37 +11,76 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Odyssey/HO00004251"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/the-odyssey/9999001458/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001458.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001458.jpg",
+      "title_ar": "ذا اودسي",
+      "synopsis_ar": "بعد حرب طروادة، يواجه أوديسيوس رحلة خطيرة عائدا إلى إيثاكا، حيث يلتقي بمخلوقات مثل السيكلوبس بوليفيموس، والحوريات، وسيرسي في طريقه.",
+      "genres_ar": [
+        "أكشن",
+        "مغامرات",
+        "خيالي"
+      ],
+      "runtime_min": 172,
+      "trailer_youtube_id": "V8HyNO6VKTg"
     },
     "shamshounwdalila": {
-      "title_en": "Shamshoun W Dalila",
+      "title_en": "Shamshoun w Dalila (Egyptian) - Arabic",
       "languages": [
         "Arabic"
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Shamshoun-w-Dalila-(Egyptian)---Arabic/HO00004433"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/shamshoun-w-dalila-(egyptian)-arabic/9999001457/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001457.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001457.jpg",
+      "title_ar": "شمشون و داليلة",
+      "synopsis_ar": "في أجواء من الكوميديا و الاثارة و الأكشن ، يُجبر \"شمشون\" على سرقة ماسة أسطورية لإنقاذ شقيقته المخطوفة، بينما تُكلَّف \"دليلة\" من جهة أمنية غامضة بسرقة الماسة نفسها. تتقاطع مهمتاهما في مطاردة مليئة بالخدع والمقالب والمواجهات الذكية، لتتحول المنافسة بينهما إ",
+      "genres_ar": [
+        "أكشن",
+        "إثارة",
+        "رومانسي"
+      ],
+      "runtime_min": 95,
+      "trailer_youtube_id": "HoxMBJFLzZ8"
     },
     "matchenglishspanish": {
       "title_en": "The Match - English.Spanish",
       "languages": [
-        "English"
+        "English",
+        "English.Spanish"
       ],
       "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Match---English.Spanish/HO00004434"
+        },
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/the-match-english.spanish/9999001456/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001456.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001456.jpg",
+      "title_ar": "ذا ماتج",
+      "synopsis_ar": "تحكي المباراة القصة وراء الاشتباك الشهير في كأس العالم لكرة القدم 1986 بين الأرجنتين وإنجلترا.",
+      "genres_ar": [
+        "وثائقي",
+        "رياضي"
+      ],
+      "runtime_min": 91,
+      "trailer_youtube_id": "Cn_qvyD1Y3k"
     },
     "moana": {
       "title_en": "Moana - Arabic",
@@ -162,9 +201,6 @@
       "poster_src": "https://www.skycinemaskw.com/images/movies/9999001450.jpg",
       "title_ar": "انفلتريت",
       "synopsis_ar": "يجب على العميلة الحكومية ليلي تشن الاختيار بين الواجب والعائلة عندما يتم اختطاف زوجها ويتم ابتزازها لاغتيال مجرمين رفيعي المستوى لإنقاذه.",
-      "genres_ar": [
-        "أكشن"
-      ],
       "runtime_min": 90,
       "trailer_youtube_id": "ssndYDliSsE"
     },
@@ -187,11 +223,6 @@
       "poster_src": "https://www.skycinemaskw.com/images/movies/9999001449.jpg",
       "title_ar": "مينيونز والوحوش",
       "synopsis_ar": "هذه هي القصة المشاغبة، والمجنونة، والحقيقية تمامًا، عن كيف اجتاح المينيونز هوليوود، وأصبحوا نجوماً سينمائيين، ثم خسروا كل شيء، وأطلقوا الوحوش إلى العالم، قبل أن يتحدوا مجددًا لمحاولة إنقاذ الكوكب من الفوضى التي تسببوا بها بأنفسهم.",
-      "genres_ar": [
-        "رسوم متحركة",
-        "مغامرات",
-        "كوميدي"
-      ],
       "runtime_min": 89,
       "trailer_youtube_id": "dl4Rhwmoshc"
     },
@@ -247,6 +278,26 @@
       "runtime_min": 102,
       "trailer_youtube_id": "IT59jqgHnJc"
     },
+    "hungry": {
+      "title_en": "Hungry",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Hungry/HO00004386"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004386_935.jpg",
+      "title_ar": "هنقري",
+      "synopsis_ar": "فرس نهر مفترس طليق في لويزيانا بايو يرهب مجموعة من السياح.",
+      "genres_ar": [
+        "إثارة"
+      ],
+      "runtime_min": 93,
+      "trailer_youtube_id": "mceYZY7xTH8"
+    },
     "siccin9": {
       "title_en": "Siccin 9 - Turkish",
       "languages": [
@@ -267,6 +318,26 @@
       ],
       "runtime_min": 91,
       "trailer_youtube_id": "pVWyRUF83zE"
+    },
+    "obsession": {
+      "title_en": "Obsession",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Obsession/HO00004278"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004278_871.jpg",
+      "title_ar": "اوبسشن",
+      "synopsis_ar": "صوت جريء جديد في عالم الرعب. تدور القصة حول رجل رومنسي يائس يكسر عصا أمنيات غامضىة تدعى \"ون ويش ويلو\" طمعاً في الفوز بقلب من يحب ويجد نفسه وقد نال تماماً ما تمنى… قبل أن يكتشف سريعاً أن بعض الرغبات تحمل ثمناً مظلماً وشريراً",
+      "genres_ar": [
+        "رعب"
+      ],
+      "runtime_min": 105,
+      "trailer_youtube_id": "iCLWkA0G0LE"
     },
     "supergirl": {
       "title_en": "Supergirl",
@@ -289,46 +360,6 @@
       "runtime_min": 108,
       "trailer_youtube_id": "weykPvn6DhU"
     },
-    "obsession": {
-      "title_en": "Obsession",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Obsession/HO00004278"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004278_871.jpg",
-      "title_ar": "اوبسشن",
-      "synopsis_ar": "صوت جريء جديد في عالم الرعب. تدور القصة حول رجل رومنسي يائس يكسر عصا أمنيات غامضىة تدعى \"ون ويش ويلو\" طمعاً في الفوز بقلب من يحب ويجد نفسه وقد نال تماماً ما تمنى… قبل أن يكتشف سريعاً أن بعض الرغبات تحمل ثمناً مظلماً وشريراً",
-      "genres_ar": [
-        "رعب"
-      ],
-      "runtime_min": 105,
-      "trailer_youtube_id": "iCLWkA0G0LE"
-    },
-    "hungry": {
-      "title_en": "Hungry",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Hungry/HO00004386"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004386_935.jpg",
-      "title_ar": "هنقري",
-      "synopsis_ar": "فرس نهر مفترس طليق في لويزيانا بايو يرهب مجموعة من السياح.",
-      "genres_ar": [
-        "إثارة"
-      ],
-      "runtime_min": 93,
-      "trailer_youtube_id": "mceYZY7xTH8"
-    },
     "7dogs": {
       "title_en": "7 Dogs (Egyptian) - Arabic.English",
       "languages": [
@@ -343,34 +374,8 @@
       "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004364_140.jpg",
       "title_ar": "7  دوقز",
       "synopsis_ar": "يُجبر ضابط الإنتربول خالد العزازي على الدخول في تحالف متوتر مع عضوٍ سابق في عصابة «الكلاب السبعة» لتفكيك شبكة إجرامية عالمية، في مهمة عالية المخاطر يعتمد نجاحها على ثقة هشة بين عدوّين.",
-      "genres_ar": [
-        "أكشن",
-        "كوميدي",
-        "جريمة"
-      ],
       "runtime_min": 123,
       "trailer_youtube_id": "Jw9a9Av61DY"
-    },
-    "furious": {
-      "title_en": "The Furious",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Furious/HO00004393"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004393_919.jpg",
-      "title_ar": "ذا فيورياس",
-      "synopsis_ar": "بعد اختطاف ابنة وانغ وي من قبل شبكة إجرامية، فإن حليفه الوحيد هو نافين، وهو صحفي اختفت زوجته في ظروف غامضة. بدافع من الانتقام الغاضب، يجد الثنائي غير المحتمل نفسه في مواجهة فنون قتالية متفجرة ضد عصابة لا هوادة فيها من البلطجية. \"الغاضب\" فيلم الفنون",
-      "genres_ar": [
-        "أكشن",
-        "إثارة"
-      ],
-      "runtime_min": 113,
-      "trailer_youtube_id": "tVPi4mJ7ZqU"
     },
     "couture": {
       "title_en": "Couture - French",
@@ -391,6 +396,23 @@
       ],
       "runtime_min": 91,
       "trailer_youtube_id": "EiD1UcvnhLY"
+    },
+    "furious": {
+      "title_en": "The Furious",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Furious/HO00004393"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004393_919.jpg",
+      "title_ar": "ذا فيورياس",
+      "synopsis_ar": "بعد اختطاف ابنة وانغ وي من قبل شبكة إجرامية، فإن حليفه الوحيد هو نافين، وهو صحفي اختفت زوجته في ظروف غامضة. بدافع من الانتقام الغاضب، يجد الثنائي غير المحتمل نفسه في مواجهة فنون قتالية متفجرة ضد عصابة لا هوادة فيها من البلطجية. \"الغاضب\" فيلم الفنون",
+      "runtime_min": 113,
+      "trailer_youtube_id": "tVPi4mJ7ZqU"
     },
     "dhamaal4": {
       "title_en": "Dhamaal 4 - Hindi",
@@ -433,6 +455,27 @@
       ],
       "runtime_min": 166,
       "trailer_youtube_id": "P11_dkW0A_s"
+    },
+    "varavu": {
+      "title_en": "Varavu - Malayalam",
+      "languages": [
+        "Malayalam"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Varavu---Malayalam/HO00004390"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004390_642.jpg",
+      "title_ar": "فارافو",
+      "synopsis_ar": "تقع عائلة ضحية للنخبة القوية في بلدة صغيرة. يمر الوقت ؛ تتفاقم الجروح. إن عودة رجل واحد تفرض مواجهة من شأنها أن تكشف عقودًا من الأكاذيب والفساد.",
+      "genres_ar": [
+        "أكشن",
+        "إثارة"
+      ],
+      "runtime_min": 142,
+      "trailer_youtube_id": "tAmmhaenTLI"
     }
   }
 }

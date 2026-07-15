@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T10:25:16.841395+00:00",
+  "last_updated": "2026-07-15T10:31:05.382641+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -72,6 +72,10 @@
         "English"
       ],
       "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Odyssey/HO00004251"
+        },
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/the-odyssey/9999001458/NowShowing"
@@ -227,6 +231,10 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Shamshoun-w-Dalila-(Egyptian)---Arabic/HO00004433"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/shamshoun-w-dalila-(egyptian)-arabic/9999001457/NowShowing"
         }
@@ -247,9 +255,14 @@
       "release_date": null,
       "matched": false,
       "languages": [
-        "English"
+        "English",
+        "English.Spanish"
       ],
       "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Match---English.Spanish/HO00004434"
+        },
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/the-match-english.spanish/9999001456/NowShowing"
@@ -417,6 +430,34 @@
       ]
     },
     {
+      "id": "wd-Q139502222",
+      "title_ar": "هنقري",
+      "title_en": "Hungry",
+      "synopsis_ar": "فرس نهر مفترس طليق في لويزيانا بايو يرهب مجموعة من السياح.",
+      "genres_ar": [
+        "إثارة"
+      ],
+      "runtime_min": 93,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004386_935.jpg",
+      "trailer_youtube_id": "mceYZY7xTH8",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Hungry%20official%20trailer",
+      "ratings": {
+        "imdb": "5.0"
+      },
+      "imdb_id": "tt34494076",
+      "release_date": null,
+      "matched": true,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Hungry/HO00004386"
+        }
+      ]
+    },
+    {
       "id": "local-siccin9",
       "title_ar": "سيسسين 9",
       "title_en": "Siccin 9 - Turkish",
@@ -471,34 +512,6 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Obsession/HO00004278"
-        }
-      ]
-    },
-    {
-      "id": "wd-Q139502222",
-      "title_ar": "هنقري",
-      "title_en": "Hungry",
-      "synopsis_ar": "فرس نهر مفترس طليق في لويزيانا بايو يرهب مجموعة من السياح.",
-      "genres_ar": [
-        "إثارة"
-      ],
-      "runtime_min": 93,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004386_935.jpg",
-      "trailer_youtube_id": "mceYZY7xTH8",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Hungry%20official%20trailer",
-      "ratings": {
-        "imdb": "5.0"
-      },
-      "imdb_id": "tt34494076",
-      "release_date": null,
-      "matched": true,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Hungry/HO00004386"
         }
       ]
     },
@@ -612,6 +625,33 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/I,-Nobody---Malayalam/HO00004426"
+        }
+      ]
+    },
+    {
+      "id": "wd-Q140533427",
+      "title_ar": "فارافو",
+      "title_en": "Varavu - Malayalam",
+      "synopsis_ar": "تقع عائلة ضحية للنخبة القوية في بلدة صغيرة. يمر الوقت ؛ تتفاقم الجروح. إن عودة رجل واحد تفرض مواجهة من شأنها أن تكشف عقودًا من الأكاذيب والفساد.",
+      "genres_ar": [
+        "أكشن",
+        "إثارة"
+      ],
+      "runtime_min": 142,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004390_642.jpg",
+      "trailer_youtube_id": "tAmmhaenTLI",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Varavu%20-%20Malayalam%20official%20trailer",
+      "ratings": {},
+      "imdb_id": "tt37963237",
+      "release_date": null,
+      "matched": true,
+      "languages": [
+        "Malayalam"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Varavu---Malayalam/HO00004390"
         }
       ]
     }
