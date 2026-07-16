@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T10:31:05.382641+00:00",
+  "last_updated": "2026-07-16T11:14:57.026849+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -183,36 +183,6 @@
       ]
     },
     {
-      "id": "wd-Q125948183",
-      "title_ar": "ذا فيورياس",
-      "title_en": "The Furious",
-      "synopsis_ar": "بعد اختطاف ابنة وانغ وي من قبل شبكة إجرامية، فإن حليفه الوحيد هو نافين، وهو صحفي اختفت زوجته في ظروف غامضة. بدافع من الانتقام الغاضب، يجد الثنائي غير المحتمل نفسه في مواجهة فنون قتالية متفجرة ضد عصابة لا هوادة فيها من البلطجية. \"الغاضب\" فيلم الفنون",
-      "genres_ar": [
-        "أكشن",
-        "إثارة"
-      ],
-      "runtime_min": 113,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004393_919.jpg",
-      "trailer_youtube_id": "tVPi4mJ7ZqU",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Furious%20official%20trailer",
-      "ratings": {
-        "imdb": "7.5",
-        "rotten_tomatoes": "98%"
-      },
-      "imdb_id": "tt33311069",
-      "release_date": "2025-09-06",
-      "matched": true,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Furious/HO00004393"
-        }
-      ]
-    },
-    {
       "id": "local-shamshounwdalila",
       "title_ar": "Shamshoun W Dalila",
       "title_en": "Shamshoun W Dalila",
@@ -336,69 +306,6 @@
       ]
     },
     {
-      "id": "local-7snipers",
-      "title_ar": "سفين سنايبر",
-      "title_en": "Seven Snipers",
-      "synopsis_ar": "يضطر قناص متقاعد من النخبة يعيش مختبئًا في مزرعة أسترالية نائية إلى لم شمل فريق قناصها القاتل بعد عودة أمير حرب لا يرحم من ماضيها إلى الظهور ويهدد ابنتها. ما يبدأ كمهمة للبقاء على قيد الحياة يتصاعد إلى حرب وحشية بين القط والفأر مع عواقب مدمرة.",
-      "genres_ar": [
-        "أكشن",
-        "إثارة"
-      ],
-      "runtime_min": 88,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001451.jpg",
-      "trailer_youtube_id": "dna4DHlSZno",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Seven%20Snipers%20official%20trailer",
-      "ratings": {},
-      "imdb_id": "tt36926359",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Seven-Snipers/HO00004392"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/seven-snipers/9999001451/NowShowing"
-        }
-      ]
-    },
-    {
-      "id": "wd-Q139098124",
-      "title_ar": "انفلتريت",
-      "title_en": "Infiltrate",
-      "synopsis_ar": "يجب على العميلة الحكومية ليلي تشن الاختيار بين الواجب والعائلة عندما يتم اختطاف زوجها ويتم ابتزازها لاغتيال مجرمين رفيعي المستوى لإنقاذه.",
-      "genres_ar": [
-        "أكشن"
-      ],
-      "runtime_min": 90,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001450.jpg",
-      "trailer_youtube_id": "ssndYDliSsE",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Infiltrate%20official%20trailer",
-      "ratings": {
-        "imdb": "3.8"
-      },
-      "imdb_id": "tt29218808",
-      "release_date": null,
-      "matched": true,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Infiltrate/HO00004427"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/infiltrate/9999001450/NowShowing"
-        }
-      ]
-    },
-    {
       "id": "local-sakrwcanaria",
       "title_ar": "صقر و كناريا(مصري) - عربي",
       "title_en": "Sakr W Canaria (Egyptian) - Arabic",
@@ -458,6 +365,33 @@
       ]
     },
     {
+      "id": "local-7snipers",
+      "title_ar": "سفين سنايبر",
+      "title_en": "Seven Snipers",
+      "synopsis_ar": "يضطر قناص متقاعد من النخبة يعيش مختبئًا في مزرعة أسترالية نائية إلى لم شمل فريق قناصها القاتل بعد عودة أمير حرب لا يرحم من ماضيها إلى الظهور ويهدد ابنتها. ما يبدأ كمهمة للبقاء على قيد الحياة يتصاعد إلى حرب وحشية بين القط والفأر مع عواقب مدمرة.",
+      "genres_ar": [
+        "أكشن",
+        "إثارة"
+      ],
+      "runtime_min": 88,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001451.jpg",
+      "trailer_youtube_id": "dna4DHlSZno",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Seven%20Snipers%20official%20trailer",
+      "ratings": {},
+      "imdb_id": "tt36926359",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Seven-Snipers/HO00004392"
+        }
+      ]
+    },
+    {
       "id": "local-siccin9",
       "title_ar": "سيسسين 9",
       "title_en": "Siccin 9 - Turkish",
@@ -512,65 +446,6 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Obsession/HO00004278"
-        }
-      ]
-    },
-    {
-      "id": "wd-Q136006050",
-      "title_ar": "الكلاب السبعة",
-      "title_en": "7 Dogs (Egyptian) - Arabic.English",
-      "synopsis_ar": "يُجبر ضابط الإنتربول خالد العزازي على الدخول في تحالف متوتر مع عضوٍ سابق في عصابة «الكلاب السبعة» لتفكيك شبكة إجرامية عالمية، في مهمة عالية المخاطر يعتمد نجاحها على ثقة هشة بين عدوّين.",
-      "genres_ar": [
-        "أكشن",
-        "كوميدي",
-        "جريمة"
-      ],
-      "runtime_min": 123,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004364_140.jpg",
-      "trailer_youtube_id": "Jw9a9Av61DY",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=7%20Dogs%20%28Egyptian%29%20-%20Arabic.English%20official%20trailer",
-      "ratings": {
-        "imdb": "5.6"
-      },
-      "imdb_id": "tt35512499",
-      "release_date": null,
-      "matched": true,
-      "languages": [
-        "Arabic.English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/7-Dogs-(Egyptian)---Arabic.English/HO00004364"
-        }
-      ]
-    },
-    {
-      "id": "local-couture",
-      "title_ar": "كوتور",
-      "title_en": "Couture - French",
-      "synopsis_ar": "تذهب مخرجة أفلام أمريكية في رحلة عند وصولها إلى باريس لحضور أسبوع الموضة. تكتشف أنها مصابة بالسرطان.",
-      "genres_ar": [
-        "دراما"
-      ],
-      "runtime_min": 91,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004424_981.jpg",
-      "trailer_youtube_id": "EiD1UcvnhLY",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Couture%20-%20French%20official%20trailer",
-      "ratings": {
-        "imdb": "5.7",
-        "rotten_tomatoes": "60%"
-      },
-      "imdb_id": "tt34688195",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "French"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Couture---French/HO00004424"
         }
       ]
     },

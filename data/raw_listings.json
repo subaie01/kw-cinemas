@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-15T10:30:56.130222+00:00",
+  "scraped_at": "2026-07-16T11:14:51.500824+00:00",
   "failures": [
     "vox"
   ],
@@ -152,57 +152,8 @@
       "poster_src": "https://www.skycinemaskw.com/images/movies/9999001452.jpg",
       "title_ar": "ابن مين فيهم",
       "synopsis_ar": "رشدي (بيومي فؤاد)، رجل أعمال مستهتر، تنقلب حياته رأساً على عقب بعد وفاة عمته وتركها له ثروة ضخمة..بشرط واحد: أن يعثر على ابنه من إحدى زيجاته العابرة. تدخل حياته المحامية الصارمة ماجدة (ليلى علوي) لينطلق الثنائي في رحلة مليئة بالمواقف الكوميدية والفوضى وال",
-      "genres_ar": [
-        "كوميدي"
-      ],
       "runtime_min": 105,
       "trailer_youtube_id": "T3610WJo2xQ"
-    },
-    "7snipers": {
-      "title_en": "Seven Snipers",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Seven-Snipers/HO00004392"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/seven-snipers/9999001451/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001451.jpg",
-      "title_ar": "سفين سنايبر",
-      "synopsis_ar": "يضطر قناص متقاعد من النخبة يعيش مختبئًا في مزرعة أسترالية نائية إلى لم شمل فريق قناصها القاتل بعد عودة أمير حرب لا يرحم من ماضيها إلى الظهور ويهدد ابنتها. ما يبدأ كمهمة للبقاء على قيد الحياة يتصاعد إلى حرب وحشية بين القط والفأر مع عواقب مدمرة.",
-      "genres_ar": [
-        "أكشن",
-        "إثارة"
-      ],
-      "runtime_min": 88,
-      "trailer_youtube_id": "dna4DHlSZno"
-    },
-    "infiltrate": {
-      "title_en": "Infiltrate",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Infiltrate/HO00004427"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/infiltrate/9999001450/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001450.jpg",
-      "title_ar": "انفلتريت",
-      "synopsis_ar": "يجب على العميلة الحكومية ليلي تشن الاختيار بين الواجب والعائلة عندما يتم اختطاف زوجها ويتم ابتزازها لاغتيال مجرمين رفيعي المستوى لإنقاذه.",
-      "runtime_min": 90,
-      "trailer_youtube_id": "ssndYDliSsE"
     },
     "minionsmonsters": {
       "title_en": "Minions & Monsters - Arabic",
@@ -223,6 +174,11 @@
       "poster_src": "https://www.skycinemaskw.com/images/movies/9999001449.jpg",
       "title_ar": "مينيونز والوحوش",
       "synopsis_ar": "هذه هي القصة المشاغبة، والمجنونة، والحقيقية تمامًا، عن كيف اجتاح المينيونز هوليوود، وأصبحوا نجوماً سينمائيين، ثم خسروا كل شيء، وأطلقوا الوحوش إلى العالم، قبل أن يتحدوا مجددًا لمحاولة إنقاذ الكوكب من الفوضى التي تسببوا بها بأنفسهم.",
+      "genres_ar": [
+        "رسوم متحركة",
+        "مغامرات",
+        "كوميدي"
+      ],
       "runtime_min": 89,
       "trailer_youtube_id": "dl4Rhwmoshc"
     },
@@ -298,6 +254,27 @@
       "runtime_min": 93,
       "trailer_youtube_id": "mceYZY7xTH8"
     },
+    "7snipers": {
+      "title_en": "Seven Snipers",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Seven-Snipers/HO00004392"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004392_354.jpg",
+      "title_ar": "سفين سنايبر",
+      "synopsis_ar": "يضطر قناص متقاعد من النخبة يعيش مختبئًا في مزرعة أسترالية نائية إلى لم شمل فريق قناصها القاتل بعد عودة أمير حرب لا يرحم من ماضيها إلى الظهور ويهدد ابنتها. ما يبدأ كمهمة للبقاء على قيد الحياة يتصاعد إلى حرب وحشية بين القط والفأر مع عواقب مدمرة.",
+      "genres_ar": [
+        "أكشن",
+        "إثارة"
+      ],
+      "runtime_min": 88,
+      "trailer_youtube_id": "dna4DHlSZno"
+    },
     "siccin9": {
       "title_en": "Siccin 9 - Turkish",
       "languages": [
@@ -359,60 +336,6 @@
       ],
       "runtime_min": 108,
       "trailer_youtube_id": "weykPvn6DhU"
-    },
-    "7dogs": {
-      "title_en": "7 Dogs (Egyptian) - Arabic.English",
-      "languages": [
-        "Arabic.English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/7-Dogs-(Egyptian)---Arabic.English/HO00004364"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004364_140.jpg",
-      "title_ar": "7  دوقز",
-      "synopsis_ar": "يُجبر ضابط الإنتربول خالد العزازي على الدخول في تحالف متوتر مع عضوٍ سابق في عصابة «الكلاب السبعة» لتفكيك شبكة إجرامية عالمية، في مهمة عالية المخاطر يعتمد نجاحها على ثقة هشة بين عدوّين.",
-      "runtime_min": 123,
-      "trailer_youtube_id": "Jw9a9Av61DY"
-    },
-    "couture": {
-      "title_en": "Couture - French",
-      "languages": [
-        "French"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Couture---French/HO00004424"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004424_981.jpg",
-      "title_ar": "كوتور",
-      "synopsis_ar": "تذهب مخرجة أفلام أمريكية في رحلة عند وصولها إلى باريس لحضور أسبوع الموضة. تكتشف أنها مصابة بالسرطان.",
-      "genres_ar": [
-        "دراما"
-      ],
-      "runtime_min": 91,
-      "trailer_youtube_id": "EiD1UcvnhLY"
-    },
-    "furious": {
-      "title_en": "The Furious",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Furious/HO00004393"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004393_919.jpg",
-      "title_ar": "ذا فيورياس",
-      "synopsis_ar": "بعد اختطاف ابنة وانغ وي من قبل شبكة إجرامية، فإن حليفه الوحيد هو نافين، وهو صحفي اختفت زوجته في ظروف غامضة. بدافع من الانتقام الغاضب، يجد الثنائي غير المحتمل نفسه في مواجهة فنون قتالية متفجرة ضد عصابة لا هوادة فيها من البلطجية. \"الغاضب\" فيلم الفنون",
-      "runtime_min": 113,
-      "trailer_youtube_id": "tVPi4mJ7ZqU"
     },
     "dhamaal4": {
       "title_en": "Dhamaal 4 - Hindi",
