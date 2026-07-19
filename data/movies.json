@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18T09:12:35.540202+00:00",
+  "last_updated": "2026-07-19T10:08:08.662205+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -64,7 +64,9 @@
       "poster": "https://www.skycinemaskw.com/images/movies/9999001458.jpg",
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Odyssey%20official%20trailer",
-      "ratings": {},
+      "ratings": {
+        "imdb": "8.3"
+      },
       "imdb_id": "tt33764258",
       "release_date": "2026-07-06",
       "matched": true,
@@ -462,7 +464,9 @@
       "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004428_744.jpg",
       "trailer_youtube_id": "nAXjxQcMeNA",
       "trailer_search_url": "https://www.youtube.com/results?search_query=Dhamaal%204%20-%20Hindi%20official%20trailer",
-      "ratings": {},
+      "ratings": {
+        "imdb": "8.6"
+      },
       "imdb_id": "tt27548557",
       "release_date": null,
       "matched": false,
