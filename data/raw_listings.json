@@ -1,9 +1,61 @@
 {
-  "scraped_at": "2026-07-20T12:26:57.891429+00:00",
+  "scraped_at": "2026-07-21T11:22:27.277872+00:00",
   "failures": [
     "vox"
   ],
   "movies": {
+    "motorcity": {
+      "title_en": "Motor City",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/motor-city/9999001462/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001462.jpg"
+    },
+    "khalibalakminnafsik": {
+      "title_en": "Khali Balak Min Nafsik",
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/khali-balak-min-nafsik-(egyptian)-arabic/9999001461/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001461.jpg"
+    },
+    "pinocchiounstrung": {
+      "title_en": "Pinocchio:Unstrung",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/pinocchiounstrung/9999001460/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001460.jpg"
+    },
+    "ipmankungfulegend": {
+      "title_en": "Ip Man Kungfu Legend",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/ip-man-kungfu-legend/9999001459/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001459.jpg"
+    },
     "odyssey": {
       "title_en": "The Odyssey",
       "languages": [

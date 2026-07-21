@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20T12:27:03.566986+00:00",
+  "last_updated": "2026-07-21T11:22:36.955198+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -181,6 +181,107 @@
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/toy-story-5-english/9999001428/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "local-motorcity",
+      "title_ar": "Motor City",
+      "title_en": "Motor City",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001462.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Motor%20City%20official%20trailer",
+      "ratings": {
+        "imdb": "5.8",
+        "rotten_tomatoes": "70%"
+      },
+      "imdb_id": "tt2012616",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/motor-city/9999001462/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "local-khalibalakminnafsik",
+      "title_ar": "Khali Balak Min Nafsik",
+      "title_en": "Khali Balak Min Nafsik",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001461.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Khali%20Balak%20Min%20Nafsik%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/khali-balak-min-nafsik-(egyptian)-arabic/9999001461/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "local-pinocchiounstrung",
+      "title_ar": "Pinocchio:Unstrung",
+      "title_en": "Pinocchio:Unstrung",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001460.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Pinocchio%3AUnstrung%20official%20trailer",
+      "ratings": {
+        "imdb": "7.6"
+      },
+      "imdb_id": "tt30887701",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/pinocchiounstrung/9999001460/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "local-ipmankungfulegend",
+      "title_ar": "Ip Man Kungfu Legend",
+      "title_en": "Ip Man Kungfu Legend",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001459.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Ip%20Man%20Kungfu%20Legend%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/ip-man-kungfu-legend/9999001459/NowShowing"
         }
       ]
     },
