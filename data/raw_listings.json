@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-21T11:22:27.277872+00:00",
+  "scraped_at": "2026-07-22T11:25:23.922873+00:00",
   "failures": [
     "vox"
   ],
@@ -11,24 +11,46 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Motor-City/HO00004421"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/motor-city/9999001462/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001462.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001462.jpg",
+      "title_ar": "موتر ستي",
+      "synopsis_ar": "في سبعينيات القرن الماضي في ديترويت، تم تأطير رومانسي من الطبقة العاملة من قبل رجل عصابات لا يرحم بعد أن وقع في حب صديقته. بعد سنوات في السجن، يعود بمهمة واحدة فقط: الانتقام.",
+      "genres_ar": [
+        "أكشن"
+      ],
+      "runtime_min": 98,
+      "trailer_youtube_id": "TGyr0L6nuqs"
     },
     "khalibalakminnafsik": {
-      "title_en": "Khali Balak Min Nafsik",
+      "title_en": "Khali Balak Min Nafsik (Egyptian) - Arabic",
       "languages": [
         "Arabic"
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Khali-Balak-Min-Nafsik-(Egyptian)---Arabic/HO00004436"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/khali-balak-min-nafsik-(egyptian)-arabic/9999001461/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001461.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001461.jpg",
+      "title_ar": "خلى بالك من نفسك",
+      "synopsis_ar": "تدور احداث الفيلم بين علاء مذيع الراديو الذي يدخل في علاقات كثيرة و يترك الفتيات لاسباب سطحية و خوفه من الارتباط ، حتي يتعرف عن طريق الصدفة علي فريده، التي تبدو له الرقيقة المثالية ، لكن فريده في حقيقتها هي من اكبر تجاره سلاح ، و بعد ان علقها به و وقعت في",
+      "genres_ar": [
+        "كوميدي"
+      ],
+      "runtime_min": 103,
+      "trailer_youtube_id": "p8nNykRtUJI"
     },
     "pinocchiounstrung": {
       "title_en": "Pinocchio:Unstrung",
@@ -37,11 +59,23 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Pinocchio:Unstrung/HO00004442"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/pinocchiounstrung/9999001460/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001460.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001460.jpg",
+      "title_ar": "بنوكيو: انسترانق",
+      "synopsis_ar": "قدم جده، جيبيتو، جيمس إلى دمية خشبية تبدو سحرية تدعى بينوكيو. عندما يصبح الاثنان صديقين، يكشف جيمس عن غير قصد الدمية الساذجة للجوانب المظلمة من العالم. غير قادر على فهم الأخلاق البشرية، يبدأ بينوكيو حملة صليبية عنيفة للقضاء على كل ما يعتبره \"سيئًا\".",
+      "genres_ar": [
+        "رعب",
+        "إثارة"
+      ],
+      "runtime_min": 79,
+      "trailer_youtube_id": "5TNKGUbD9tg"
     },
     "ipmankungfulegend": {
       "title_en": "Ip Man Kungfu Legend",
@@ -50,11 +84,22 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/IP-MAN-Kungfu-Legend/HO00004450"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/ip-man-kungfu-legend/9999001459/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001459.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001459.jpg",
+      "title_ar": "اي بي مان: كونق فو ليجند",
+      "synopsis_ar": "يغادر ييب مان قوة الشرطة لبدء مدرسته للفنون القتالية. عندما تكتسب صالة ملاكمة غربية جميع خصائص فنون الدفاع عن النفس المحلية، يجب عليه حماية التقليد من أن يتم محوه.",
+      "genres_ar": [
+        "أكشن"
+      ],
+      "runtime_min": 94,
+      "trailer_youtube_id": "84V1lkjfjxk"
     },
     "odyssey": {
       "title_en": "The Odyssey",
@@ -111,28 +156,15 @@
     "matchenglishspanish": {
       "title_en": "The Match - English.Spanish",
       "languages": [
-        "English",
-        "English.Spanish"
+        "English"
       ],
       "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Match---English.Spanish/HO00004434"
-        },
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/the-match-english.spanish/9999001456/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001456.jpg",
-      "title_ar": "ذا ماتج",
-      "synopsis_ar": "تحكي المباراة القصة وراء الاشتباك الشهير في كأس العالم لكرة القدم 1986 بين الأرجنتين وإنجلترا.",
-      "genres_ar": [
-        "وثائقي",
-        "رياضي"
-      ],
-      "runtime_min": 91,
-      "trailer_youtube_id": "Cn_qvyD1Y3k"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001456.jpg"
     },
     "moana": {
       "title_en": "Moana - Arabic",
@@ -271,7 +303,7 @@
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Toy-Story-5/HO00004194"
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Toy-Story-5---Arabic/HO00004420"
         },
         {
           "id": "sky",
@@ -288,26 +320,6 @@
       ],
       "runtime_min": 102,
       "trailer_youtube_id": "IT59jqgHnJc"
-    },
-    "hungry": {
-      "title_en": "Hungry",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Hungry/HO00004386"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004386_935.jpg",
-      "title_ar": "هنقري",
-      "synopsis_ar": "فرس نهر مفترس طليق في لويزيانا بايو يرهب مجموعة من السياح.",
-      "genres_ar": [
-        "إثارة"
-      ],
-      "runtime_min": 93,
-      "trailer_youtube_id": "mceYZY7xTH8"
     },
     "7snipers": {
       "title_en": "Seven Snipers",
@@ -351,6 +363,26 @@
       "runtime_min": 91,
       "trailer_youtube_id": "pVWyRUF83zE"
     },
+    "hungry": {
+      "title_en": "Hungry",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Hungry/HO00004386"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004386_935.jpg",
+      "title_ar": "هنقري",
+      "synopsis_ar": "فرس نهر مفترس طليق في لويزيانا بايو يرهب مجموعة من السياح.",
+      "genres_ar": [
+        "إثارة"
+      ],
+      "runtime_min": 93,
+      "trailer_youtube_id": "mceYZY7xTH8"
+    },
     "obsession": {
       "title_en": "Obsession",
       "languages": [
@@ -392,26 +424,26 @@
       "runtime_min": 108,
       "trailer_youtube_id": "weykPvn6DhU"
     },
-    "dhamaal4": {
-      "title_en": "Dhamaal 4 - Hindi",
+    "jananayagan": {
+      "title_en": "Jana Nayagan - Tamil",
       "languages": [
-        "Hindi"
+        "Tamil"
       ],
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Dhamaal-4---Hindi/HO00004428"
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Jana-Nayagan---Tamil/HO00004248"
         }
       ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004428_744.jpg",
-      "title_ar": "دهامال 4",
-      "synopsis_ar": "مغامرة جديدة، نفس الجنون - أكبر من أي وقت مضى. عاد فتيان ذمال وهم مستعدون لمطاردة \"كنز الحياة\"، ويواجهون تحديات مجنونة على طول الطريق. ما يبدأ كبحث عن الكنز يتحول بسرعة إلى قائمة من المغامرات المضحكة.",
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004248_339.jpg",
+      "title_ar": "جانا ناياجان- تاميل",
+      "synopsis_ar": "تتواجه أيديولوجيتان مختلفتان واحدة عن الحقيقة والأخرى عن الرغبة في السيطرة، حيث يُشعل خوف طفل فتيل معركة يقودها ضابط شرطة سابق ويتجاوز الأمر معه الانتقام الشخصي",
       "genres_ar": [
-        "مغامرات",
-        "كوميدي"
+        "أكشن",
+        "دراما"
       ],
-      "runtime_min": 143,
-      "trailer_youtube_id": "nAXjxQcMeNA"
+      "runtime_min": 183,
+      "trailer_youtube_id": "KSBg609BO4s"
     },
     "inobody": {
       "title_en": "I, Nobody - Malayalam",
@@ -433,6 +465,27 @@
       ],
       "runtime_min": 166,
       "trailer_youtube_id": "P11_dkW0A_s"
+    },
+    "dhamaal4": {
+      "title_en": "Dhamaal 4 - Hindi",
+      "languages": [
+        "Hindi"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Dhamaal-4---Hindi/HO00004428"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004428_744.jpg",
+      "title_ar": "دهامال 4",
+      "synopsis_ar": "مغامرة جديدة، نفس الجنون - أكبر من أي وقت مضى. عاد فتيان ذمال وهم مستعدون لمطاردة \"كنز الحياة\"، ويواجهون تحديات مجنونة على طول الطريق. ما يبدأ كبحث عن الكنز يتحول بسرعة إلى قائمة من المغامرات المضحكة.",
+      "genres_ar": [
+        "مغامرات",
+        "كوميدي"
+      ],
+      "runtime_min": 143,
+      "trailer_youtube_id": "nAXjxQcMeNA"
     },
     "varavu": {
       "title_en": "Varavu - Malayalam",
