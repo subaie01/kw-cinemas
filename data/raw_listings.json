@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-22T11:25:23.922873+00:00",
+  "scraped_at": "2026-07-23T11:23:44.069645+00:00",
   "failures": [
     "vox"
   ],
@@ -153,23 +153,9 @@
       "runtime_min": 95,
       "trailer_youtube_id": "HoxMBJFLzZ8"
     },
-    "matchenglishspanish": {
-      "title_en": "The Match - English.Spanish",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/the-match-english.spanish/9999001456/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001456.jpg"
-    },
     "moana": {
-      "title_en": "Moana - Arabic",
+      "title_en": "Moana",
       "languages": [
-        "Arabic",
         "English"
       ],
       "cinemas": [
@@ -192,55 +178,6 @@
       ],
       "runtime_min": 115,
       "trailer_youtube_id": "RrCjUcFfy48"
-    },
-    "evildeadburn": {
-      "title_en": "Evil Dead Burn",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Evil-Dead-Burn/HO00004387"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/evil-dead-burn/9999001453/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001453.jpg",
-      "title_ar": "ايفل ديد برن",
-      "synopsis_ar": "يطلق الحرق الميت الشرير العنان لأكثر رحلات الامتياز وحشية ورعبًا حتى الآن، ويشتعل على شاشات كبيرة مع فصل جديد تمامًا من المذابح والفوضى الشيطانية. بعد فقدان زوجها، تبحث امرأة عن العزاء مع أصهارها في منزل أسرتها المنعزل.",
-      "genres_ar": [
-        "رعب",
-        "خيالي"
-      ],
-      "runtime_min": 110,
-      "trailer_youtube_id": "IeHwMiFzSm4"
-    },
-    "ebenmeenfehom": {
-      "title_en": "Eben Meen Fehom (Egyptian) - Arabic",
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Eben-Meen-Fehom-(Egyptian)---Arabic/HO00004399"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/eben-meen-fehom-(egyptian)-arabic/9999001452/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001452.jpg",
-      "title_ar": "ابن مين فيهم",
-      "synopsis_ar": "رشدي (بيومي فؤاد)، رجل أعمال مستهتر، تنقلب حياته رأساً على عقب بعد وفاة عمته وتركها له ثروة ضخمة..بشرط واحد: أن يعثر على ابنه من إحدى زيجاته العابرة. تدخل حياته المحامية الصارمة ماجدة (ليلى علوي) لينطلق الثنائي في رحلة مليئة بالمواقف الكوميدية والفوضى وال",
-      "genres_ar": [
-        "كوميدي"
-      ],
-      "runtime_min": 105,
-      "trailer_youtube_id": "T3610WJo2xQ"
     },
     "minionsmonsters": {
       "title_en": "Minions & Monsters - Arabic",
@@ -294,6 +231,26 @@
       "runtime_min": 123,
       "trailer_youtube_id": "8OJz0lFb9RU"
     },
+    "ebenmeenfehom": {
+      "title_en": "Eben Meen Fehom (Egyptian) - Arabic",
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Eben-Meen-Fehom-(Egyptian)---Arabic/HO00004399"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004399_362.jpg",
+      "title_ar": "ابن مين فيهم",
+      "synopsis_ar": "رشدي (بيومي فؤاد)، رجل أعمال مستهتر، تنقلب حياته رأساً على عقب بعد وفاة عمته وتركها له ثروة ضخمة..بشرط واحد: أن يعثر على ابنه من إحدى زيجاته العابرة. تدخل حياته المحامية الصارمة ماجدة (ليلى علوي) لينطلق الثنائي في رحلة مليئة بالمواقف الكوميدية والفوضى وال",
+      "genres_ar": [
+        "كوميدي"
+      ],
+      "runtime_min": 105,
+      "trailer_youtube_id": "T3610WJo2xQ"
+    },
     "toystory5": {
       "title_en": "Toy Story 5 - Arabic",
       "languages": [
@@ -304,13 +261,9 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Toy-Story-5---Arabic/HO00004420"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/toy-story-5-english/9999001428/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001428.jpg",
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004420_833.jpg",
       "title_ar": "توي ستوري 5",
       "synopsis_ar": "يواجه وودي وباز وجيسي وبقية وظائف العصابة تحديات عندما يتعرفون على الإلكترونيات، وهو تهديد جديد لوقت اللعب",
       "genres_ar": [
@@ -320,6 +273,47 @@
       ],
       "runtime_min": 102,
       "trailer_youtube_id": "IT59jqgHnJc"
+    },
+    "buyu3": {
+      "title_en": "BUYU 3 - Turkish",
+      "languages": [
+        "Turkish"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/BUYU-3---Turkish/HO00004449"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004449_539.jpg",
+      "title_ar": "بويو3",
+      "synopsis_ar": "رجل محاصر بتعويذة خانقة مظلمة لإبقائه معزولاً عن كل امرأة بما في ذلك زوجته. تتسبب اللعنة في مطاردة الأرواح الشريرة وامتلاك قصر عائلته الكبير المتحلل.",
+      "genres_ar": [
+        "رعب"
+      ],
+      "runtime_min": 87,
+      "trailer_youtube_id": "E7YsWGBTdY0"
+    },
+    "evildeadburn": {
+      "title_en": "Evil Dead Burn",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Evil-Dead-Burn/HO00004387"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004387_255.jpg",
+      "title_ar": "ايفل ديد برن",
+      "synopsis_ar": "يطلق الحرق الميت الشرير العنان لأكثر رحلات الامتياز وحشية ورعبًا حتى الآن، ويشتعل على شاشات كبيرة مع فصل جديد تمامًا من المذابح والفوضى الشيطانية. بعد فقدان زوجها، تبحث امرأة عن العزاء مع أصهارها في منزل أسرتها المنعزل.",
+      "genres_ar": [
+        "رعب",
+        "خيالي"
+      ],
+      "runtime_min": 110,
+      "trailer_youtube_id": "IeHwMiFzSm4"
     },
     "7snipers": {
       "title_en": "Seven Snipers",
@@ -363,67 +357,6 @@
       "runtime_min": 91,
       "trailer_youtube_id": "pVWyRUF83zE"
     },
-    "hungry": {
-      "title_en": "Hungry",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Hungry/HO00004386"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004386_935.jpg",
-      "title_ar": "هنقري",
-      "synopsis_ar": "فرس نهر مفترس طليق في لويزيانا بايو يرهب مجموعة من السياح.",
-      "genres_ar": [
-        "إثارة"
-      ],
-      "runtime_min": 93,
-      "trailer_youtube_id": "mceYZY7xTH8"
-    },
-    "obsession": {
-      "title_en": "Obsession",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Obsession/HO00004278"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004278_871.jpg",
-      "title_ar": "اوبسشن",
-      "synopsis_ar": "صوت جريء جديد في عالم الرعب. تدور القصة حول رجل رومنسي يائس يكسر عصا أمنيات غامضىة تدعى \"ون ويش ويلو\" طمعاً في الفوز بقلب من يحب ويجد نفسه وقد نال تماماً ما تمنى… قبل أن يكتشف سريعاً أن بعض الرغبات تحمل ثمناً مظلماً وشريراً",
-      "genres_ar": [
-        "رعب"
-      ],
-      "runtime_min": 105,
-      "trailer_youtube_id": "iCLWkA0G0LE"
-    },
-    "supergirl": {
-      "title_en": "Supergirl",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Supergirl/HO00004255"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004255_138.jpg",
-      "title_ar": "سوبر قرلو",
-      "synopsis_ar": "عندما يوجّه عدوّ شرس وغير متوقّع ضربته إلى أقرب نقطة من عالمها، تضطر كارا زور-إل، المعروفة بسوبرغيرل، إلى التحالف مع رفيق لم تكن تتوقعه. وتنطلق معه في رحلة كونية ملحمية عبر النجوم، مدفوعة بالرغبة في الانتقام والسعي لإحقاق العدالة.",
-      "genres_ar": [
-        "أكشن",
-        "خيال علمي"
-      ],
-      "runtime_min": 108,
-      "trailer_youtube_id": "weykPvn6DhU"
-    },
     "jananayagan": {
       "title_en": "Jana Nayagan - Tamil",
       "languages": [
@@ -444,69 +377,6 @@
       ],
       "runtime_min": 183,
       "trailer_youtube_id": "KSBg609BO4s"
-    },
-    "inobody": {
-      "title_en": "I, Nobody - Malayalam",
-      "languages": [
-        "Malayalam"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/I,-Nobody---Malayalam/HO00004426"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004426_043.jpg",
-      "title_ar": "اي نوبادي",
-      "synopsis_ar": "يشهد موظف حكومي عادي ورجل عائلة عن طريق الخطأ جريمة تقلب حياته الهادئة رأساً على عقب. عندما يصبح الهدف الرئيسي لنظام فاسد مصمم على إسكاته، يجب عليه القتال لحماية عائلته وإثبات الحقيقة قبل فوات الأوان.",
-      "genres_ar": [
-        "إثارة",
-        "جريمة"
-      ],
-      "runtime_min": 166,
-      "trailer_youtube_id": "P11_dkW0A_s"
-    },
-    "dhamaal4": {
-      "title_en": "Dhamaal 4 - Hindi",
-      "languages": [
-        "Hindi"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Dhamaal-4---Hindi/HO00004428"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004428_744.jpg",
-      "title_ar": "دهامال 4",
-      "synopsis_ar": "مغامرة جديدة، نفس الجنون - أكبر من أي وقت مضى. عاد فتيان ذمال وهم مستعدون لمطاردة \"كنز الحياة\"، ويواجهون تحديات مجنونة على طول الطريق. ما يبدأ كبحث عن الكنز يتحول بسرعة إلى قائمة من المغامرات المضحكة.",
-      "genres_ar": [
-        "مغامرات",
-        "كوميدي"
-      ],
-      "runtime_min": 143,
-      "trailer_youtube_id": "nAXjxQcMeNA"
-    },
-    "varavu": {
-      "title_en": "Varavu - Malayalam",
-      "languages": [
-        "Malayalam"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Varavu---Malayalam/HO00004390"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004390_642.jpg",
-      "title_ar": "فارافو",
-      "synopsis_ar": "تقع عائلة ضحية للنخبة القوية في بلدة صغيرة. يمر الوقت ؛ تتفاقم الجروح. إن عودة رجل واحد تفرض مواجهة من شأنها أن تكشف عقودًا من الأكاذيب والفساد.",
-      "genres_ar": [
-        "أكشن",
-        "إثارة"
-      ],
-      "runtime_min": 142,
-      "trailer_youtube_id": "tAmmhaenTLI"
     }
   }
 }

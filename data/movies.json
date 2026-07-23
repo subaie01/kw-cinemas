@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22T11:25:32.170276+00:00",
+  "last_updated": "2026-07-23T11:23:50.266612+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -41,10 +41,6 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Evil-Dead-Burn/HO00004387"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/evil-dead-burn/9999001453/NowShowing"
         }
       ]
     },
@@ -120,36 +116,6 @@
       ]
     },
     {
-      "id": "wd-Q116921951",
-      "title_ar": "الفتاة الخارقة",
-      "title_en": "Supergirl",
-      "synopsis_ar": "عندما يوجّه عدوّ شرس وغير متوقّع ضربته إلى أقرب نقطة من عالمها، تضطر كارا زور-إل، المعروفة بسوبرغيرل، إلى التحالف مع رفيق لم تكن تتوقعه. وتنطلق معه في رحلة كونية ملحمية عبر النجوم، مدفوعة بالرغبة في الانتقام والسعي لإحقاق العدالة.",
-      "genres_ar": [
-        "أكشن",
-        "خيال علمي"
-      ],
-      "runtime_min": 108,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004255_138.jpg",
-      "trailer_youtube_id": "weykPvn6DhU",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Supergirl%20official%20trailer",
-      "ratings": {
-        "imdb": "6.1",
-        "rotten_tomatoes": "53%"
-      },
-      "imdb_id": "tt8814476",
-      "release_date": "2026-06-22",
-      "matched": true,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Supergirl/HO00004255"
-        }
-      ]
-    },
-    {
       "id": "wd-Q113641997",
       "title_ar": "حكاية لعبة 5",
       "title_en": "Toy Story 5 - Arabic",
@@ -178,10 +144,6 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Toy-Story-5---Arabic/HO00004420"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/toy-story-5-english/9999001428/NowShowing"
         }
       ]
     },
@@ -331,30 +293,6 @@
       ]
     },
     {
-      "id": "local-matchenglishspanish",
-      "title_ar": "The Match - English.Spanish",
-      "title_en": "The Match - English.Spanish",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001456.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Match%20-%20English.Spanish%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/the-match-english.spanish/9999001456/NowShowing"
-        }
-      ]
-    },
-    {
       "id": "local-moana",
       "title_ar": "موانا",
       "title_en": "Moana - Arabic",
@@ -376,7 +314,6 @@
       "release_date": null,
       "matched": false,
       "languages": [
-        "Arabic",
         "English"
       ],
       "cinemas": [
@@ -387,36 +324,6 @@
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/moana-english/9999001455/NowShowing"
-        }
-      ]
-    },
-    {
-      "id": "local-ebenmeenfehom",
-      "title_ar": "ابن مين فيهم",
-      "title_en": "Eben Meen Fehom (Egyptian) - Arabic",
-      "synopsis_ar": "رشدي (بيومي فؤاد)، رجل أعمال مستهتر، تنقلب حياته رأساً على عقب بعد وفاة عمته وتركها له ثروة ضخمة..بشرط واحد: أن يعثر على ابنه من إحدى زيجاته العابرة. تدخل حياته المحامية الصارمة ماجدة (ليلى علوي) لينطلق الثنائي في رحلة مليئة بالمواقف الكوميدية والفوضى وال",
-      "genres_ar": [
-        "كوميدي"
-      ],
-      "runtime_min": 105,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001452.jpg",
-      "trailer_youtube_id": "T3610WJo2xQ",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Eben%20Meen%20Fehom%20%28Egyptian%29%20-%20Arabic%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Eben-Meen-Fehom-(Egyptian)---Arabic/HO00004399"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/eben-meen-fehom-(egyptian)-arabic/9999001452/NowShowing"
         }
       ]
     },
@@ -448,6 +355,60 @@
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/sakr-w-canaria-(egyptian)-arabic/9999001440/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "local-ebenmeenfehom",
+      "title_ar": "ابن مين فيهم",
+      "title_en": "Eben Meen Fehom (Egyptian) - Arabic",
+      "synopsis_ar": "رشدي (بيومي فؤاد)، رجل أعمال مستهتر، تنقلب حياته رأساً على عقب بعد وفاة عمته وتركها له ثروة ضخمة..بشرط واحد: أن يعثر على ابنه من إحدى زيجاته العابرة. تدخل حياته المحامية الصارمة ماجدة (ليلى علوي) لينطلق الثنائي في رحلة مليئة بالمواقف الكوميدية والفوضى وال",
+      "genres_ar": [
+        "كوميدي"
+      ],
+      "runtime_min": 105,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001452.jpg",
+      "trailer_youtube_id": "T3610WJo2xQ",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Eben%20Meen%20Fehom%20%28Egyptian%29%20-%20Arabic%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Eben-Meen-Fehom-(Egyptian)---Arabic/HO00004399"
+        }
+      ]
+    },
+    {
+      "id": "local-buyu3",
+      "title_ar": "بويو3",
+      "title_en": "BUYU 3 - Turkish",
+      "synopsis_ar": "رجل محاصر بتعويذة خانقة مظلمة لإبقائه معزولاً عن كل امرأة بما في ذلك زوجته. تتسبب اللعنة في مطاردة الأرواح الشريرة وامتلاك قصر عائلته الكبير المتحلل.",
+      "genres_ar": [
+        "رعب"
+      ],
+      "runtime_min": 87,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004449_539.jpg",
+      "trailer_youtube_id": "E7YsWGBTdY0",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=BUYU%203%20-%20Turkish%20official%20trailer",
+      "ratings": {
+        "imdb": "2.4"
+      },
+      "imdb_id": "tt39955176",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Turkish"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/BUYU-3---Turkish/HO00004449"
         }
       ]
     },
@@ -508,63 +469,6 @@
       ]
     },
     {
-      "id": "wd-Q139502222",
-      "title_ar": "هنقري",
-      "title_en": "Hungry",
-      "synopsis_ar": "فرس نهر مفترس طليق في لويزيانا بايو يرهب مجموعة من السياح.",
-      "genres_ar": [
-        "إثارة"
-      ],
-      "runtime_min": 93,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004386_935.jpg",
-      "trailer_youtube_id": "mceYZY7xTH8",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Hungry%20official%20trailer",
-      "ratings": {
-        "imdb": "5.0"
-      },
-      "imdb_id": "tt34494076",
-      "release_date": null,
-      "matched": true,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Hungry/HO00004386"
-        }
-      ]
-    },
-    {
-      "id": "local-obsession",
-      "title_ar": "اوبسشن",
-      "title_en": "Obsession",
-      "synopsis_ar": "صوت جريء جديد في عالم الرعب. تدور القصة حول رجل رومنسي يائس يكسر عصا أمنيات غامضىة تدعى \"ون ويش ويلو\" طمعاً في الفوز بقلب من يحب ويجد نفسه وقد نال تماماً ما تمنى… قبل أن يكتشف سريعاً أن بعض الرغبات تحمل ثمناً مظلماً وشريراً",
-      "genres_ar": [
-        "رعب"
-      ],
-      "runtime_min": 105,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004278_871.jpg",
-      "trailer_youtube_id": "iCLWkA0G0LE",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Obsession%20official%20trailer",
-      "ratings": {
-        "imdb": "8.0",
-        "rotten_tomatoes": "94%"
-      },
-      "imdb_id": "tt37287335",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Obsession/HO00004278"
-        }
-      ]
-    },
-    {
       "id": "local-jananayagan",
       "title_ar": "جانا ناياجان- تاميل",
       "title_en": "Jana Nayagan - Tamil",
@@ -588,89 +492,6 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Jana-Nayagan---Tamil/HO00004248"
-        }
-      ]
-    },
-    {
-      "id": "wd-Q140502148",
-      "title_ar": "اي نوبادي",
-      "title_en": "I, Nobody - Malayalam",
-      "synopsis_ar": "يشهد موظف حكومي عادي ورجل عائلة عن طريق الخطأ جريمة تقلب حياته الهادئة رأساً على عقب. عندما يصبح الهدف الرئيسي لنظام فاسد مصمم على إسكاته، يجب عليه القتال لحماية عائلته وإثبات الحقيقة قبل فوات الأوان.",
-      "genres_ar": [
-        "إثارة",
-        "جريمة"
-      ],
-      "runtime_min": 166,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004426_043.jpg",
-      "trailer_youtube_id": "P11_dkW0A_s",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=I%2C%20Nobody%20-%20Malayalam%20official%20trailer",
-      "ratings": {},
-      "imdb_id": "tt4276690",
-      "release_date": null,
-      "matched": true,
-      "languages": [
-        "Malayalam"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/I,-Nobody---Malayalam/HO00004426"
-        }
-      ]
-    },
-    {
-      "id": "local-dhamaal4",
-      "title_ar": "دهامال 4",
-      "title_en": "Dhamaal 4 - Hindi",
-      "synopsis_ar": "مغامرة جديدة، نفس الجنون - أكبر من أي وقت مضى. عاد فتيان ذمال وهم مستعدون لمطاردة \"كنز الحياة\"، ويواجهون تحديات مجنونة على طول الطريق. ما يبدأ كبحث عن الكنز يتحول بسرعة إلى قائمة من المغامرات المضحكة.",
-      "genres_ar": [
-        "مغامرات",
-        "كوميدي"
-      ],
-      "runtime_min": 143,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004428_744.jpg",
-      "trailer_youtube_id": "nAXjxQcMeNA",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Dhamaal%204%20-%20Hindi%20official%20trailer",
-      "ratings": {
-        "imdb": "8.6"
-      },
-      "imdb_id": "tt27548557",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Hindi"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Dhamaal-4---Hindi/HO00004428"
-        }
-      ]
-    },
-    {
-      "id": "wd-Q140533427",
-      "title_ar": "فارافو",
-      "title_en": "Varavu - Malayalam",
-      "synopsis_ar": "تقع عائلة ضحية للنخبة القوية في بلدة صغيرة. يمر الوقت ؛ تتفاقم الجروح. إن عودة رجل واحد تفرض مواجهة من شأنها أن تكشف عقودًا من الأكاذيب والفساد.",
-      "genres_ar": [
-        "أكشن",
-        "إثارة"
-      ],
-      "runtime_min": 142,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004390_642.jpg",
-      "trailer_youtube_id": "tAmmhaenTLI",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Varavu%20-%20Malayalam%20official%20trailer",
-      "ratings": {},
-      "imdb_id": "tt37963237",
-      "release_date": null,
-      "matched": true,
-      "languages": [
-        "Malayalam"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Varavu---Malayalam/HO00004390"
         }
       ]
     }
