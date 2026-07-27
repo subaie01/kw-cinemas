@@ -1,9 +1,22 @@
 {
-  "scraped_at": "2026-07-26T10:23:16.147544+00:00",
+  "scraped_at": "2026-07-27T13:44:49.567729+00:00",
   "failures": [
     "vox"
   ],
   "movies": {
+    "spidermanbrandnewday": {
+      "title_en": "Spider Man: Brand New Day",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/spider-man-brand-new-day/9999001463/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001463.jpg"
+    },
     "motorcity": {
       "title_en": "Motor City",
       "languages": [

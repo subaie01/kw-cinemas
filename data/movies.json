@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26T10:23:21.271947+00:00",
+  "last_updated": "2026-07-27T13:44:58.929421+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -15,6 +15,36 @@
     }
   },
   "movies": [
+    {
+      "id": "wd-Q113244935",
+      "title_ar": "الرجل العنكبوت: يوم جديد",
+      "title_en": "Spider Man: Brand New Day",
+      "synopsis_ar": "الرجل العنكبوت: يوم جديد هو فلم بطل خارق أمريكي قادم، يستند إلى شخصية الرجل العنكبوت من قصص مارفل المصورة، من إنتاج مشترك بين كولومبيا بيكتشرز واستوديوهات مارفل، وتوزيع سوني بيكتشرز ريليسنغ. من المقرر أن يكون الفلم الثامن والثلاثين في عالم مارفل السينمائي (MCU)، والرابع ضمن سلسلة أفلام الرجل العنكبوت في هذا العالم بعد الرجل العنكبوت: لا طريق للوطن (2021). الفلم من إخراج ديستين دانيال كريتون، عن سيناريو من تأليف كريس ماكينا وإريك سومرز، وبطولة توم هولاند في دور بيتر باركر / الرجل العنكبوت، إلى جانب زندايا، جيكوب باتالون، تشارلي كوكس، سيدي سينك، ليزا كولون-زايس، وجون بيرنثال.",
+      "genres_ar": [
+        "فلم مغامرة",
+        "فلم خيال",
+        "فلم أكشن",
+        "فلم خيال علمي",
+        "فلم بطل خارق"
+      ],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001463.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Spider%20Man%3A%20Brand%20New%20Day%20official%20trailer",
+      "ratings": {},
+      "imdb_id": "tt22084616",
+      "release_date": "2026-07-29",
+      "matched": true,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/spider-man-brand-new-day/9999001463/NowShowing"
+        }
+      ]
+    },
     {
       "id": "wd-Q132731331",
       "title_ar": "احتراق الشر المميت",
