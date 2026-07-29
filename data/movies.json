@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28T11:38:05.190269+00:00",
+  "last_updated": "2026-07-29T11:50:35.366856+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -39,6 +39,10 @@
         "English"
       ],
       "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Spider-Man:-Brand-New-Day/HO00004304"
+        },
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/spider-man-brand-new-day/9999001463/NowShowing"
@@ -173,7 +177,7 @@
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Toy-Story-5---Arabic/HO00004420"
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Toy-Story-5/HO00004194"
         }
       ]
     },
@@ -439,33 +443,6 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/BUYU-3---Turkish/HO00004449"
-        }
-      ]
-    },
-    {
-      "id": "local-7snipers",
-      "title_ar": "سفين سنايبر",
-      "title_en": "Seven Snipers",
-      "synopsis_ar": "يضطر قناص متقاعد من النخبة يعيش مختبئًا في مزرعة أسترالية نائية إلى لم شمل فريق قناصها القاتل بعد عودة أمير حرب لا يرحم من ماضيها إلى الظهور ويهدد ابنتها. ما يبدأ كمهمة للبقاء على قيد الحياة يتصاعد إلى حرب وحشية بين القط والفأر مع عواقب مدمرة.",
-      "genres_ar": [
-        "أكشن",
-        "إثارة"
-      ],
-      "runtime_min": 88,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001451.jpg",
-      "trailer_youtube_id": "dna4DHlSZno",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Seven%20Snipers%20official%20trailer",
-      "ratings": {},
-      "imdb_id": "tt36926359",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Seven-Snipers/HO00004392"
         }
       ]
     },

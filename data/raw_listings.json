@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-28T11:37:59.212003+00:00",
+  "scraped_at": "2026-07-29T11:50:27.128943+00:00",
   "failures": [
     "vox"
   ],
@@ -11,11 +11,24 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Spider-Man:-Brand-New-Day/HO00004304"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/spider-man-brand-new-day/9999001463/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001463.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001463.jpg",
+      "title_ar": "سبايدر مان : براند نو داي",
+      "synopsis_ar": "إنه يوم جديد لبيتر باركر. إن مكافحة الجريمة بدوام كامل كرجل العنكبوت في عالم لا يتذكره - وضغط رؤية أصدقائه القدامى يمضون قدمًا بدونه - يثير تغييرًا في بيتر قد لا يكون لديه القدرة على السيطرة عليه.",
+      "genres_ar": [
+        "أكشن",
+        "مغامرات",
+        "خيالي"
+      ],
+      "runtime_min": 141,
+      "trailer_youtube_id": "FL5RBUGHOAY"
     },
     "motorcity": {
       "title_en": "Motor City",
@@ -35,9 +48,6 @@
       "poster_src": "https://www.skycinemaskw.com/images/movies/9999001462.jpg",
       "title_ar": "موتر ستي",
       "synopsis_ar": "في سبعينيات القرن الماضي في ديترويت، تم تأطير رومانسي من الطبقة العاملة من قبل رجل عصابات لا يرحم بعد أن وقع في حب صديقته. بعد سنوات في السجن، يعود بمهمة واحدة فقط: الانتقام.",
-      "genres_ar": [
-        "أكشن"
-      ],
       "runtime_min": 98,
       "trailer_youtube_id": "TGyr0L6nuqs"
     },
@@ -244,6 +254,29 @@
       "runtime_min": 123,
       "trailer_youtube_id": "8OJz0lFb9RU"
     },
+    "toystory5": {
+      "title_en": "Toy Story 5 - Arabic",
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Toy-Story-5/HO00004194"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004194_838.jpg",
+      "title_ar": "توي ستوري 5",
+      "synopsis_ar": "يواجه وودي وباز وجيسي وبقية وظائف العصابة تحديات عندما يتعرفون على الإلكترونيات، وهو تهديد جديد لوقت اللعب",
+      "genres_ar": [
+        "رسوم متحركة",
+        "مغامرات",
+        "كوميدي"
+      ],
+      "runtime_min": 102,
+      "trailer_youtube_id": "IT59jqgHnJc"
+    },
     "ebenmeenfehom": {
       "title_en": "Eben Meen Fehom (Egyptian) - Arabic",
       "languages": [
@@ -263,29 +296,6 @@
       ],
       "runtime_min": 105,
       "trailer_youtube_id": "T3610WJo2xQ"
-    },
-    "toystory5": {
-      "title_en": "Toy Story 5 - Arabic",
-      "languages": [
-        "Arabic",
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Toy-Story-5---Arabic/HO00004420"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004420_833.jpg",
-      "title_ar": "توي ستوري 5",
-      "synopsis_ar": "يواجه وودي وباز وجيسي وبقية وظائف العصابة تحديات عندما يتعرفون على الإلكترونيات، وهو تهديد جديد لوقت اللعب",
-      "genres_ar": [
-        "رسوم متحركة",
-        "مغامرات",
-        "كوميدي"
-      ],
-      "runtime_min": 102,
-      "trailer_youtube_id": "IT59jqgHnJc"
     },
     "buyu3": {
       "title_en": "BUYU 3 - Turkish",
@@ -327,27 +337,6 @@
       ],
       "runtime_min": 110,
       "trailer_youtube_id": "IeHwMiFzSm4"
-    },
-    "7snipers": {
-      "title_en": "Seven Snipers",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Seven-Snipers/HO00004392"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004392_354.jpg",
-      "title_ar": "سفين سنايبر",
-      "synopsis_ar": "يضطر قناص متقاعد من النخبة يعيش مختبئًا في مزرعة أسترالية نائية إلى لم شمل فريق قناصها القاتل بعد عودة أمير حرب لا يرحم من ماضيها إلى الظهور ويهدد ابنتها. ما يبدأ كمهمة للبقاء على قيد الحياة يتصاعد إلى حرب وحشية بين القط والفأر مع عواقب مدمرة.",
-      "genres_ar": [
-        "أكشن",
-        "إثارة"
-      ],
-      "runtime_min": 88,
-      "trailer_youtube_id": "dna4DHlSZno"
     },
     "siccin9": {
       "title_en": "Siccin 9 - Turkish",
