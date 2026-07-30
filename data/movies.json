@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29T11:50:35.366856+00:00",
+  "last_updated": "2026-07-30T11:31:15.175545+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -135,17 +135,12 @@
       "release_date": "2026-06-24",
       "matched": true,
       "languages": [
-        "Arabic",
         "English"
       ],
       "cinemas": [
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Minions-&-Monsters/HO00004303"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/minions-and-monsters/9999001449/NowShowing"
         }
       ]
     },
@@ -178,37 +173,6 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Toy-Story-5/HO00004194"
-        }
-      ]
-    },
-    {
-      "id": "local-motorcity",
-      "title_ar": "Motor City",
-      "title_en": "Motor City",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001462.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Motor%20City%20official%20trailer",
-      "ratings": {
-        "imdb": "5.8",
-        "rotten_tomatoes": "72%"
-      },
-      "imdb_id": "tt2012616",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Motor-City/HO00004421"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/motor-city/9999001462/NowShowing"
         }
       ]
     },
@@ -261,68 +225,8 @@
       ],
       "cinemas": [
         {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Pinocchio:Unstrung/HO00004442"
-        },
-        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/pinocchiounstrung/9999001460/NowShowing"
-        }
-      ]
-    },
-    {
-      "id": "local-ipmankungfulegend",
-      "title_ar": "Ip Man Kungfu Legend",
-      "title_en": "Ip Man Kungfu Legend",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001459.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Ip%20Man%20Kungfu%20Legend%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/IP-MAN-Kungfu-Legend/HO00004450"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/ip-man-kungfu-legend/9999001459/NowShowing"
-        }
-      ]
-    },
-    {
-      "id": "local-shamshounwdalila",
-      "title_ar": "Shamshoun W Dalila",
-      "title_en": "Shamshoun W Dalila",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001457.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Shamshoun%20W%20Dalila%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Shamshoun-w-Dalila-(Egyptian)---Arabic/HO00004433"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/shamshoun-w-dalila-(egyptian)-arabic/9999001457/NowShowing"
         }
       ]
     },
@@ -385,10 +289,30 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Sakr-W-Canaria-(Egyptian)---Arabic/HO00004388"
-        },
+        }
+      ]
+    },
+    {
+      "id": "local-shamshounwdalila",
+      "title_ar": "Shamshoun W Dalila",
+      "title_en": "Shamshoun W Dalila",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001457.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Shamshoun%20W%20Dalila%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
         {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/sakr-w-canaria-(egyptian)-arabic/9999001440/NowShowing"
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Shamshoun-w-Dalila-(Egyptian)---Arabic/HO00004433"
         }
       ]
     },
@@ -415,6 +339,33 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Eben-Meen-Fehom-(Egyptian)---Arabic/HO00004399"
+        }
+      ]
+    },
+    {
+      "id": "local-motorcity",
+      "title_ar": "Motor City",
+      "title_en": "Motor City",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001462.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Motor%20City%20official%20trailer",
+      "ratings": {
+        "imdb": "5.8",
+        "rotten_tomatoes": "72%"
+      },
+      "imdb_id": "tt2012616",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Motor-City/HO00004421"
         }
       ]
     },
@@ -447,31 +398,26 @@
       ]
     },
     {
-      "id": "local-siccin9",
-      "title_ar": "سيسسين 9",
-      "title_en": "Siccin 9 - Turkish",
-      "synopsis_ar": "لعنة قديمة أيقظتها صرخة الأم انتظرت في صمت لعقود. عندما يعبر حفيدها عتبة منزل والده، تبدأ دورة الظلام من جديد.",
-      "genres_ar": [
-        "إثارة",
-        "رعب"
-      ],
-      "runtime_min": 91,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004417_891.jpg",
-      "trailer_youtube_id": "pVWyRUF83zE",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Siccin%209%20-%20Turkish%20official%20trailer",
-      "ratings": {
-        "imdb": "5.1"
-      },
-      "imdb_id": "tt42006709",
+      "id": "local-ipmankungfulegend",
+      "title_ar": "Ip Man Kungfu Legend",
+      "title_en": "Ip Man Kungfu Legend",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001459.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Ip%20Man%20Kungfu%20Legend%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
       "release_date": null,
       "matched": false,
       "languages": [
-        "Turkish"
+        "English"
       ],
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Siccin-9---Turkish/HO00004417"
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/IP-MAN-Kungfu-Legend/HO00004450"
         }
       ]
     },
@@ -499,6 +445,34 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Jana-Nayagan---Tamil/HO00004248"
+        }
+      ]
+    },
+    {
+      "id": "local-unmadham",
+      "title_ar": "انمادهام",
+      "title_en": "Unmadham - Malayalam",
+      "synopsis_ar": "يتم جر شرطي مثقل بماضيه إلى قضية منسية منذ فترة طويلة لم يتم حلها حقًا. وبينما يحفر أعمق، تبدأ الأسرار الخفية والكشف المقلق في الظهور، مما يجبره على مواجهة الحقائق غير المريحة التي تتحدى معتقداته وتغير حياته إلى الأبد.",
+      "genres_ar": [
+        "جريمة",
+        "إثارة",
+        "غموض"
+      ],
+      "runtime_min": 141,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004439_412.jpg",
+      "trailer_youtube_id": "oEvw9gazUMM",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Unmadham%20-%20Malayalam%20official%20trailer",
+      "ratings": {},
+      "imdb_id": "tt27687469",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Malayalam"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Unmadham---Malayalam/HO00004439"
         }
       ]
     }

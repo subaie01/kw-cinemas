@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-29T11:50:27.128943+00:00",
+  "scraped_at": "2026-07-30T11:31:09.315904+00:00",
   "failures": [
     "vox"
   ],
@@ -29,27 +29,6 @@
       ],
       "runtime_min": 141,
       "trailer_youtube_id": "FL5RBUGHOAY"
-    },
-    "motorcity": {
-      "title_en": "Motor City",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Motor-City/HO00004421"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/motor-city/9999001462/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001462.jpg",
-      "title_ar": "موتر ستي",
-      "synopsis_ar": "في سبعينيات القرن الماضي في ديترويت، تم تأطير رومانسي من الطبقة العاملة من قبل رجل عصابات لا يرحم بعد أن وقع في حب صديقته. بعد سنوات في السجن، يعود بمهمة واحدة فقط: الانتقام.",
-      "runtime_min": 98,
-      "trailer_youtube_id": "TGyr0L6nuqs"
     },
     "khalibalakminnafsik": {
       "title_en": "Khali Balak Min Nafsik (Egyptian) - Arabic",
@@ -82,47 +61,11 @@
       ],
       "cinemas": [
         {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Pinocchio:Unstrung/HO00004442"
-        },
-        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/pinocchiounstrung/9999001460/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001460.jpg",
-      "title_ar": "بنوكيو: انسترانق",
-      "synopsis_ar": "قدم جده، جيبيتو، جيمس إلى دمية خشبية تبدو سحرية تدعى بينوكيو. عندما يصبح الاثنان صديقين، يكشف جيمس عن غير قصد الدمية الساذجة للجوانب المظلمة من العالم. غير قادر على فهم الأخلاق البشرية، يبدأ بينوكيو حملة صليبية عنيفة للقضاء على كل ما يعتبره \"سيئًا\".",
-      "genres_ar": [
-        "رعب",
-        "إثارة"
-      ],
-      "runtime_min": 79,
-      "trailer_youtube_id": "5TNKGUbD9tg"
-    },
-    "ipmankungfulegend": {
-      "title_en": "Ip Man Kungfu Legend",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/IP-MAN-Kungfu-Legend/HO00004450"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/ip-man-kungfu-legend/9999001459/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001459.jpg",
-      "title_ar": "اي بي مان: كونق فو ليجند",
-      "synopsis_ar": "يغادر ييب مان قوة الشرطة لبدء مدرسته للفنون القتالية. عندما تكتسب صالة ملاكمة غربية جميع خصائص فنون الدفاع عن النفس المحلية، يجب عليه حماية التقليد من أن يتم محوه.",
-      "genres_ar": [
-        "أكشن"
-      ],
-      "runtime_min": 94,
-      "trailer_youtube_id": "84V1lkjfjxk"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001460.jpg"
     },
     "odyssey": {
       "title_en": "The Odyssey",
@@ -150,32 +93,6 @@
       "runtime_min": 172,
       "trailer_youtube_id": "V8HyNO6VKTg"
     },
-    "shamshounwdalila": {
-      "title_en": "Shamshoun w Dalila (Egyptian) - Arabic",
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Shamshoun-w-Dalila-(Egyptian)---Arabic/HO00004433"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/shamshoun-w-dalila-(egyptian)-arabic/9999001457/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001457.jpg",
-      "title_ar": "شمشون و داليلة",
-      "synopsis_ar": "في أجواء من الكوميديا و الاثارة و الأكشن ، يُجبر \"شمشون\" على سرقة ماسة أسطورية لإنقاذ شقيقته المخطوفة، بينما تُكلَّف \"دليلة\" من جهة أمنية غامضة بسرقة الماسة نفسها. تتقاطع مهمتاهما في مطاردة مليئة بالخدع والمقالب والمواجهات الذكية، لتتحول المنافسة بينهما إ",
-      "genres_ar": [
-        "أكشن",
-        "إثارة",
-        "رومانسي"
-      ],
-      "runtime_min": 95,
-      "trailer_youtube_id": "HoxMBJFLzZ8"
-    },
     "moana": {
       "title_en": "Moana",
       "languages": [
@@ -202,33 +119,6 @@
       "runtime_min": 115,
       "trailer_youtube_id": "RrCjUcFfy48"
     },
-    "minionsmonsters": {
-      "title_en": "Minions & Monsters - Arabic",
-      "languages": [
-        "Arabic",
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Minions-&-Monsters/HO00004303"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/minions-and-monsters/9999001449/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001449.jpg",
-      "title_ar": "مينيونز والوحوش",
-      "synopsis_ar": "هذه هي القصة المشاغبة، والمجنونة، والحقيقية تمامًا، عن كيف اجتاح المينيونز هوليوود، وأصبحوا نجوماً سينمائيين، ثم خسروا كل شيء، وأطلقوا الوحوش إلى العالم، قبل أن يتحدوا مجددًا لمحاولة إنقاذ الكوكب من الفوضى التي تسببوا بها بأنفسهم.",
-      "genres_ar": [
-        "رسوم متحركة",
-        "مغامرات",
-        "كوميدي"
-      ],
-      "runtime_min": 89,
-      "trailer_youtube_id": "dl4Rhwmoshc"
-    },
     "sakrwcanaria": {
       "title_en": "Sakr W Canaria (Egyptian) - Arabic",
       "languages": [
@@ -238,13 +128,9 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Sakr-W-Canaria-(Egyptian)---Arabic/HO00004388"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/sakr-w-canaria-(egyptian)-arabic/9999001440/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001440.jpg",
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004388_760.jpg",
       "title_ar": "صقر و كناريا(مصري) - عربي",
       "synopsis_ar": "في مزيج من الأكشن والكوميديا، يقرر صقر  المرتزق الأسطوري اعتزال حياته السرية والبحث عن بداية جديدة. لكن لقاءه المفاجئ بـ بلال، كاتب فاشل مهووس بعالم الجاسوسية، يجعل خططه تنقلب رأسًا على عقب. يجد الاثنان نفسيهما في مغامرة خطيرة تقلب حياتهما بالكامل.",
       "genres_ar": [
@@ -253,6 +139,50 @@
       ],
       "runtime_min": 123,
       "trailer_youtube_id": "8OJz0lFb9RU"
+    },
+    "shamshounwdalila": {
+      "title_en": "Shamshoun w Dalila (Egyptian) - Arabic",
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Shamshoun-w-Dalila-(Egyptian)---Arabic/HO00004433"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004433_875.jpg",
+      "title_ar": "شمشون و داليلة",
+      "synopsis_ar": "في أجواء من الكوميديا و الاثارة و الأكشن ، يُجبر \"شمشون\" على سرقة ماسة أسطورية لإنقاذ شقيقته المخطوفة، بينما تُكلَّف \"دليلة\" من جهة أمنية غامضة بسرقة الماسة نفسها. تتقاطع مهمتاهما في مطاردة مليئة بالخدع والمقالب والمواجهات الذكية، لتتحول المنافسة بينهما إ",
+      "genres_ar": [
+        "أكشن",
+        "إثارة",
+        "رومانسي"
+      ],
+      "runtime_min": 95,
+      "trailer_youtube_id": "HoxMBJFLzZ8"
+    },
+    "minionsmonsters": {
+      "title_en": "Minions & Monsters",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Minions-&-Monsters/HO00004303"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004303_601.jpg",
+      "title_ar": "مينيونز والوحوش",
+      "synopsis_ar": "هذه هي القصة المشاغبة، والمجنونة، والحقيقية تمامًا، عن كيف اجتاح المينيونز هوليوود، وأصبحوا نجوماً سينمائيين، ثم خسروا كل شيء، وأطلقوا الوحوش إلى العالم، قبل أن يتحدوا مجددًا لمحاولة إنقاذ الكوكب من الفوضى التي تسببوا بها بأنفسهم.",
+      "genres_ar": [
+        "رسوم متحركة",
+        "مغامرات",
+        "كوميدي"
+      ],
+      "runtime_min": 89,
+      "trailer_youtube_id": "dl4Rhwmoshc"
     },
     "toystory5": {
       "title_en": "Toy Story 5 - Arabic",
@@ -297,6 +227,26 @@
       "runtime_min": 105,
       "trailer_youtube_id": "T3610WJo2xQ"
     },
+    "motorcity": {
+      "title_en": "Motor City",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Motor-City/HO00004421"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004421_565.jpg",
+      "title_ar": "موتر ستي",
+      "synopsis_ar": "في سبعينيات القرن الماضي في ديترويت، تم تأطير رومانسي من الطبقة العاملة من قبل رجل عصابات لا يرحم بعد أن وقع في حب صديقته. بعد سنوات في السجن، يعود بمهمة واحدة فقط: الانتقام.",
+      "genres_ar": [
+        "أكشن"
+      ],
+      "runtime_min": 98,
+      "trailer_youtube_id": "TGyr0L6nuqs"
+    },
     "buyu3": {
       "title_en": "BUYU 3 - Turkish",
       "languages": [
@@ -338,26 +288,25 @@
       "runtime_min": 110,
       "trailer_youtube_id": "IeHwMiFzSm4"
     },
-    "siccin9": {
-      "title_en": "Siccin 9 - Turkish",
+    "ipmankungfulegend": {
+      "title_en": "IP MAN Kungfu Legend",
       "languages": [
-        "Turkish"
+        "English"
       ],
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Siccin-9---Turkish/HO00004417"
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/IP-MAN-Kungfu-Legend/HO00004450"
         }
       ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004417_891.jpg",
-      "title_ar": "سيسسين 9",
-      "synopsis_ar": "لعنة قديمة أيقظتها صرخة الأم انتظرت في صمت لعقود. عندما يعبر حفيدها عتبة منزل والده، تبدأ دورة الظلام من جديد.",
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004450_409.jpg",
+      "title_ar": "اي بي مان: كونق فو ليجند",
+      "synopsis_ar": "يغادر ييب مان قوة الشرطة لبدء مدرسته للفنون القتالية. عندما تكتسب صالة ملاكمة غربية جميع خصائص فنون الدفاع عن النفس المحلية، يجب عليه حماية التقليد من أن يتم محوه.",
       "genres_ar": [
-        "إثارة",
-        "رعب"
+        "أكشن"
       ],
-      "runtime_min": 91,
-      "trailer_youtube_id": "pVWyRUF83zE"
+      "runtime_min": 94,
+      "trailer_youtube_id": "84V1lkjfjxk"
     },
     "jananayagan": {
       "title_en": "Jana Nayagan - Tamil",
@@ -379,6 +328,28 @@
       ],
       "runtime_min": 183,
       "trailer_youtube_id": "KSBg609BO4s"
+    },
+    "unmadham": {
+      "title_en": "Unmadham - Malayalam",
+      "languages": [
+        "Malayalam"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Unmadham---Malayalam/HO00004439"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004439_412.jpg",
+      "title_ar": "انمادهام",
+      "synopsis_ar": "يتم جر شرطي مثقل بماضيه إلى قضية منسية منذ فترة طويلة لم يتم حلها حقًا. وبينما يحفر أعمق، تبدأ الأسرار الخفية والكشف المقلق في الظهور، مما يجبره على مواجهة الحقائق غير المريحة التي تتحدى معتقداته وتغير حياته إلى الأبد.",
+      "genres_ar": [
+        "جريمة",
+        "إثارة",
+        "غموض"
+      ],
+      "runtime_min": 141,
+      "trailer_youtube_id": "oEvw9gazUMM"
     }
   }
 }
