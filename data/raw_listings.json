@@ -1,9 +1,48 @@
 {
-  "scraped_at": "2026-08-03T13:49:03.506362+00:00",
+  "scraped_at": "2026-08-04T11:50:16.843794+00:00",
   "failures": [
     "vox"
   ],
   "movies": {
+    "elgawahergy": {
+      "title_en": "El Gawahergy",
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/el-gawahergy-(egyptian)-arabic/9999001466/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001466.jpg"
+    },
+    "pandaplanthemagicaltribe": {
+      "title_en": "Panda Plan:The Magical Tribe",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/panda-planthe-magical-tribe/9999001465/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001465.jpg"
+    },
+    "icecreamman": {
+      "title_en": "Ice Cream Man",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/ice-cream-man/9999001464/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001464.jpg"
+    },
     "spidermanbrandnewday": {
       "title_en": "Spider Man: Brand New Day",
       "languages": [
