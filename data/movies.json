@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04T11:50:25.585120+00:00",
+  "last_updated": "2026-08-05T11:39:05.643343+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -197,6 +197,10 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/El-Gawahergy-(Egyptian)---Arabic/HO00004448"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/el-gawahergy-(egyptian)-arabic/9999001466/NowShowing"
         }
@@ -220,6 +224,10 @@
         "English"
       ],
       "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Panda-Plan:The-Magical-Tribe/HO00004447"
+        },
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/panda-planthe-magical-tribe/9999001465/NowShowing"
@@ -246,6 +254,10 @@
         "English"
       ],
       "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Ice-Cream-Man/HO00004444"
+        },
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/ice-cream-man/9999001464/NowShowing"
@@ -415,61 +427,6 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Eben-Meen-Fehom-(Egyptian)---Arabic/HO00004399"
-        }
-      ]
-    },
-    {
-      "id": "local-motorcity",
-      "title_ar": "Motor City",
-      "title_en": "Motor City",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001462.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Motor%20City%20official%20trailer",
-      "ratings": {
-        "imdb": "5.8",
-        "rotten_tomatoes": "72%"
-      },
-      "imdb_id": "tt2012616",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Motor-City/HO00004421"
-        }
-      ]
-    },
-    {
-      "id": "local-buyu3",
-      "title_ar": "بويو3",
-      "title_en": "BUYU 3 - Turkish",
-      "synopsis_ar": "رجل محاصر بتعويذة خانقة مظلمة لإبقائه معزولاً عن كل امرأة بما في ذلك زوجته. تتسبب اللعنة في مطاردة الأرواح الشريرة وامتلاك قصر عائلته الكبير المتحلل.",
-      "genres_ar": [
-        "رعب"
-      ],
-      "runtime_min": 87,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004449_539.jpg",
-      "trailer_youtube_id": "E7YsWGBTdY0",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=BUYU%203%20-%20Turkish%20official%20trailer",
-      "ratings": {
-        "imdb": "2.4"
-      },
-      "imdb_id": "tt39955176",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Turkish"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/BUYU-3---Turkish/HO00004449"
         }
       ]
     },
