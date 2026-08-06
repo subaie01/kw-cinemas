@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-05T11:39:00.145790+00:00",
+  "scraped_at": "2026-08-06T11:52:35.673782+00:00",
   "failures": [
     "vox"
   ],
@@ -129,19 +129,6 @@
       "runtime_min": 103,
       "trailer_youtube_id": "p8nNykRtUJI"
     },
-    "pinocchiounstrung": {
-      "title_en": "Pinocchio:Unstrung",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/pinocchiounstrung/9999001460/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001460.jpg"
-    },
     "odyssey": {
       "title_en": "The Odyssey",
       "languages": [
@@ -167,32 +154,6 @@
       ],
       "runtime_min": 172,
       "trailer_youtube_id": "V8HyNO6VKTg"
-    },
-    "moana": {
-      "title_en": "Moana",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Moana/HO00004220"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/moana-english/9999001455/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001455.jpg",
-      "title_ar": "موانا",
-      "synopsis_ar": "نسخة حية من فيلم الرسوم المتحركة \"موانا\" الذي أنتجته شركة ديزني عام 2016.",
-      "genres_ar": [
-        "أكشن",
-        "كوميدي",
-        "مغامرات"
-      ],
-      "runtime_min": 115,
-      "trailer_youtube_id": "RrCjUcFfy48"
     },
     "sakrwcanaria": {
       "title_en": "Sakr W Canaria (Egyptian) - Arabic",
@@ -236,6 +197,28 @@
       ],
       "runtime_min": 95,
       "trailer_youtube_id": "HoxMBJFLzZ8"
+    },
+    "moana": {
+      "title_en": "Moana",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Moana/HO00004220"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004220_307.jpg",
+      "title_ar": "موانا",
+      "synopsis_ar": "نسخة حية من فيلم الرسوم المتحركة \"موانا\" الذي أنتجته شركة ديزني عام 2016.",
+      "genres_ar": [
+        "أكشن",
+        "كوميدي",
+        "مغامرات"
+      ],
+      "runtime_min": 115,
+      "trailer_youtube_id": "RrCjUcFfy48"
     },
     "minionsmonsters": {
       "title_en": "Minions & Monsters",
@@ -302,47 +285,6 @@
       "runtime_min": 105,
       "trailer_youtube_id": "T3610WJo2xQ"
     },
-    "evildeadburn": {
-      "title_en": "Evil Dead Burn",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Evil-Dead-Burn/HO00004387"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004387_255.jpg",
-      "title_ar": "ايفل ديد برن",
-      "synopsis_ar": "يطلق الحرق الميت الشرير العنان لأكثر رحلات الامتياز وحشية ورعبًا حتى الآن، ويشتعل على شاشات كبيرة مع فصل جديد تمامًا من المذابح والفوضى الشيطانية. بعد فقدان زوجها، تبحث امرأة عن العزاء مع أصهارها في منزل أسرتها المنعزل.",
-      "genres_ar": [
-        "رعب",
-        "خيالي"
-      ],
-      "runtime_min": 110,
-      "trailer_youtube_id": "IeHwMiFzSm4"
-    },
-    "ipmankungfulegend": {
-      "title_en": "IP MAN Kungfu Legend",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/IP-MAN-Kungfu-Legend/HO00004450"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004450_409.jpg",
-      "title_ar": "اي بي مان: كونق فو ليجند",
-      "synopsis_ar": "يغادر ييب مان قوة الشرطة لبدء مدرسته للفنون القتالية. عندما تكتسب صالة ملاكمة غربية جميع خصائص فنون الدفاع عن النفس المحلية، يجب عليه حماية التقليد من أن يتم محوه.",
-      "genres_ar": [
-        "أكشن"
-      ],
-      "runtime_min": 94,
-      "trailer_youtube_id": "84V1lkjfjxk"
-    },
     "jananayagan": {
       "title_en": "Jana Nayagan - Tamil",
       "languages": [
@@ -385,6 +327,28 @@
       ],
       "runtime_min": 141,
       "trailer_youtube_id": "oEvw9gazUMM"
+    },
+    "thudakkam": {
+      "title_en": "Thudakkam - Malayalam",
+      "languages": [
+        "Malayalam"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Thudakkam---Malayalam/HO00004451"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004451_066.jpg",
+      "title_ar": "ثاداكم",
+      "synopsis_ar": "عندما يدخل خطر غير متوقع عالمها، يجب على الشابة الاعتماد على الشجاعة والتصميم على البقاء على قيد الحياة. يقع Thudakkam على خلفية مشحونة عاطفيًا، وهو فيلم مثير يستكشف المرونة والأمل والخيارات التي تحددنا.",
+      "genres_ar": [
+        "جريمة",
+        "إثارة",
+        "دراما"
+      ],
+      "runtime_min": 137,
+      "trailer_youtube_id": "7N18iDjqNNY"
     }
   }
 }

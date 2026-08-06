@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T11:39:05.643343+00:00",
+  "last_updated": "2026-08-06T11:52:41.733392+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -48,35 +48,6 @@
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/spider-man-brand-new-day/9999001463/NowShowing"
-        }
-      ]
-    },
-    {
-      "id": "wd-Q132731331",
-      "title_ar": "احتراق الشر المميت",
-      "title_en": "Evil Dead Burn",
-      "synopsis_ar": "يطلق الحرق الميت الشرير العنان لأكثر رحلات الامتياز وحشية ورعبًا حتى الآن، ويشتعل على شاشات كبيرة مع فصل جديد تمامًا من المذابح والفوضى الشيطانية. بعد فقدان زوجها، تبحث امرأة عن العزاء مع أصهارها في منزل أسرتها المنعزل.",
-      "genres_ar": [
-        "رعب",
-        "خيالي"
-      ],
-      "runtime_min": 110,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001453.jpg",
-      "trailer_youtube_id": "IeHwMiFzSm4",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Evil%20Dead%20Burn%20official%20trailer",
-      "ratings": {
-        "imdb": "6.6"
-      },
-      "imdb_id": "tt31170389",
-      "release_date": "2026-07-09",
-      "matched": true,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Evil-Dead-Burn/HO00004387"
         }
       ]
     },
@@ -293,67 +264,6 @@
       ]
     },
     {
-      "id": "local-pinocchiounstrung",
-      "title_ar": "Pinocchio:Unstrung",
-      "title_en": "Pinocchio:Unstrung",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001460.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Pinocchio%3AUnstrung%20official%20trailer",
-      "ratings": {
-        "imdb": "7.6"
-      },
-      "imdb_id": "tt30887701",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/pinocchiounstrung/9999001460/NowShowing"
-        }
-      ]
-    },
-    {
-      "id": "local-moana",
-      "title_ar": "موانا",
-      "title_en": "Moana - Arabic",
-      "synopsis_ar": "نسخة حية من فيلم الرسوم المتحركة \"موانا\" الذي أنتجته شركة ديزني عام 2016.",
-      "genres_ar": [
-        "أكشن",
-        "كوميدي",
-        "مغامرات"
-      ],
-      "runtime_min": 115,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001455.jpg",
-      "trailer_youtube_id": "RrCjUcFfy48",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Moana%20-%20Arabic%20official%20trailer",
-      "ratings": {
-        "imdb": "7.6",
-        "rotten_tomatoes": "96%"
-      },
-      "imdb_id": "tt3521164",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Moana/HO00004220"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/moana-english/9999001455/NowShowing"
-        }
-      ]
-    },
-    {
       "id": "local-sakrwcanaria",
       "title_ar": "صقر و كناريا(مصري) - عربي",
       "title_en": "Sakr W Canaria (Egyptian) - Arabic",
@@ -405,6 +315,37 @@
       ]
     },
     {
+      "id": "local-moana",
+      "title_ar": "موانا",
+      "title_en": "Moana - Arabic",
+      "synopsis_ar": "نسخة حية من فيلم الرسوم المتحركة \"موانا\" الذي أنتجته شركة ديزني عام 2016.",
+      "genres_ar": [
+        "أكشن",
+        "كوميدي",
+        "مغامرات"
+      ],
+      "runtime_min": 115,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001455.jpg",
+      "trailer_youtube_id": "RrCjUcFfy48",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Moana%20-%20Arabic%20official%20trailer",
+      "ratings": {
+        "imdb": "7.6",
+        "rotten_tomatoes": "96%"
+      },
+      "imdb_id": "tt3521164",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Moana/HO00004220"
+        }
+      ]
+    },
+    {
       "id": "local-ebenmeenfehom",
       "title_ar": "ابن مين فيهم",
       "title_en": "Eben Meen Fehom (Egyptian) - Arabic",
@@ -427,30 +368,6 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Eben-Meen-Fehom-(Egyptian)---Arabic/HO00004399"
-        }
-      ]
-    },
-    {
-      "id": "local-ipmankungfulegend",
-      "title_ar": "Ip Man Kungfu Legend",
-      "title_en": "Ip Man Kungfu Legend",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001459.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Ip%20Man%20Kungfu%20Legend%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/IP-MAN-Kungfu-Legend/HO00004450"
         }
       ]
     },
@@ -506,6 +423,34 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Unmadham---Malayalam/HO00004439"
+        }
+      ]
+    },
+    {
+      "id": "wd-Q138589519",
+      "title_ar": "ثاداكم",
+      "title_en": "Thudakkam - Malayalam",
+      "synopsis_ar": "عندما يدخل خطر غير متوقع عالمها، يجب على الشابة الاعتماد على الشجاعة والتصميم على البقاء على قيد الحياة. يقع Thudakkam على خلفية مشحونة عاطفيًا، وهو فيلم مثير يستكشف المرونة والأمل والخيارات التي تحددنا.",
+      "genres_ar": [
+        "جريمة",
+        "إثارة",
+        "دراما"
+      ],
+      "runtime_min": 137,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004451_066.jpg",
+      "trailer_youtube_id": "7N18iDjqNNY",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Thudakkam%20-%20Malayalam%20official%20trailer",
+      "ratings": {},
+      "imdb_id": "tt37510017",
+      "release_date": null,
+      "matched": true,
+      "languages": [
+        "Malayalam"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Thudakkam---Malayalam/HO00004451"
         }
       ]
     }
