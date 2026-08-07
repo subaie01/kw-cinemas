@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-06T11:52:41.733392+00:00",
+  "last_updated": "2026-08-07T08:20:23.720107+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -368,61 +368,6 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Eben-Meen-Fehom-(Egyptian)---Arabic/HO00004399"
-        }
-      ]
-    },
-    {
-      "id": "local-jananayagan",
-      "title_ar": "جانا ناياجان- تاميل",
-      "title_en": "Jana Nayagan - Tamil",
-      "synopsis_ar": "تتواجه أيديولوجيتان مختلفتان واحدة عن الحقيقة والأخرى عن الرغبة في السيطرة، حيث يُشعل خوف طفل فتيل معركة يقودها ضابط شرطة سابق ويتجاوز الأمر معه الانتقام الشخصي",
-      "genres_ar": [
-        "أكشن",
-        "دراما"
-      ],
-      "runtime_min": 183,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004248_339.jpg",
-      "trailer_youtube_id": "KSBg609BO4s",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Jana%20Nayagan%20-%20Tamil%20official%20trailer",
-      "ratings": {},
-      "imdb_id": "tt33379543",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Tamil"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Jana-Nayagan---Tamil/HO00004248"
-        }
-      ]
-    },
-    {
-      "id": "local-unmadham",
-      "title_ar": "انمادهام",
-      "title_en": "Unmadham - Malayalam",
-      "synopsis_ar": "يتم جر شرطي مثقل بماضيه إلى قضية منسية منذ فترة طويلة لم يتم حلها حقًا. وبينما يحفر أعمق، تبدأ الأسرار الخفية والكشف المقلق في الظهور، مما يجبره على مواجهة الحقائق غير المريحة التي تتحدى معتقداته وتغير حياته إلى الأبد.",
-      "genres_ar": [
-        "جريمة",
-        "إثارة",
-        "غموض"
-      ],
-      "runtime_min": 141,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004439_412.jpg",
-      "trailer_youtube_id": "oEvw9gazUMM",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Unmadham%20-%20Malayalam%20official%20trailer",
-      "ratings": {},
-      "imdb_id": "tt27687469",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Malayalam"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Unmadham---Malayalam/HO00004439"
         }
       ]
     },

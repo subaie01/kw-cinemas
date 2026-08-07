@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-06T11:52:35.673782+00:00",
+  "scraped_at": "2026-08-07T08:20:18.700926+00:00",
   "failures": [
     "vox"
   ],
@@ -284,49 +284,6 @@
       ],
       "runtime_min": 105,
       "trailer_youtube_id": "T3610WJo2xQ"
-    },
-    "jananayagan": {
-      "title_en": "Jana Nayagan - Tamil",
-      "languages": [
-        "Tamil"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Jana-Nayagan---Tamil/HO00004248"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004248_339.jpg",
-      "title_ar": "جانا ناياجان- تاميل",
-      "synopsis_ar": "تتواجه أيديولوجيتان مختلفتان واحدة عن الحقيقة والأخرى عن الرغبة في السيطرة، حيث يُشعل خوف طفل فتيل معركة يقودها ضابط شرطة سابق ويتجاوز الأمر معه الانتقام الشخصي",
-      "genres_ar": [
-        "أكشن",
-        "دراما"
-      ],
-      "runtime_min": 183,
-      "trailer_youtube_id": "KSBg609BO4s"
-    },
-    "unmadham": {
-      "title_en": "Unmadham - Malayalam",
-      "languages": [
-        "Malayalam"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Unmadham---Malayalam/HO00004439"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004439_412.jpg",
-      "title_ar": "انمادهام",
-      "synopsis_ar": "يتم جر شرطي مثقل بماضيه إلى قضية منسية منذ فترة طويلة لم يتم حلها حقًا. وبينما يحفر أعمق، تبدأ الأسرار الخفية والكشف المقلق في الظهور، مما يجبره على مواجهة الحقائق غير المريحة التي تتحدى معتقداته وتغير حياته إلى الأبد.",
-      "genres_ar": [
-        "جريمة",
-        "إثارة",
-        "غموض"
-      ],
-      "runtime_min": 141,
-      "trailer_youtube_id": "oEvw9gazUMM"
     },
     "thudakkam": {
       "title_en": "Thudakkam - Malayalam",
