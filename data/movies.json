@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10T09:01:21.993759+00:00",
+  "last_updated": "2026-08-11T07:59:48.363734+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -15,6 +15,36 @@
     }
   },
   "movies": [
+    {
+      "id": "wd-Q140484495",
+      "title_ar": "Above And Below",
+      "title_en": "Above And Below",
+      "synopsis_ar": "",
+      "genres_ar": [
+        "فلم رعب",
+        "فلم أكشن",
+        "فلم إثارة"
+      ],
+      "runtime_min": 96,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001469.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Above%20And%20Below%20official%20trailer",
+      "ratings": {
+        "imdb": "6.4"
+      },
+      "imdb_id": "tt37603783",
+      "release_date": "2026-07-29",
+      "matched": true,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/above-and-below/9999001469/NowShowing"
+        }
+      ]
+    },
     {
       "id": "wd-Q113244935",
       "title_ar": "الرجل العنكبوت: يوم جديد",
@@ -52,6 +82,36 @@
       ]
     },
     {
+      "id": "wd-Q132802215",
+      "title_ar": "Paw Patrol: The Dino Movie",
+      "title_en": "Paw Patrol: The Dino Movie",
+      "synopsis_ar": "",
+      "genres_ar": [
+        "فلم أكشن",
+        "فلم مغامرة"
+      ],
+      "runtime_min": 88,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001471.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Paw%20Patrol%3A%20The%20Dino%20Movie%20official%20trailer",
+      "ratings": {
+        "imdb": "6.1"
+      },
+      "imdb_id": "tt29356163",
+      "release_date": "2026-07-24",
+      "matched": true,
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/paw-patrol-the-dino-movie/9999001471/NowShowing"
+        }
+      ]
+    },
+    {
       "id": "wd-Q131547207",
       "title_ar": "الأوديسة",
       "title_en": "The Odyssey",
@@ -84,6 +144,35 @@
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/the-odyssey/9999001458/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "wd-Q126374606",
+      "title_ar": "The Get Out",
+      "title_en": "The Get Out",
+      "synopsis_ar": "",
+      "genres_ar": [
+        "فلم أكشن",
+        "فلم إثارة"
+      ],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001468.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Get%20Out%20official%20trailer",
+      "ratings": {
+        "imdb": "5.5"
+      },
+      "imdb_id": "tt32321803",
+      "release_date": "2026-06-26",
+      "matched": true,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/the-get-out/9999001468/NowShowing"
         }
       ]
     },
@@ -146,6 +235,62 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Toy-Story-5/HO00004194"
+        }
+      ]
+    },
+    {
+      "id": "wd-Q124804916",
+      "title_ar": "نهاية شارع أوك",
+      "title_en": "The End Of Oak Street",
+      "synopsis_ar": "نهاية شارع أوك هو فلم خيال علمي أمريكي قادم، من كتابة وإنتاج وإخراج ديفيد روبرت ميتشيل، وبطولة آن هاثاواي وإيوان مكريغور ومايسي ستيلا وكريستيان كونفري.",
+      "genres_ar": [
+        "فلم خيال علمي",
+        "فلم البقاء على قيد الحياة"
+      ],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001473.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20End%20Of%20Oak%20Street%20official%20trailer",
+      "ratings": {},
+      "imdb_id": "tt27165187",
+      "release_date": "2025-05-16",
+      "matched": true,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/the-end-of-oak-street/9999001473/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "wd-Q122585845",
+      "title_ar": "منافسو أمزيا كينغ",
+      "title_en": "The Rivals Of Amziah King",
+      "synopsis_ar": "منافسو أمزيا كينغ هو فلم جريمة وإثارة أمريكي صدر عام 2025، كتبه وأخرجه أندرو باترسون، ومن إنتاج بلاك بير بيكتشرز وأفلام هاي داي. يؤدي بطولة الفلم ماثيو ماكونهي، وأنجلينا لوكينغ غلاس، وسكوت شيبرد، وروب مورغان، وتوني ريفولورو، وكيرت راسل.",
+      "genres_ar": [
+        "إثارة وجريمة"
+      ],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001472.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Rivals%20Of%20Amziah%20King%20official%20trailer",
+      "ratings": {
+        "imdb": "7.7",
+        "rotten_tomatoes": "97%"
+      },
+      "imdb_id": "tt27706593",
+      "release_date": "2025-03-10",
+      "matched": true,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/the-rivals-of-amziah-king/9999001472/NowShowing"
         }
       ]
     },
@@ -386,7 +531,7 @@
       "trailer_youtube_id": "7N18iDjqNNY",
       "trailer_search_url": "https://www.youtube.com/results?search_query=Thudakkam%20-%20Malayalam%20official%20trailer",
       "ratings": {
-        "imdb": "6.2"
+        "imdb": "6.3"
       },
       "imdb_id": "tt37510017",
       "release_date": null,
