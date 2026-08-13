@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T08:49:52.073694+00:00",
+  "last_updated": "2026-08-13T05:40:41.462718+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -15,6 +15,40 @@
     }
   },
   "movies": [
+    {
+      "id": "wd-Q140484495",
+      "title_ar": "Above And Below",
+      "title_en": "Above And Below",
+      "synopsis_ar": "",
+      "genres_ar": [
+        "فلم رعب",
+        "فلم أكشن",
+        "فلم إثارة"
+      ],
+      "runtime_min": 96,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001469.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Above%20And%20Below%20official%20trailer",
+      "ratings": {
+        "imdb": "6.4"
+      },
+      "imdb_id": "tt37603783",
+      "release_date": "2026-07-29",
+      "matched": true,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Above-and-Below/HO00004443"
+        },
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/above-and-below/9999001469/NowShowing"
+        }
+      ]
+    },
     {
       "id": "wd-Q113244935",
       "title_ar": "الرجل العنكبوت: يوم جديد",
@@ -44,36 +78,10 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Spider-Man:-Brand-New-Day/HO00004304"
-        }
-      ]
-    },
-    {
-      "id": "wd-Q140484495",
-      "title_ar": "Above And Below",
-      "title_en": "Above And Below",
-      "synopsis_ar": "",
-      "genres_ar": [
-        "فلم رعب",
-        "فلم أكشن",
-        "فلم إثارة"
-      ],
-      "runtime_min": 96,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001469.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Above%20And%20Below%20official%20trailer",
-      "ratings": {
-        "imdb": "6.4"
-      },
-      "imdb_id": "tt37603783",
-      "release_date": "2026-07-29",
-      "matched": true,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
+        },
         {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Above-and-Below/HO00004443"
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/spider-man-brand-new-day/9999001463/NowShowing"
         }
       ]
     },
@@ -104,6 +112,10 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/PAW-Patrol:-The-Dino-Movie/HO00004336"
+        },
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/paw-patrol-the-dino-movie/9999001471/NowShowing"
         }
       ]
     },
@@ -136,6 +148,10 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Odyssey/HO00004251"
+        },
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/the-odyssey/9999001458/NowShowing"
         }
       ]
     },
@@ -165,6 +181,10 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Get-Out/HO00004395"
+        },
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/the-get-out/9999001468/NowShowing"
         }
       ]
     },
@@ -183,7 +203,7 @@
       "trailer_youtube_id": "dl4Rhwmoshc",
       "trailer_search_url": "https://www.youtube.com/results?search_query=Minions%20%26%20Monsters%20-%20Arabic%20official%20trailer",
       "ratings": {
-        "imdb": "6.5"
+        "imdb": "6.4"
       },
       "imdb_id": "tt32890033",
       "release_date": "2026-06-24",
@@ -195,38 +215,6 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Minions-&-Monsters/HO00004303"
-        }
-      ]
-    },
-    {
-      "id": "wd-Q113641997",
-      "title_ar": "حكاية لعبة 5",
-      "title_en": "Toy Story 5 - Arabic",
-      "synopsis_ar": "يواجه وودي وباز وجيسي وبقية وظائف العصابة تحديات عندما يتعرفون على الإلكترونيات، وهو تهديد جديد لوقت اللعب",
-      "genres_ar": [
-        "رسوم متحركة",
-        "مغامرات",
-        "كوميدي"
-      ],
-      "runtime_min": 102,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001428.jpg",
-      "trailer_youtube_id": "IT59jqgHnJc",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Toy%20Story%205%20-%20Arabic%20official%20trailer",
-      "ratings": {
-        "rotten_tomatoes": "92%",
-        "imdb": "7.5"
-      },
-      "imdb_id": "tt29355505",
-      "release_date": "2026-06-09",
-      "matched": true,
-      "languages": [
-        "Arabic",
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Toy-Story-5---Arabic/HO00004420"
         }
       ]
     },
@@ -254,6 +242,10 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-End-of-Oak-Street/HO00004337"
+        },
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/the-end-of-oak-street/9999001473/NowShowing"
         }
       ]
     },
@@ -283,6 +275,10 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Rivals-of-Amziah-King/HO00004456"
+        },
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/the-rivals-of-amziah-king/9999001472/NowShowing"
         }
       ]
     },
@@ -307,6 +303,10 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/El-Gawahergy-(Egyptian)---Arabic/HO00004448"
+        },
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/el-gawahergy-(egyptian)-arabic/9999001466/NowShowing"
         }
       ]
     },
@@ -390,32 +390,6 @@
       ]
     },
     {
-      "id": "local-ebenmeenfehom",
-      "title_ar": "ابن مين فيهم",
-      "title_en": "Eben Meen Fehom (Egyptian) - Arabic",
-      "synopsis_ar": "رشدي (بيومي فؤاد)، رجل أعمال مستهتر، تنقلب حياته رأساً على عقب بعد وفاة عمته وتركها له ثروة ضخمة..بشرط واحد: أن يعثر على ابنه من إحدى زيجاته العابرة. تدخل حياته المحامية الصارمة ماجدة (ليلى علوي) لينطلق الثنائي في رحلة مليئة بالمواقف الكوميدية والفوضى وال",
-      "genres_ar": [
-        "كوميدي"
-      ],
-      "runtime_min": 105,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001452.jpg",
-      "trailer_youtube_id": "T3610WJo2xQ",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Eben%20Meen%20Fehom%20%28Egyptian%29%20-%20Arabic%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Eben-Meen-Fehom-(Egyptian)---Arabic/HO00004399"
-        }
-      ]
-    },
-    {
       "id": "local-shamshounwdalila",
       "title_ar": "Shamshoun W Dalila",
       "title_en": "Shamshoun W Dalila",
@@ -495,28 +469,28 @@
       ]
     },
     {
-      "id": "local-icecreamman",
-      "title_ar": "Ice Cream Man",
-      "title_en": "Ice Cream Man",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001464.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Ice%20Cream%20Man%20official%20trailer",
-      "ratings": {
-        "imdb": "4.8"
-      },
-      "imdb_id": "tt0113376",
+      "id": "wd-Q135094933",
+      "title_ar": "فيشواناث اند سونز",
+      "title_en": "Vishwanath & Sons - Tamil",
+      "synopsis_ar": "كرس سانجاي فيشواناث عقودًا للتميز كمطلق نار دولي. عندما يتصادم العمر والواجبات العائلية والرومانسية غير المتوقعة مع طموحاته، يجب عليه مواجهة ما يجعل الحياة تستحق العيش حقًا.",
+      "genres_ar": [
+        "دراما"
+      ],
+      "runtime_min": 161,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004473_511.jpg",
+      "trailer_youtube_id": "L52TLNjPv8A",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Vishwanath%20%26%20Sons%20-%20Tamil%20official%20trailer",
+      "ratings": {},
+      "imdb_id": "tt35836025",
       "release_date": null,
-      "matched": false,
+      "matched": true,
       "languages": [
-        "English"
+        "Tamil"
       ],
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Ice-Cream-Man/HO00004444"
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Vishwanath-&-Sons---Tamil/HO00004473"
         }
       ]
     },
