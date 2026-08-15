@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14T05:38:35.359071+00:00",
+  "last_updated": "2026-08-15T04:32:02.431942+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -30,7 +30,7 @@
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=Above%20And%20Below%20official%20trailer",
       "ratings": {
-        "imdb": "6.4"
+        "imdb": "6.3"
       },
       "imdb_id": "tt37603783",
       "release_date": "2026-07-29",
@@ -231,7 +231,9 @@
       "poster": "https://www.skycinemaskw.com/images/movies/9999001473.jpg",
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=The%20End%20Of%20Oak%20Street%20official%20trailer",
-      "ratings": {},
+      "ratings": {
+        "imdb": "6.6"
+      },
       "imdb_id": "tt27165187",
       "release_date": "2025-05-16",
       "matched": true,
@@ -262,7 +264,7 @@
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Rivals%20Of%20Amziah%20King%20official%20trailer",
       "ratings": {
-        "imdb": "7.7",
+        "imdb": "7.6",
         "rotten_tomatoes": "97%"
       },
       "imdb_id": "tt27706593",
