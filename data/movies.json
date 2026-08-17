@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16T04:36:44.477730+00:00",
+  "last_updated": "2026-08-17T04:42:28.143091+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -30,7 +30,7 @@
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=Above%20And%20Below%20official%20trailer",
       "ratings": {
-        "imdb": "6.1"
+        "imdb": "5.9"
       },
       "imdb_id": "tt37603783",
       "release_date": "2026-07-29",
@@ -482,7 +482,9 @@
       "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004473_511.jpg",
       "trailer_youtube_id": "L52TLNjPv8A",
       "trailer_search_url": "https://www.youtube.com/results?search_query=Vishwanath%20%26%20Sons%20-%20Tamil%20official%20trailer",
-      "ratings": {},
+      "ratings": {
+        "imdb": "7.6"
+      },
       "imdb_id": "tt35836025",
       "release_date": null,
       "matched": true,
