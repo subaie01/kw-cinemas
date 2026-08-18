@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17T04:42:28.143091+00:00",
+  "last_updated": "2026-08-18T04:36:11.213904+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -99,7 +99,7 @@
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=Paw%20Patrol%3A%20The%20Dino%20Movie%20official%20trailer",
       "ratings": {
-        "imdb": "6.1"
+        "imdb": "6.2"
       },
       "imdb_id": "tt29356163",
       "release_date": "2026-07-24",
@@ -483,7 +483,7 @@
       "trailer_youtube_id": "L52TLNjPv8A",
       "trailer_search_url": "https://www.youtube.com/results?search_query=Vishwanath%20%26%20Sons%20-%20Tamil%20official%20trailer",
       "ratings": {
-        "imdb": "7.6"
+        "imdb": "7.7"
       },
       "imdb_id": "tt35836025",
       "release_date": null,
@@ -513,7 +513,7 @@
       "trailer_youtube_id": "7N18iDjqNNY",
       "trailer_search_url": "https://www.youtube.com/results?search_query=Thudakkam%20-%20Malayalam%20official%20trailer",
       "ratings": {
-        "imdb": "6.3"
+        "imdb": "6.2"
       },
       "imdb_id": "tt37510017",
       "release_date": null,
