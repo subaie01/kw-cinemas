@@ -1,9 +1,133 @@
 {
-  "scraped_at": "2026-08-18T04:36:04.686929+00:00",
+  "scraped_at": "2026-08-19T04:37:18.418593+00:00",
   "failures": [
     "vox"
   ],
   "movies": {
+    "mutiny": {
+      "title_en": "Mutiny",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Mutiny/HO00004352"
+        },
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/mutiny/9999001478/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001478.jpg",
+      "title_ar": "ميوتني",
+      "synopsis_ar": "بعد مقتل رجل أعمال ملياردير، يُلفّق الاتهام لحارسه الخاص، الذي يهرب لكشف مؤامرة دولية خطيرة قبل أن يتم القضاء عليه.",
+      "genres_ar": [
+        "أكشن",
+        "إثارة"
+      ],
+      "runtime_min": 95,
+      "trailer_youtube_id": "wp_uZMVoevE"
+    },
+    "insidiousoutofthefurther": {
+      "title_en": "Insidious: Out Of The Further",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Insidious:-Out-Of-The-Further/HO00004366"
+        },
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/insidious-out-of-the-further/9999001477/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001477.jpg",
+      "title_ar": "انسدياوس : اوت اوف ذا فارذر",
+      "synopsis_ar": "في فيلم الغدر: بعيدًا، تلعب أميليا إيف دور جيما، وهي أم شابة تربي ابنتها في المنزل الذي نشأت فيه وتكتشف أنها تستطيع السفر إلى أبعد من ذلك، عالم التطهير للأرواح المفقودة في قلب الكون الغادر.",
+      "genres_ar": [
+        "رعب"
+      ],
+      "runtime_min": 106,
+      "trailer_youtube_id": "7Dlg4-osqbo"
+    },
+    "mahmoudeltany": {
+      "title_en": "Mahmoud El Tany (Egyptian) - Arabic",
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Mahmoud-El-Tany-(Egyptian)---Arabic/HO00004470"
+        },
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/mahmoud-el-tany-(egyptian)-arabic/9999001476/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001476.jpg",
+      "title_ar": "محمود التاني",
+      "synopsis_ar": "عندما يتسبب تشابه الأسماء بين شاب ثري وعبقري في مجال التكنولوجيا، وعامل بنزينة بسيط، خفيف الظل ويتمتع بذكاء فطري، تتبدل حياة الاثنين ليدخلا في مغامرة فوضوية تقلب عالمهما رأسًا على عقب، وتدفع كلًا منهما لاكتشاف نفسه من جديد.",
+      "genres_ar": [
+        "كوميدي"
+      ],
+      "runtime_min": 104,
+      "trailer_youtube_id": "jF8-T1Jl9Xo"
+    },
+    "amatteroflifeanddeathsaudi": {
+      "title_en": "A Matter of Life and Death (Saudi) - Arabic",
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/A-Matter-of-Life-and-Death-(Saudi)---Arabic/HO00004455"
+        },
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/a-matter-of-life-and-death-(saudi)-arabic/9999001475/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001475.jpg",
+      "title_ar": "مسألة حياة أو موت",
+      "synopsis_ar": "مع لعنة قاتلة تحسب الأيام، تجبر حياة، وهي امرأة شابة تؤمن بالخرافات، يوسف، جراح القلب الانطوائي الحجري البارد الذي يعاني من حالة قلبية غريبة، على اتفاق بري للتغلب على الموت، وإثارة الفوضى، والكوميديا، وقصة حب مستحيلة ضد الساعة.",
+      "genres_ar": [
+        "كوميدي",
+        "دراما",
+        "رومانسي"
+      ],
+      "runtime_min": 113,
+      "trailer_youtube_id": "exsn0OzezRM"
+    },
+    "magicfarawaytree": {
+      "title_en": "The Magic Faraway Tree",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Magic-Faraway-Tree/HO00004485"
+        },
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/the-magic-faraway-tree/9999001474/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001474.jpg",
+      "title_ar": "ذا ماجيك فاروي تري",
+      "synopsis_ar": "تنتقل عائلة حديثة إلى الريف حيث يكتشف الأطفال سكان شجرة سحرية غريبة الأطوار. يتم نقلهم إلى أراض خيالية، وإحياء أسرهم من خلال المغامرة.",
+      "genres_ar": [
+        "عائلي",
+        "كوميدي"
+      ],
+      "runtime_min": 110,
+      "trailer_youtube_id": "laHP0-QVqU4"
+    },
     "endofoakstreet": {
       "title_en": "The End Of Oak Street",
       "languages": [
@@ -207,6 +331,28 @@
       "runtime_min": 172,
       "trailer_youtube_id": "V8HyNO6VKTg"
     },
+    "aksseirsaudi": {
+      "title_en": "AKS SEIR (Saudi) - Arabic",
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/AKS-SEIR-(Saudi)---Arabic/HO00004430"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004430_503.jpg",
+      "title_ar": "عكس سير",
+      "synopsis_ar": "لصّان يتوظّفان في شركة نقل أموال بهدف السطو عليها، فيجدان أنفسهما في مواجهة عصابة أخرى تستهدف السيارة ذاتها، مما يضطرّهما لحماية الأموال بدلاً من سرقتها. بعد نجاحهما يكرمان ويرقيان، ليجدا أنفسهما في موقف أكثر تعقيداً في محاولتهما الثانية  تنتهي بنهاية لم",
+      "genres_ar": [
+        "جريمة",
+        "إثارة",
+        "كوميدي"
+      ],
+      "runtime_min": 105,
+      "trailer_youtube_id": "nv1F1_jGZE8"
+    },
     "khalibalakminnafsik": {
       "title_en": "Khali Balak Min Nafsik (Egyptian) - Arabic",
       "languages": [
@@ -397,6 +543,71 @@
       ],
       "runtime_min": 137,
       "trailer_youtube_id": "7N18iDjqNNY"
+    },
+    "detectiveconanfallenriderjapanese": {
+      "title_en": "Detective Conan:Fallen Rider - Japanese",
+      "languages": [
+        "Japanese"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Detective-Conan:Fallen-Rider---Japanese/HO00004438"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004438_740.jpg",
+      "title_ar": "ديكتيف كونان فولن رايدر فروم ذا هاي واي",
+      "synopsis_ar": "عندما تبدأ سلسلة من حوادث الطرق السريعة المميتة، تشير تحقيقات كونان إدوغاوا إلى مؤامرة مدبرة بدلاً من مجرد حوادث.",
+      "genres_ar": [
+        "رسوم متحركة",
+        "أكشن",
+        "غموض"
+      ],
+      "runtime_min": 109,
+      "trailer_youtube_id": "zunQWsF2rao"
+    },
+    "khalifa": {
+      "title_en": "Khalifa - Malayalam",
+      "languages": [
+        "Malayalam"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Khalifa---Malayalam/HO00004375"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004375_626.jpg",
+      "title_ar": "خليفة – مالايالام",
+      "synopsis_ar": "تدور القصة حول أمير علي، رجل يتورط في عالم خطير من تهريب الذهب والانتقام والنفوذ.",
+      "genres_ar": [
+        "أكشن",
+        "إثارة"
+      ],
+      "runtime_min": 157,
+      "trailer_youtube_id": "KZGoTMrjMsw"
+    },
+    "bethlehemkudumbaunit": {
+      "title_en": "Bethlehem Kudumba Unit - Malayalam",
+      "languages": [
+        "Malayalam"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Bethlehem-Kudumba-Unit---Malayalam/HO00004474"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004474_982.jpg",
+      "title_ar": "بيثاهيم كودومبا ينات",
+      "synopsis_ar": "يتبع زوجين مع اختلاف كبير في العمر أثناء تنقلهما في علاقتهما الرومانسية.",
+      "genres_ar": [
+        "رومانسي",
+        "كوميدي",
+        "دراما"
+      ],
+      "runtime_min": 155,
+      "trailer_youtube_id": "GpTvTWlZ2U4"
     }
   }
 }
