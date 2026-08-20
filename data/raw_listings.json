@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-19T04:37:18.418593+00:00",
+  "scraped_at": "2026-08-20T04:37:23.012945+00:00",
   "failures": [
     "vox"
   ],
@@ -153,132 +153,6 @@
       "runtime_min": 98,
       "trailer_youtube_id": "qXtyiWIUrpE"
     },
-    "rivalsofamziahking": {
-      "title_en": "The Rivals Of Amziah King",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Rivals-of-Amziah-King/HO00004456"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/the-rivals-of-amziah-king/9999001472/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001472.jpg",
-      "title_ar": "ذا رايفلز اوف امزاها كنق",
-      "synopsis_ar": "يجتمع أمزيا كينغ، مربي النحل والموسيقي ومرساة مجتمعه، مع ابنته الحاضنة السابقة كاتيري بعد سنوات عديدة من الانفصال، ويصد التهديدات لأعماله في مجال العسل.",
-      "genres_ar": [
-        "دراما",
-        "إثارة"
-      ],
-      "runtime_min": 131,
-      "trailer_youtube_id": "oV2u17ZXB2A"
-    },
-    "pawpatrolthedinomovie": {
-      "title_en": "PAW Patrol: The Dino Movie - Arabic",
-      "languages": [
-        "Arabic",
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/PAW-Patrol:-The-Dino-Movie/HO00004336"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/paw-patrol-the-dino-movie/9999001471/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001471.jpg",
-      "title_ar": "باو باترول",
-      "synopsis_ar": "بعد أن علقت سفينتهم في عاصفة غامضة، تحطمت جراء باو باترول على جزيرة استوائية مجهولة مليئة بالديناصورات. يلتقيان بريكس، وهو جرو تقطعت به السبل في الجزيرة لسنوات وأصبح خبيرًا في جميع الأمور المتعلقة بالدينو.",
-      "genres_ar": [
-        "رسوم متحركة",
-        "أكشن",
-        "مغامرات"
-      ],
-      "runtime_min": 88,
-      "trailer_youtube_id": "o3Nwy8RTD_0"
-    },
-    "aboveandbelow": {
-      "title_en": "Above And Below",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Above-and-Below/HO00004443"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/above-and-below/9999001469/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001469.jpg",
-      "title_ar": "ابوف اند يبلو",
-      "synopsis_ar": "قررت مجموعة من الأصدقاء قضاء عطلة لا تنسى في المكسيك. ما يبدأ كمغامرة مليئة بالحفلات والغوص يتحول إلى كابوس عندما يتعرضون للهجوم من قبل المجرمين في أعالي البحار.",
-      "genres_ar": [
-        "أكشن",
-        "إثارة"
-      ],
-      "runtime_min": 91,
-      "trailer_youtube_id": "xPPE8NHcmWA"
-    },
-    "getout": {
-      "title_en": "The Get Out",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Get-Out/HO00004395"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/the-get-out/9999001468/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001468.jpg",
-      "title_ar": "ذا قيت اوت",
-      "synopsis_ar": "مالك ملهى ليلي على وشك ترك ماضيه الخطير وراءه للتقاعد. بعد أن سرقه مسلحون ملثمون ووجد نفسه مضغوطًا من قبل عصابات لا ترحم، وصل قادم جديد غامض مهتم بشراء العمل.",
-      "genres_ar": [
-        "أكشن",
-        "إثارة"
-      ],
-      "runtime_min": 99,
-      "trailer_youtube_id": "PHXseoBcybI"
-    },
-    "elgawahergy": {
-      "title_en": "El Gawahergy (Egyptian) - Arabic",
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/El-Gawahergy-(Egyptian)---Arabic/HO00004448"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/el-gawahergy-(egyptian)-arabic/9999001466/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001466.jpg",
-      "title_ar": "الجواهرجي",
-      "synopsis_ar": "بعد أن تضبطه زوجته القوية ياسمين متلبساً بالخيانة للمرة المليون، يجد سيف، الجواهرجي الشهير المزواج، نفسه مجبراً على التخلي عن كبريائه والخضوع لشرطها الوحيد لإنقاذ زواجهما: البدء فوراً في برنامج علاج نفسي مكثف وغريب الأطوار مع مستشار علاقات زوجية. لكن بد",
-      "genres_ar": [
-        "كوميدي"
-      ],
-      "runtime_min": 107,
-      "trailer_youtube_id": "JSk81pO4wg0"
-    },
     "spidermanbrandnewday": {
       "title_en": "Spider Man: Brand New Day",
       "languages": [
@@ -305,6 +179,26 @@
       "runtime_min": 141,
       "trailer_youtube_id": "FL5RBUGHOAY"
     },
+    "elgawahergy": {
+      "title_en": "El Gawahergy (Egyptian) - Arabic",
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/El-Gawahergy-(Egyptian)---Arabic/HO00004448"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004448_973.jpg",
+      "title_ar": "الجواهرجي",
+      "synopsis_ar": "بعد أن تضبطه زوجته القوية ياسمين متلبساً بالخيانة للمرة المليون، يجد سيف، الجواهرجي الشهير المزواج، نفسه مجبراً على التخلي عن كبريائه والخضوع لشرطها الوحيد لإنقاذ زواجهما: البدء فوراً في برنامج علاج نفسي مكثف وغريب الأطوار مع مستشار علاقات زوجية. لكن بد",
+      "genres_ar": [
+        "كوميدي"
+      ],
+      "runtime_min": 107,
+      "trailer_youtube_id": "JSk81pO4wg0"
+    },
     "odyssey": {
       "title_en": "The Odyssey",
       "languages": [
@@ -314,13 +208,9 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Odyssey/HO00004251"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/the-odyssey/9999001458/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001458.jpg",
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004251_096.jpg",
       "title_ar": "ذا اودسي",
       "synopsis_ar": "بعد حرب طروادة، يواجه أوديسيوس رحلة خطيرة عائدا إلى إيثاكا، حيث يلتقي بمخلوقات مثل السيكلوبس بوليفيموس، والحوريات، وسيرسي في طريقه.",
       "genres_ar": [
@@ -330,6 +220,28 @@
       ],
       "runtime_min": 172,
       "trailer_youtube_id": "V8HyNO6VKTg"
+    },
+    "detectiveconanfallenriderjapanese": {
+      "title_en": "Detective Conan:Fallen Rider - Japanese",
+      "languages": [
+        "Japanese"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Detective-Conan:Fallen-Rider---Japanese/HO00004438"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004438_740.jpg",
+      "title_ar": "ديكتيف كونان فولن رايدر فروم ذا هاي واي",
+      "synopsis_ar": "عندما تبدأ سلسلة من حوادث الطرق السريعة المميتة، تشير تحقيقات كونان إدوغاوا إلى مؤامرة مدبرة بدلاً من مجرد حوادث.",
+      "genres_ar": [
+        "رسوم متحركة",
+        "أكشن",
+        "غموض"
+      ],
+      "runtime_min": 109,
+      "trailer_youtube_id": "zunQWsF2rao"
     },
     "aksseirsaudi": {
       "title_en": "AKS SEIR (Saudi) - Arabic",
@@ -353,6 +265,28 @@
       "runtime_min": 105,
       "trailer_youtube_id": "nv1F1_jGZE8"
     },
+    "pawpatrolthedinomovie": {
+      "title_en": "PAW Patrol: The Dino Movie",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/PAW-Patrol:-The-Dino-Movie/HO00004336"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004336_294.jpg",
+      "title_ar": "باو باترول",
+      "synopsis_ar": "بعد أن علقت سفينتهم في عاصفة غامضة، تحطمت جراء باو باترول على جزيرة استوائية مجهولة مليئة بالديناصورات. يلتقيان بريكس، وهو جرو تقطعت به السبل في الجزيرة لسنوات وأصبح خبيرًا في جميع الأمور المتعلقة بالدينو.",
+      "genres_ar": [
+        "رسوم متحركة",
+        "أكشن",
+        "مغامرات"
+      ],
+      "runtime_min": 88,
+      "trailer_youtube_id": "o3Nwy8RTD_0"
+    },
     "khalibalakminnafsik": {
       "title_en": "Khali Balak Min Nafsik (Egyptian) - Arabic",
       "languages": [
@@ -372,6 +306,27 @@
       ],
       "runtime_min": 103,
       "trailer_youtube_id": "p8nNykRtUJI"
+    },
+    "aboveandbelow": {
+      "title_en": "Above and Below",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Above-and-Below/HO00004443"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004443_965.jpg",
+      "title_ar": "ابوف اند يبلو",
+      "synopsis_ar": "قررت مجموعة من الأصدقاء قضاء عطلة لا تنسى في المكسيك. ما يبدأ كمغامرة مليئة بالحفلات والغوص يتحول إلى كابوس عندما يتعرضون للهجوم من قبل المجرمين في أعالي البحار.",
+      "genres_ar": [
+        "أكشن",
+        "إثارة"
+      ],
+      "runtime_min": 91,
+      "trailer_youtube_id": "xPPE8NHcmWA"
     },
     "cahim2": {
       "title_en": "Cahim 2 - Turkish",
@@ -414,27 +369,27 @@
       "runtime_min": 123,
       "trailer_youtube_id": "8OJz0lFb9RU"
     },
-    "shamshounwdalila": {
-      "title_en": "Shamshoun w Dalila (Egyptian) - Arabic",
+    "minionsmonsters": {
+      "title_en": "Minions & Monsters",
       "languages": [
-        "Arabic"
+        "English"
       ],
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Shamshoun-w-Dalila-(Egyptian)---Arabic/HO00004433"
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Minions-&-Monsters/HO00004303"
         }
       ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004433_875.jpg",
-      "title_ar": "شمشون و داليلة",
-      "synopsis_ar": "في أجواء من الكوميديا و الاثارة و الأكشن ، يُجبر \"شمشون\" على سرقة ماسة أسطورية لإنقاذ شقيقته المخطوفة، بينما تُكلَّف \"دليلة\" من جهة أمنية غامضة بسرقة الماسة نفسها. تتقاطع مهمتاهما في مطاردة مليئة بالخدع والمقالب والمواجهات الذكية، لتتحول المنافسة بينهما إ",
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004303_601.jpg",
+      "title_ar": "مينيونز والوحوش",
+      "synopsis_ar": "هذه هي القصة المشاغبة، والمجنونة، والحقيقية تمامًا، عن كيف اجتاح المينيونز هوليوود، وأصبحوا نجوماً سينمائيين، ثم خسروا كل شيء، وأطلقوا الوحوش إلى العالم، قبل أن يتحدوا مجددًا لمحاولة إنقاذ الكوكب من الفوضى التي تسببوا بها بأنفسهم.",
       "genres_ar": [
-        "أكشن",
-        "إثارة",
-        "رومانسي"
+        "رسوم متحركة",
+        "مغامرات",
+        "كوميدي"
       ],
-      "runtime_min": 95,
-      "trailer_youtube_id": "HoxMBJFLzZ8"
+      "runtime_min": 89,
+      "trailer_youtube_id": "dl4Rhwmoshc"
     },
     "moana": {
       "title_en": "Moana",
@@ -458,50 +413,6 @@
       "runtime_min": 115,
       "trailer_youtube_id": "RrCjUcFfy48"
     },
-    "minionsmonsters": {
-      "title_en": "Minions & Monsters",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Minions-&-Monsters/HO00004303"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004303_601.jpg",
-      "title_ar": "مينيونز والوحوش",
-      "synopsis_ar": "هذه هي القصة المشاغبة، والمجنونة، والحقيقية تمامًا، عن كيف اجتاح المينيونز هوليوود، وأصبحوا نجوماً سينمائيين، ثم خسروا كل شيء، وأطلقوا الوحوش إلى العالم، قبل أن يتحدوا مجددًا لمحاولة إنقاذ الكوكب من الفوضى التي تسببوا بها بأنفسهم.",
-      "genres_ar": [
-        "رسوم متحركة",
-        "مغامرات",
-        "كوميدي"
-      ],
-      "runtime_min": 89,
-      "trailer_youtube_id": "dl4Rhwmoshc"
-    },
-    "pandaplanthemagicaltribe": {
-      "title_en": "Panda Plan:The Magical Tribe",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Panda-Plan:The-Magical-Tribe/HO00004447"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004447_226.jpg",
-      "title_ar": "باندا بلان 2",
-      "synopsis_ar": "تعثر العملاق باندا هو هو وجاكي تشان بطريق الخطأ في قبيلة بدائية غامضة، وبدأت مغامرة غير مسبوقة ومضحكة.",
-      "genres_ar": [
-        "عائلي",
-        "مغامرات",
-        "أكشن"
-      ],
-      "runtime_min": 100,
-      "trailer_youtube_id": "cwfQ0nhgL3E"
-    },
     "vishwanathsons": {
       "title_en": "Vishwanath & Sons - Tamil",
       "languages": [
@@ -521,50 +432,6 @@
       ],
       "runtime_min": 161,
       "trailer_youtube_id": "L52TLNjPv8A"
-    },
-    "thudakkam": {
-      "title_en": "Thudakkam - Malayalam",
-      "languages": [
-        "Malayalam"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Thudakkam---Malayalam/HO00004451"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004451_066.jpg",
-      "title_ar": "ثاداكم",
-      "synopsis_ar": "عندما يدخل خطر غير متوقع عالمها، يجب على الشابة الاعتماد على الشجاعة والتصميم على البقاء على قيد الحياة. يقع Thudakkam على خلفية مشحونة عاطفيًا، وهو فيلم مثير يستكشف المرونة والأمل والخيارات التي تحددنا.",
-      "genres_ar": [
-        "جريمة",
-        "إثارة",
-        "دراما"
-      ],
-      "runtime_min": 137,
-      "trailer_youtube_id": "7N18iDjqNNY"
-    },
-    "detectiveconanfallenriderjapanese": {
-      "title_en": "Detective Conan:Fallen Rider - Japanese",
-      "languages": [
-        "Japanese"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Detective-Conan:Fallen-Rider---Japanese/HO00004438"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004438_740.jpg",
-      "title_ar": "ديكتيف كونان فولن رايدر فروم ذا هاي واي",
-      "synopsis_ar": "عندما تبدأ سلسلة من حوادث الطرق السريعة المميتة، تشير تحقيقات كونان إدوغاوا إلى مؤامرة مدبرة بدلاً من مجرد حوادث.",
-      "genres_ar": [
-        "رسوم متحركة",
-        "أكشن",
-        "غموض"
-      ],
-      "runtime_min": 109,
-      "trailer_youtube_id": "zunQWsF2rao"
     },
     "khalifa": {
       "title_en": "Khalifa - Malayalam",

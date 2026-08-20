@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T04:37:33.737173+00:00",
+  "last_updated": "2026-08-20T04:37:30.163462+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -15,40 +15,6 @@
     }
   },
   "movies": [
-    {
-      "id": "wd-Q140484495",
-      "title_ar": "Above And Below",
-      "title_en": "Above And Below",
-      "synopsis_ar": "",
-      "genres_ar": [
-        "فلم رعب",
-        "فلم أكشن",
-        "فلم إثارة"
-      ],
-      "runtime_min": 96,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001469.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Above%20And%20Below%20official%20trailer",
-      "ratings": {
-        "imdb": "5.8"
-      },
-      "imdb_id": "tt37603783",
-      "release_date": "2026-07-29",
-      "matched": true,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Above-and-Below/HO00004443"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/above-and-below/9999001469/NowShowing"
-        }
-      ]
-    },
     {
       "id": "wd-Q113244935",
       "title_ar": "الرجل العنكبوت: يوم جديد",
@@ -86,6 +52,36 @@
       ]
     },
     {
+      "id": "wd-Q140484495",
+      "title_ar": "Above And Below",
+      "title_en": "Above And Below",
+      "synopsis_ar": "",
+      "genres_ar": [
+        "فلم رعب",
+        "فلم أكشن",
+        "فلم إثارة"
+      ],
+      "runtime_min": 96,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001469.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Above%20And%20Below%20official%20trailer",
+      "ratings": {
+        "imdb": "5.7"
+      },
+      "imdb_id": "tt37603783",
+      "release_date": "2026-07-29",
+      "matched": true,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Above-and-Below/HO00004443"
+        }
+      ]
+    },
+    {
       "id": "wd-Q132802215",
       "title_ar": "Paw Patrol: The Dino Movie",
       "title_en": "Paw Patrol: The Dino Movie",
@@ -105,17 +101,12 @@
       "release_date": "2026-07-24",
       "matched": true,
       "languages": [
-        "Arabic",
         "English"
       ],
       "cinemas": [
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/PAW-Patrol:-The-Dino-Movie/HO00004336"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/paw-patrol-the-dino-movie/9999001471/NowShowing"
         }
       ]
     },
@@ -148,43 +139,6 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Odyssey/HO00004251"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/the-odyssey/9999001458/NowShowing"
-        }
-      ]
-    },
-    {
-      "id": "wd-Q126374606",
-      "title_ar": "The Get Out",
-      "title_en": "The Get Out",
-      "synopsis_ar": "",
-      "genres_ar": [
-        "فلم أكشن",
-        "فلم إثارة"
-      ],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001468.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Get%20Out%20official%20trailer",
-      "ratings": {
-        "imdb": "5.5"
-      },
-      "imdb_id": "tt32321803",
-      "release_date": "2026-06-26",
-      "matched": true,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Get-Out/HO00004395"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/the-get-out/9999001468/NowShowing"
         }
       ]
     },
@@ -265,7 +219,7 @@
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=The%20End%20Of%20Oak%20Street%20official%20trailer",
       "ratings": {
-        "imdb": "6.7"
+        "imdb": "6.6"
       },
       "imdb_id": "tt27165187",
       "release_date": "2025-05-16",
@@ -281,39 +235,6 @@
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/the-end-of-oak-street/9999001473/NowShowing"
-        }
-      ]
-    },
-    {
-      "id": "wd-Q122585845",
-      "title_ar": "منافسو أمزيا كينغ",
-      "title_en": "The Rivals Of Amziah King",
-      "synopsis_ar": "منافسو أمزيا كينغ هو فلم جريمة وإثارة أمريكي صدر عام 2025، كتبه وأخرجه أندرو باترسون، ومن إنتاج بلاك بير بيكتشرز وأفلام هاي داي. يؤدي بطولة الفلم ماثيو ماكونهي، وأنجلينا لوكينغ غلاس، وسكوت شيبرد، وروب مورغان، وتوني ريفولورو، وكيرت راسل.",
-      "genres_ar": [
-        "إثارة وجريمة"
-      ],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001472.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Rivals%20Of%20Amziah%20King%20official%20trailer",
-      "ratings": {
-        "imdb": "7.4",
-        "rotten_tomatoes": "97%"
-      },
-      "imdb_id": "tt27706593",
-      "release_date": "2025-03-10",
-      "matched": true,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Rivals-of-Amziah-King/HO00004456"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/the-rivals-of-amziah-king/9999001472/NowShowing"
         }
       ]
     },
@@ -463,10 +384,34 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/El-Gawahergy-(Egyptian)---Arabic/HO00004448"
-        },
+        }
+      ]
+    },
+    {
+      "id": "local-detectiveconanfallenriderjapanese",
+      "title_ar": "ديكتيف كونان فولن رايدر فروم ذا هاي واي",
+      "title_en": "Detective Conan:Fallen Rider - Japanese",
+      "synopsis_ar": "عندما تبدأ سلسلة من حوادث الطرق السريعة المميتة، تشير تحقيقات كونان إدوغاوا إلى مؤامرة مدبرة بدلاً من مجرد حوادث.",
+      "genres_ar": [
+        "رسوم متحركة",
+        "أكشن",
+        "غموض"
+      ],
+      "runtime_min": 109,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004438_740.jpg",
+      "trailer_youtube_id": "zunQWsF2rao",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Detective%20Conan%3AFallen%20Rider%20-%20Japanese%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Japanese"
+      ],
+      "cinemas": [
         {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/el-gawahergy-(egyptian)-arabic/9999001466/NowShowing"
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Detective-Conan:Fallen-Rider---Japanese/HO00004438"
         }
       ]
     },
@@ -578,30 +523,6 @@
       ]
     },
     {
-      "id": "local-shamshounwdalila",
-      "title_ar": "Shamshoun W Dalila",
-      "title_en": "Shamshoun W Dalila",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001457.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Shamshoun%20W%20Dalila%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Shamshoun-w-Dalila-(Egyptian)---Arabic/HO00004433"
-        }
-      ]
-    },
-    {
       "id": "local-moana",
       "title_ar": "موانا",
       "title_en": "Moana - Arabic",
@@ -633,30 +554,6 @@
       ]
     },
     {
-      "id": "local-pandaplanthemagicaltribe",
-      "title_ar": "Panda Plan:The Magical Tribe",
-      "title_en": "Panda Plan:The Magical Tribe",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001465.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Panda%20Plan%3AThe%20Magical%20Tribe%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Panda-Plan:The-Magical-Tribe/HO00004447"
-        }
-      ]
-    },
-    {
       "id": "wd-Q135094933",
       "title_ar": "فيشواناث اند سونز",
       "title_en": "Vishwanath & Sons - Tamil",
@@ -681,64 +578,6 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Vishwanath-&-Sons---Tamil/HO00004473"
-        }
-      ]
-    },
-    {
-      "id": "wd-Q138589519",
-      "title_ar": "ثاداكم",
-      "title_en": "Thudakkam - Malayalam",
-      "synopsis_ar": "عندما يدخل خطر غير متوقع عالمها، يجب على الشابة الاعتماد على الشجاعة والتصميم على البقاء على قيد الحياة. يقع Thudakkam على خلفية مشحونة عاطفيًا، وهو فيلم مثير يستكشف المرونة والأمل والخيارات التي تحددنا.",
-      "genres_ar": [
-        "جريمة",
-        "إثارة",
-        "دراما"
-      ],
-      "runtime_min": 137,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004451_066.jpg",
-      "trailer_youtube_id": "7N18iDjqNNY",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Thudakkam%20-%20Malayalam%20official%20trailer",
-      "ratings": {
-        "imdb": "6.2"
-      },
-      "imdb_id": "tt37510017",
-      "release_date": null,
-      "matched": true,
-      "languages": [
-        "Malayalam"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Thudakkam---Malayalam/HO00004451"
-        }
-      ]
-    },
-    {
-      "id": "local-detectiveconanfallenriderjapanese",
-      "title_ar": "ديكتيف كونان فولن رايدر فروم ذا هاي واي",
-      "title_en": "Detective Conan:Fallen Rider - Japanese",
-      "synopsis_ar": "عندما تبدأ سلسلة من حوادث الطرق السريعة المميتة، تشير تحقيقات كونان إدوغاوا إلى مؤامرة مدبرة بدلاً من مجرد حوادث.",
-      "genres_ar": [
-        "رسوم متحركة",
-        "أكشن",
-        "غموض"
-      ],
-      "runtime_min": 109,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004438_740.jpg",
-      "trailer_youtube_id": "zunQWsF2rao",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Detective%20Conan%3AFallen%20Rider%20-%20Japanese%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Japanese"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Detective-Conan:Fallen-Rider---Japanese/HO00004438"
         }
       ]
     },
