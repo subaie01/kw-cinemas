@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T04:33:32.958194+00:00",
+  "last_updated": "2026-08-23T04:37:44.720239+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -32,7 +32,7 @@
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=Spider%20Man%3A%20Brand%20New%20Day%20official%20trailer",
       "ratings": {
-        "imdb": "8.1"
+        "imdb": "8.0"
       },
       "imdb_id": "tt22084616",
       "release_date": "2026-07-29",
@@ -219,7 +219,8 @@
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=The%20End%20Of%20Oak%20Street%20official%20trailer",
       "ratings": {
-        "imdb": "6.6"
+        "imdb": "6.6",
+        "rotten_tomatoes": "86%"
       },
       "imdb_id": "tt27165187",
       "release_date": "2025-05-16",
@@ -552,34 +553,6 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Moana/HO00004220"
-        }
-      ]
-    },
-    {
-      "id": "wd-Q135094933",
-      "title_ar": "فيشواناث اند سونز",
-      "title_en": "Vishwanath & Sons - Tamil",
-      "synopsis_ar": "كرس سانجاي فيشواناث عقودًا للتميز كمطلق نار دولي. عندما يتصادم العمر والواجبات العائلية والرومانسية غير المتوقعة مع طموحاته، يجب عليه مواجهة ما يجعل الحياة تستحق العيش حقًا.",
-      "genres_ar": [
-        "دراما"
-      ],
-      "runtime_min": 161,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004473_511.jpg",
-      "trailer_youtube_id": "L52TLNjPv8A",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Vishwanath%20%26%20Sons%20-%20Tamil%20official%20trailer",
-      "ratings": {
-        "imdb": "7.7"
-      },
-      "imdb_id": "tt35836025",
-      "release_date": null,
-      "matched": true,
-      "languages": [
-        "Tamil"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Vishwanath-&-Sons---Tamil/HO00004473"
         }
       ]
     },
