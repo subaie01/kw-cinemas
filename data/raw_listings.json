@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-23T04:37:38.268473+00:00",
+  "scraped_at": "2026-08-24T04:45:19.857198+00:00",
   "failures": [
     "vox"
   ],
@@ -412,6 +412,26 @@
       ],
       "runtime_min": 115,
       "trailer_youtube_id": "RrCjUcFfy48"
+    },
+    "vishwanathsons": {
+      "title_en": "Vishwanath & Sons - Tamil",
+      "languages": [
+        "Tamil"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Vishwanath-&-Sons---Tamil/HO00004473"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004473_511.jpg",
+      "title_ar": "فيشواناث اند سونز",
+      "synopsis_ar": "كرس سانجاي فيشواناث عقودًا للتميز كمطلق نار دولي. عندما يتصادم العمر والواجبات العائلية والرومانسية غير المتوقعة مع طموحاته، يجب عليه مواجهة ما يجعل الحياة تستحق العيش حقًا.",
+      "genres_ar": [
+        "دراما"
+      ],
+      "runtime_min": 161,
+      "trailer_youtube_id": "L52TLNjPv8A"
     },
     "khalifa": {
       "title_en": "Khalifa - Malayalam",
