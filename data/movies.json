@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T04:45:27.435985+00:00",
+  "last_updated": "2026-08-25T04:39:29.750268+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -15,6 +15,33 @@
     }
   },
   "movies": [
+    {
+      "id": "wd-Q132256832",
+      "title_ar": "نجوم الكلب",
+      "title_en": "The Dog Stars",
+      "synopsis_ar": "نجوم الكلب هو فلم خيال علمي ما بعد نهاية العالم قادم، من إخراج ريدلي سكوت، وكتابة مارك إل. سميث وكريستوفر ويلكينسون، وهو مقتبس عن رواية تحمل الاسم نفسه صدرت عام 2012 للكاتب بيتر هيلر.",
+      "genres_ar": [
+        "فيلم ما بعد الكارثة",
+        "فلم خيال علمي"
+      ],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001483.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Dog%20Stars%20official%20trailer",
+      "ratings": {},
+      "imdb_id": "tt21285562",
+      "release_date": "2026-08-27",
+      "matched": true,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/the-dog-stars/9999001483/NowShowing"
+        }
+      ]
+    },
     {
       "id": "wd-Q113244935",
       "title_ar": "الرجل العنكبوت: يوم جديد",
@@ -206,6 +233,34 @@
       ]
     },
     {
+      "id": "wd-Q138193904",
+      "title_ar": "Misdirection",
+      "title_en": "Misdirection",
+      "synopsis_ar": "",
+      "genres_ar": [
+        "فلم إثارة"
+      ],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001480.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Misdirection%20official%20trailer",
+      "ratings": {
+        "imdb": "4.5"
+      },
+      "imdb_id": "tt6374142",
+      "release_date": "2026-02-10",
+      "matched": true,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/misdirection/9999001480/NowShowing"
+        }
+      ]
+    },
+    {
       "id": "wd-Q124804916",
       "title_ar": "نهاية شارع أوك",
       "title_en": "The End Of Oak Street",
@@ -236,6 +291,83 @@
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/the-end-of-oak-street/9999001473/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "local-toxic",
+      "title_ar": "Toxic",
+      "title_en": "Toxic",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001482.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Toxic%20official%20trailer",
+      "ratings": {
+        "imdb": "3.7"
+      },
+      "imdb_id": "tt0453560",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Hindi"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/toxic-hindi/9999001482/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "local-sharkattack",
+      "title_ar": "Shark Attack",
+      "title_en": "Shark Attack",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001481.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Shark%20Attack%20official%20trailer",
+      "ratings": {
+        "imdb": "3.4",
+        "rotten_tomatoes": "0%"
+      },
+      "imdb_id": "tt0161970",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/shark-attack/9999001481/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "local-coyotevsacme",
+      "title_ar": "Coyote Vs Acme",
+      "title_en": "Coyote Vs Acme",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001479.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Coyote%20Vs%20Acme%20official%20trailer",
+      "ratings": {},
+      "imdb_id": "tt1756855",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/coyote-vs-acme/9999001479/NowShowing"
         }
       ]
     },
@@ -638,6 +770,32 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Bethlehem-Kudumba-Unit---Malayalam/HO00004474"
+        }
+      ]
+    },
+    {
+      "id": "local-toxickannada",
+      "title_ar": "توكسك",
+      "title_en": "Toxic - Kannada",
+      "synopsis_ar": "تدور أحداث توكسك في غوا بين الأربعينيات والسبعينيات، كاشفة عالمًا مظلمًا خلف جمال الساحل، حيث يشقّ رجلٌ طريقه عبر الخيانة والدم لبناء إمبراطورية إجرامية، ثم يواجه ثمن القوة والهاوية داخله.",
+      "genres_ar": [
+        "أكشن"
+      ],
+      "runtime_min": 178,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004298_955.jpg",
+      "trailer_youtube_id": "psEpYci8eFU",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Toxic%20-%20Kannada%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Kannada"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Toxic---Kannada/HO00004298"
         }
       ]
     }
