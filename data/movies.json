@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T04:39:29.750268+00:00",
+  "last_updated": "2026-08-26T04:40:21.045924+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -36,6 +36,10 @@
         "English"
       ],
       "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Dog-Stars/HO00004093"
+        },
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/the-dog-stars/9999001483/NowShowing"
@@ -255,6 +259,10 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Misdirection/HO00004170"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/misdirection/9999001480/NowShowing"
         }
@@ -342,6 +350,10 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Shark-Attack/HO00004487"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/shark-attack/9999001481/NowShowing"
         }
@@ -365,6 +377,10 @@
         "English"
       ],
       "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Coyote-vs-Acme/HO00004371"
+        },
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/coyote-vs-acme/9999001479/NowShowing"
@@ -551,6 +567,34 @@
       ]
     },
     {
+      "id": "local-colonykorean",
+      "title_ar": "كولوني",
+      "title_en": "Colony - Korean",
+      "synopsis_ar": "يحضر البروفيسور سي جيونغ مؤتمرًا للتكنولوجيا الحيوية، فقط ليشهده يتصاعد إلى كارثة عندما يتم إطلاق العنان لفيروس سريع التحور. عندما ينتشر التفشي ويبدأ المصابون في التحول، تغلق السلطات المرفق بأكمله.",
+      "genres_ar": [
+        "رعب",
+        "إثارة",
+        "أكشن"
+      ],
+      "runtime_min": 122,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004446_848.jpg",
+      "trailer_youtube_id": "jm-7zgYbVLc",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Colony%20-%20Korean%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Korean"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Colony---Korean/HO00004446"
+        }
+      ]
+    },
+    {
       "id": "local-aksseirsaudi",
       "title_ar": "عكس سير",
       "title_en": "AKS SEIR (Saudi) - Arabic",
@@ -685,34 +729,6 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Moana/HO00004220"
-        }
-      ]
-    },
-    {
-      "id": "wd-Q135094933",
-      "title_ar": "فيشواناث اند سونز",
-      "title_en": "Vishwanath & Sons - Tamil",
-      "synopsis_ar": "كرس سانجاي فيشواناث عقودًا للتميز كمطلق نار دولي. عندما يتصادم العمر والواجبات العائلية والرومانسية غير المتوقعة مع طموحاته، يجب عليه مواجهة ما يجعل الحياة تستحق العيش حقًا.",
-      "genres_ar": [
-        "دراما"
-      ],
-      "runtime_min": 161,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004473_511.jpg",
-      "trailer_youtube_id": "L52TLNjPv8A",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Vishwanath%20%26%20Sons%20-%20Tamil%20official%20trailer",
-      "ratings": {
-        "imdb": "7.6"
-      },
-      "imdb_id": "tt35836025",
-      "release_date": null,
-      "matched": true,
-      "languages": [
-        "Tamil"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Vishwanath-&-Sons---Tamil/HO00004473"
         }
       ]
     },

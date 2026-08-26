@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-25T04:39:15.424937+00:00",
+  "scraped_at": "2026-08-26T04:40:11.021588+00:00",
   "failures": [
     "vox"
   ],
@@ -11,11 +11,24 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Dog-Stars/HO00004093"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/the-dog-stars/9999001483/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001483.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001483.jpg",
+      "title_ar": "ذي دوغ ستارز",
+      "synopsis_ar": "بعد وباء يقضي على البشرية، يكافح ناجون في عالم مدمر. هيغ، الطيار الذي فقد زوجته، يحاول النجاة وسط أخطار لا ترحم.",
+      "genres_ar": [
+        "أكشن",
+        "مغامرات",
+        "إثارة"
+      ],
+      "runtime_min": 117,
+      "trailer_youtube_id": "DMef3HaCFKM"
     },
     "toxic": {
       "title_en": "Toxic",
@@ -37,11 +50,22 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Shark-Attack/HO00004487"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/shark-attack/9999001481/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001481.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001481.jpg",
+      "title_ar": "شارك اتاك",
+      "synopsis_ar": "تتعرض بلدة شاطئية صغيرة لعاصفة لا يمكن لأحد أن يتنبأ بحجمها. تحاول عائلة وصلت للتو الفرار لكنها تعلق في المياه التي تنتشر فيها أسماك القرش بسرعة.",
+      "genres_ar": [
+        "أكشن"
+      ],
+      "runtime_min": 77,
+      "trailer_youtube_id": "r7L6sUWZlII"
     },
     "misdirection": {
       "title_en": "Misdirection",
@@ -50,11 +74,23 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Misdirection/HO00004170"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/misdirection/9999001480/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001480.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001480.jpg",
+      "title_ar": "ماسدريكتون",
+      "synopsis_ar": "قام زوجان يائسان بسلسلة من عمليات الاقتحام الراقية لسداد ديون الغوغاء. عندما يحاولون سرقة ضحيتهم الأخيرة، يجدون أنفسهم عالقين في لعبة قاتلة من القط والفأر. يتم قلب الطاولات ويصبح الصيادون مطاردين.",
+      "genres_ar": [
+        "أكشن",
+        "إثارة"
+      ],
+      "runtime_min": 88,
+      "trailer_youtube_id": "GMoz5T1tD80"
     },
     "coyotevsacme": {
       "title_en": "Coyote Vs Acme",
@@ -63,11 +99,24 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Coyote-vs-Acme/HO00004371"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/coyote-vs-acme/9999001479/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001479.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001479.jpg",
+      "title_ar": "كايوتي ضد آكمي",
+      "synopsis_ar": "قصة تدور داخل مستودعات شركة آكمي، المصنعة لكل ما يستخدمه شخصيات لوني تونز من أي شيء وكل شيء.",
+      "genres_ar": [
+        "رسوم متحركة",
+        "مغامرات",
+        "كوميدي"
+      ],
+      "runtime_min": 103,
+      "trailer_youtube_id": "aSW5ky6fTJc"
     },
     "mutiny": {
       "title_en": "Mutiny",
@@ -308,6 +357,28 @@
       "runtime_min": 109,
       "trailer_youtube_id": "zunQWsF2rao"
     },
+    "colonykorean": {
+      "title_en": "Colony - Korean",
+      "languages": [
+        "Korean"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Colony---Korean/HO00004446"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004446_848.jpg",
+      "title_ar": "كولوني",
+      "synopsis_ar": "يحضر البروفيسور سي جيونغ مؤتمرًا للتكنولوجيا الحيوية، فقط ليشهده يتصاعد إلى كارثة عندما يتم إطلاق العنان لفيروس سريع التحور. عندما ينتشر التفشي ويبدأ المصابون في التحول، تغلق السلطات المرفق بأكمله.",
+      "genres_ar": [
+        "رعب",
+        "إثارة",
+        "أكشن"
+      ],
+      "runtime_min": 122,
+      "trailer_youtube_id": "jm-7zgYbVLc"
+    },
     "aksseirsaudi": {
       "title_en": "AKS SEIR (Saudi) - Arabic",
       "languages": [
@@ -477,26 +548,6 @@
       ],
       "runtime_min": 115,
       "trailer_youtube_id": "RrCjUcFfy48"
-    },
-    "vishwanathsons": {
-      "title_en": "Vishwanath & Sons - Tamil",
-      "languages": [
-        "Tamil"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Vishwanath-&-Sons---Tamil/HO00004473"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004473_511.jpg",
-      "title_ar": "فيشواناث اند سونز",
-      "synopsis_ar": "كرس سانجاي فيشواناث عقودًا للتميز كمطلق نار دولي. عندما يتصادم العمر والواجبات العائلية والرومانسية غير المتوقعة مع طموحاته، يجب عليه مواجهة ما يجعل الحياة تستحق العيش حقًا.",
-      "genres_ar": [
-        "دراما"
-      ],
-      "runtime_min": 161,
-      "trailer_youtube_id": "L52TLNjPv8A"
     },
     "khalifa": {
       "title_en": "Khalifa - Malayalam",
