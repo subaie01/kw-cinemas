@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26T04:40:21.045924+00:00",
+  "last_updated": "2026-08-27T15:01:42.871240+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -83,36 +83,6 @@
       ]
     },
     {
-      "id": "wd-Q140484495",
-      "title_ar": "Above And Below",
-      "title_en": "Above And Below",
-      "synopsis_ar": "",
-      "genres_ar": [
-        "فلم رعب",
-        "فلم أكشن",
-        "فلم إثارة"
-      ],
-      "runtime_min": 96,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001469.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Above%20And%20Below%20official%20trailer",
-      "ratings": {
-        "imdb": "5.7"
-      },
-      "imdb_id": "tt37603783",
-      "release_date": "2026-07-29",
-      "matched": true,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Above-and-Below/HO00004443"
-        }
-      ]
-    },
-    {
       "id": "wd-Q132802215",
       "title_ar": "Paw Patrol: The Dino Movie",
       "title_en": "Paw Patrol: The Dino Movie",
@@ -170,69 +140,6 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Odyssey/HO00004251"
-        }
-      ]
-    },
-    {
-      "id": "wd-Q127605787",
-      "title_ar": "المينيون والوحوش",
-      "title_en": "Minions & Monsters - Arabic",
-      "synopsis_ar": "هذه هي القصة المشاغبة، والمجنونة، والحقيقية تمامًا، عن كيف اجتاح المينيونز هوليوود، وأصبحوا نجوماً سينمائيين، ثم خسروا كل شيء، وأطلقوا الوحوش إلى العالم، قبل أن يتحدوا مجددًا لمحاولة إنقاذ الكوكب من الفوضى التي تسببوا بها بأنفسهم.",
-      "genres_ar": [
-        "رسوم متحركة",
-        "مغامرات",
-        "كوميدي"
-      ],
-      "runtime_min": 90,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001449.jpg",
-      "trailer_youtube_id": "dl4Rhwmoshc",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Minions%20%26%20Monsters%20-%20Arabic%20official%20trailer",
-      "ratings": {
-        "imdb": "6.4"
-      },
-      "imdb_id": "tt32890033",
-      "release_date": "2026-06-24",
-      "matched": true,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Minions-&-Monsters/HO00004303"
-        }
-      ]
-    },
-    {
-      "id": "wd-Q126930033",
-      "title_ar": "الشجرة السحرية البعيدة",
-      "title_en": "The Magic Faraway Tree",
-      "synopsis_ar": "تنتقل عائلة حديثة إلى الريف حيث يكتشف الأطفال سكان شجرة سحرية غريبة الأطوار. يتم نقلهم إلى أراض خيالية، وإحياء أسرهم من خلال المغامرة.",
-      "genres_ar": [
-        "عائلي",
-        "كوميدي"
-      ],
-      "runtime_min": 110,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001474.jpg",
-      "trailer_youtube_id": "laHP0-QVqU4",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Magic%20Faraway%20Tree%20official%20trailer",
-      "ratings": {
-        "imdb": "6.2"
-      },
-      "imdb_id": "tt7734244",
-      "release_date": "2026-04-30",
-      "matched": true,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Magic-Faraway-Tree/HO00004485"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/the-magic-faraway-tree/9999001474/NowShowing"
         }
       ]
     },
@@ -295,10 +202,6 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-End-of-Oak-Street/HO00004337"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/the-end-of-oak-street/9999001473/NowShowing"
         }
       ]
     },
@@ -453,64 +356,30 @@
       ]
     },
     {
-      "id": "local-mahmoudeltany",
-      "title_ar": "محمود التاني",
-      "title_en": "Mahmoud El Tany (Egyptian) - Arabic",
-      "synopsis_ar": "عندما يتسبب تشابه الأسماء بين شاب ثري وعبقري في مجال التكنولوجيا، وعامل بنزينة بسيط، خفيف الظل ويتمتع بذكاء فطري، تتبدل حياة الاثنين ليدخلا في مغامرة فوضوية تقلب عالمهما رأسًا على عقب، وتدفع كلًا منهما لاكتشاف نفسه من جديد.",
+      "id": "local-colonykorean",
+      "title_ar": "كولوني",
+      "title_en": "Colony - Korean",
+      "synopsis_ar": "يحضر البروفيسور سي جيونغ مؤتمرًا للتكنولوجيا الحيوية، فقط ليشهده يتصاعد إلى كارثة عندما يتم إطلاق العنان لفيروس سريع التحور. عندما ينتشر التفشي ويبدأ المصابون في التحول، تغلق السلطات المرفق بأكمله.",
       "genres_ar": [
-        "كوميدي"
+        "رعب",
+        "إثارة",
+        "أكشن"
       ],
-      "runtime_min": 104,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001476.jpg",
-      "trailer_youtube_id": "jF8-T1Jl9Xo",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Mahmoud%20El%20Tany%20%28Egyptian%29%20-%20Arabic%20official%20trailer",
-      "ratings": {},
-      "imdb_id": "tt42667820",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Mahmoud-El-Tany-(Egyptian)---Arabic/HO00004470"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/mahmoud-el-tany-(egyptian)-arabic/9999001476/NowShowing"
-        }
-      ]
-    },
-    {
-      "id": "local-amatteroflifeanddeathsaudi",
-      "title_ar": "مسألة حياة أو موت",
-      "title_en": "A Matter of Life and Death (Saudi) - Arabic",
-      "synopsis_ar": "مع لعنة قاتلة تحسب الأيام، تجبر حياة، وهي امرأة شابة تؤمن بالخرافات، يوسف، جراح القلب الانطوائي الحجري البارد الذي يعاني من حالة قلبية غريبة، على اتفاق بري للتغلب على الموت، وإثارة الفوضى، والكوميديا، وقصة حب مستحيلة ضد الساعة.",
-      "genres_ar": [
-        "كوميدي",
-        "دراما",
-        "رومانسي"
-      ],
-      "runtime_min": 113,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001475.jpg",
-      "trailer_youtube_id": "exsn0OzezRM",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=A%20Matter%20of%20Life%20and%20Death%20%28Saudi%29%20-%20Arabic%20official%20trailer",
+      "runtime_min": 122,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004446_848.jpg",
+      "trailer_youtube_id": "jm-7zgYbVLc",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Colony%20-%20Korean%20official%20trailer",
       "ratings": {},
       "imdb_id": null,
       "release_date": null,
       "matched": false,
       "languages": [
-        "Arabic"
+        "Korean"
       ],
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/A-Matter-of-Life-and-Death-(Saudi)---Arabic/HO00004455"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/a-matter-of-life-and-death-(saudi)-arabic/9999001475/NowShowing"
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Colony---Korean/HO00004446"
         }
       ]
     },
@@ -535,6 +404,109 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/El-Gawahergy-(Egyptian)---Arabic/HO00004448"
+        }
+      ]
+    },
+    {
+      "id": "local-closedformaintenance",
+      "title_ar": "مغلق للصيانة (كويتي) - عربي",
+      "title_en": "Closed for Maintenance (Kuwaiti) - Arabic",
+      "synopsis_ar": "في إطار من التشويق والإثارة والغموض النفسي، يجد رجل وامرأة نفسيهما محبوسين داخل مصعد معطل في مكان مغلق، وتنقطع الكهرباء وتتعطل كاميرات المراقبة، مما يؤدي لبطء عمليات الإنقاذ وتصاعد التوتر والصراع النفسي بين الشخصيتين المحتجزتين أثناء محاولاتهما الخروج",
+      "genres_ar": [
+        "إثارة"
+      ],
+      "runtime_min": 98,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004488_096.jpg",
+      "trailer_youtube_id": "QWJHQKMZmHE",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Closed%20for%20Maintenance%20%28Kuwaiti%29%20-%20Arabic%20official%20trailer",
+      "ratings": {},
+      "imdb_id": "tt8351426",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Closed-for-Maintenance-(Kuwaiti)---Arabic/HO00004488"
+        }
+      ]
+    },
+    {
+      "id": "local-mahmoudeltany",
+      "title_ar": "محمود التاني",
+      "title_en": "Mahmoud El Tany (Egyptian) - Arabic",
+      "synopsis_ar": "عندما يتسبب تشابه الأسماء بين شاب ثري وعبقري في مجال التكنولوجيا، وعامل بنزينة بسيط، خفيف الظل ويتمتع بذكاء فطري، تتبدل حياة الاثنين ليدخلا في مغامرة فوضوية تقلب عالمهما رأسًا على عقب، وتدفع كلًا منهما لاكتشاف نفسه من جديد.",
+      "genres_ar": [
+        "كوميدي"
+      ],
+      "runtime_min": 104,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001476.jpg",
+      "trailer_youtube_id": "jF8-T1Jl9Xo",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Mahmoud%20El%20Tany%20%28Egyptian%29%20-%20Arabic%20official%20trailer",
+      "ratings": {},
+      "imdb_id": "tt42667820",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Mahmoud-El-Tany-(Egyptian)---Arabic/HO00004470"
+        }
+      ]
+    },
+    {
+      "id": "local-khalibalakminnafsik",
+      "title_ar": "Khali Balak Min Nafsik",
+      "title_en": "Khali Balak Min Nafsik",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001461.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Khali%20Balak%20Min%20Nafsik%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Khali-Balak-Min-Nafsik-(Egyptian)---Arabic/HO00004436"
+        }
+      ]
+    },
+    {
+      "id": "local-sakrwcanaria",
+      "title_ar": "صقر و كناريا(مصري) - عربي",
+      "title_en": "Sakr W Canaria (Egyptian) - Arabic",
+      "synopsis_ar": "في مزيج من الأكشن والكوميديا، يقرر صقر  المرتزق الأسطوري اعتزال حياته السرية والبحث عن بداية جديدة. لكن لقاءه المفاجئ بـ بلال، كاتب فاشل مهووس بعالم الجاسوسية، يجعل خططه تنقلب رأسًا على عقب. يجد الاثنان نفسيهما في مغامرة خطيرة تقلب حياتهما بالكامل.",
+      "genres_ar": [
+        "كوميدي",
+        "أكشن"
+      ],
+      "runtime_min": 123,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001440.jpg",
+      "trailer_youtube_id": "8OJz0lFb9RU",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Sakr%20W%20Canaria%20%28Egyptian%29%20-%20Arabic%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Sakr-W-Canaria-(Egyptian)---Arabic/HO00004388"
         }
       ]
     },
@@ -567,168 +539,28 @@
       ]
     },
     {
-      "id": "local-colonykorean",
-      "title_ar": "كولوني",
-      "title_en": "Colony - Korean",
-      "synopsis_ar": "يحضر البروفيسور سي جيونغ مؤتمرًا للتكنولوجيا الحيوية، فقط ليشهده يتصاعد إلى كارثة عندما يتم إطلاق العنان لفيروس سريع التحور. عندما ينتشر التفشي ويبدأ المصابون في التحول، تغلق السلطات المرفق بأكمله.",
+      "id": "local-toxickannada",
+      "title_ar": "توكسك",
+      "title_en": "Toxic - Kannada",
+      "synopsis_ar": "تدور أحداث توكسك في غوا بين الأربعينيات والسبعينيات، كاشفة عالمًا مظلمًا خلف جمال الساحل، حيث يشقّ رجلٌ طريقه عبر الخيانة والدم لبناء إمبراطورية إجرامية، ثم يواجه ثمن القوة والهاوية داخله.",
       "genres_ar": [
-        "رعب",
-        "إثارة",
         "أكشن"
       ],
-      "runtime_min": 122,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004446_848.jpg",
-      "trailer_youtube_id": "jm-7zgYbVLc",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Colony%20-%20Korean%20official%20trailer",
+      "runtime_min": 178,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004298_955.jpg",
+      "trailer_youtube_id": "psEpYci8eFU",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Toxic%20-%20Kannada%20official%20trailer",
       "ratings": {},
       "imdb_id": null,
       "release_date": null,
       "matched": false,
       "languages": [
-        "Korean"
+        "Kannada"
       ],
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Colony---Korean/HO00004446"
-        }
-      ]
-    },
-    {
-      "id": "local-aksseirsaudi",
-      "title_ar": "عكس سير",
-      "title_en": "AKS SEIR (Saudi) - Arabic",
-      "synopsis_ar": "لصّان يتوظّفان في شركة نقل أموال بهدف السطو عليها، فيجدان أنفسهما في مواجهة عصابة أخرى تستهدف السيارة ذاتها، مما يضطرّهما لحماية الأموال بدلاً من سرقتها. بعد نجاحهما يكرمان ويرقيان، ليجدا أنفسهما في موقف أكثر تعقيداً في محاولتهما الثانية  تنتهي بنهاية لم",
-      "genres_ar": [
-        "جريمة",
-        "إثارة",
-        "كوميدي"
-      ],
-      "runtime_min": 105,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004430_503.jpg",
-      "trailer_youtube_id": "nv1F1_jGZE8",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=AKS%20SEIR%20%28Saudi%29%20-%20Arabic%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/AKS-SEIR-(Saudi)---Arabic/HO00004430"
-        }
-      ]
-    },
-    {
-      "id": "local-khalibalakminnafsik",
-      "title_ar": "Khali Balak Min Nafsik",
-      "title_en": "Khali Balak Min Nafsik",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001461.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Khali%20Balak%20Min%20Nafsik%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Khali-Balak-Min-Nafsik-(Egyptian)---Arabic/HO00004436"
-        }
-      ]
-    },
-    {
-      "id": "local-cahim2",
-      "title_ar": "كاهام 2",
-      "title_en": "Cahim 2 - Turkish",
-      "synopsis_ar": "لا يتم إرسال بعض الأحلام ليتم رؤيتها، ولكن عدم الاستيقاظ أبدًا.",
-      "genres_ar": [
-        "رعب"
-      ],
-      "runtime_min": 84,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004472_955.jpg",
-      "trailer_youtube_id": "bTIedgeNsqw",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Cahim%202%20-%20Turkish%20official%20trailer",
-      "ratings": {
-        "imdb": "5.5"
-      },
-      "imdb_id": "tt37528797",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Turkish"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Cahim-2---Turkish/HO00004472"
-        }
-      ]
-    },
-    {
-      "id": "local-sakrwcanaria",
-      "title_ar": "صقر و كناريا(مصري) - عربي",
-      "title_en": "Sakr W Canaria (Egyptian) - Arabic",
-      "synopsis_ar": "في مزيج من الأكشن والكوميديا، يقرر صقر  المرتزق الأسطوري اعتزال حياته السرية والبحث عن بداية جديدة. لكن لقاءه المفاجئ بـ بلال، كاتب فاشل مهووس بعالم الجاسوسية، يجعل خططه تنقلب رأسًا على عقب. يجد الاثنان نفسيهما في مغامرة خطيرة تقلب حياتهما بالكامل.",
-      "genres_ar": [
-        "كوميدي",
-        "أكشن"
-      ],
-      "runtime_min": 123,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001440.jpg",
-      "trailer_youtube_id": "8OJz0lFb9RU",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Sakr%20W%20Canaria%20%28Egyptian%29%20-%20Arabic%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Sakr-W-Canaria-(Egyptian)---Arabic/HO00004388"
-        }
-      ]
-    },
-    {
-      "id": "local-moana",
-      "title_ar": "موانا",
-      "title_en": "Moana - Arabic",
-      "synopsis_ar": "نسخة حية من فيلم الرسوم المتحركة \"موانا\" الذي أنتجته شركة ديزني عام 2016.",
-      "genres_ar": [
-        "أكشن",
-        "كوميدي",
-        "مغامرات"
-      ],
-      "runtime_min": 115,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001455.jpg",
-      "trailer_youtube_id": "RrCjUcFfy48",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Moana%20-%20Arabic%20official%20trailer",
-      "ratings": {
-        "imdb": "7.6",
-        "rotten_tomatoes": "96%"
-      },
-      "imdb_id": "tt3521164",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Moana/HO00004220"
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Toxic---Kannada/HO00004298"
         }
       ]
     },
@@ -786,32 +618,6 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Bethlehem-Kudumba-Unit---Malayalam/HO00004474"
-        }
-      ]
-    },
-    {
-      "id": "local-toxickannada",
-      "title_ar": "توكسك",
-      "title_en": "Toxic - Kannada",
-      "synopsis_ar": "تدور أحداث توكسك في غوا بين الأربعينيات والسبعينيات، كاشفة عالمًا مظلمًا خلف جمال الساحل، حيث يشقّ رجلٌ طريقه عبر الخيانة والدم لبناء إمبراطورية إجرامية، ثم يواجه ثمن القوة والهاوية داخله.",
-      "genres_ar": [
-        "أكشن"
-      ],
-      "runtime_min": 178,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004298_955.jpg",
-      "trailer_youtube_id": "psEpYci8eFU",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Toxic%20-%20Kannada%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Kannada"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Toxic---Kannada/HO00004298"
         }
       ]
     }
