@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-27T15:01:42.871240+00:00",
+  "last_updated": "2026-08-28T15:56:58.417556+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -28,7 +28,9 @@
       "poster": "https://www.skycinemaskw.com/images/movies/9999001483.jpg",
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Dog%20Stars%20official%20trailer",
-      "ratings": {},
+      "ratings": {
+        "imdb": "6.4"
+      },
       "imdb_id": "tt21285562",
       "release_date": "2026-08-27",
       "matched": true,
