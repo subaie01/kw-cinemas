@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29T10:52:42.046717+00:00",
+  "last_updated": "2026-08-30T09:48:14.550450+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -29,7 +29,7 @@
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Dog%20Stars%20official%20trailer",
       "ratings": {
-        "imdb": "6.4"
+        "imdb": "6.5"
       },
       "imdb_id": "tt21285562",
       "release_date": "2026-08-27",
@@ -274,7 +274,9 @@
       "poster": "https://www.skycinemaskw.com/images/movies/9999001479.jpg",
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=Coyote%20Vs%20Acme%20official%20trailer",
-      "ratings": {},
+      "ratings": {
+        "imdb": "7.7"
+      },
       "imdb_id": "tt1756855",
       "release_date": null,
       "matched": false,
