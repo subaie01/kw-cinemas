@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-31T10:38:01.770813+00:00",
+  "last_updated": "2026-09-01T09:14:48.818743+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -130,7 +130,7 @@
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Odyssey%20official%20trailer",
       "ratings": {
-        "imdb": "8.5"
+        "imdb": "8.4"
       },
       "imdb_id": "tt33764258",
       "release_date": "2026-07-06",
@@ -204,6 +204,111 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-End-of-Oak-Street/HO00004337"
+        }
+      ]
+    },
+    {
+      "id": "wd-Q133546293",
+      "title_ar": "It Ends",
+      "title_en": "It Ends",
+      "synopsis_ar": "",
+      "genres_ar": [
+        "فلم كوميدي",
+        "فلم رعب",
+        "فلم إثارة"
+      ],
+      "runtime_min": 90,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001487.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=It%20Ends%20official%20trailer",
+      "ratings": {
+        "imdb": "5.7",
+        "rotten_tomatoes": "96%"
+      },
+      "imdb_id": "tt35519455",
+      "release_date": "2025-00-00",
+      "matched": true,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/it-ends/9999001487/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "local-fall2deadpoint",
+      "title_ar": "Fall 2: Deadpoint",
+      "title_en": "Fall 2: Deadpoint",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001488.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Fall%202%3A%20Deadpoint%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/fall-2-deadpoint/9999001488/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "local-lumiviathe5magicalwishes",
+      "title_ar": "Lumivia : The Five Magical Wishes",
+      "title_en": "Lumivia : The Five Magical Wishes",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001485.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Lumivia%20%3A%20The%20Five%20Magical%20Wishes%20official%20trailer",
+      "ratings": {},
+      "imdb_id": "tt42203466",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/lumivia--the-five-magical-wishes/9999001485/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "local-momo",
+      "title_ar": "Momo",
+      "title_en": "Momo",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001484.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Momo%20official%20trailer",
+      "ratings": {
+        "imdb": "6.5"
+      },
+      "imdb_id": "tt0091537",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/momo/9999001484/NowShowing"
         }
       ]
     },

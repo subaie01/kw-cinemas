@@ -1,9 +1,61 @@
 {
-  "scraped_at": "2026-08-31T10:37:54.319384+00:00",
+  "scraped_at": "2026-09-01T09:14:36.398527+00:00",
   "failures": [
     "vox"
   ],
   "movies": {
+    "fall2deadpoint": {
+      "title_en": "Fall 2: Deadpoint",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/fall-2-deadpoint/9999001488/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001488.jpg"
+    },
+    "itends": {
+      "title_en": "It Ends",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/it-ends/9999001487/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001487.jpg"
+    },
+    "lumiviathe5magicalwishes": {
+      "title_en": "Lumivia : The Five Magical Wishes",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/lumivia--the-five-magical-wishes/9999001485/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001485.jpg"
+    },
+    "momo": {
+      "title_en": "Momo",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/momo/9999001484/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001484.jpg"
+    },
     "dogstars": {
       "title_en": "The Dog Stars",
       "languages": [
