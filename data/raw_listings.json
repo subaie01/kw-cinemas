@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-01T09:14:36.398527+00:00",
+  "scraped_at": "2026-09-02T08:28:39.257224+00:00",
   "failures": [
     "vox"
   ],
@@ -11,11 +11,19 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Fall-2:-Deadpoint/HO00004461"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/fall-2-deadpoint/9999001488/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001488.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001488.jpg",
+      "title_ar": "فال ٢",
+      "synopsis_ar": "بعد أن حزنت على وفاة أختها شيلوه، ارتبطت جاكس هانتر بصديقة شيلوه الجريئة لوس. إنهم يتعاملون مع المشي الخطير على اللوح الخشبي لجبل كوان في تايلاند.",
+      "runtime_min": 97,
+      "trailer_youtube_id": "5ktaZGTCzS8"
     },
     "itends": {
       "title_en": "It Ends",
@@ -24,11 +32,23 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/IT-ENDS/HO00004431"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/it-ends/9999001487/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001487.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001487.jpg",
+      "title_ar": "ات إند",
+      "synopsis_ar": "يصبح الأصدقاء في رحلة طعام في وقت متأخر من الليل محاصرين على طريق سريع لا حصر له مع رعب دنيوي يتربص بهم. محبوسين في جيب شيروكي الخاصة بهم، يجب أن يقرروا ما إذا كانوا يقبلون مصيرهم أو يحاولون الهروب.",
+      "genres_ar": [
+        "رعب",
+        "إثارة"
+      ],
+      "runtime_min": 89,
+      "trailer_youtube_id": "rbBMTGcoFEM"
     },
     "lumiviathe5magicalwishes": {
       "title_en": "Lumivia : The Five Magical Wishes",
@@ -37,11 +57,19 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Lumivia-:-The-Five-Magical-Wishes/HO00004486"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/lumivia--the-five-magical-wishes/9999001485/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001485.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001485.jpg",
+      "title_ar": "لمفايا: ذا فايف ماجيكل ويشز",
+      "synopsis_ar": "بعد التجول في العالم مع رفاقه من البشر، يعود Bluey — الحمار العبقري الذي نصب نفسه ومتمرسًا ويعرف كل شيء — إلى مسقط رأسه في برايفيل، حيث لا تزال عائلته وأصدقاؤه يعيشون في نفس الظروف التي عفا عليها الزمن.",
+      "runtime_min": 99,
+      "trailer_youtube_id": "6qBEaqhvsCo"
     },
     "momo": {
       "title_en": "Momo",
@@ -50,11 +78,23 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Momo/HO00004498"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/momo/9999001484/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001484.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001484.jpg",
+      "title_ar": "مومو",
+      "synopsis_ar": "مومو، فتاة يتيمة، يجب أن تخوض معركة مع الرجال عديمي الروح والرماديين الذين يستولون خلسة على مدينتها ويسرقون وقت الجميع.",
+      "genres_ar": [
+        "عائلي",
+        "خيالي"
+      ],
+      "runtime_min": 92,
+      "trailer_youtube_id": "buV3j87cewY"
     },
     "dogstars": {
       "title_en": "The Dog Stars",
@@ -245,27 +285,46 @@
       "runtime_min": 141,
       "trailer_youtube_id": "FL5RBUGHOAY"
     },
-    "colonykorean": {
-      "title_en": "Colony - Korean",
+    "itfeeds": {
+      "title_en": "It Feeds",
       "languages": [
-        "Korean"
+        "English"
       ],
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Colony---Korean/HO00004446"
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/It-Feeds/HO00004457"
         }
       ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004446_848.jpg",
-      "title_ar": "كولوني",
-      "synopsis_ar": "يحضر البروفيسور سي جيونغ مؤتمرًا للتكنولوجيا الحيوية، فقط ليشهده يتصاعد إلى كارثة عندما يتم إطلاق العنان لفيروس سريع التحور. عندما ينتشر التفشي ويبدأ المصابون في التحول، تغلق السلطات المرفق بأكمله.",
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004457_158.jpg",
+      "title_ar": "ات فيدس",
+      "synopsis_ar": "بعد أن تنفجر فتاة صغيرة في ممارسة الطب النفسي المنزلي مدعية أن كيانًا يتغذى عليها، يجب على جوردان ووالدتها المستبصرة إيجاد طريقة لوقف القوة قبل أخذ الفتاة بالكامل.",
       "genres_ar": [
-        "رعب",
-        "إثارة",
-        "أكشن"
+        "رعب"
       ],
-      "runtime_min": 122,
-      "trailer_youtube_id": "jm-7zgYbVLc"
+      "runtime_min": 102,
+      "trailer_youtube_id": "MeZnOuESLVU"
+    },
+    "shams": {
+      "title_en": "Shams (Egyptian) - Arabic",
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Shams-(Egyptian)---Arabic/HO00004491"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004491_417.jpg",
+      "title_ar": "شمس (مصري) - عربي",
+      "synopsis_ar": "ماذا لو توقف الزمن واكتشفت أنك في عالم آخر، غير عالمك الواقعي... ما رد‎ ‏فعلك؟ وكيف ستتعامل مع من حولك؟ لا سيما أن أقرب الناس إليك تأذى‎ بسببك.",
+      "genres_ar": [
+        "دراما",
+        "إثارة"
+      ],
+      "runtime_min": 94,
+      "trailer_youtube_id": "T1bi4SIhFsI"
     },
     "elgawahergy": {
       "title_en": "El Gawahergy (Egyptian) - Arabic",
@@ -309,6 +368,49 @@
       "runtime_min": 172,
       "trailer_youtube_id": "V8HyNO6VKTg"
     },
+    "neglected": {
+      "title_en": "Neglected",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Neglected/HO00004490"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004490_280.jpg",
+      "title_ar": "نقلكتيد",
+      "synopsis_ar": "المحقق شو على وشك التقاعد عندما يكتشف في آخر يوم عمل له أن قاتل متسلسل قد دفن ابنه على قيد الحياة. ثم يتسابق مع عقارب الساعة لحل ثلاث جرائم قتل ومعرفة موقع ابنه قبل نفاد الهواء.",
+      "genres_ar": [
+        "أكشن",
+        "إثارة"
+      ],
+      "runtime_min": 93,
+      "trailer_youtube_id": "6_H8K8cL0fg"
+    },
+    "colonykorean": {
+      "title_en": "Colony - Korean",
+      "languages": [
+        "Korean"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Colony---Korean/HO00004446"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004446_848.jpg",
+      "title_ar": "كولوني",
+      "synopsis_ar": "يحضر البروفيسور سي جيونغ مؤتمرًا للتكنولوجيا الحيوية، فقط ليشهده يتصاعد إلى كارثة عندما يتم إطلاق العنان لفيروس سريع التحور. عندما ينتشر التفشي ويبدأ المصابون في التحول، تغلق السلطات المرفق بأكمله.",
+      "genres_ar": [
+        "رعب",
+        "إثارة",
+        "أكشن"
+      ],
+      "runtime_min": 122,
+      "trailer_youtube_id": "jm-7zgYbVLc"
+    },
     "closedformaintenance": {
       "title_en": "Closed for Maintenance (Kuwaiti) - Arabic",
       "languages": [
@@ -328,46 +430,6 @@
       ],
       "runtime_min": 98,
       "trailer_youtube_id": "QWJHQKMZmHE"
-    },
-    "mahmoudeltany": {
-      "title_en": "Mahmoud El Tany (Egyptian) - Arabic",
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Mahmoud-El-Tany-(Egyptian)---Arabic/HO00004470"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004470_966.jpg",
-      "title_ar": "محمود التاني",
-      "synopsis_ar": "عندما يتسبب تشابه الأسماء بين شاب ثري وعبقري في مجال التكنولوجيا، وعامل بنزينة بسيط، خفيف الظل ويتمتع بذكاء فطري، تتبدل حياة الاثنين ليدخلا في مغامرة فوضوية تقلب عالمهما رأسًا على عقب، وتدفع كلًا منهما لاكتشاف نفسه من جديد.",
-      "genres_ar": [
-        "كوميدي"
-      ],
-      "runtime_min": 104,
-      "trailer_youtube_id": "jF8-T1Jl9Xo"
-    },
-    "khalibalakminnafsik": {
-      "title_en": "Khali Balak Min Nafsik (Egyptian) - Arabic",
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Khali-Balak-Min-Nafsik-(Egyptian)---Arabic/HO00004436"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004436_022.jpg",
-      "title_ar": "خلى بالك من نفسك",
-      "synopsis_ar": "تدور احداث الفيلم بين علاء مذيع الراديو الذي يدخل في علاقات كثيرة و يترك الفتيات لاسباب سطحية و خوفه من الارتباط ، حتي يتعرف عن طريق الصدفة علي فريده، التي تبدو له الرقيقة المثالية ، لكن فريده في حقيقتها هي من اكبر تجاره سلاح ، و بعد ان علقها به و وقعت في",
-      "genres_ar": [
-        "كوميدي"
-      ],
-      "runtime_min": 103,
-      "trailer_youtube_id": "p8nNykRtUJI"
     },
     "sakrwcanaria": {
       "title_en": "Sakr W Canaria (Egyptian) - Arabic",
@@ -390,27 +452,45 @@
       "runtime_min": 123,
       "trailer_youtube_id": "8OJz0lFb9RU"
     },
-    "detectiveconanfallenriderjapanese": {
-      "title_en": "Detective Conan:Fallen Rider - Japanese",
+    "khalibalakminnafsik": {
+      "title_en": "Khali Balak Min Nafsik (Egyptian) - Arabic",
       "languages": [
-        "Japanese"
+        "Arabic"
       ],
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Detective-Conan:Fallen-Rider---Japanese/HO00004438"
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Khali-Balak-Min-Nafsik-(Egyptian)---Arabic/HO00004436"
         }
       ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004438_740.jpg",
-      "title_ar": "ديكتيف كونان فولن رايدر فروم ذا هاي واي",
-      "synopsis_ar": "عندما تبدأ سلسلة من حوادث الطرق السريعة المميتة، تشير تحقيقات كونان إدوغاوا إلى مؤامرة مدبرة بدلاً من مجرد حوادث.",
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004436_022.jpg",
+      "title_ar": "خلى بالك من نفسك",
+      "synopsis_ar": "تدور احداث الفيلم بين علاء مذيع الراديو الذي يدخل في علاقات كثيرة و يترك الفتيات لاسباب سطحية و خوفه من الارتباط ، حتي يتعرف عن طريق الصدفة علي فريده، التي تبدو له الرقيقة المثالية ، لكن فريده في حقيقتها هي من اكبر تجاره سلاح ، و بعد ان علقها به و وقعت في",
       "genres_ar": [
-        "رسوم متحركة",
-        "أكشن",
-        "غموض"
+        "كوميدي"
       ],
-      "runtime_min": 109,
-      "trailer_youtube_id": "zunQWsF2rao"
+      "runtime_min": 103,
+      "trailer_youtube_id": "p8nNykRtUJI"
+    },
+    "mahmoudeltany": {
+      "title_en": "Mahmoud El Tany (Egyptian) - Arabic",
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Mahmoud-El-Tany-(Egyptian)---Arabic/HO00004470"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004470_966.jpg",
+      "title_ar": "محمود التاني",
+      "synopsis_ar": "عندما يتسبب تشابه الأسماء بين شاب ثري وعبقري في مجال التكنولوجيا، وعامل بنزينة بسيط، خفيف الظل ويتمتع بذكاء فطري، تتبدل حياة الاثنين ليدخلا في مغامرة فوضوية تقلب عالمهما رأسًا على عقب، وتدفع كلًا منهما لاكتشاف نفسه من جديد.",
+      "genres_ar": [
+        "كوميدي"
+      ],
+      "runtime_min": 104,
+      "trailer_youtube_id": "jF8-T1Jl9Xo"
     },
     "pawpatrolthedinomovie": {
       "title_en": "PAW Patrol: The Dino Movie",
@@ -454,6 +534,28 @@
       ],
       "runtime_min": 98,
       "trailer_youtube_id": "qXtyiWIUrpE"
+    },
+    "detectiveconanfallenriderjapanese": {
+      "title_en": "Detective Conan:Fallen Rider - Japanese",
+      "languages": [
+        "Japanese"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Detective-Conan:Fallen-Rider---Japanese/HO00004438"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004438_740.jpg",
+      "title_ar": "ديكتيف كونان فولن رايدر فروم ذا هاي واي",
+      "synopsis_ar": "عندما تبدأ سلسلة من حوادث الطرق السريعة المميتة، تشير تحقيقات كونان إدوغاوا إلى مؤامرة مدبرة بدلاً من مجرد حوادث.",
+      "genres_ar": [
+        "رسوم متحركة",
+        "أكشن",
+        "غموض"
+      ],
+      "runtime_min": 109,
+      "trailer_youtube_id": "zunQWsF2rao"
     },
     "toxickannada": {
       "title_en": "Toxic - Kannada",
@@ -517,6 +619,27 @@
       ],
       "runtime_min": 155,
       "trailer_youtube_id": "GpTvTWlZ2U4"
+    },
+    "imgame": {
+      "title_en": "I'm Game - Malayalam",
+      "languages": [
+        "Malayalam"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/I'm-Game---Malayalam/HO00004445"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004445_949.jpg",
+      "title_ar": "ايم قيم",
+      "synopsis_ar": "مقامر شجاع يثق في الحظ أكثر من الحياة يقع في سلسلة من الأحداث المجنونة وغير المتوقعة التي تقلب عالمه رأساً على عقب. ما يلي هو رحلة مثيرة مليئة بالمتعة والمفاجآت والحركة واللحظات التي لا تنسى.",
+      "genres_ar": [
+        "خيالي",
+        "إثارة"
+      ],
+      "runtime_min": 171,
+      "trailer_youtube_id": "V61lCTcQvfI"
     }
   }
 }

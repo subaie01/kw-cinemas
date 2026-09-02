@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-01T09:14:48.818743+00:00",
+  "last_updated": "2026-09-02T08:28:52.337579+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -178,6 +178,35 @@
       ]
     },
     {
+      "id": "wd-Q139547631",
+      "title_ar": "نقلكتيد",
+      "title_en": "Neglected",
+      "synopsis_ar": "المحقق شو على وشك التقاعد عندما يكتشف في آخر يوم عمل له أن قاتل متسلسل قد دفن ابنه على قيد الحياة. ثم يتسابق مع عقارب الساعة لحل ثلاث جرائم قتل ومعرفة موقع ابنه قبل نفاد الهواء.",
+      "genres_ar": [
+        "أكشن",
+        "إثارة"
+      ],
+      "runtime_min": 93,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004490_280.jpg",
+      "trailer_youtube_id": "6_H8K8cL0fg",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Neglected%20official%20trailer",
+      "ratings": {
+        "imdb": "4.4"
+      },
+      "imdb_id": "tt35224721",
+      "release_date": "2025-10-18",
+      "matched": true,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Neglected/HO00004490"
+        }
+      ]
+    },
+    {
       "id": "wd-Q124804916",
       "title_ar": "نهاية شارع أوك",
       "title_en": "The End Of Oak Street",
@@ -233,6 +262,10 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/IT-ENDS/HO00004431"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/it-ends/9999001487/NowShowing"
         }
@@ -257,6 +290,10 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Fall-2:-Deadpoint/HO00004461"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/fall-2-deadpoint/9999001488/NowShowing"
         }
@@ -280,6 +317,10 @@
         "English"
       ],
       "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Lumivia-:-The-Five-Magical-Wishes/HO00004486"
+        },
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/lumivia--the-five-magical-wishes/9999001485/NowShowing"
@@ -306,6 +347,10 @@
         "English"
       ],
       "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Momo/HO00004498"
+        },
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/momo/9999001484/NowShowing"
@@ -465,30 +510,58 @@
       ]
     },
     {
-      "id": "local-colonykorean",
-      "title_ar": "كولوني",
-      "title_en": "Colony - Korean",
-      "synopsis_ar": "يحضر البروفيسور سي جيونغ مؤتمرًا للتكنولوجيا الحيوية، فقط ليشهده يتصاعد إلى كارثة عندما يتم إطلاق العنان لفيروس سريع التحور. عندما ينتشر التفشي ويبدأ المصابون في التحول، تغلق السلطات المرفق بأكمله.",
+      "id": "wd-Q136396301",
+      "title_ar": "ات فيدس",
+      "title_en": "It Feeds",
+      "synopsis_ar": "بعد أن تنفجر فتاة صغيرة في ممارسة الطب النفسي المنزلي مدعية أن كيانًا يتغذى عليها، يجب على جوردان ووالدتها المستبصرة إيجاد طريقة لوقف القوة قبل أخذ الفتاة بالكامل.",
       "genres_ar": [
-        "رعب",
-        "إثارة",
-        "أكشن"
+        "رعب"
       ],
-      "runtime_min": 122,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004446_848.jpg",
-      "trailer_youtube_id": "jm-7zgYbVLc",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Colony%20-%20Korean%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
+      "runtime_min": 101,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004457_158.jpg",
+      "trailer_youtube_id": "MeZnOuESLVU",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=It%20Feeds%20official%20trailer",
+      "ratings": {
+        "imdb": "5.6",
+        "rotten_tomatoes": "89%"
+      },
+      "imdb_id": "tt28230296",
       "release_date": null,
-      "matched": false,
+      "matched": true,
       "languages": [
-        "Korean"
+        "English"
       ],
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Colony---Korean/HO00004446"
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/It-Feeds/HO00004457"
+        }
+      ]
+    },
+    {
+      "id": "local-shams",
+      "title_ar": "شمس (مصري) - عربي",
+      "title_en": "Shams (Egyptian) - Arabic",
+      "synopsis_ar": "ماذا لو توقف الزمن واكتشفت أنك في عالم آخر، غير عالمك الواقعي... ما رد‎ ‏فعلك؟ وكيف ستتعامل مع من حولك؟ لا سيما أن أقرب الناس إليك تأذى‎ بسببك.",
+      "genres_ar": [
+        "دراما",
+        "إثارة"
+      ],
+      "runtime_min": 94,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004491_417.jpg",
+      "trailer_youtube_id": "T1bi4SIhFsI",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Shams%20%28Egyptian%29%20-%20Arabic%20official%20trailer",
+      "ratings": {},
+      "imdb_id": "tt13124934",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Shams-(Egyptian)---Arabic/HO00004491"
         }
       ]
     },
@@ -513,6 +586,34 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/El-Gawahergy-(Egyptian)---Arabic/HO00004448"
+        }
+      ]
+    },
+    {
+      "id": "local-colonykorean",
+      "title_ar": "كولوني",
+      "title_en": "Colony - Korean",
+      "synopsis_ar": "يحضر البروفيسور سي جيونغ مؤتمرًا للتكنولوجيا الحيوية، فقط ليشهده يتصاعد إلى كارثة عندما يتم إطلاق العنان لفيروس سريع التحور. عندما ينتشر التفشي ويبدأ المصابون في التحول، تغلق السلطات المرفق بأكمله.",
+      "genres_ar": [
+        "رعب",
+        "إثارة",
+        "أكشن"
+      ],
+      "runtime_min": 122,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004446_848.jpg",
+      "trailer_youtube_id": "jm-7zgYbVLc",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Colony%20-%20Korean%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Korean"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Colony---Korean/HO00004446"
         }
       ]
     },
@@ -543,19 +644,20 @@
       ]
     },
     {
-      "id": "local-mahmoudeltany",
-      "title_ar": "محمود التاني",
-      "title_en": "Mahmoud El Tany (Egyptian) - Arabic",
-      "synopsis_ar": "عندما يتسبب تشابه الأسماء بين شاب ثري وعبقري في مجال التكنولوجيا، وعامل بنزينة بسيط، خفيف الظل ويتمتع بذكاء فطري، تتبدل حياة الاثنين ليدخلا في مغامرة فوضوية تقلب عالمهما رأسًا على عقب، وتدفع كلًا منهما لاكتشاف نفسه من جديد.",
+      "id": "local-sakrwcanaria",
+      "title_ar": "صقر و كناريا(مصري) - عربي",
+      "title_en": "Sakr W Canaria (Egyptian) - Arabic",
+      "synopsis_ar": "في مزيج من الأكشن والكوميديا، يقرر صقر  المرتزق الأسطوري اعتزال حياته السرية والبحث عن بداية جديدة. لكن لقاءه المفاجئ بـ بلال، كاتب فاشل مهووس بعالم الجاسوسية، يجعل خططه تنقلب رأسًا على عقب. يجد الاثنان نفسيهما في مغامرة خطيرة تقلب حياتهما بالكامل.",
       "genres_ar": [
-        "كوميدي"
+        "كوميدي",
+        "أكشن"
       ],
-      "runtime_min": 104,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001476.jpg",
-      "trailer_youtube_id": "jF8-T1Jl9Xo",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Mahmoud%20El%20Tany%20%28Egyptian%29%20-%20Arabic%20official%20trailer",
+      "runtime_min": 123,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001440.jpg",
+      "trailer_youtube_id": "8OJz0lFb9RU",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Sakr%20W%20Canaria%20%28Egyptian%29%20-%20Arabic%20official%20trailer",
       "ratings": {},
-      "imdb_id": "tt42667820",
+      "imdb_id": null,
       "release_date": null,
       "matched": false,
       "languages": [
@@ -564,7 +666,7 @@
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Mahmoud-El-Tany-(Egyptian)---Arabic/HO00004470"
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Sakr-W-Canaria-(Egyptian)---Arabic/HO00004388"
         }
       ]
     },
@@ -593,20 +695,19 @@
       ]
     },
     {
-      "id": "local-sakrwcanaria",
-      "title_ar": "صقر و كناريا(مصري) - عربي",
-      "title_en": "Sakr W Canaria (Egyptian) - Arabic",
-      "synopsis_ar": "في مزيج من الأكشن والكوميديا، يقرر صقر  المرتزق الأسطوري اعتزال حياته السرية والبحث عن بداية جديدة. لكن لقاءه المفاجئ بـ بلال، كاتب فاشل مهووس بعالم الجاسوسية، يجعل خططه تنقلب رأسًا على عقب. يجد الاثنان نفسيهما في مغامرة خطيرة تقلب حياتهما بالكامل.",
+      "id": "local-mahmoudeltany",
+      "title_ar": "محمود التاني",
+      "title_en": "Mahmoud El Tany (Egyptian) - Arabic",
+      "synopsis_ar": "عندما يتسبب تشابه الأسماء بين شاب ثري وعبقري في مجال التكنولوجيا، وعامل بنزينة بسيط، خفيف الظل ويتمتع بذكاء فطري، تتبدل حياة الاثنين ليدخلا في مغامرة فوضوية تقلب عالمهما رأسًا على عقب، وتدفع كلًا منهما لاكتشاف نفسه من جديد.",
       "genres_ar": [
-        "كوميدي",
-        "أكشن"
+        "كوميدي"
       ],
-      "runtime_min": 123,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001440.jpg",
-      "trailer_youtube_id": "8OJz0lFb9RU",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Sakr%20W%20Canaria%20%28Egyptian%29%20-%20Arabic%20official%20trailer",
+      "runtime_min": 104,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001476.jpg",
+      "trailer_youtube_id": "jF8-T1Jl9Xo",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Mahmoud%20El%20Tany%20%28Egyptian%29%20-%20Arabic%20official%20trailer",
       "ratings": {},
-      "imdb_id": null,
+      "imdb_id": "tt42667820",
       "release_date": null,
       "matched": false,
       "languages": [
@@ -615,7 +716,7 @@
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Sakr-W-Canaria-(Egyptian)---Arabic/HO00004388"
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Mahmoud-El-Tany-(Egyptian)---Arabic/HO00004470"
         }
       ]
     },
@@ -727,6 +828,33 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Bethlehem-Kudumba-Unit---Malayalam/HO00004474"
+        }
+      ]
+    },
+    {
+      "id": "wd-Q140921099",
+      "title_ar": "ايم قيم",
+      "title_en": "I'm Game - Malayalam",
+      "synopsis_ar": "مقامر شجاع يثق في الحظ أكثر من الحياة يقع في سلسلة من الأحداث المجنونة وغير المتوقعة التي تقلب عالمه رأساً على عقب. ما يلي هو رحلة مثيرة مليئة بالمتعة والمفاجآت والحركة واللحظات التي لا تنسى.",
+      "genres_ar": [
+        "خيالي",
+        "إثارة"
+      ],
+      "runtime_min": 171,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004445_949.jpg",
+      "trailer_youtube_id": "V61lCTcQvfI",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=I%27m%20Game%20-%20Malayalam%20official%20trailer",
+      "ratings": {},
+      "imdb_id": "tt34284946",
+      "release_date": null,
+      "matched": true,
+      "languages": [
+        "Malayalam"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/I'm-Game---Malayalam/HO00004445"
         }
       ]
     }
