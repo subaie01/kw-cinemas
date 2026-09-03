@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-02T08:28:39.257224+00:00",
+  "scraped_at": "2026-09-03T08:37:17.427119+00:00",
   "failures": [
     "vox"
   ],
@@ -121,68 +121,6 @@
       ],
       "runtime_min": 117,
       "trailer_youtube_id": "DMef3HaCFKM"
-    },
-    "toxic": {
-      "title_en": "Toxic",
-      "languages": [
-        "Hindi"
-      ],
-      "cinemas": [
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/toxic-hindi/9999001482/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001482.jpg"
-    },
-    "sharkattack": {
-      "title_en": "Shark Attack",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Shark-Attack/HO00004487"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/shark-attack/9999001481/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001481.jpg",
-      "title_ar": "شارك اتاك",
-      "synopsis_ar": "تتعرض بلدة شاطئية صغيرة لعاصفة لا يمكن لأحد أن يتنبأ بحجمها. تحاول عائلة وصلت للتو الفرار لكنها تعلق في المياه التي تنتشر فيها أسماك القرش بسرعة.",
-      "genres_ar": [
-        "أكشن"
-      ],
-      "runtime_min": 77,
-      "trailer_youtube_id": "r7L6sUWZlII"
-    },
-    "misdirection": {
-      "title_en": "Misdirection",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Misdirection/HO00004170"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/misdirection/9999001480/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001480.jpg",
-      "title_ar": "ماسدريكتون",
-      "synopsis_ar": "قام زوجان يائسان بسلسلة من عمليات الاقتحام الراقية لسداد ديون الغوغاء. عندما يحاولون سرقة ضحيتهم الأخيرة، يجدون أنفسهم عالقين في لعبة قاتلة من القط والفأر. يتم قلب الطاولات ويصبح الصيادون مطاردين.",
-      "genres_ar": [
-        "أكشن",
-        "إثارة"
-      ],
-      "runtime_min": 88,
-      "trailer_youtube_id": "GMoz5T1tD80"
     },
     "coyotevsacme": {
       "title_en": "Coyote Vs Acme",
@@ -452,26 +390,6 @@
       "runtime_min": 123,
       "trailer_youtube_id": "8OJz0lFb9RU"
     },
-    "khalibalakminnafsik": {
-      "title_en": "Khali Balak Min Nafsik (Egyptian) - Arabic",
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Khali-Balak-Min-Nafsik-(Egyptian)---Arabic/HO00004436"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004436_022.jpg",
-      "title_ar": "خلى بالك من نفسك",
-      "synopsis_ar": "تدور احداث الفيلم بين علاء مذيع الراديو الذي يدخل في علاقات كثيرة و يترك الفتيات لاسباب سطحية و خوفه من الارتباط ، حتي يتعرف عن طريق الصدفة علي فريده، التي تبدو له الرقيقة المثالية ، لكن فريده في حقيقتها هي من اكبر تجاره سلاح ، و بعد ان علقها به و وقعت في",
-      "genres_ar": [
-        "كوميدي"
-      ],
-      "runtime_min": 103,
-      "trailer_youtube_id": "p8nNykRtUJI"
-    },
     "mahmoudeltany": {
       "title_en": "Mahmoud El Tany (Egyptian) - Arabic",
       "languages": [
@@ -492,111 +410,25 @@
       "runtime_min": 104,
       "trailer_youtube_id": "jF8-T1Jl9Xo"
     },
-    "pawpatrolthedinomovie": {
-      "title_en": "PAW Patrol: The Dino Movie",
+    "khalibalakminnafsik": {
+      "title_en": "Khali Balak Min Nafsik (Egyptian) - Arabic",
       "languages": [
-        "English"
+        "Arabic"
       ],
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/PAW-Patrol:-The-Dino-Movie/HO00004336"
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Khali-Balak-Min-Nafsik-(Egyptian)---Arabic/HO00004436"
         }
       ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004336_294.jpg",
-      "title_ar": "باو باترول",
-      "synopsis_ar": "بعد أن علقت سفينتهم في عاصفة غامضة، تحطمت جراء باو باترول على جزيرة استوائية مجهولة مليئة بالديناصورات. يلتقيان بريكس، وهو جرو تقطعت به السبل في الجزيرة لسنوات وأصبح خبيرًا في جميع الأمور المتعلقة بالدينو.",
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004436_022.jpg",
+      "title_ar": "خلى بالك من نفسك",
+      "synopsis_ar": "تدور احداث الفيلم بين علاء مذيع الراديو الذي يدخل في علاقات كثيرة و يترك الفتيات لاسباب سطحية و خوفه من الارتباط ، حتي يتعرف عن طريق الصدفة علي فريده، التي تبدو له الرقيقة المثالية ، لكن فريده في حقيقتها هي من اكبر تجاره سلاح ، و بعد ان علقها به و وقعت في",
       "genres_ar": [
-        "رسوم متحركة",
-        "أكشن",
-        "مغامرات"
+        "كوميدي"
       ],
-      "runtime_min": 88,
-      "trailer_youtube_id": "o3Nwy8RTD_0"
-    },
-    "endofoakstreet": {
-      "title_en": "The End of Oak Street",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-End-of-Oak-Street/HO00004337"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004337_060.jpg",
-      "title_ar": "ذا اند أف اوك ستريت",
-      "synopsis_ar": "بعد حدث كوني غامض يفصل شارع أوك عن ضواحيه وينقله إلى مكان مجهول، تكتشف عائلة بلات سريعًا أن نجاتهم تعتمد على بقائهم متماسكين معًا، بينما يحاولون التأقلم مع محيطهم الذي أصبح غير مألوف تمامًا.",
-      "genres_ar": [
-        "أكشن",
-        "مغامرات"
-      ],
-      "runtime_min": 98,
-      "trailer_youtube_id": "qXtyiWIUrpE"
-    },
-    "detectiveconanfallenriderjapanese": {
-      "title_en": "Detective Conan:Fallen Rider - Japanese",
-      "languages": [
-        "Japanese"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Detective-Conan:Fallen-Rider---Japanese/HO00004438"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004438_740.jpg",
-      "title_ar": "ديكتيف كونان فولن رايدر فروم ذا هاي واي",
-      "synopsis_ar": "عندما تبدأ سلسلة من حوادث الطرق السريعة المميتة، تشير تحقيقات كونان إدوغاوا إلى مؤامرة مدبرة بدلاً من مجرد حوادث.",
-      "genres_ar": [
-        "رسوم متحركة",
-        "أكشن",
-        "غموض"
-      ],
-      "runtime_min": 109,
-      "trailer_youtube_id": "zunQWsF2rao"
-    },
-    "toxickannada": {
-      "title_en": "Toxic - Kannada",
-      "languages": [
-        "Kannada"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Toxic---Kannada/HO00004298"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004298_955.jpg",
-      "title_ar": "توكسك",
-      "synopsis_ar": "تدور أحداث توكسك في غوا بين الأربعينيات والسبعينيات، كاشفة عالمًا مظلمًا خلف جمال الساحل، حيث يشقّ رجلٌ طريقه عبر الخيانة والدم لبناء إمبراطورية إجرامية، ثم يواجه ثمن القوة والهاوية داخله.",
-      "genres_ar": [
-        "أكشن"
-      ],
-      "runtime_min": 178,
-      "trailer_youtube_id": "psEpYci8eFU"
-    },
-    "khalifa": {
-      "title_en": "Khalifa - Malayalam",
-      "languages": [
-        "Malayalam"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Khalifa---Malayalam/HO00004375"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004375_626.jpg",
-      "title_ar": "خليفة – مالايالام",
-      "synopsis_ar": "تدور القصة حول أمير علي، رجل يتورط في عالم خطير من تهريب الذهب والانتقام والنفوذ.",
-      "genres_ar": [
-        "أكشن",
-        "إثارة"
-      ],
-      "runtime_min": 157,
-      "trailer_youtube_id": "KZGoTMrjMsw"
+      "runtime_min": 103,
+      "trailer_youtube_id": "p8nNykRtUJI"
     },
     "bethlehemkudumbaunit": {
       "title_en": "Bethlehem Kudumba Unit - Malayalam",

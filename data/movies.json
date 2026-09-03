@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02T08:28:52.337579+00:00",
+  "last_updated": "2026-09-03T08:37:24.728948+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -85,35 +85,6 @@
       ]
     },
     {
-      "id": "wd-Q132802215",
-      "title_ar": "Paw Patrol: The Dino Movie",
-      "title_en": "Paw Patrol: The Dino Movie",
-      "synopsis_ar": "",
-      "genres_ar": [
-        "فلم أكشن",
-        "فلم مغامرة"
-      ],
-      "runtime_min": 88,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001471.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Paw%20Patrol%3A%20The%20Dino%20Movie%20official%20trailer",
-      "ratings": {
-        "imdb": "6.1"
-      },
-      "imdb_id": "tt29356163",
-      "release_date": "2026-07-24",
-      "matched": true,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/PAW-Patrol:-The-Dino-Movie/HO00004336"
-        }
-      ]
-    },
-    {
       "id": "wd-Q131547207",
       "title_ar": "الأوديسة",
       "title_en": "The Odyssey",
@@ -146,38 +117,6 @@
       ]
     },
     {
-      "id": "wd-Q138193904",
-      "title_ar": "Misdirection",
-      "title_en": "Misdirection",
-      "synopsis_ar": "",
-      "genres_ar": [
-        "فلم إثارة"
-      ],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001480.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Misdirection%20official%20trailer",
-      "ratings": {
-        "imdb": "4.5"
-      },
-      "imdb_id": "tt6374142",
-      "release_date": "2026-02-10",
-      "matched": true,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Misdirection/HO00004170"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/misdirection/9999001480/NowShowing"
-        }
-      ]
-    },
-    {
       "id": "wd-Q139547631",
       "title_ar": "نقلكتيد",
       "title_en": "Neglected",
@@ -203,36 +142,6 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Neglected/HO00004490"
-        }
-      ]
-    },
-    {
-      "id": "wd-Q124804916",
-      "title_ar": "نهاية شارع أوك",
-      "title_en": "The End Of Oak Street",
-      "synopsis_ar": "نهاية شارع أوك هو فلم خيال علمي أمريكي قادم، من كتابة وإنتاج وإخراج ديفيد روبرت ميتشيل، وبطولة آن هاثاواي وإيوان مكريغور ومايسي ستيلا وكريستيان كونفري.",
-      "genres_ar": [
-        "فلم خيال علمي",
-        "فلم البقاء على قيد الحياة"
-      ],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001473.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20End%20Of%20Oak%20Street%20official%20trailer",
-      "ratings": {
-        "imdb": "6.6",
-        "rotten_tomatoes": "86%"
-      },
-      "imdb_id": "tt27165187",
-      "release_date": "2025-05-16",
-      "matched": true,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-End-of-Oak-Street/HO00004337"
         }
       ]
     },
@@ -354,63 +263,6 @@
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/momo/9999001484/NowShowing"
-        }
-      ]
-    },
-    {
-      "id": "local-toxic",
-      "title_ar": "Toxic",
-      "title_en": "Toxic",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001482.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Toxic%20official%20trailer",
-      "ratings": {
-        "imdb": "3.7"
-      },
-      "imdb_id": "tt0453560",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Hindi"
-      ],
-      "cinemas": [
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/toxic-hindi/9999001482/NowShowing"
-        }
-      ]
-    },
-    {
-      "id": "local-sharkattack",
-      "title_ar": "Shark Attack",
-      "title_en": "Shark Attack",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001481.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Shark%20Attack%20official%20trailer",
-      "ratings": {
-        "imdb": "3.4",
-        "rotten_tomatoes": "0%"
-      },
-      "imdb_id": "tt0161970",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Shark-Attack/HO00004487"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/shark-attack/9999001481/NowShowing"
         }
       ]
     },
@@ -671,30 +523,6 @@
       ]
     },
     {
-      "id": "local-khalibalakminnafsik",
-      "title_ar": "Khali Balak Min Nafsik",
-      "title_en": "Khali Balak Min Nafsik",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001461.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Khali%20Balak%20Min%20Nafsik%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Khali-Balak-Min-Nafsik-(Egyptian)---Arabic/HO00004436"
-        }
-      ]
-    },
-    {
       "id": "local-mahmoudeltany",
       "title_ar": "محمود التاني",
       "title_en": "Mahmoud El Tany (Egyptian) - Arabic",
@@ -721,85 +549,26 @@
       ]
     },
     {
-      "id": "local-detectiveconanfallenriderjapanese",
-      "title_ar": "ديكتيف كونان فولن رايدر فروم ذا هاي واي",
-      "title_en": "Detective Conan:Fallen Rider - Japanese",
-      "synopsis_ar": "عندما تبدأ سلسلة من حوادث الطرق السريعة المميتة، تشير تحقيقات كونان إدوغاوا إلى مؤامرة مدبرة بدلاً من مجرد حوادث.",
-      "genres_ar": [
-        "رسوم متحركة",
-        "أكشن",
-        "غموض"
-      ],
-      "runtime_min": 109,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004438_740.jpg",
-      "trailer_youtube_id": "zunQWsF2rao",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Detective%20Conan%3AFallen%20Rider%20-%20Japanese%20official%20trailer",
+      "id": "local-khalibalakminnafsik",
+      "title_ar": "Khali Balak Min Nafsik",
+      "title_en": "Khali Balak Min Nafsik",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001461.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Khali%20Balak%20Min%20Nafsik%20official%20trailer",
       "ratings": {},
       "imdb_id": null,
       "release_date": null,
       "matched": false,
       "languages": [
-        "Japanese"
+        "Arabic"
       ],
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Detective-Conan:Fallen-Rider---Japanese/HO00004438"
-        }
-      ]
-    },
-    {
-      "id": "local-toxickannada",
-      "title_ar": "توكسك",
-      "title_en": "Toxic - Kannada",
-      "synopsis_ar": "تدور أحداث توكسك في غوا بين الأربعينيات والسبعينيات، كاشفة عالمًا مظلمًا خلف جمال الساحل، حيث يشقّ رجلٌ طريقه عبر الخيانة والدم لبناء إمبراطورية إجرامية، ثم يواجه ثمن القوة والهاوية داخله.",
-      "genres_ar": [
-        "أكشن"
-      ],
-      "runtime_min": 178,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004298_955.jpg",
-      "trailer_youtube_id": "psEpYci8eFU",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Toxic%20-%20Kannada%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Kannada"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Toxic---Kannada/HO00004298"
-        }
-      ]
-    },
-    {
-      "id": "local-khalifa",
-      "title_ar": "خليفة – مالايالام",
-      "title_en": "Khalifa - Malayalam",
-      "synopsis_ar": "تدور القصة حول أمير علي، رجل يتورط في عالم خطير من تهريب الذهب والانتقام والنفوذ.",
-      "genres_ar": [
-        "أكشن",
-        "إثارة"
-      ],
-      "runtime_min": 157,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004375_626.jpg",
-      "trailer_youtube_id": "KZGoTMrjMsw",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Khalifa%20-%20Malayalam%20official%20trailer",
-      "ratings": {
-        "imdb": "5.7"
-      },
-      "imdb_id": "tt0239523",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Malayalam"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Khalifa---Malayalam/HO00004375"
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Khali-Balak-Min-Nafsik-(Egyptian)---Arabic/HO00004436"
         }
       ]
     },
