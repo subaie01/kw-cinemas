@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-03T08:37:17.427119+00:00",
+  "scraped_at": "2026-09-04T08:32:19.924949+00:00",
   "failures": [
     "vox"
   ],
@@ -49,6 +49,31 @@
       ],
       "runtime_min": 89,
       "trailer_youtube_id": "rbBMTGcoFEM"
+    },
+    "byanymeans": {
+      "title_en": "By Any Means",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/By-Any-Means/HO00004452"
+        },
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/by-any-means/9999001486/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001486.jpg",
+      "title_ar": "باي اني مينز",
+      "synopsis_ar": "لم يتمكن مكتب التحقيقات الفيدرالي من حلها. لذلك استدعوا الغوغاء.\r\nيجد عميل شاب أسود من مكتب التحقيقات الفيدرالي نفسه مجبرًا على العمل جنبًا إلى جنب مع قاتل مافيا سيئ السمعة، وقد انجرف إلى مطاردة قاتلة حيث تبدأ العدالة والانتقام في التشويش.",
+      "genres_ar": [
+        "أكشن",
+        "إثارة"
+      ],
+      "runtime_min": 107,
+      "trailer_youtube_id": "U40uVQ--_VA"
     },
     "lumiviathe5magicalwishes": {
       "title_en": "Lumivia : The Five Magical Wishes",
@@ -390,26 +415,6 @@
       "runtime_min": 123,
       "trailer_youtube_id": "8OJz0lFb9RU"
     },
-    "mahmoudeltany": {
-      "title_en": "Mahmoud El Tany (Egyptian) - Arabic",
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Mahmoud-El-Tany-(Egyptian)---Arabic/HO00004470"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004470_966.jpg",
-      "title_ar": "محمود التاني",
-      "synopsis_ar": "عندما يتسبب تشابه الأسماء بين شاب ثري وعبقري في مجال التكنولوجيا، وعامل بنزينة بسيط، خفيف الظل ويتمتع بذكاء فطري، تتبدل حياة الاثنين ليدخلا في مغامرة فوضوية تقلب عالمهما رأسًا على عقب، وتدفع كلًا منهما لاكتشاف نفسه من جديد.",
-      "genres_ar": [
-        "كوميدي"
-      ],
-      "runtime_min": 104,
-      "trailer_youtube_id": "jF8-T1Jl9Xo"
-    },
     "khalibalakminnafsik": {
       "title_en": "Khali Balak Min Nafsik (Egyptian) - Arabic",
       "languages": [
@@ -429,6 +434,26 @@
       ],
       "runtime_min": 103,
       "trailer_youtube_id": "p8nNykRtUJI"
+    },
+    "mahmoudeltany": {
+      "title_en": "Mahmoud El Tany (Egyptian) - Arabic",
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Mahmoud-El-Tany-(Egyptian)---Arabic/HO00004470"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004470_966.jpg",
+      "title_ar": "محمود التاني",
+      "synopsis_ar": "عندما يتسبب تشابه الأسماء بين شاب ثري وعبقري في مجال التكنولوجيا، وعامل بنزينة بسيط، خفيف الظل ويتمتع بذكاء فطري، تتبدل حياة الاثنين ليدخلا في مغامرة فوضوية تقلب عالمهما رأسًا على عقب، وتدفع كلًا منهما لاكتشاف نفسه من جديد.",
+      "genres_ar": [
+        "كوميدي"
+      ],
+      "runtime_min": 104,
+      "trailer_youtube_id": "jF8-T1Jl9Xo"
     },
     "bethlehemkudumbaunit": {
       "title_en": "Bethlehem Kudumba Unit - Malayalam",

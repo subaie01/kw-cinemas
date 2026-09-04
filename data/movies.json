@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03T08:37:24.728948+00:00",
+  "last_updated": "2026-09-04T08:32:28.575223+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -205,6 +205,39 @@
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/fall-2-deadpoint/9999001488/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "local-byanymeans",
+      "title_ar": "باي اني مينز",
+      "title_en": "By Any Means",
+      "synopsis_ar": "لم يتمكن مكتب التحقيقات الفيدرالي من حلها. لذلك استدعوا الغوغاء.\r\nيجد عميل شاب أسود من مكتب التحقيقات الفيدرالي نفسه مجبرًا على العمل جنبًا إلى جنب مع قاتل مافيا سيئ السمعة، وقد انجرف إلى مطاردة قاتلة حيث تبدأ العدالة والانتقام في التشويش.",
+      "genres_ar": [
+        "أكشن",
+        "إثارة"
+      ],
+      "runtime_min": 107,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001486.jpg",
+      "trailer_youtube_id": "U40uVQ--_VA",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=By%20Any%20Means%20official%20trailer",
+      "ratings": {
+        "imdb": "4.0"
+      },
+      "imdb_id": "tt4741768",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/By-Any-Means/HO00004452"
+        },
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/by-any-means/9999001486/NowShowing"
         }
       ]
     },
@@ -523,6 +556,30 @@
       ]
     },
     {
+      "id": "local-khalibalakminnafsik",
+      "title_ar": "Khali Balak Min Nafsik",
+      "title_en": "Khali Balak Min Nafsik",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001461.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Khali%20Balak%20Min%20Nafsik%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Khali-Balak-Min-Nafsik-(Egyptian)---Arabic/HO00004436"
+        }
+      ]
+    },
+    {
       "id": "local-mahmoudeltany",
       "title_ar": "محمود التاني",
       "title_en": "Mahmoud El Tany (Egyptian) - Arabic",
@@ -545,30 +602,6 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Mahmoud-El-Tany-(Egyptian)---Arabic/HO00004470"
-        }
-      ]
-    },
-    {
-      "id": "local-khalibalakminnafsik",
-      "title_ar": "Khali Balak Min Nafsik",
-      "title_en": "Khali Balak Min Nafsik",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001461.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Khali%20Balak%20Min%20Nafsik%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Khali-Balak-Min-Nafsik-(Egyptian)---Arabic/HO00004436"
         }
       ]
     },
