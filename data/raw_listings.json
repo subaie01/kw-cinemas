@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-04T08:32:19.924949+00:00",
+  "scraped_at": "2026-09-05T08:07:49.628552+00:00",
   "failures": [
     "vox"
   ],
@@ -248,26 +248,6 @@
       "runtime_min": 141,
       "trailer_youtube_id": "FL5RBUGHOAY"
     },
-    "itfeeds": {
-      "title_en": "It Feeds",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/It-Feeds/HO00004457"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004457_158.jpg",
-      "title_ar": "ات فيدس",
-      "synopsis_ar": "بعد أن تنفجر فتاة صغيرة في ممارسة الطب النفسي المنزلي مدعية أن كيانًا يتغذى عليها، يجب على جوردان ووالدتها المستبصرة إيجاد طريقة لوقف القوة قبل أخذ الفتاة بالكامل.",
-      "genres_ar": [
-        "رعب"
-      ],
-      "runtime_min": 102,
-      "trailer_youtube_id": "MeZnOuESLVU"
-    },
     "shams": {
       "title_en": "Shams (Egyptian) - Arabic",
       "languages": [
@@ -288,6 +268,26 @@
       ],
       "runtime_min": 94,
       "trailer_youtube_id": "T1bi4SIhFsI"
+    },
+    "itfeeds": {
+      "title_en": "It Feeds",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/It-Feeds/HO00004457"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004457_158.jpg",
+      "title_ar": "ات فيدس",
+      "synopsis_ar": "بعد أن تنفجر فتاة صغيرة في ممارسة الطب النفسي المنزلي مدعية أن كيانًا يتغذى عليها، يجب على جوردان ووالدتها المستبصرة إيجاد طريقة لوقف القوة قبل أخذ الفتاة بالكامل.",
+      "genres_ar": [
+        "رعب"
+      ],
+      "runtime_min": 102,
+      "trailer_youtube_id": "MeZnOuESLVU"
     },
     "elgawahergy": {
       "title_en": "El Gawahergy (Egyptian) - Arabic",

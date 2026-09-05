@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T08:32:28.575223+00:00",
+  "last_updated": "2026-09-05T08:07:57.384467+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -395,6 +395,33 @@
       ]
     },
     {
+      "id": "local-shams",
+      "title_ar": "شمس (مصري) - عربي",
+      "title_en": "Shams (Egyptian) - Arabic",
+      "synopsis_ar": "ماذا لو توقف الزمن واكتشفت أنك في عالم آخر، غير عالمك الواقعي... ما رد‎ ‏فعلك؟ وكيف ستتعامل مع من حولك؟ لا سيما أن أقرب الناس إليك تأذى‎ بسببك.",
+      "genres_ar": [
+        "دراما",
+        "إثارة"
+      ],
+      "runtime_min": 94,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004491_417.jpg",
+      "trailer_youtube_id": "T1bi4SIhFsI",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Shams%20%28Egyptian%29%20-%20Arabic%20official%20trailer",
+      "ratings": {},
+      "imdb_id": "tt13124934",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Shams-(Egyptian)---Arabic/HO00004491"
+        }
+      ]
+    },
+    {
       "id": "wd-Q136396301",
       "title_ar": "ات فيدس",
       "title_en": "It Feeds",
@@ -420,33 +447,6 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/It-Feeds/HO00004457"
-        }
-      ]
-    },
-    {
-      "id": "local-shams",
-      "title_ar": "شمس (مصري) - عربي",
-      "title_en": "Shams (Egyptian) - Arabic",
-      "synopsis_ar": "ماذا لو توقف الزمن واكتشفت أنك في عالم آخر، غير عالمك الواقعي... ما رد‎ ‏فعلك؟ وكيف ستتعامل مع من حولك؟ لا سيما أن أقرب الناس إليك تأذى‎ بسببك.",
-      "genres_ar": [
-        "دراما",
-        "إثارة"
-      ],
-      "runtime_min": 94,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004491_417.jpg",
-      "trailer_youtube_id": "T1bi4SIhFsI",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Shams%20%28Egyptian%29%20-%20Arabic%20official%20trailer",
-      "ratings": {},
-      "imdb_id": "tt13124934",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Shams-(Egyptian)---Arabic/HO00004491"
         }
       ]
     },
@@ -646,7 +646,9 @@
       "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004445_949.jpg",
       "trailer_youtube_id": "V61lCTcQvfI",
       "trailer_search_url": "https://www.youtube.com/results?search_query=I%27m%20Game%20-%20Malayalam%20official%20trailer",
-      "ratings": {},
+      "ratings": {
+        "imdb": "6.4"
+      },
       "imdb_id": "tt34284946",
       "release_date": null,
       "matched": true,
