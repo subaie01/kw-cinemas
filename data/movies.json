@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06T08:25:32.755334+00:00",
+  "last_updated": "2026-09-07T09:00:43.779198+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -29,7 +29,8 @@
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Dog%20Stars%20official%20trailer",
       "ratings": {
-        "imdb": "6.5"
+        "imdb": "6.5",
+        "rotten_tomatoes": "40%"
       },
       "imdb_id": "tt21285562",
       "release_date": "2026-08-27",
@@ -65,7 +66,8 @@
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=Spider%20Man%3A%20Brand%20New%20Day%20official%20trailer",
       "ratings": {
-        "imdb": "8.0"
+        "imdb": "8.0",
+        "rotten_tomatoes": "89%"
       },
       "imdb_id": "tt22084616",
       "release_date": "2026-07-29",
@@ -101,7 +103,8 @@
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Odyssey%20official%20trailer",
       "ratings": {
-        "imdb": "8.4"
+        "imdb": "8.4",
+        "rotten_tomatoes": "93%"
       },
       "imdb_id": "tt33764258",
       "release_date": "2026-07-06",
@@ -190,8 +193,11 @@
       "poster": "https://www.skycinemaskw.com/images/movies/9999001488.jpg",
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=Fall%202%3A%20Deadpoint%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
+      "ratings": {
+        "imdb": "5.7",
+        "rotten_tomatoes": "55%"
+      },
+      "imdb_id": "tt31192372",
       "release_date": null,
       "matched": false,
       "languages": [
@@ -222,7 +228,7 @@
       "trailer_youtube_id": "U40uVQ--_VA",
       "trailer_search_url": "https://www.youtube.com/results?search_query=By%20Any%20Means%20official%20trailer",
       "ratings": {
-        "imdb": "4.0"
+        "imdb": "4.1"
       },
       "imdb_id": "tt4741768",
       "release_date": null,
@@ -310,7 +316,8 @@
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=Coyote%20Vs%20Acme%20official%20trailer",
       "ratings": {
-        "imdb": "7.7"
+        "imdb": "7.7",
+        "rotten_tomatoes": "96%"
       },
       "imdb_id": "tt1756855",
       "release_date": null,
@@ -375,7 +382,8 @@
       "trailer_youtube_id": "7Dlg4-osqbo",
       "trailer_search_url": "https://www.youtube.com/results?search_query=Insidious%3A%20Out%20Of%20The%20Further%20official%20trailer",
       "ratings": {
-        "imdb": "6.3"
+        "imdb": "6.3",
+        "rotten_tomatoes": "58%"
       },
       "imdb_id": "tt32393988",
       "release_date": null,
