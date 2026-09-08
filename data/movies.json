@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-07T09:00:43.779198+00:00",
+  "last_updated": "2026-09-08T08:40:23.025378+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -180,6 +180,106 @@
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/it-ends/9999001487/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "local-practicalmagic2",
+      "title_ar": "Practical Magic 2",
+      "title_en": "Practical Magic 2",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001493.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Practical%20Magic%202%20official%20trailer",
+      "ratings": {},
+      "imdb_id": "tt32588798",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/practical-magic-2/9999001493/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "local-uprising",
+      "title_ar": "The Uprising",
+      "title_en": "The Uprising",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001492.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Uprising%20official%20trailer",
+      "ratings": {
+        "imdb": "7.1"
+      },
+      "imdb_id": "tt3230012",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/the-uprising/9999001492/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "local-runner",
+      "title_ar": "Runner",
+      "title_en": "Runner",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001490.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Runner%20official%20trailer",
+      "ratings": {
+        "imdb": "6.5"
+      },
+      "imdb_id": "tt9348578",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/runner/9999001490/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "local-catsinthemuseum2treasuresofegypt",
+      "title_ar": "Cats In The Museum 2:Treasures Of Egypt",
+      "title_en": "Cats In The Museum 2:Treasures Of Egypt",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001489.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Cats%20In%20The%20Museum%202%3ATreasures%20Of%20Egypt%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/cats-in-the-museum-2treasures-of-egypt/9999001489/NowShowing"
         }
       ]
     },
@@ -564,30 +664,6 @@
       ]
     },
     {
-      "id": "local-khalibalakminnafsik",
-      "title_ar": "Khali Balak Min Nafsik",
-      "title_en": "Khali Balak Min Nafsik",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001461.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Khali%20Balak%20Min%20Nafsik%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Khali-Balak-Min-Nafsik-(Egyptian)---Arabic/HO00004436"
-        }
-      ]
-    },
-    {
       "id": "local-mahmoudeltany",
       "title_ar": "محمود التاني",
       "title_en": "Mahmoud El Tany (Egyptian) - Arabic",
@@ -610,6 +686,30 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Mahmoud-El-Tany-(Egyptian)---Arabic/HO00004470"
+        }
+      ]
+    },
+    {
+      "id": "local-khalibalakminnafsik",
+      "title_ar": "Khali Balak Min Nafsik",
+      "title_en": "Khali Balak Min Nafsik",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001461.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Khali%20Balak%20Min%20Nafsik%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Khali-Balak-Min-Nafsik-(Egyptian)---Arabic/HO00004436"
         }
       ]
     },

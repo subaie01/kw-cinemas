@@ -1,9 +1,61 @@
 {
-  "scraped_at": "2026-09-07T09:00:31.525556+00:00",
+  "scraped_at": "2026-09-08T08:40:10.031896+00:00",
   "failures": [
     "vox"
   ],
   "movies": {
+    "practicalmagic2": {
+      "title_en": "Practical Magic 2",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/practical-magic-2/9999001493/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001493.jpg"
+    },
+    "uprising": {
+      "title_en": "The Uprising",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/the-uprising/9999001492/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001492.jpg"
+    },
+    "runner": {
+      "title_en": "Runner",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/runner/9999001490/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001490.jpg"
+    },
+    "catsinthemuseum2treasuresofegypt": {
+      "title_en": "Cats In The Museum 2:Treasures Of Egypt",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/cats-in-the-museum-2treasures-of-egypt/9999001489/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001489.jpg"
+    },
     "fall2deadpoint": {
       "title_en": "Fall 2: Deadpoint",
       "languages": [
@@ -415,26 +467,6 @@
       "runtime_min": 123,
       "trailer_youtube_id": "8OJz0lFb9RU"
     },
-    "khalibalakminnafsik": {
-      "title_en": "Khali Balak Min Nafsik (Egyptian) - Arabic",
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Khali-Balak-Min-Nafsik-(Egyptian)---Arabic/HO00004436"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004436_022.jpg",
-      "title_ar": "خلى بالك من نفسك",
-      "synopsis_ar": "تدور احداث الفيلم بين علاء مذيع الراديو الذي يدخل في علاقات كثيرة و يترك الفتيات لاسباب سطحية و خوفه من الارتباط ، حتي يتعرف عن طريق الصدفة علي فريده، التي تبدو له الرقيقة المثالية ، لكن فريده في حقيقتها هي من اكبر تجاره سلاح ، و بعد ان علقها به و وقعت في",
-      "genres_ar": [
-        "كوميدي"
-      ],
-      "runtime_min": 103,
-      "trailer_youtube_id": "p8nNykRtUJI"
-    },
     "mahmoudeltany": {
       "title_en": "Mahmoud El Tany (Egyptian) - Arabic",
       "languages": [
@@ -454,6 +486,26 @@
       ],
       "runtime_min": 104,
       "trailer_youtube_id": "jF8-T1Jl9Xo"
+    },
+    "khalibalakminnafsik": {
+      "title_en": "Khali Balak Min Nafsik (Egyptian) - Arabic",
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Khali-Balak-Min-Nafsik-(Egyptian)---Arabic/HO00004436"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004436_022.jpg",
+      "title_ar": "خلى بالك من نفسك",
+      "synopsis_ar": "تدور احداث الفيلم بين علاء مذيع الراديو الذي يدخل في علاقات كثيرة و يترك الفتيات لاسباب سطحية و خوفه من الارتباط ، حتي يتعرف عن طريق الصدفة علي فريده، التي تبدو له الرقيقة المثالية ، لكن فريده في حقيقتها هي من اكبر تجاره سلاح ، و بعد ان علقها به و وقعت في",
+      "genres_ar": [
+        "كوميدي"
+      ],
+      "runtime_min": 103,
+      "trailer_youtube_id": "p8nNykRtUJI"
     },
     "bethlehemkudumbaunit": {
       "title_en": "Bethlehem Kudumba Unit - Malayalam",
