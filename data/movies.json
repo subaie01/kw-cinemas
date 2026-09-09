@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-08T08:40:23.025378+00:00",
+  "last_updated": "2026-09-09T08:43:52.651828+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -15,6 +15,33 @@
     }
   },
   "movies": [
+    {
+      "id": "wd-Q129255849",
+      "title_ar": "سلردار ٢",
+      "title_en": "Sardar 2 - Tamil",
+      "synopsis_ar": "يتبع قصة الجاسوس ساردار الأصلية في ذكريات الماضي بينما يواجه ابنه المفتش فيجاي شريرًا يعرف باسم الخنجر الأسود في يومنا هذا.",
+      "genres_ar": [
+        "أكشن",
+        "إثارة"
+      ],
+      "runtime_min": 179,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004494_826.jpg",
+      "trailer_youtube_id": "AXusRaUDIIs",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Sardar%202%20-%20Tamil%20official%20trailer",
+      "ratings": {},
+      "imdb_id": "tt28541577",
+      "release_date": "2026-09-10",
+      "matched": true,
+      "languages": [
+        "Tamil"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Sardar-2---Tamil/HO00004494"
+        }
+      ]
+    },
     {
       "id": "wd-Q132256832",
       "title_ar": "نجوم الكلب",
@@ -202,6 +229,10 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Practical-Magic-2/HO00004462"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/practical-magic-2/9999001493/NowShowing"
         }
@@ -228,8 +259,39 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Uprising/HO00004475"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/the-uprising/9999001492/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "local-redflag",
+      "title_ar": "Red Flag",
+      "title_en": "Red Flag",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001491.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Red%20Flag%20official%20trailer",
+      "ratings": {
+        "imdb": "5.5",
+        "rotten_tomatoes": "74%"
+      },
+      "imdb_id": "tt2147048",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/red-flag-(egyptian)-arabic/9999001491/NowShowing"
         }
       ]
     },
@@ -254,6 +316,10 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Runner/HO00004463"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/runner/9999001490/NowShowing"
         }
@@ -277,6 +343,10 @@
         "English"
       ],
       "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Cats-in-the-Museum-2:Treasures-of-Egypt/HO00004441"
+        },
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/cats-in-the-museum-2treasures-of-egypt/9999001489/NowShowing"
@@ -416,7 +486,7 @@
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=Coyote%20Vs%20Acme%20official%20trailer",
       "ratings": {
-        "imdb": "7.7",
+        "imdb": "7.6",
         "rotten_tomatoes": "96%"
       },
       "imdb_id": "tt1756855",
@@ -450,9 +520,10 @@
       "trailer_youtube_id": "wp_uZMVoevE",
       "trailer_search_url": "https://www.youtube.com/results?search_query=Mutiny%20official%20trailer",
       "ratings": {
-        "imdb": "5.2"
+        "imdb": "5.7",
+        "rotten_tomatoes": "50%"
       },
-      "imdb_id": "tt0044936",
+      "imdb_id": "tt32338669",
       "release_date": null,
       "matched": false,
       "languages": [
@@ -482,7 +553,7 @@
       "trailer_youtube_id": "7Dlg4-osqbo",
       "trailer_search_url": "https://www.youtube.com/results?search_query=Insidious%3A%20Out%20Of%20The%20Further%20official%20trailer",
       "ratings": {
-        "imdb": "6.3",
+        "imdb": "6.2",
         "rotten_tomatoes": "58%"
       },
       "imdb_id": "tt32393988",
@@ -530,31 +601,85 @@
       ]
     },
     {
-      "id": "wd-Q136396301",
-      "title_ar": "ات فيدس",
-      "title_en": "It Feeds",
-      "synopsis_ar": "بعد أن تنفجر فتاة صغيرة في ممارسة الطب النفسي المنزلي مدعية أن كيانًا يتغذى عليها، يجب على جوردان ووالدتها المستبصرة إيجاد طريقة لوقف القوة قبل أخذ الفتاة بالكامل.",
+      "id": "local-bluelockjapanese",
+      "title_ar": "وبلو لوك",
+      "title_en": "Blue Lock - Japanese",
+      "synopsis_ar": "يتبع 300 لاعب كرة قدم في المدرسة الثانوية يتنافسون في تجارب قاسية في منشأة تدريب سرية، حيث سيظهر واحد فقط كأعظم مهاجم في العالم والمقصون ممنوعون من المنتخب الوطني الياباني.",
       "genres_ar": [
-        "رعب"
+        "رياضي"
       ],
-      "runtime_min": 101,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004457_158.jpg",
-      "trailer_youtube_id": "MeZnOuESLVU",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=It%20Feeds%20official%20trailer",
-      "ratings": {
-        "imdb": "5.6",
-        "rotten_tomatoes": "89%"
-      },
-      "imdb_id": "tt28230296",
+      "runtime_min": 127,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004492_605.jpg",
+      "trailer_youtube_id": "pm1-tswjB9s",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Blue%20Lock%20-%20Japanese%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
       "release_date": null,
-      "matched": true,
+      "matched": false,
+      "languages": [
+        "Japanese"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Blue-Lock---Japanese/HO00004492"
+        }
+      ]
+    },
+    {
+      "id": "local-spiderisland",
+      "title_ar": "سبايدر ايلند",
+      "title_en": "Spider Island",
+      "synopsis_ar": "ابتليت مجموعة من المؤثرين بانتشار العناكب القاتلة عند إطلاق منتجع عطلات استوائي جديد.",
+      "genres_ar": [
+        "رعب",
+        "كوميدي"
+      ],
+      "runtime_min": 93,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004489_266.jpg",
+      "trailer_youtube_id": "sU4yZ4guA8g",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Spider%20Island%20official%20trailer",
+      "ratings": {},
+      "imdb_id": "tt22406048",
+      "release_date": null,
+      "matched": false,
       "languages": [
         "English"
       ],
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/It-Feeds/HO00004457"
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Spider-Island/HO00004489"
+        }
+      ]
+    },
+    {
+      "id": "local-bay",
+      "title_ar": "ذا باي",
+      "title_en": "The Bay",
+      "synopsis_ar": "تجد صديقتا إيما ولاني المقربتان، اللتان تحضران حفل زفاف في تايلاند، نفسيهما محاصرتين على متن قارب سياحي غارق في قلب ملاذ لأسماك القرش النمر.",
+      "genres_ar": [
+        "إثارة",
+        "أكشن"
+      ],
+      "runtime_min": 86,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004437_858.jpg",
+      "trailer_youtube_id": "U93toQ0B2Mk",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Bay%20official%20trailer",
+      "ratings": {
+        "imdb": "5.7",
+        "rotten_tomatoes": "75%"
+      },
+      "imdb_id": "tt1713476",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Bay/HO00004437"
         }
       ]
     },
@@ -583,34 +708,6 @@
       ]
     },
     {
-      "id": "local-colonykorean",
-      "title_ar": "كولوني",
-      "title_en": "Colony - Korean",
-      "synopsis_ar": "يحضر البروفيسور سي جيونغ مؤتمرًا للتكنولوجيا الحيوية، فقط ليشهده يتصاعد إلى كارثة عندما يتم إطلاق العنان لفيروس سريع التحور. عندما ينتشر التفشي ويبدأ المصابون في التحول، تغلق السلطات المرفق بأكمله.",
-      "genres_ar": [
-        "رعب",
-        "إثارة",
-        "أكشن"
-      ],
-      "runtime_min": 122,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004446_848.jpg",
-      "trailer_youtube_id": "jm-7zgYbVLc",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Colony%20-%20Korean%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Korean"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Colony---Korean/HO00004446"
-        }
-      ]
-    },
-    {
       "id": "local-closedformaintenance",
       "title_ar": "مغلق للصيانة (كويتي) - عربي",
       "title_en": "Closed for Maintenance (Kuwaiti) - Arabic",
@@ -633,33 +730,6 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Closed-for-Maintenance-(Kuwaiti)---Arabic/HO00004488"
-        }
-      ]
-    },
-    {
-      "id": "local-sakrwcanaria",
-      "title_ar": "صقر و كناريا(مصري) - عربي",
-      "title_en": "Sakr W Canaria (Egyptian) - Arabic",
-      "synopsis_ar": "في مزيج من الأكشن والكوميديا، يقرر صقر  المرتزق الأسطوري اعتزال حياته السرية والبحث عن بداية جديدة. لكن لقاءه المفاجئ بـ بلال، كاتب فاشل مهووس بعالم الجاسوسية، يجعل خططه تنقلب رأسًا على عقب. يجد الاثنان نفسيهما في مغامرة خطيرة تقلب حياتهما بالكامل.",
-      "genres_ar": [
-        "كوميدي",
-        "أكشن"
-      ],
-      "runtime_min": 123,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001440.jpg",
-      "trailer_youtube_id": "8OJz0lFb9RU",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Sakr%20W%20Canaria%20%28Egyptian%29%20-%20Arabic%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Sakr-W-Canaria-(Egyptian)---Arabic/HO00004388"
         }
       ]
     },
@@ -714,6 +784,90 @@
       ]
     },
     {
+      "id": "local-sakrwcanaria",
+      "title_ar": "صقر و كناريا(مصري) - عربي",
+      "title_en": "Sakr W Canaria (Egyptian) - Arabic",
+      "synopsis_ar": "في مزيج من الأكشن والكوميديا، يقرر صقر  المرتزق الأسطوري اعتزال حياته السرية والبحث عن بداية جديدة. لكن لقاءه المفاجئ بـ بلال، كاتب فاشل مهووس بعالم الجاسوسية، يجعل خططه تنقلب رأسًا على عقب. يجد الاثنان نفسيهما في مغامرة خطيرة تقلب حياتهما بالكامل.",
+      "genres_ar": [
+        "كوميدي",
+        "أكشن"
+      ],
+      "runtime_min": 123,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001440.jpg",
+      "trailer_youtube_id": "8OJz0lFb9RU",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Sakr%20W%20Canaria%20%28Egyptian%29%20-%20Arabic%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Sakr-W-Canaria-(Egyptian)---Arabic/HO00004388"
+        }
+      ]
+    },
+    {
+      "id": "local-colonykorean",
+      "title_ar": "كولوني",
+      "title_en": "Colony - Korean",
+      "synopsis_ar": "يحضر البروفيسور سي جيونغ مؤتمرًا للتكنولوجيا الحيوية، فقط ليشهده يتصاعد إلى كارثة عندما يتم إطلاق العنان لفيروس سريع التحور. عندما ينتشر التفشي ويبدأ المصابون في التحول، تغلق السلطات المرفق بأكمله.",
+      "genres_ar": [
+        "رعب",
+        "إثارة",
+        "أكشن"
+      ],
+      "runtime_min": 122,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004446_848.jpg",
+      "trailer_youtube_id": "jm-7zgYbVLc",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Colony%20-%20Korean%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Korean"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Colony---Korean/HO00004446"
+        }
+      ]
+    },
+    {
+      "id": "wd-Q136396301",
+      "title_ar": "ات فيدس",
+      "title_en": "It Feeds",
+      "synopsis_ar": "بعد أن تنفجر فتاة صغيرة في ممارسة الطب النفسي المنزلي مدعية أن كيانًا يتغذى عليها، يجب على جوردان ووالدتها المستبصرة إيجاد طريقة لوقف القوة قبل أخذ الفتاة بالكامل.",
+      "genres_ar": [
+        "رعب"
+      ],
+      "runtime_min": 101,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004457_158.jpg",
+      "trailer_youtube_id": "MeZnOuESLVU",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=It%20Feeds%20official%20trailer",
+      "ratings": {
+        "imdb": "5.6",
+        "rotten_tomatoes": "89%"
+      },
+      "imdb_id": "tt28230296",
+      "release_date": null,
+      "matched": true,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/It-Feeds/HO00004457"
+        }
+      ]
+    },
+    {
       "id": "wd-Q138716562",
       "title_ar": "بيثاهيم كودومبا ينات",
       "title_en": "Bethlehem Kudumba Unit - Malayalam",
@@ -755,7 +909,7 @@
       "trailer_youtube_id": "V61lCTcQvfI",
       "trailer_search_url": "https://www.youtube.com/results?search_query=I%27m%20Game%20-%20Malayalam%20official%20trailer",
       "ratings": {
-        "imdb": "6.6"
+        "imdb": "6.5"
       },
       "imdb_id": "tt34284946",
       "release_date": null,

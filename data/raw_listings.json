@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-08T08:40:10.031896+00:00",
+  "scraped_at": "2026-09-09T08:43:38.307989+00:00",
   "failures": [
     "vox"
   ],
@@ -11,11 +11,24 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Practical-Magic-2/HO00004462"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/practical-magic-2/9999001493/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001493.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001493.jpg",
+      "title_ar": "بارتكل ماجك ٢",
+      "synopsis_ar": "يعود الجزء الثاني من السحر العملي ليأخذنا مجددًا إلى عالم مليء بالأجواء الغامضة وسحر الأجداد المتوارث، حيث تضطر الشقيقتان من عائلة أوينز لمواجهة لعنة مظلمة تهدد بتفكيك إرث العائلة إلى الأبد. في تجربة سينمائية مليئة بالمرح والسحر والفوضى",
+      "genres_ar": [
+        "كوميدي",
+        "دراما",
+        "خيالي"
+      ],
+      "runtime_min": 126,
+      "trailer_youtube_id": "bdJsow2SC6s"
     },
     "uprising": {
       "title_en": "The Uprising",
@@ -24,11 +37,37 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Uprising/HO00004475"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/the-uprising/9999001492/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001492.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001492.jpg",
+      "title_ar": "ذا ابرايزنق",
+      "synopsis_ar": "يلعب أندرو غارفيلد دور القائد الأسطوري للتمرد الشرس ضد طغيان الملك ريتشارد الثاني. مع احتراق الحرب في جميع أنحاء إنجلترا، يشكل جيشًا من الشعب لمواجهة قوة الملك في الكفاح من أجل العدالة والبقاء على قيد الحياة.",
+      "genres_ar": [
+        "أكشن",
+        "دراما",
+        "تاريخي"
+      ],
+      "runtime_min": 128,
+      "trailer_youtube_id": "FApDlMrga6s"
+    },
+    "redflag": {
+      "title_en": "Red Flag",
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/red-flag-(egyptian)-arabic/9999001491/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001491.jpg"
     },
     "runner": {
       "title_en": "Runner",
@@ -37,11 +76,23 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Runner/HO00004463"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/runner/9999001490/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001490.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001490.jpg",
+      "title_ar": "رانار",
+      "synopsis_ar": "يُلقى جندي سابق في سباق وحشي مع الزمن عندما تجعله الولادة الطبية الحرجة هدفًا لكارتل لا يرحم. مع اقتراب الخيانة من كل جانب، يجب عليه النجاة من المطاردة وتسليم حمولته قبل نفاد الوقت لطفل بريء.",
+      "genres_ar": [
+        "أكشن",
+        "إثارة"
+      ],
+      "runtime_min": 99,
+      "trailer_youtube_id": "laUdCCWp_nI"
     },
     "catsinthemuseum2treasuresofegypt": {
       "title_en": "Cats In The Museum 2:Treasures Of Egypt",
@@ -50,11 +101,23 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Cats-in-the-Museum-2:Treasures-of-Egypt/HO00004441"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/cats-in-the-museum-2treasures-of-egypt/9999001489/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001489.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001489.jpg",
+      "title_ar": "كات ان ذا ميوزيم",
+      "synopsis_ar": "بعد عامين من أحداث الفيلم الأول، يحلم موريس الفأر بمآثر جديدة بينما اكتسب فينسنت وكليوباترا قطتين مضطربتين تتوقان إلى المغامرة.",
+      "genres_ar": [
+        "رسوم متحركة",
+        "مغامرات"
+      ],
+      "runtime_min": 89,
+      "trailer_youtube_id": "-uhrpk7eQdY"
     },
     "fall2deadpoint": {
       "title_en": "Fall 2: Deadpoint",
@@ -321,25 +384,67 @@
       "runtime_min": 94,
       "trailer_youtube_id": "T1bi4SIhFsI"
     },
-    "itfeeds": {
-      "title_en": "It Feeds",
+    "bluelockjapanese": {
+      "title_en": "Blue Lock - Japanese",
+      "languages": [
+        "Japanese"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Blue-Lock---Japanese/HO00004492"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004492_605.jpg",
+      "title_ar": "وبلو لوك",
+      "synopsis_ar": "يتبع 300 لاعب كرة قدم في المدرسة الثانوية يتنافسون في تجارب قاسية في منشأة تدريب سرية، حيث سيظهر واحد فقط كأعظم مهاجم في العالم والمقصون ممنوعون من المنتخب الوطني الياباني.",
+      "genres_ar": [
+        "رياضي"
+      ],
+      "runtime_min": 127,
+      "trailer_youtube_id": "pm1-tswjB9s"
+    },
+    "spiderisland": {
+      "title_en": "Spider Island",
       "languages": [
         "English"
       ],
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/It-Feeds/HO00004457"
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Spider-Island/HO00004489"
         }
       ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004457_158.jpg",
-      "title_ar": "ات فيدس",
-      "synopsis_ar": "بعد أن تنفجر فتاة صغيرة في ممارسة الطب النفسي المنزلي مدعية أن كيانًا يتغذى عليها، يجب على جوردان ووالدتها المستبصرة إيجاد طريقة لوقف القوة قبل أخذ الفتاة بالكامل.",
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004489_266.jpg",
+      "title_ar": "سبايدر ايلند",
+      "synopsis_ar": "ابتليت مجموعة من المؤثرين بانتشار العناكب القاتلة عند إطلاق منتجع عطلات استوائي جديد.",
       "genres_ar": [
-        "رعب"
+        "رعب",
+        "كوميدي"
       ],
-      "runtime_min": 102,
-      "trailer_youtube_id": "MeZnOuESLVU"
+      "runtime_min": 93,
+      "trailer_youtube_id": "sU4yZ4guA8g"
+    },
+    "bay": {
+      "title_en": "The Bay",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Bay/HO00004437"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004437_858.jpg",
+      "title_ar": "ذا باي",
+      "synopsis_ar": "تجد صديقتا إيما ولاني المقربتان، اللتان تحضران حفل زفاف في تايلاند، نفسيهما محاصرتين على متن قارب سياحي غارق في قلب ملاذ لأسماك القرش النمر.",
+      "genres_ar": [
+        "إثارة",
+        "أكشن"
+      ],
+      "runtime_min": 86,
+      "trailer_youtube_id": "U93toQ0B2Mk"
     },
     "elgawahergy": {
       "title_en": "El Gawahergy (Egyptian) - Arabic",
@@ -361,71 +466,6 @@
       "runtime_min": 107,
       "trailer_youtube_id": "JSk81pO4wg0"
     },
-    "odyssey": {
-      "title_en": "The Odyssey",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Odyssey/HO00004251"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004251_096.jpg",
-      "title_ar": "ذا اودسي",
-      "synopsis_ar": "بعد حرب طروادة، يواجه أوديسيوس رحلة خطيرة عائدا إلى إيثاكا، حيث يلتقي بمخلوقات مثل السيكلوبس بوليفيموس، والحوريات، وسيرسي في طريقه.",
-      "genres_ar": [
-        "أكشن",
-        "مغامرات",
-        "خيالي"
-      ],
-      "runtime_min": 172,
-      "trailer_youtube_id": "V8HyNO6VKTg"
-    },
-    "neglected": {
-      "title_en": "Neglected",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Neglected/HO00004490"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004490_280.jpg",
-      "title_ar": "نقلكتيد",
-      "synopsis_ar": "المحقق شو على وشك التقاعد عندما يكتشف في آخر يوم عمل له أن قاتل متسلسل قد دفن ابنه على قيد الحياة. ثم يتسابق مع عقارب الساعة لحل ثلاث جرائم قتل ومعرفة موقع ابنه قبل نفاد الهواء.",
-      "genres_ar": [
-        "أكشن",
-        "إثارة"
-      ],
-      "runtime_min": 93,
-      "trailer_youtube_id": "6_H8K8cL0fg"
-    },
-    "colonykorean": {
-      "title_en": "Colony - Korean",
-      "languages": [
-        "Korean"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Colony---Korean/HO00004446"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004446_848.jpg",
-      "title_ar": "كولوني",
-      "synopsis_ar": "يحضر البروفيسور سي جيونغ مؤتمرًا للتكنولوجيا الحيوية، فقط ليشهده يتصاعد إلى كارثة عندما يتم إطلاق العنان لفيروس سريع التحور. عندما ينتشر التفشي ويبدأ المصابون في التحول، تغلق السلطات المرفق بأكمله.",
-      "genres_ar": [
-        "رعب",
-        "إثارة",
-        "أكشن"
-      ],
-      "runtime_min": 122,
-      "trailer_youtube_id": "jm-7zgYbVLc"
-    },
     "closedformaintenance": {
       "title_en": "Closed for Maintenance (Kuwaiti) - Arabic",
       "languages": [
@@ -445,27 +485,6 @@
       ],
       "runtime_min": 98,
       "trailer_youtube_id": "QWJHQKMZmHE"
-    },
-    "sakrwcanaria": {
-      "title_en": "Sakr W Canaria (Egyptian) - Arabic",
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Sakr-W-Canaria-(Egyptian)---Arabic/HO00004388"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004388_760.jpg",
-      "title_ar": "صقر و كناريا(مصري) - عربي",
-      "synopsis_ar": "في مزيج من الأكشن والكوميديا، يقرر صقر  المرتزق الأسطوري اعتزال حياته السرية والبحث عن بداية جديدة. لكن لقاءه المفاجئ بـ بلال، كاتب فاشل مهووس بعالم الجاسوسية، يجعل خططه تنقلب رأسًا على عقب. يجد الاثنان نفسيهما في مغامرة خطيرة تقلب حياتهما بالكامل.",
-      "genres_ar": [
-        "كوميدي",
-        "أكشن"
-      ],
-      "runtime_min": 123,
-      "trailer_youtube_id": "8OJz0lFb9RU"
     },
     "mahmoudeltany": {
       "title_en": "Mahmoud El Tany (Egyptian) - Arabic",
@@ -506,6 +525,112 @@
       ],
       "runtime_min": 103,
       "trailer_youtube_id": "p8nNykRtUJI"
+    },
+    "sakrwcanaria": {
+      "title_en": "Sakr W Canaria (Egyptian) - Arabic",
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Sakr-W-Canaria-(Egyptian)---Arabic/HO00004388"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004388_760.jpg",
+      "title_ar": "صقر و كناريا(مصري) - عربي",
+      "synopsis_ar": "في مزيج من الأكشن والكوميديا، يقرر صقر  المرتزق الأسطوري اعتزال حياته السرية والبحث عن بداية جديدة. لكن لقاءه المفاجئ بـ بلال، كاتب فاشل مهووس بعالم الجاسوسية، يجعل خططه تنقلب رأسًا على عقب. يجد الاثنان نفسيهما في مغامرة خطيرة تقلب حياتهما بالكامل.",
+      "genres_ar": [
+        "كوميدي",
+        "أكشن"
+      ],
+      "runtime_min": 123,
+      "trailer_youtube_id": "8OJz0lFb9RU"
+    },
+    "odyssey": {
+      "title_en": "The Odyssey",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Odyssey/HO00004251"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004251_096.jpg",
+      "title_ar": "ذا اودسي",
+      "synopsis_ar": "بعد حرب طروادة، يواجه أوديسيوس رحلة خطيرة عائدا إلى إيثاكا، حيث يلتقي بمخلوقات مثل السيكلوبس بوليفيموس، والحوريات، وسيرسي في طريقه.",
+      "genres_ar": [
+        "أكشن",
+        "مغامرات",
+        "خيالي"
+      ],
+      "runtime_min": 172,
+      "trailer_youtube_id": "V8HyNO6VKTg"
+    },
+    "colonykorean": {
+      "title_en": "Colony - Korean",
+      "languages": [
+        "Korean"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Colony---Korean/HO00004446"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004446_848.jpg",
+      "title_ar": "كولوني",
+      "synopsis_ar": "يحضر البروفيسور سي جيونغ مؤتمرًا للتكنولوجيا الحيوية، فقط ليشهده يتصاعد إلى كارثة عندما يتم إطلاق العنان لفيروس سريع التحور. عندما ينتشر التفشي ويبدأ المصابون في التحول، تغلق السلطات المرفق بأكمله.",
+      "genres_ar": [
+        "رعب",
+        "إثارة",
+        "أكشن"
+      ],
+      "runtime_min": 122,
+      "trailer_youtube_id": "jm-7zgYbVLc"
+    },
+    "itfeeds": {
+      "title_en": "It Feeds",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/It-Feeds/HO00004457"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004457_158.jpg",
+      "title_ar": "ات فيدس",
+      "synopsis_ar": "بعد أن تنفجر فتاة صغيرة في ممارسة الطب النفسي المنزلي مدعية أن كيانًا يتغذى عليها، يجب على جوردان ووالدتها المستبصرة إيجاد طريقة لوقف القوة قبل أخذ الفتاة بالكامل.",
+      "genres_ar": [
+        "رعب"
+      ],
+      "runtime_min": 102,
+      "trailer_youtube_id": "MeZnOuESLVU"
+    },
+    "neglected": {
+      "title_en": "Neglected",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Neglected/HO00004490"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004490_280.jpg",
+      "title_ar": "نقلكتيد",
+      "synopsis_ar": "المحقق شو على وشك التقاعد عندما يكتشف في آخر يوم عمل له أن قاتل متسلسل قد دفن ابنه على قيد الحياة. ثم يتسابق مع عقارب الساعة لحل ثلاث جرائم قتل ومعرفة موقع ابنه قبل نفاد الهواء.",
+      "genres_ar": [
+        "أكشن",
+        "إثارة"
+      ],
+      "runtime_min": 93,
+      "trailer_youtube_id": "6_H8K8cL0fg"
     },
     "bethlehemkudumbaunit": {
       "title_en": "Bethlehem Kudumba Unit - Malayalam",
@@ -549,6 +674,27 @@
       ],
       "runtime_min": 171,
       "trailer_youtube_id": "V61lCTcQvfI"
+    },
+    "sardar2": {
+      "title_en": "Sardar 2 - Tamil",
+      "languages": [
+        "Tamil"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Sardar-2---Tamil/HO00004494"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004494_826.jpg",
+      "title_ar": "سلردار ٢",
+      "synopsis_ar": "يتبع قصة الجاسوس ساردار الأصلية في ذكريات الماضي بينما يواجه ابنه المفتش فيجاي شريرًا يعرف باسم الخنجر الأسود في يومنا هذا.",
+      "genres_ar": [
+        "أكشن",
+        "إثارة"
+      ],
+      "runtime_min": 179,
+      "trailer_youtube_id": "AXusRaUDIIs"
     }
   }
 }
