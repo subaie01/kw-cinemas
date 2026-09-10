@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-09T08:43:38.307989+00:00",
+  "scraped_at": "2026-09-10T08:42:17.814000+00:00",
   "failures": [
     "vox"
   ],
@@ -57,17 +57,28 @@
       "trailer_youtube_id": "FApDlMrga6s"
     },
     "redflag": {
-      "title_en": "Red Flag",
+      "title_en": "Red Flag (Egyptian) - Arabic",
       "languages": [
         "Arabic"
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Red-Flag-(Egyptian)---Arabic/HO00004493"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/red-flag-(egyptian)-arabic/9999001491/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001491.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001491.jpg",
+      "title_ar": "ريد فلاج",
+      "synopsis_ar": "تتبع القصة الطيار أحمد وزوجته، مديرة شركة إعلانات، وتسلط الضوء على تحديات الحب والتردد والثقة والخيانة في علاقات الأزواج الشباب.",
+      "genres_ar": [
+        "كوميدي"
+      ],
+      "runtime_min": 100,
+      "trailer_youtube_id": "uO2BKCC85rY"
     },
     "runner": {
       "title_en": "Runner",
@@ -140,128 +151,6 @@
       "runtime_min": 97,
       "trailer_youtube_id": "5ktaZGTCzS8"
     },
-    "itends": {
-      "title_en": "It Ends",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/IT-ENDS/HO00004431"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/it-ends/9999001487/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001487.jpg",
-      "title_ar": "ات إند",
-      "synopsis_ar": "يصبح الأصدقاء في رحلة طعام في وقت متأخر من الليل محاصرين على طريق سريع لا حصر له مع رعب دنيوي يتربص بهم. محبوسين في جيب شيروكي الخاصة بهم، يجب أن يقرروا ما إذا كانوا يقبلون مصيرهم أو يحاولون الهروب.",
-      "genres_ar": [
-        "رعب",
-        "إثارة"
-      ],
-      "runtime_min": 89,
-      "trailer_youtube_id": "rbBMTGcoFEM"
-    },
-    "byanymeans": {
-      "title_en": "By Any Means",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/By-Any-Means/HO00004452"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/by-any-means/9999001486/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001486.jpg",
-      "title_ar": "باي اني مينز",
-      "synopsis_ar": "لم يتمكن مكتب التحقيقات الفيدرالي من حلها. لذلك استدعوا الغوغاء.\r\nيجد عميل شاب أسود من مكتب التحقيقات الفيدرالي نفسه مجبرًا على العمل جنبًا إلى جنب مع قاتل مافيا سيئ السمعة، وقد انجرف إلى مطاردة قاتلة حيث تبدأ العدالة والانتقام في التشويش.",
-      "genres_ar": [
-        "أكشن",
-        "إثارة"
-      ],
-      "runtime_min": 107,
-      "trailer_youtube_id": "U40uVQ--_VA"
-    },
-    "lumiviathe5magicalwishes": {
-      "title_en": "Lumivia : The Five Magical Wishes",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Lumivia-:-The-Five-Magical-Wishes/HO00004486"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/lumivia--the-five-magical-wishes/9999001485/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001485.jpg",
-      "title_ar": "لمفايا: ذا فايف ماجيكل ويشز",
-      "synopsis_ar": "بعد التجول في العالم مع رفاقه من البشر، يعود Bluey — الحمار العبقري الذي نصب نفسه ومتمرسًا ويعرف كل شيء — إلى مسقط رأسه في برايفيل، حيث لا تزال عائلته وأصدقاؤه يعيشون في نفس الظروف التي عفا عليها الزمن.",
-      "runtime_min": 99,
-      "trailer_youtube_id": "6qBEaqhvsCo"
-    },
-    "momo": {
-      "title_en": "Momo",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Momo/HO00004498"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/momo/9999001484/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001484.jpg",
-      "title_ar": "مومو",
-      "synopsis_ar": "مومو، فتاة يتيمة، يجب أن تخوض معركة مع الرجال عديمي الروح والرماديين الذين يستولون خلسة على مدينتها ويسرقون وقت الجميع.",
-      "genres_ar": [
-        "عائلي",
-        "خيالي"
-      ],
-      "runtime_min": 92,
-      "trailer_youtube_id": "buV3j87cewY"
-    },
-    "dogstars": {
-      "title_en": "The Dog Stars",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Dog-Stars/HO00004093"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/the-dog-stars/9999001483/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001483.jpg",
-      "title_ar": "ذي دوغ ستارز",
-      "synopsis_ar": "بعد وباء يقضي على البشرية، يكافح ناجون في عالم مدمر. هيغ، الطيار الذي فقد زوجته، يحاول النجاة وسط أخطار لا ترحم.",
-      "genres_ar": [
-        "أكشن",
-        "مغامرات",
-        "إثارة"
-      ],
-      "runtime_min": 117,
-      "trailer_youtube_id": "DMef3HaCFKM"
-    },
     "coyotevsacme": {
       "title_en": "Coyote Vs Acme",
       "languages": [
@@ -287,55 +176,6 @@
       ],
       "runtime_min": 103,
       "trailer_youtube_id": "aSW5ky6fTJc"
-    },
-    "mutiny": {
-      "title_en": "Mutiny",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Mutiny/HO00004352"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/mutiny/9999001478/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001478.jpg",
-      "title_ar": "ميوتني",
-      "synopsis_ar": "بعد مقتل رجل أعمال ملياردير، يُلفّق الاتهام لحارسه الخاص، الذي يهرب لكشف مؤامرة دولية خطيرة قبل أن يتم القضاء عليه.",
-      "genres_ar": [
-        "أكشن",
-        "إثارة"
-      ],
-      "runtime_min": 95,
-      "trailer_youtube_id": "wp_uZMVoevE"
-    },
-    "insidiousoutofthefurther": {
-      "title_en": "Insidious: Out Of The Further",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Insidious:-Out-Of-The-Further/HO00004366"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/insidious-out-of-the-further/9999001477/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001477.jpg",
-      "title_ar": "انسدياوس : اوت اوف ذا فارذر",
-      "synopsis_ar": "في فيلم الغدر: بعيدًا، تلعب أميليا إيف دور جيما، وهي أم شابة تربي ابنتها في المنزل الذي نشأت فيه وتكتشف أنها تستطيع السفر إلى أبعد من ذلك، عالم التطهير للأرواح المفقودة في قلب الكون الغادر.",
-      "genres_ar": [
-        "رعب"
-      ],
-      "runtime_min": 106,
-      "trailer_youtube_id": "7Dlg4-osqbo"
     },
     "spidermanbrandnewday": {
       "title_en": "Spider Man: Brand New Day",
@@ -383,6 +223,27 @@
       ],
       "runtime_min": 94,
       "trailer_youtube_id": "T1bi4SIhFsI"
+    },
+    "mutiny": {
+      "title_en": "Mutiny",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Mutiny/HO00004352"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004352_452.jpg",
+      "title_ar": "ميوتني",
+      "synopsis_ar": "بعد مقتل رجل أعمال ملياردير، يُلفّق الاتهام لحارسه الخاص، الذي يهرب لكشف مؤامرة دولية خطيرة قبل أن يتم القضاء عليه.",
+      "genres_ar": [
+        "أكشن",
+        "إثارة"
+      ],
+      "runtime_min": 95,
+      "trailer_youtube_id": "wp_uZMVoevE"
     },
     "bluelockjapanese": {
       "title_en": "Blue Lock - Japanese",
@@ -466,46 +327,6 @@
       "runtime_min": 107,
       "trailer_youtube_id": "JSk81pO4wg0"
     },
-    "closedformaintenance": {
-      "title_en": "Closed for Maintenance (Kuwaiti) - Arabic",
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Closed-for-Maintenance-(Kuwaiti)---Arabic/HO00004488"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004488_096.jpg",
-      "title_ar": "مغلق للصيانة (كويتي) - عربي",
-      "synopsis_ar": "في إطار من التشويق والإثارة والغموض النفسي، يجد رجل وامرأة نفسيهما محبوسين داخل مصعد معطل في مكان مغلق، وتنقطع الكهرباء وتتعطل كاميرات المراقبة، مما يؤدي لبطء عمليات الإنقاذ وتصاعد التوتر والصراع النفسي بين الشخصيتين المحتجزتين أثناء محاولاتهما الخروج",
-      "genres_ar": [
-        "إثارة"
-      ],
-      "runtime_min": 98,
-      "trailer_youtube_id": "QWJHQKMZmHE"
-    },
-    "mahmoudeltany": {
-      "title_en": "Mahmoud El Tany (Egyptian) - Arabic",
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Mahmoud-El-Tany-(Egyptian)---Arabic/HO00004470"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004470_966.jpg",
-      "title_ar": "محمود التاني",
-      "synopsis_ar": "عندما يتسبب تشابه الأسماء بين شاب ثري وعبقري في مجال التكنولوجيا، وعامل بنزينة بسيط، خفيف الظل ويتمتع بذكاء فطري، تتبدل حياة الاثنين ليدخلا في مغامرة فوضوية تقلب عالمهما رأسًا على عقب، وتدفع كلًا منهما لاكتشاف نفسه من جديد.",
-      "genres_ar": [
-        "كوميدي"
-      ],
-      "runtime_min": 104,
-      "trailer_youtube_id": "jF8-T1Jl9Xo"
-    },
     "khalibalakminnafsik": {
       "title_en": "Khali Balak Min Nafsik (Egyptian) - Arabic",
       "languages": [
@@ -525,27 +346,6 @@
       ],
       "runtime_min": 103,
       "trailer_youtube_id": "p8nNykRtUJI"
-    },
-    "sakrwcanaria": {
-      "title_en": "Sakr W Canaria (Egyptian) - Arabic",
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Sakr-W-Canaria-(Egyptian)---Arabic/HO00004388"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004388_760.jpg",
-      "title_ar": "صقر و كناريا(مصري) - عربي",
-      "synopsis_ar": "في مزيج من الأكشن والكوميديا، يقرر صقر  المرتزق الأسطوري اعتزال حياته السرية والبحث عن بداية جديدة. لكن لقاءه المفاجئ بـ بلال، كاتب فاشل مهووس بعالم الجاسوسية، يجعل خططه تنقلب رأسًا على عقب. يجد الاثنان نفسيهما في مغامرة خطيرة تقلب حياتهما بالكامل.",
-      "genres_ar": [
-        "كوميدي",
-        "أكشن"
-      ],
-      "runtime_min": 123,
-      "trailer_youtube_id": "8OJz0lFb9RU"
     },
     "odyssey": {
       "title_en": "The Odyssey",
@@ -591,6 +391,69 @@
       "runtime_min": 122,
       "trailer_youtube_id": "jm-7zgYbVLc"
     },
+    "insidiousoutofthefurther": {
+      "title_en": "Insidious: Out Of The Further",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Insidious:-Out-Of-The-Further/HO00004366"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004366_927.jpg",
+      "title_ar": "انسدياوس : اوت اوف ذا فارذر",
+      "synopsis_ar": "في فيلم الغدر: بعيدًا، تلعب أميليا إيف دور جيما، وهي أم شابة تربي ابنتها في المنزل الذي نشأت فيه وتكتشف أنها تستطيع السفر إلى أبعد من ذلك، عالم التطهير للأرواح المفقودة في قلب الكون الغادر.",
+      "genres_ar": [
+        "رعب"
+      ],
+      "runtime_min": 106,
+      "trailer_youtube_id": "7Dlg4-osqbo"
+    },
+    "dogstars": {
+      "title_en": "The Dog Stars",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Dog-Stars/HO00004093"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004093_384.jpg",
+      "title_ar": "ذي دوغ ستارز",
+      "synopsis_ar": "بعد وباء يقضي على البشرية، يكافح ناجون في عالم مدمر. هيغ، الطيار الذي فقد زوجته، يحاول النجاة وسط أخطار لا ترحم.",
+      "genres_ar": [
+        "أكشن",
+        "مغامرات",
+        "إثارة"
+      ],
+      "runtime_min": 117,
+      "trailer_youtube_id": "DMef3HaCFKM"
+    },
+    "itends": {
+      "title_en": "IT ENDS",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/IT-ENDS/HO00004431"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004431_548.jpg",
+      "title_ar": "ات إند",
+      "synopsis_ar": "يصبح الأصدقاء في رحلة طعام في وقت متأخر من الليل محاصرين على طريق سريع لا حصر له مع رعب دنيوي يتربص بهم. محبوسين في جيب شيروكي الخاصة بهم، يجب أن يقرروا ما إذا كانوا يقبلون مصيرهم أو يحاولون الهروب.",
+      "genres_ar": [
+        "رعب",
+        "إثارة"
+      ],
+      "runtime_min": 89,
+      "trailer_youtube_id": "rbBMTGcoFEM"
+    },
     "itfeeds": {
       "title_en": "It Feeds",
       "languages": [
@@ -610,27 +473,6 @@
       ],
       "runtime_min": 102,
       "trailer_youtube_id": "MeZnOuESLVU"
-    },
-    "neglected": {
-      "title_en": "Neglected",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Neglected/HO00004490"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004490_280.jpg",
-      "title_ar": "نقلكتيد",
-      "synopsis_ar": "المحقق شو على وشك التقاعد عندما يكتشف في آخر يوم عمل له أن قاتل متسلسل قد دفن ابنه على قيد الحياة. ثم يتسابق مع عقارب الساعة لحل ثلاث جرائم قتل ومعرفة موقع ابنه قبل نفاد الهواء.",
-      "genres_ar": [
-        "أكشن",
-        "إثارة"
-      ],
-      "runtime_min": 93,
-      "trailer_youtube_id": "6_H8K8cL0fg"
     },
     "bethlehemkudumbaunit": {
       "title_en": "Bethlehem Kudumba Unit - Malayalam",
