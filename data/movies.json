@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T08:40:04.693494+00:00",
+  "last_updated": "2026-09-12T08:25:51.911218+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -28,7 +28,9 @@
       "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004494_826.jpg",
       "trailer_youtube_id": "AXusRaUDIIs",
       "trailer_search_url": "https://www.youtube.com/results?search_query=Sardar%202%20-%20Tamil%20official%20trailer",
-      "ratings": {},
+      "ratings": {
+        "imdb": "7.8"
+      },
       "imdb_id": "tt28541577",
       "release_date": "2026-09-10",
       "matched": true,
