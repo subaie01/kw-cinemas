@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T09:38:28.759025+00:00",
+  "last_updated": "2026-09-15T09:15:22.643020+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -29,7 +29,7 @@
       "trailer_youtube_id": "AXusRaUDIIs",
       "trailer_search_url": "https://www.youtube.com/results?search_query=Sardar%202%20-%20Tamil%20official%20trailer",
       "ratings": {
-        "imdb": "6.4"
+        "imdb": "6.3"
       },
       "imdb_id": "tt28541577",
       "release_date": "2026-09-10",
@@ -71,6 +71,35 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Dog-Stars/HO00004093"
+        }
+      ]
+    },
+    {
+      "id": "wd-Q140770794",
+      "title_ar": "Tad And The Magic Lamp",
+      "title_en": "Tad And The Magic Lamp",
+      "synopsis_ar": "",
+      "genres_ar": [
+        "فلم عائلي",
+        "فلم مغامرة"
+      ],
+      "runtime_min": 94,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001494.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Tad%20And%20The%20Magic%20Lamp%20official%20trailer",
+      "ratings": {
+        "imdb": "6.5"
+      },
+      "imdb_id": "tt36164852",
+      "release_date": "2026-08-26",
+      "matched": true,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/tad-and-the-magic-lamp/9999001494/NowShowing"
         }
       ]
     },
@@ -172,6 +201,86 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/IT-ENDS/HO00004431"
+        }
+      ]
+    },
+    {
+      "id": "local-residentevil",
+      "title_ar": "Resident Evil",
+      "title_en": "Resident Evil",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001497.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Resident%20Evil%20official%20trailer",
+      "ratings": {
+        "imdb": "6.6",
+        "rotten_tomatoes": "35%"
+      },
+      "imdb_id": "tt0120804",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/resident-evil/9999001497/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "local-weight",
+      "title_ar": "The Weight",
+      "title_en": "The Weight",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001496.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Weight%20official%20trailer",
+      "ratings": {
+        "imdb": "6.2"
+      },
+      "imdb_id": "tt2384688",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/the-weight/9999001496/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "local-pressure",
+      "title_ar": "Pressure",
+      "title_en": "Pressure",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001495.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Pressure%20official%20trailer",
+      "ratings": {
+        "imdb": "7.3",
+        "rotten_tomatoes": "87%"
+      },
+      "imdb_id": "tt32547691",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/pressure/9999001495/NowShowing"
         }
       ]
     },

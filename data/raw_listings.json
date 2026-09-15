@@ -1,9 +1,61 @@
 {
-  "scraped_at": "2026-09-14T09:38:20.868573+00:00",
+  "scraped_at": "2026-09-15T09:15:08.591662+00:00",
   "failures": [
     "vox"
   ],
   "movies": {
+    "residentevil": {
+      "title_en": "Resident Evil",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/resident-evil/9999001497/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001497.jpg"
+    },
+    "weight": {
+      "title_en": "The Weight",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/the-weight/9999001496/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001496.jpg"
+    },
+    "pressure": {
+      "title_en": "Pressure",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/pressure/9999001495/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001495.jpg"
+    },
+    "tadandthemagiclamp": {
+      "title_en": "Tad And The Magic Lamp",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/tad-and-the-magic-lamp/9999001494/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001494.jpg"
+    },
     "practicalmagic2": {
       "title_en": "Practical Magic 2",
       "languages": [
