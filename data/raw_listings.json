@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-16T09:08:14.256223+00:00",
+  "scraped_at": "2026-09-17T09:15:43.010514+00:00",
   "failures": [
     "vox"
   ],
@@ -181,129 +181,6 @@
       "runtime_min": 100,
       "trailer_youtube_id": "uO2BKCC85rY"
     },
-    "runner": {
-      "title_en": "Runner",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Runner/HO00004463"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/runner/9999001490/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001490.jpg",
-      "title_ar": "رانار",
-      "synopsis_ar": "يُلقى جندي سابق في سباق وحشي مع الزمن عندما تجعله الولادة الطبية الحرجة هدفًا لكارتل لا يرحم. مع اقتراب الخيانة من كل جانب، يجب عليه النجاة من المطاردة وتسليم حمولته قبل نفاد الوقت لطفل بريء.",
-      "genres_ar": [
-        "أكشن",
-        "إثارة"
-      ],
-      "runtime_min": 99,
-      "trailer_youtube_id": "laUdCCWp_nI"
-    },
-    "catsinthemuseum2treasuresofegypt": {
-      "title_en": "Cats In The Museum 2:Treasures Of Egypt",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Cats-in-the-Museum-2:Treasures-of-Egypt/HO00004441"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/cats-in-the-museum-2treasures-of-egypt/9999001489/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001489.jpg",
-      "title_ar": "كات ان ذا ميوزيم",
-      "synopsis_ar": "بعد عامين من أحداث الفيلم الأول، يحلم موريس الفأر بمآثر جديدة بينما اكتسب فينسنت وكليوباترا قطتين مضطربتين تتوقان إلى المغامرة.",
-      "genres_ar": [
-        "رسوم متحركة",
-        "مغامرات"
-      ],
-      "runtime_min": 89,
-      "trailer_youtube_id": "-uhrpk7eQdY"
-    },
-    "fall2deadpoint": {
-      "title_en": "Fall 2: Deadpoint",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Fall-2:-Deadpoint/HO00004461"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/fall-2-deadpoint/9999001488/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001488.jpg",
-      "title_ar": "فال ٢",
-      "synopsis_ar": "بعد أن حزنت على وفاة أختها شيلوه، ارتبطت جاكس هانتر بصديقة شيلوه الجريئة لوس. إنهم يتعاملون مع المشي الخطير على اللوح الخشبي لجبل كوان في تايلاند.",
-      "runtime_min": 97,
-      "trailer_youtube_id": "5ktaZGTCzS8"
-    },
-    "coyotevsacme": {
-      "title_en": "Coyote Vs Acme",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Coyote-vs-Acme/HO00004371"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/coyote-vs-acme/9999001479/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001479.jpg",
-      "title_ar": "كايوتي ضد آكمي",
-      "synopsis_ar": "قصة تدور داخل مستودعات شركة آكمي، المصنعة لكل ما يستخدمه شخصيات لوني تونز من أي شيء وكل شيء.",
-      "genres_ar": [
-        "رسوم متحركة",
-        "مغامرات",
-        "كوميدي"
-      ],
-      "runtime_min": 103,
-      "trailer_youtube_id": "aSW5ky6fTJc"
-    },
-    "spidermanbrandnewday": {
-      "title_en": "Spider Man: Brand New Day",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Spider-Man:-Brand-New-Day/HO00004304"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/spider-man-brand-new-day/9999001463/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001463.jpg",
-      "title_ar": "سبايدر مان : براند نو داي",
-      "synopsis_ar": "إنه يوم جديد لبيتر باركر. إن مكافحة الجريمة بدوام كامل كرجل العنكبوت في عالم لا يتذكره - وضغط رؤية أصدقائه القدامى يمضون قدمًا بدونه - يثير تغييرًا في بيتر قد لا يكون لديه القدرة على السيطرة عليه.",
-      "genres_ar": [
-        "أكشن",
-        "مغامرات",
-        "خيالي"
-      ],
-      "runtime_min": 141,
-      "trailer_youtube_id": "FL5RBUGHOAY"
-    },
     "sunrayfallensoldier": {
       "title_en": "Sunray:Fallen Soldier",
       "languages": [
@@ -345,6 +222,28 @@
       "runtime_min": 87,
       "trailer_youtube_id": "mcVMhuJGcNo"
     },
+    "spidermanbrandnewday": {
+      "title_en": "Spider Man: Brand New Day",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Spider-Man:-Brand-New-Day/HO00004304"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004304_849.jpg",
+      "title_ar": "سبايدر مان : براند نو داي",
+      "synopsis_ar": "إنه يوم جديد لبيتر باركر. إن مكافحة الجريمة بدوام كامل كرجل العنكبوت في عالم لا يتذكره - وضغط رؤية أصدقائه القدامى يمضون قدمًا بدونه - يثير تغييرًا في بيتر قد لا يكون لديه القدرة على السيطرة عليه.",
+      "genres_ar": [
+        "أكشن",
+        "مغامرات",
+        "خيالي"
+      ],
+      "runtime_min": 141,
+      "trailer_youtube_id": "FL5RBUGHOAY"
+    },
     "elgawahergy": {
       "title_en": "El Gawahergy (Egyptian) - Arabic",
       "languages": [
@@ -364,6 +263,87 @@
       ],
       "runtime_min": 107,
       "trailer_youtube_id": "JSk81pO4wg0"
+    },
+    "coyotevsacme": {
+      "title_en": "Coyote vs Acme",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Coyote-vs-Acme/HO00004371"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004371_597.-Acme.jpg",
+      "title_ar": "كايوتي ضد آكمي",
+      "synopsis_ar": "قصة تدور داخل مستودعات شركة آكمي، المصنعة لكل ما يستخدمه شخصيات لوني تونز من أي شيء وكل شيء.",
+      "genres_ar": [
+        "رسوم متحركة",
+        "مغامرات",
+        "كوميدي"
+      ],
+      "runtime_min": 103,
+      "trailer_youtube_id": "aSW5ky6fTJc"
+    },
+    "fall2deadpoint": {
+      "title_en": "Fall 2: Deadpoint",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Fall-2:-Deadpoint/HO00004461"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004461_130.jpg",
+      "title_ar": "فال ٢",
+      "synopsis_ar": "بعد أن حزنت على وفاة أختها شيلوه، ارتبطت جاكس هانتر بصديقة شيلوه الجريئة لوس. إنهم يتعاملون مع المشي الخطير على اللوح الخشبي لجبل كوان في تايلاند.",
+      "runtime_min": 97,
+      "trailer_youtube_id": "5ktaZGTCzS8"
+    },
+    "runner": {
+      "title_en": "Runner",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Runner/HO00004463"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004463_944.jpg",
+      "title_ar": "رانار",
+      "synopsis_ar": "يُلقى جندي سابق في سباق وحشي مع الزمن عندما تجعله الولادة الطبية الحرجة هدفًا لكارتل لا يرحم. مع اقتراب الخيانة من كل جانب، يجب عليه النجاة من المطاردة وتسليم حمولته قبل نفاد الوقت لطفل بريء.",
+      "genres_ar": [
+        "أكشن",
+        "إثارة"
+      ],
+      "runtime_min": 99,
+      "trailer_youtube_id": "laUdCCWp_nI"
+    },
+    "catsinthemuseum2treasuresofegypt": {
+      "title_en": "Cats in the Museum 2:Treasures of Egypt",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Cats-in-the-Museum-2:Treasures-of-Egypt/HO00004441"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004441_142.jpg",
+      "title_ar": "كات ان ذا ميوزيم",
+      "synopsis_ar": "بعد عامين من أحداث الفيلم الأول، يحلم موريس الفأر بمآثر جديدة بينما اكتسب فينسنت وكليوباترا قطتين مضطربتين تتوقان إلى المغامرة.",
+      "genres_ar": [
+        "رسوم متحركة",
+        "مغامرات"
+      ],
+      "runtime_min": 89,
+      "trailer_youtube_id": "-uhrpk7eQdY"
     },
     "khalibalakminnafsik": {
       "title_en": "Khali Balak Min Nafsik (Egyptian) - Arabic",
@@ -448,216 +428,6 @@
       "runtime_min": 106,
       "trailer_youtube_id": "7Dlg4-osqbo"
     },
-    "shams": {
-      "title_en": "Shams (Egyptian) - Arabic",
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Shams-(Egyptian)---Arabic/HO00004491"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004491_417.jpg",
-      "title_ar": "شمس (مصري) - عربي",
-      "synopsis_ar": "ماذا لو توقف الزمن واكتشفت أنك في عالم آخر، غير عالمك الواقعي... ما رد‎ ‏فعلك؟ وكيف ستتعامل مع من حولك؟ لا سيما أن أقرب الناس إليك تأذى‎ بسببك.",
-      "genres_ar": [
-        "دراما",
-        "إثارة"
-      ],
-      "runtime_min": 94,
-      "trailer_youtube_id": "T1bi4SIhFsI"
-    },
-    "dogstars": {
-      "title_en": "The Dog Stars",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Dog-Stars/HO00004093"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004093_384.jpg",
-      "title_ar": "ذي دوغ ستارز",
-      "synopsis_ar": "بعد وباء يقضي على البشرية، يكافح ناجون في عالم مدمر. هيغ، الطيار الذي فقد زوجته، يحاول النجاة وسط أخطار لا ترحم.",
-      "genres_ar": [
-        "أكشن",
-        "مغامرات",
-        "إثارة"
-      ],
-      "runtime_min": 117,
-      "trailer_youtube_id": "DMef3HaCFKM"
-    },
-    "itends": {
-      "title_en": "IT ENDS",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/IT-ENDS/HO00004431"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004431_548.jpg",
-      "title_ar": "ات إند",
-      "synopsis_ar": "يصبح الأصدقاء في رحلة طعام في وقت متأخر من الليل محاصرين على طريق سريع لا حصر له مع رعب دنيوي يتربص بهم. محبوسين في جيب شيروكي الخاصة بهم، يجب أن يقرروا ما إذا كانوا يقبلون مصيرهم أو يحاولون الهروب.",
-      "genres_ar": [
-        "رعب",
-        "إثارة"
-      ],
-      "runtime_min": 89,
-      "trailer_youtube_id": "rbBMTGcoFEM"
-    },
-    "itfeeds": {
-      "title_en": "It Feeds",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/It-Feeds/HO00004457"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004457_158.jpg",
-      "title_ar": "ات فيدس",
-      "synopsis_ar": "بعد أن تنفجر فتاة صغيرة في ممارسة الطب النفسي المنزلي مدعية أن كيانًا يتغذى عليها، يجب على جوردان ووالدتها المستبصرة إيجاد طريقة لوقف القوة قبل أخذ الفتاة بالكامل.",
-      "genres_ar": [
-        "رعب"
-      ],
-      "runtime_min": 102,
-      "trailer_youtube_id": "MeZnOuESLVU"
-    },
-    "bay": {
-      "title_en": "The Bay",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Bay/HO00004437"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004437_858.jpg",
-      "title_ar": "ذا باي",
-      "synopsis_ar": "تجد صديقتا إيما ولاني المقربتان، اللتان تحضران حفل زفاف في تايلاند، نفسيهما محاصرتين على متن قارب سياحي غارق في قلب ملاذ لأسماك القرش النمر.",
-      "genres_ar": [
-        "إثارة",
-        "أكشن"
-      ],
-      "runtime_min": 86,
-      "trailer_youtube_id": "U93toQ0B2Mk"
-    },
-    "bluelockjapanese": {
-      "title_en": "Blue Lock - Japanese",
-      "languages": [
-        "Japanese"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Blue-Lock---Japanese/HO00004492"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004492_605.jpg",
-      "title_ar": "وبلو لوك",
-      "synopsis_ar": "يتبع 300 لاعب كرة قدم في المدرسة الثانوية يتنافسون في تجارب قاسية في منشأة تدريب سرية، حيث سيظهر واحد فقط كأعظم مهاجم في العالم والمقصون ممنوعون من المنتخب الوطني الياباني.",
-      "genres_ar": [
-        "رياضي"
-      ],
-      "runtime_min": 127,
-      "trailer_youtube_id": "pm1-tswjB9s"
-    },
-    "colonykorean": {
-      "title_en": "Colony - Korean",
-      "languages": [
-        "Korean"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Colony---Korean/HO00004446"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004446_848.jpg",
-      "title_ar": "كولوني",
-      "synopsis_ar": "يحضر البروفيسور سي جيونغ مؤتمرًا للتكنولوجيا الحيوية، فقط ليشهده يتصاعد إلى كارثة عندما يتم إطلاق العنان لفيروس سريع التحور. عندما ينتشر التفشي ويبدأ المصابون في التحول، تغلق السلطات المرفق بأكمله.",
-      "genres_ar": [
-        "رعب",
-        "إثارة",
-        "أكشن"
-      ],
-      "runtime_min": 122,
-      "trailer_youtube_id": "jm-7zgYbVLc"
-    },
-    "spiderisland": {
-      "title_en": "Spider Island",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Spider-Island/HO00004489"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004489_266.jpg",
-      "title_ar": "سبايدر ايلند",
-      "synopsis_ar": "ابتليت مجموعة من المؤثرين بانتشار العناكب القاتلة عند إطلاق منتجع عطلات استوائي جديد.",
-      "genres_ar": [
-        "رعب",
-        "كوميدي"
-      ],
-      "runtime_min": 93,
-      "trailer_youtube_id": "sU4yZ4guA8g"
-    },
-    "sardar2": {
-      "title_en": "Sardar 2 - Tamil",
-      "languages": [
-        "Tamil"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Sardar-2---Tamil/HO00004494"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004494_826.jpg",
-      "title_ar": "سلردار ٢",
-      "synopsis_ar": "يتبع قصة الجاسوس ساردار الأصلية في ذكريات الماضي بينما يواجه ابنه المفتش فيجاي شريرًا يعرف باسم الخنجر الأسود في يومنا هذا.",
-      "genres_ar": [
-        "أكشن",
-        "إثارة"
-      ],
-      "runtime_min": 179,
-      "trailer_youtube_id": "AXusRaUDIIs"
-    },
-    "imgame": {
-      "title_en": "I'm Game - Malayalam",
-      "languages": [
-        "Malayalam"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/I'm-Game---Malayalam/HO00004445"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004445_949.jpg",
-      "title_ar": "ايم قيم",
-      "synopsis_ar": "مقامر شجاع يثق في الحظ أكثر من الحياة يقع في سلسلة من الأحداث المجنونة وغير المتوقعة التي تقلب عالمه رأساً على عقب. ما يلي هو رحلة مثيرة مليئة بالمتعة والمفاجآت والحركة واللحظات التي لا تنسى.",
-      "genres_ar": [
-        "خيالي",
-        "إثارة"
-      ],
-      "runtime_min": 171,
-      "trailer_youtube_id": "V61lCTcQvfI"
-    },
     "bethlehemkudumbaunit": {
       "title_en": "Bethlehem Kudumba Unit - Malayalam",
       "languages": [
@@ -679,6 +449,27 @@
       ],
       "runtime_min": 155,
       "trailer_youtube_id": "GpTvTWlZ2U4"
+    },
+    "laworder": {
+      "title_en": "Law & Order - Malayalam",
+      "languages": [
+        "Malayalam"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Law-&-Order---Malayalam/HO00004512"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004512_126.jpg",
+      "title_ar": "لو اند اوردر",
+      "synopsis_ar": "بعد أن خسر ابنه أمام إمبراطورية مخدرات قاتلة، ينضم DYSP Balagopal إلى أربعة مجندين شباب لا يخافون لشن حرب ضد باشا الذي لا يرحم وعصابته.",
+      "genres_ar": [
+        "جريمة",
+        "إثارة"
+      ],
+      "runtime_min": 154,
+      "trailer_youtube_id": "VgDqa3YgwCI"
     },
     "pradhamadrishtiyakuttakkar": {
       "title_en": "Pradhama Drishtiya Kuttakkar - Malayalam",

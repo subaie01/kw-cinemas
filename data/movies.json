@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16T09:08:26.674547+00:00",
+  "last_updated": "2026-09-17T09:15:50.950999+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -15,35 +15,6 @@
     }
   },
   "movies": [
-    {
-      "id": "wd-Q129255849",
-      "title_ar": "سلردار ٢",
-      "title_en": "Sardar 2 - Tamil",
-      "synopsis_ar": "يتبع قصة الجاسوس ساردار الأصلية في ذكريات الماضي بينما يواجه ابنه المفتش فيجاي شريرًا يعرف باسم الخنجر الأسود في يومنا هذا.",
-      "genres_ar": [
-        "أكشن",
-        "إثارة"
-      ],
-      "runtime_min": 179,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004494_826.jpg",
-      "trailer_youtube_id": "AXusRaUDIIs",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Sardar%202%20-%20Tamil%20official%20trailer",
-      "ratings": {
-        "imdb": "6.2"
-      },
-      "imdb_id": "tt28541577",
-      "release_date": "2026-09-10",
-      "matched": true,
-      "languages": [
-        "Tamil"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Sardar-2---Tamil/HO00004494"
-        }
-      ]
-    },
     {
       "id": "wd-Q137534351",
       "title_ar": "فقط تظاهر بالموت",
@@ -70,36 +41,6 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Just-Play-Dead/HO00004495"
-        }
-      ]
-    },
-    {
-      "id": "wd-Q132256832",
-      "title_ar": "نجوم الكلب",
-      "title_en": "The Dog Stars",
-      "synopsis_ar": "نجوم الكلب هو فلم خيال علمي ما بعد نهاية العالم قادم، من إخراج ريدلي سكوت، وكتابة مارك إل. سميث وكريستوفر ويلكينسون، وهو مقتبس عن رواية تحمل الاسم نفسه صدرت عام 2012 للكاتب بيتر هيلر.",
-      "genres_ar": [
-        "فيلم ما بعد الكارثة",
-        "فلم خيال علمي"
-      ],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001483.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Dog%20Stars%20official%20trailer",
-      "ratings": {
-        "imdb": "6.5",
-        "rotten_tomatoes": "40%"
-      },
-      "imdb_id": "tt21285562",
-      "release_date": "2026-08-27",
-      "matched": true,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Dog-Stars/HO00004093"
         }
       ]
     },
@@ -166,10 +107,6 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Spider-Man:-Brand-New-Day/HO00004304"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/spider-man-brand-new-day/9999001463/NowShowing"
         }
       ]
     },
@@ -203,37 +140,6 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Odyssey/HO00004251"
-        }
-      ]
-    },
-    {
-      "id": "wd-Q133546293",
-      "title_ar": "It Ends",
-      "title_en": "It Ends",
-      "synopsis_ar": "",
-      "genres_ar": [
-        "فلم كوميدي",
-        "فلم رعب",
-        "فلم إثارة"
-      ],
-      "runtime_min": 90,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001487.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=It%20Ends%20official%20trailer",
-      "ratings": {
-        "imdb": "5.7",
-        "rotten_tomatoes": "96%"
-      },
-      "imdb_id": "tt35519455",
-      "release_date": "2025-00-00",
-      "matched": true,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/IT-ENDS/HO00004431"
         }
       ]
     },
@@ -419,126 +325,6 @@
       ]
     },
     {
-      "id": "local-runner",
-      "title_ar": "Runner",
-      "title_en": "Runner",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001490.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Runner%20official%20trailer",
-      "ratings": {
-        "imdb": "6.5"
-      },
-      "imdb_id": "tt9348578",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Runner/HO00004463"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/runner/9999001490/NowShowing"
-        }
-      ]
-    },
-    {
-      "id": "local-catsinthemuseum2treasuresofegypt",
-      "title_ar": "Cats In The Museum 2:Treasures Of Egypt",
-      "title_en": "Cats In The Museum 2:Treasures Of Egypt",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001489.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Cats%20In%20The%20Museum%202%3ATreasures%20Of%20Egypt%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Cats-in-the-Museum-2:Treasures-of-Egypt/HO00004441"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/cats-in-the-museum-2treasures-of-egypt/9999001489/NowShowing"
-        }
-      ]
-    },
-    {
-      "id": "local-fall2deadpoint",
-      "title_ar": "Fall 2: Deadpoint",
-      "title_en": "Fall 2: Deadpoint",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001488.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Fall%202%3A%20Deadpoint%20official%20trailer",
-      "ratings": {
-        "imdb": "5.7",
-        "rotten_tomatoes": "55%"
-      },
-      "imdb_id": "tt31192372",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Fall-2:-Deadpoint/HO00004461"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/fall-2-deadpoint/9999001488/NowShowing"
-        }
-      ]
-    },
-    {
-      "id": "local-coyotevsacme",
-      "title_ar": "Coyote Vs Acme",
-      "title_en": "Coyote Vs Acme",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001479.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Coyote%20Vs%20Acme%20official%20trailer",
-      "ratings": {
-        "imdb": "7.6",
-        "rotten_tomatoes": "96%"
-      },
-      "imdb_id": "tt1756855",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Coyote-vs-Acme/HO00004371"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/coyote-vs-acme/9999001479/NowShowing"
-        }
-      ]
-    },
-    {
       "id": "local-sunrayfallensoldier",
       "title_ar": "سانراي: قالن سولدجر",
       "title_en": "Sunray:Fallen Soldier",
@@ -587,6 +373,110 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/El-Gawahergy-(Egyptian)---Arabic/HO00004448"
+        }
+      ]
+    },
+    {
+      "id": "local-coyotevsacme",
+      "title_ar": "Coyote Vs Acme",
+      "title_en": "Coyote Vs Acme",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001479.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Coyote%20Vs%20Acme%20official%20trailer",
+      "ratings": {
+        "imdb": "7.6",
+        "rotten_tomatoes": "96%"
+      },
+      "imdb_id": "tt1756855",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Coyote-vs-Acme/HO00004371"
+        }
+      ]
+    },
+    {
+      "id": "local-fall2deadpoint",
+      "title_ar": "Fall 2: Deadpoint",
+      "title_en": "Fall 2: Deadpoint",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001488.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Fall%202%3A%20Deadpoint%20official%20trailer",
+      "ratings": {
+        "imdb": "5.7",
+        "rotten_tomatoes": "55%"
+      },
+      "imdb_id": "tt31192372",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Fall-2:-Deadpoint/HO00004461"
+        }
+      ]
+    },
+    {
+      "id": "local-runner",
+      "title_ar": "Runner",
+      "title_en": "Runner",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001490.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Runner%20official%20trailer",
+      "ratings": {
+        "imdb": "6.5"
+      },
+      "imdb_id": "tt9348578",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Runner/HO00004463"
+        }
+      ]
+    },
+    {
+      "id": "local-catsinthemuseum2treasuresofegypt",
+      "title_ar": "Cats In The Museum 2:Treasures Of Egypt",
+      "title_en": "Cats In The Museum 2:Treasures Of Egypt",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001489.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Cats%20In%20The%20Museum%202%3ATreasures%20Of%20Egypt%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Cats-in-the-Museum-2:Treasures-of-Egypt/HO00004441"
         }
       ]
     },
@@ -674,202 +564,6 @@
       ]
     },
     {
-      "id": "local-shams",
-      "title_ar": "شمس (مصري) - عربي",
-      "title_en": "Shams (Egyptian) - Arabic",
-      "synopsis_ar": "ماذا لو توقف الزمن واكتشفت أنك في عالم آخر، غير عالمك الواقعي... ما رد‎ ‏فعلك؟ وكيف ستتعامل مع من حولك؟ لا سيما أن أقرب الناس إليك تأذى‎ بسببك.",
-      "genres_ar": [
-        "دراما",
-        "إثارة"
-      ],
-      "runtime_min": 94,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004491_417.jpg",
-      "trailer_youtube_id": "T1bi4SIhFsI",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Shams%20%28Egyptian%29%20-%20Arabic%20official%20trailer",
-      "ratings": {},
-      "imdb_id": "tt13124934",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Shams-(Egyptian)---Arabic/HO00004491"
-        }
-      ]
-    },
-    {
-      "id": "wd-Q136396301",
-      "title_ar": "ات فيدس",
-      "title_en": "It Feeds",
-      "synopsis_ar": "بعد أن تنفجر فتاة صغيرة في ممارسة الطب النفسي المنزلي مدعية أن كيانًا يتغذى عليها، يجب على جوردان ووالدتها المستبصرة إيجاد طريقة لوقف القوة قبل أخذ الفتاة بالكامل.",
-      "genres_ar": [
-        "رعب"
-      ],
-      "runtime_min": 101,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004457_158.jpg",
-      "trailer_youtube_id": "MeZnOuESLVU",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=It%20Feeds%20official%20trailer",
-      "ratings": {
-        "imdb": "5.6",
-        "rotten_tomatoes": "89%"
-      },
-      "imdb_id": "tt28230296",
-      "release_date": null,
-      "matched": true,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/It-Feeds/HO00004457"
-        }
-      ]
-    },
-    {
-      "id": "local-bay",
-      "title_ar": "ذا باي",
-      "title_en": "The Bay",
-      "synopsis_ar": "تجد صديقتا إيما ولاني المقربتان، اللتان تحضران حفل زفاف في تايلاند، نفسيهما محاصرتين على متن قارب سياحي غارق في قلب ملاذ لأسماك القرش النمر.",
-      "genres_ar": [
-        "إثارة",
-        "أكشن"
-      ],
-      "runtime_min": 86,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004437_858.jpg",
-      "trailer_youtube_id": "U93toQ0B2Mk",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Bay%20official%20trailer",
-      "ratings": {
-        "imdb": "5.7",
-        "rotten_tomatoes": "75%"
-      },
-      "imdb_id": "tt1713476",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Bay/HO00004437"
-        }
-      ]
-    },
-    {
-      "id": "local-bluelockjapanese",
-      "title_ar": "وبلو لوك",
-      "title_en": "Blue Lock - Japanese",
-      "synopsis_ar": "يتبع 300 لاعب كرة قدم في المدرسة الثانوية يتنافسون في تجارب قاسية في منشأة تدريب سرية، حيث سيظهر واحد فقط كأعظم مهاجم في العالم والمقصون ممنوعون من المنتخب الوطني الياباني.",
-      "genres_ar": [
-        "رياضي"
-      ],
-      "runtime_min": 127,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004492_605.jpg",
-      "trailer_youtube_id": "pm1-tswjB9s",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Blue%20Lock%20-%20Japanese%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Japanese"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Blue-Lock---Japanese/HO00004492"
-        }
-      ]
-    },
-    {
-      "id": "local-colonykorean",
-      "title_ar": "كولوني",
-      "title_en": "Colony - Korean",
-      "synopsis_ar": "يحضر البروفيسور سي جيونغ مؤتمرًا للتكنولوجيا الحيوية، فقط ليشهده يتصاعد إلى كارثة عندما يتم إطلاق العنان لفيروس سريع التحور. عندما ينتشر التفشي ويبدأ المصابون في التحول، تغلق السلطات المرفق بأكمله.",
-      "genres_ar": [
-        "رعب",
-        "إثارة",
-        "أكشن"
-      ],
-      "runtime_min": 122,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004446_848.jpg",
-      "trailer_youtube_id": "jm-7zgYbVLc",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Colony%20-%20Korean%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Korean"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Colony---Korean/HO00004446"
-        }
-      ]
-    },
-    {
-      "id": "local-spiderisland",
-      "title_ar": "سبايدر ايلند",
-      "title_en": "Spider Island",
-      "synopsis_ar": "ابتليت مجموعة من المؤثرين بانتشار العناكب القاتلة عند إطلاق منتجع عطلات استوائي جديد.",
-      "genres_ar": [
-        "رعب",
-        "كوميدي"
-      ],
-      "runtime_min": 93,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004489_266.jpg",
-      "trailer_youtube_id": "sU4yZ4guA8g",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Spider%20Island%20official%20trailer",
-      "ratings": {},
-      "imdb_id": "tt22406048",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Spider-Island/HO00004489"
-        }
-      ]
-    },
-    {
-      "id": "wd-Q140921099",
-      "title_ar": "ايم قيم",
-      "title_en": "I'm Game - Malayalam",
-      "synopsis_ar": "مقامر شجاع يثق في الحظ أكثر من الحياة يقع في سلسلة من الأحداث المجنونة وغير المتوقعة التي تقلب عالمه رأساً على عقب. ما يلي هو رحلة مثيرة مليئة بالمتعة والمفاجآت والحركة واللحظات التي لا تنسى.",
-      "genres_ar": [
-        "خيالي",
-        "إثارة"
-      ],
-      "runtime_min": 171,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004445_949.jpg",
-      "trailer_youtube_id": "V61lCTcQvfI",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=I%27m%20Game%20-%20Malayalam%20official%20trailer",
-      "ratings": {
-        "imdb": "6.4"
-      },
-      "imdb_id": "tt34284946",
-      "release_date": null,
-      "matched": true,
-      "languages": [
-        "Malayalam"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/I'm-Game---Malayalam/HO00004445"
-        }
-      ]
-    },
-    {
       "id": "wd-Q138716562",
       "title_ar": "بيثاهيم كودومبا ينات",
       "title_en": "Bethlehem Kudumba Unit - Malayalam",
@@ -898,6 +592,35 @@
       ]
     },
     {
+      "id": "local-laworder",
+      "title_ar": "لو اند اوردر",
+      "title_en": "Law & Order - Malayalam",
+      "synopsis_ar": "بعد أن خسر ابنه أمام إمبراطورية مخدرات قاتلة، ينضم DYSP Balagopal إلى أربعة مجندين شباب لا يخافون لشن حرب ضد باشا الذي لا يرحم وعصابته.",
+      "genres_ar": [
+        "جريمة",
+        "إثارة"
+      ],
+      "runtime_min": 154,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004512_126.jpg",
+      "trailer_youtube_id": "VgDqa3YgwCI",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Law%20%26%20Order%20-%20Malayalam%20official%20trailer",
+      "ratings": {
+        "imdb": "7.8"
+      },
+      "imdb_id": "tt0098844",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Malayalam"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Law-&-Order---Malayalam/HO00004512"
+        }
+      ]
+    },
+    {
       "id": "wd-Q141247883",
       "title_ar": "برداما درستايا كوتكار ـ مالايالم",
       "title_en": "Pradhama Drishtiya Kuttakkar - Malayalam",
@@ -912,7 +635,7 @@
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=Pradhama%20Drishtiya%20Kuttakkar%20-%20Malayalam%20official%20trailer",
       "ratings": {
-        "imdb": "8.2"
+        "imdb": "8.1"
       },
       "imdb_id": "tt38265603",
       "release_date": null,
