@@ -1,9 +1,100 @@
 {
-  "scraped_at": "2026-09-21T09:41:30.712139+00:00",
+  "scraped_at": "2026-09-22T09:06:05.374998+00:00",
   "failures": [
     "vox"
   ],
   "movies": {
+    "heartofthebeast": {
+      "title_en": "Heart Of The Beast",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/heart-of-the-beast/9999001504/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001504.jpg"
+    },
+    "avengersendgameinfinityvision": {
+      "title_en": "Avengers: Endgame (Infinity Vision)",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/avengers-endgame-(infinity-vision)/9999001503/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001503.jpg"
+    },
+    "bloodytennis": {
+      "title_en": "Bloody Tennis",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/bloody-tennis/9999001502/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001502.jpg"
+    },
+    "shishdou": {
+      "title_en": "Shish Dou",
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/shish-dou-(egyptian)-arabic/9999001501/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001501.jpg"
+    },
+    "sacrifice": {
+      "title_en": "Sacrifice",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/sacrifice/9999001500/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001500.jpg"
+    },
+    "crawlers": {
+      "title_en": "Crawlers",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/crawlers/9999001499/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001499.jpg"
+    },
+    "smurfstimelessadventurevolume2": {
+      "title_en": "The Smurfs Timeless Adventure Volume 2",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/the-smurfs-timeless-adventure-volume-2/9999001498/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001498.jpg"
+    },
     "residentevil": {
       "title_en": "Resident Evil",
       "languages": [
@@ -449,27 +540,6 @@
       ],
       "runtime_min": 155,
       "trailer_youtube_id": "GpTvTWlZ2U4"
-    },
-    "laworder": {
-      "title_en": "Law & Order - Malayalam",
-      "languages": [
-        "Malayalam"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Law-&-Order---Malayalam/HO00004512"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004512_126.jpg",
-      "title_ar": "لو اند اوردر",
-      "synopsis_ar": "بعد أن خسر ابنه أمام إمبراطورية مخدرات قاتلة، ينضم DYSP Balagopal إلى أربعة مجندين شباب لا يخافون لشن حرب ضد باشا الذي لا يرحم وعصابته.",
-      "genres_ar": [
-        "جريمة",
-        "إثارة"
-      ],
-      "runtime_min": 154,
-      "trailer_youtube_id": "VgDqa3YgwCI"
     },
     "pradhamadrishtiyakuttakkar": {
       "title_en": "Pradhama Drishtiya Kuttakkar - Malayalam",

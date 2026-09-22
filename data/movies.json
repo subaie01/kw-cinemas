@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T09:41:37.961615+00:00",
+  "last_updated": "2026-09-22T09:06:19.745434+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -15,6 +15,30 @@
     }
   },
   "movies": [
+    {
+      "id": "wd-Q141124396",
+      "title_ar": "Crawlers",
+      "title_en": "Crawlers",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001499.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Crawlers%20official%20trailer",
+      "ratings": {},
+      "imdb_id": "tt42439612",
+      "release_date": "2026-10-29",
+      "matched": true,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/crawlers/9999001499/NowShowing"
+        }
+      ]
+    },
     {
       "id": "wd-Q137534351",
       "title_ar": "فقط تظاهر بالموت",
@@ -144,6 +168,157 @@
       ]
     },
     {
+      "id": "local-heartofthebeast",
+      "title_ar": "Heart Of The Beast",
+      "title_en": "Heart Of The Beast",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001504.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Heart%20Of%20The%20Beast%20official%20trailer",
+      "ratings": {
+        "imdb": "7.5"
+      },
+      "imdb_id": "tt7526136",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/heart-of-the-beast/9999001504/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "local-avengersendgameinfinityvision",
+      "title_ar": "Avengers: Endgame (Infinity Vision)",
+      "title_en": "Avengers: Endgame (Infinity Vision)",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001503.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Avengers%3A%20Endgame%20%28Infinity%20Vision%29%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/avengers-endgame-(infinity-vision)/9999001503/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "local-bloodytennis",
+      "title_ar": "Bloody Tennis",
+      "title_en": "Bloody Tennis",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001502.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Bloody%20Tennis%20official%20trailer",
+      "ratings": {
+        "imdb": "5.7"
+      },
+      "imdb_id": "tt34735922",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/bloody-tennis/9999001502/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "local-shishdou",
+      "title_ar": "Shish Dou",
+      "title_en": "Shish Dou",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001501.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Shish%20Dou%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/shish-dou-(egyptian)-arabic/9999001501/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "local-sacrifice",
+      "title_ar": "Sacrifice",
+      "title_en": "Sacrifice",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001500.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Sacrifice%20official%20trailer",
+      "ratings": {
+        "imdb": "5.3",
+        "rotten_tomatoes": "29%"
+      },
+      "imdb_id": "tt2078718",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/sacrifice/9999001500/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "local-smurfstimelessadventurevolume2",
+      "title_ar": "The Smurfs Timeless Adventure Volume 2",
+      "title_en": "The Smurfs Timeless Adventure Volume 2",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001498.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Smurfs%20Timeless%20Adventure%20Volume%202%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/the-smurfs-timeless-adventure-volume-2/9999001498/NowShowing"
+        }
+      ]
+    },
+    {
       "id": "local-residentevil",
       "title_ar": "Resident Evil",
       "title_en": "Resident Evil",
@@ -155,7 +330,7 @@
       "trailer_search_url": "https://www.youtube.com/results?search_query=Resident%20Evil%20official%20trailer",
       "ratings": {
         "imdb": "6.6",
-        "rotten_tomatoes": "35%"
+        "rotten_tomatoes": "36%"
       },
       "imdb_id": "tt0120804",
       "release_date": null,
@@ -588,35 +763,6 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Bethlehem-Kudumba-Unit---Malayalam/HO00004474"
-        }
-      ]
-    },
-    {
-      "id": "local-laworder",
-      "title_ar": "لو اند اوردر",
-      "title_en": "Law & Order - Malayalam",
-      "synopsis_ar": "بعد أن خسر ابنه أمام إمبراطورية مخدرات قاتلة، ينضم DYSP Balagopal إلى أربعة مجندين شباب لا يخافون لشن حرب ضد باشا الذي لا يرحم وعصابته.",
-      "genres_ar": [
-        "جريمة",
-        "إثارة"
-      ],
-      "runtime_min": 154,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004512_126.jpg",
-      "trailer_youtube_id": "VgDqa3YgwCI",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Law%20%26%20Order%20-%20Malayalam%20official%20trailer",
-      "ratings": {
-        "imdb": "7.8"
-      },
-      "imdb_id": "tt0098844",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Malayalam"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Law-&-Order---Malayalam/HO00004512"
         }
       ]
     },
