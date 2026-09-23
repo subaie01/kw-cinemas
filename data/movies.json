@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T09:06:19.745434+00:00",
+  "last_updated": "2026-09-23T09:08:26.894376+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -33,6 +33,10 @@
         "English"
       ],
       "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Crawlers/HO00004499"
+        },
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/crawlers/9999001499/NowShowing"
@@ -188,32 +192,12 @@
       ],
       "cinemas": [
         {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/heart-of-the-beast/9999001504/NowShowing"
-        }
-      ]
-    },
-    {
-      "id": "local-avengersendgameinfinityvision",
-      "title_ar": "Avengers: Endgame (Infinity Vision)",
-      "title_en": "Avengers: Endgame (Infinity Vision)",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001503.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Avengers%3A%20Endgame%20%28Infinity%20Vision%29%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Heart-of-the-Beast/HO00004466"
+        },
         {
           "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/avengers-endgame-(infinity-vision)/9999001503/NowShowing"
+          "booking_url": "https://www.skycinemaskw.com/movie-information/heart-of-the-beast/9999001504/NowShowing"
         }
       ]
     },
@@ -238,6 +222,10 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Bloody-Tennis/HO00004500"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/bloody-tennis/9999001502/NowShowing"
         }
@@ -261,6 +249,10 @@
         "Arabic"
       ],
       "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Shish-Dou-(Egyptian)---Arabic/HO00004520"
+        },
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/shish-dou-(egyptian)-arabic/9999001501/NowShowing"
@@ -289,6 +281,10 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Sacrifice/HO00004497"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/sacrifice/9999001500/NowShowing"
         }
@@ -312,6 +308,10 @@
         "English"
       ],
       "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Smurfs-Timeless-Adventure-Volume-2/HO00004496"
+        },
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/the-smurfs-timeless-adventure-volume-2/9999001498/NowShowing"
@@ -524,6 +524,34 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Sunray:Fallen-Soldier/HO00004454"
+        }
+      ]
+    },
+    {
+      "id": "local-butteryeffectazzamsaudi",
+      "title_ar": "أثر الفراشة - عزام",
+      "title_en": "Buttery Effect: Azzam (Saudi) - Arabic",
+      "synopsis_ar": "نتقل \"عزام\" اليافع (12 عاماً) فجأة إلى عالم الفراشات المعزول أثناء رحلة لعائلته في جنوب المملكة؛ حيث يجد نفسه قد تحول إلى فراشة ويجب عليه اكتشاف ذاته ليجد طريق العودة لعالمه وأسرته.",
+      "genres_ar": [
+        "رسوم متحركة",
+        "مغامرات",
+        "خيالي"
+      ],
+      "runtime_min": 98,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004471_371.jpg",
+      "trailer_youtube_id": "i_UqEwJBEss",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Buttery%20Effect%3A%20Azzam%20%28Saudi%29%20-%20Arabic%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Buttery-Effect:-Azzam-(Saudi)---Arabic/HO00004471"
         }
       ]
     },
@@ -793,6 +821,33 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Pradhama-Drishtiya-Kuttakkar---Malayalam/HO00004513"
+        }
+      ]
+    },
+    {
+      "id": "local-paradaise",
+      "title_ar": "ذا برادياس - تليغو",
+      "title_en": "The Paradaise - Telugu",
+      "synopsis_ar": "في ثمانينيات القرن الماضي، كانت قبيلة مهمشة تحارب التمييز وتناضل من أجل المواطنة تحت إشراف زعيم غير متوقع، متحدية القمع المنهجي.",
+      "genres_ar": [
+        "أكشن",
+        "مغامرات"
+      ],
+      "runtime_min": 172,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004501_069.jpg",
+      "trailer_youtube_id": "i4pfwIR1z40",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Paradaise%20-%20Telugu%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Telugu"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Paradaise---Telugu/HO00004501"
         }
       ]
     }

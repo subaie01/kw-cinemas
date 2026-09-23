@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-22T09:06:05.374998+00:00",
+  "scraped_at": "2026-09-23T09:08:16.639223+00:00",
   "failures": [
     "vox"
   ],
@@ -11,24 +11,24 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Heart-of-the-Beast/HO00004466"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/heart-of-the-beast/9999001504/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001504.jpg"
-    },
-    "avengersendgameinfinityvision": {
-      "title_en": "Avengers: Endgame (Infinity Vision)",
-      "languages": [
-        "English"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001504.jpg",
+      "title_ar": "هارت اوف ذا بيست",
+      "synopsis_ar": "بعد حادث تحطم طائرة مروع، يجد ضابط القوات الخاصة جيمس بلمونت (براد بيت) وكلبه القتالي، أودين، أنفسهم عالقين في عمق برية ألاسكا. معا، يضطرون إلى قتال وحشي من أجل البقاء ضد العناصر.",
+      "genres_ar": [
+        "أكشن",
+        "مغامرات",
+        "إثارة"
       ],
-      "cinemas": [
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/avengers-endgame-(infinity-vision)/9999001503/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001503.jpg"
+      "runtime_min": 101,
+      "trailer_youtube_id": "6pVBiPMJwlc"
     },
     "bloodytennis": {
       "title_en": "Bloody Tennis",
@@ -37,24 +37,47 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Bloody-Tennis/HO00004500"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/bloody-tennis/9999001502/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001502.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001502.jpg",
+      "title_ar": "بلودي تينس",
+      "synopsis_ar": "تنضم صوفي إلى أكاديمية التنس المرموقة، حيث يتم أخذ وحشية الرياضات التنافسية إلى أقصى حد ولا يبقى على قيد الحياة سوى الأكثر جوعًا.",
+      "genres_ar": [
+        "رعب",
+        "رياضي"
+      ],
+      "runtime_min": 88,
+      "trailer_youtube_id": "39oC67OSg8g"
     },
     "shishdou": {
-      "title_en": "Shish Dou",
+      "title_en": "Shish Dou (Egyptian) - Arabic",
       "languages": [
         "Arabic"
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Shish-Dou-(Egyptian)---Arabic/HO00004520"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/shish-dou-(egyptian)-arabic/9999001501/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001501.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001501.jpg",
+      "title_ar": "شيش دو",
+      "synopsis_ar": "شيش دو هي دراما كوميدية تتكشف على مدار ليلة واحدة، وتكشف هشاشة الطبقات الاجتماعية المختلفة. تعثر صديقان في منتصف العمر، عادل ونبيل، بعد سنوات من المشقة، على طارق، وهو شاب ثري فاقد الوعي بعد شجار.",
+      "genres_ar": [
+        "كوميدي",
+        "دراما"
+      ],
+      "runtime_min": 92
     },
     "sacrifice": {
       "title_en": "Sacrifice",
@@ -63,11 +86,23 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Sacrifice/HO00004497"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/sacrifice/9999001500/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001500.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001500.jpg",
+      "title_ar": "ساكرفايس",
+      "synopsis_ar": "يتم أخذ نجم سينمائي يكافح من أجل العودة كرهينة في حدث خيري من قبل مجموعة متطرفة تعتقد أنه يجب التضحية به في بركان ينقذ البشرية من نهاية العالم.",
+      "genres_ar": [
+        "أكشن",
+        "مغامرات"
+      ],
+      "runtime_min": 98,
+      "trailer_youtube_id": "0px5IQREkGM"
     },
     "crawlers": {
       "title_en": "Crawlers",
@@ -76,11 +111,23 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Crawlers/HO00004499"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/crawlers/9999001499/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001499.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001499.jpg",
+      "title_ar": "كرواليرز",
+      "synopsis_ar": "أدى غزو كارثي للعناكب القاتلة إلى إغلاق مبنى سكني. تكافح مديرة المبنى سيرينا (ماتيلدا لوتز) وسكانها للبقاء على قيد الحياة بينما تتكاثر المخلوقات في الثانية. قد تكون سيرينا هي الوحيدة التي يمكنها إبقائهم على قيد الحياة - إذا تمكنت من مواجهة أعمق مخاوفها.",
+      "genres_ar": [
+        "إثارة",
+        "رعب"
+      ],
+      "runtime_min": 78,
+      "trailer_youtube_id": "0gMemorXtVA"
     },
     "smurfstimelessadventurevolume2": {
       "title_en": "The Smurfs Timeless Adventure Volume 2",
@@ -89,11 +136,23 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Smurfs-Timeless-Adventure-Volume-2/HO00004496"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/the-smurfs-timeless-adventure-volume-2/9999001498/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001498.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001498.jpg",
+      "title_ar": "ذا سمارفز تايمزليس ادفنجر فوليوم 2",
+      "synopsis_ar": "انضم إلى السنافر في مجموعة من المغامرات المليئة بالمرح المليئة بالاختراعات البرية والمسابقات المثيرة والعمل الجماعي والمهام الفوضوية. من المسابقات الرياضية إلى اللقاءات المضحكة مع جارغامل، يكتشف السنافر أن الصداقة والشجاعة تنقذان اليوم دائمًا.",
+      "genres_ar": [
+        "مغامرات",
+        "كوميدي"
+      ],
+      "runtime_min": 78,
+      "trailer_youtube_id": "MHApR8KopaE"
     },
     "residentevil": {
       "title_en": "Resident Evil",
@@ -312,6 +371,28 @@
       ],
       "runtime_min": 87,
       "trailer_youtube_id": "mcVMhuJGcNo"
+    },
+    "butteryeffectazzamsaudi": {
+      "title_en": "Buttery Effect: Azzam (Saudi) - Arabic",
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Buttery-Effect:-Azzam-(Saudi)---Arabic/HO00004471"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004471_371.jpg",
+      "title_ar": "أثر الفراشة - عزام",
+      "synopsis_ar": "نتقل \"عزام\" اليافع (12 عاماً) فجأة إلى عالم الفراشات المعزول أثناء رحلة لعائلته في جنوب المملكة؛ حيث يجد نفسه قد تحول إلى فراشة ويجب عليه اكتشاف ذاته ليجد طريق العودة لعالمه وأسرته.",
+      "genres_ar": [
+        "رسوم متحركة",
+        "مغامرات",
+        "خيالي"
+      ],
+      "runtime_min": 98,
+      "trailer_youtube_id": "i_UqEwJBEss"
     },
     "spidermanbrandnewday": {
       "title_en": "Spider Man: Brand New Day",
@@ -562,6 +643,27 @@
       ],
       "runtime_min": 158,
       "trailer_youtube_id": "JIHongSGUkI"
+    },
+    "paradaise": {
+      "title_en": "The Paradaise - Telugu",
+      "languages": [
+        "Telugu"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Paradaise---Telugu/HO00004501"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004501_069.jpg",
+      "title_ar": "ذا برادياس - تليغو",
+      "synopsis_ar": "في ثمانينيات القرن الماضي، كانت قبيلة مهمشة تحارب التمييز وتناضل من أجل المواطنة تحت إشراف زعيم غير متوقع، متحدية القمع المنهجي.",
+      "genres_ar": [
+        "أكشن",
+        "مغامرات"
+      ],
+      "runtime_min": 172,
+      "trailer_youtube_id": "i4pfwIR1z40"
     }
   }
 }
