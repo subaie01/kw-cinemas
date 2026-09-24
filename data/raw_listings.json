@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-23T09:08:16.639223+00:00",
+  "scraped_at": "2026-09-24T09:03:21.900971+00:00",
   "failures": [
     "vox"
   ],
@@ -47,7 +47,7 @@
       ],
       "poster_src": "https://www.skycinemaskw.com/images/movies/9999001502.jpg",
       "title_ar": "بلودي تينس",
-      "synopsis_ar": "تنضم صوفي إلى أكاديمية التنس المرموقة، حيث يتم أخذ وحشية الرياضات التنافسية إلى أقصى حد ولا يبقى على قيد الحياة سوى الأكثر جوعًا.",
+      "synopsis_ar": "بعد قبولها في أكاديمية النخبة للتنس موقعها في أعماق جنوب أوروبا، يجب على صوفي أن تتنافس فقط ولكن أيض  عليها ان تتعامل  مع التيارات الشريرة المتزايدة للمدرسة. ما يبدأ كطقوس مرور تنافسية سرعان ما يتكشف إلى شيء أكثر تعقيدا، مما يجبر صوفي على الاختيار بين مطا",
       "genres_ar": [
         "رعب",
         "رياضي"
@@ -99,6 +99,7 @@
       "synopsis_ar": "يتم أخذ نجم سينمائي يكافح من أجل العودة كرهينة في حدث خيري من قبل مجموعة متطرفة تعتقد أنه يجب التضحية به في بركان ينقذ البشرية من نهاية العالم.",
       "genres_ar": [
         "أكشن",
+        "كوميدي",
         "مغامرات"
       ],
       "runtime_min": 98,
@@ -230,30 +231,25 @@
       "runtime_min": 100,
       "trailer_youtube_id": "jlRWt-UgWQo"
     },
-    "tadandthemagiclamp": {
-      "title_en": "Tad And The Magic Lamp",
+    "redflag": {
+      "title_en": "Red Flag (Egyptian) - Arabic",
       "languages": [
-        "English"
+        "Arabic"
       ],
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Tad-and-the-Magic-Lamp/HO00004432"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/tad-and-the-magic-lamp/9999001494/NowShowing"
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Red-Flag-(Egyptian)---Arabic/HO00004493"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001494.jpg",
-      "title_ar": "تاد اند ذا ماجك لامب",
-      "synopsis_ar": "لقد حولته أولي، ابنة تاد الشجاعة البالغة من العمر عامين، إلى أب مفرط في الحماية وتشعر أمي بالتهميش بسبب الاهتمام الذي تحظى به. عندما وجدوا المصباح السحري في قصر باكنغهام، طلبت منه أمي العودة في الوقت المناسب إلى بايتيتي، بيرو، في عام 1502.",
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004493_721.jpg",
+      "title_ar": "ريد فلاج",
+      "synopsis_ar": "تتبع القصة الطيار أحمد وزوجته، مديرة شركة إعلانات، وتسلط الضوء على تحديات الحب والتردد والثقة والخيانة في علاقات الأزواج الشباب.",
       "genres_ar": [
-        "رسوم متحركة",
-        "مغامرات"
+        "كوميدي"
       ],
-      "runtime_min": 94,
-      "trailer_youtube_id": "Qq-ucWI8HAc"
+      "runtime_min": 100,
+      "trailer_youtube_id": "uO2BKCC85rY"
     },
     "practicalmagic2": {
       "title_en": "Practical Magic 2",
@@ -264,13 +260,9 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Practical-Magic-2/HO00004462"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/practical-magic-2/9999001493/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001493.jpg",
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004462_479.jpg",
       "title_ar": "بارتكل ماجك ٢",
       "synopsis_ar": "يعود الجزء الثاني من السحر العملي ليأخذنا مجددًا إلى عالم مليء بالأجواء الغامضة وسحر الأجداد المتوارث، حيث تضطر الشقيقتان من عائلة أوينز لمواجهة لعنة مظلمة تهدد بتفكيك إرث العائلة إلى الأبد. في تجربة سينمائية مليئة بالمرح والسحر والفوضى",
       "genres_ar": [
@@ -280,97 +272,6 @@
       ],
       "runtime_min": 126,
       "trailer_youtube_id": "bdJsow2SC6s"
-    },
-    "uprising": {
-      "title_en": "The Uprising",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Uprising/HO00004475"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/the-uprising/9999001492/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001492.jpg",
-      "title_ar": "ذا ابرايزنق",
-      "synopsis_ar": "يلعب أندرو غارفيلد دور القائد الأسطوري للتمرد الشرس ضد طغيان الملك ريتشارد الثاني. مع احتراق الحرب في جميع أنحاء إنجلترا، يشكل جيشًا من الشعب لمواجهة قوة الملك في الكفاح من أجل العدالة والبقاء على قيد الحياة.",
-      "genres_ar": [
-        "أكشن",
-        "دراما",
-        "تاريخي"
-      ],
-      "runtime_min": 128,
-      "trailer_youtube_id": "FApDlMrga6s"
-    },
-    "redflag": {
-      "title_en": "Red Flag (Egyptian) - Arabic",
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Red-Flag-(Egyptian)---Arabic/HO00004493"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/red-flag-(egyptian)-arabic/9999001491/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001491.jpg",
-      "title_ar": "ريد فلاج",
-      "synopsis_ar": "تتبع القصة الطيار أحمد وزوجته، مديرة شركة إعلانات، وتسلط الضوء على تحديات الحب والتردد والثقة والخيانة في علاقات الأزواج الشباب.",
-      "genres_ar": [
-        "كوميدي"
-      ],
-      "runtime_min": 100,
-      "trailer_youtube_id": "uO2BKCC85rY"
-    },
-    "sunrayfallensoldier": {
-      "title_en": "Sunray:Fallen Soldier",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Sunray:Fallen-Soldier/HO00004454"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004454_953.jpg",
-      "title_ar": "سانراي: قالن سولدجر",
-      "synopsis_ar": "محارب قديم يستعين بأصدقاء ماضيه للبحث عمن تورط في مقتل ابنته. في رحلته، يكتشف عن نفسه أكثر مما توقع.",
-      "genres_ar": [
-        "أكشن"
-      ],
-      "runtime_min": 112,
-      "trailer_youtube_id": "XDFJ7WkbSPk"
-    },
-    "justplaydead": {
-      "title_en": "Just Play Dead",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Just-Play-Dead/HO00004495"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004495_185.jpg",
-      "title_ar": "جاست بلاي ديد",
-      "synopsis_ar": "يخطط العقل المدبر الإجرامي (صموئيل ل. جاكسون) لتزييف وفاته للحصول على أموال التأمين أثناء تلفيق التهمة لعشيق زوجته. تخطط زوجته (إيفا غرين) لقتله بشكل حقيقي وأخذ كل شيء. كلاهما يتسابقان على التفوق على بعضهما البعض في معركة قاتلة من الذكاء.",
-      "genres_ar": [
-        "جريمة",
-        "إثارة"
-      ],
-      "runtime_min": 87,
-      "trailer_youtube_id": "mcVMhuJGcNo"
     },
     "butteryeffectazzamsaudi": {
       "title_en": "Buttery Effect: Azzam (Saudi) - Arabic",
@@ -416,25 +317,43 @@
       "runtime_min": 141,
       "trailer_youtube_id": "FL5RBUGHOAY"
     },
-    "elgawahergy": {
-      "title_en": "El Gawahergy (Egyptian) - Arabic",
+    "mutiny": {
+      "title_en": "Mutiny",
       "languages": [
-        "Arabic"
+        "English"
       ],
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/El-Gawahergy-(Egyptian)---Arabic/HO00004448"
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Mutiny/HO00004352"
         }
       ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004448_973.jpg",
-      "title_ar": "الجواهرجي",
-      "synopsis_ar": "بعد أن تضبطه زوجته القوية ياسمين متلبساً بالخيانة للمرة المليون، يجد سيف، الجواهرجي الشهير المزواج، نفسه مجبراً على التخلي عن كبريائه والخضوع لشرطها الوحيد لإنقاذ زواجهما: البدء فوراً في برنامج علاج نفسي مكثف وغريب الأطوار مع مستشار علاقات زوجية. لكن بد",
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004352_452.jpg",
+      "title_ar": "ميوتني",
+      "synopsis_ar": "بعد مقتل رجل أعمال ملياردير، يُلفّق الاتهام لحارسه الخاص، الذي يهرب لكشف مؤامرة دولية خطيرة قبل أن يتم القضاء عليه.",
       "genres_ar": [
-        "كوميدي"
+        "أكشن",
+        "إثارة"
       ],
-      "runtime_min": 107,
-      "trailer_youtube_id": "JSk81pO4wg0"
+      "runtime_min": 95,
+      "trailer_youtube_id": "wp_uZMVoevE"
+    },
+    "fall2deadpoint": {
+      "title_en": "Fall 2: Deadpoint",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Fall-2:-Deadpoint/HO00004461"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004461_130.jpg",
+      "title_ar": "فال ٢",
+      "synopsis_ar": "بعد أن حزنت على وفاة أختها شيلوه، ارتبطت جاكس هانتر بصديقة شيلوه الجريئة لوس. إنهم يتعاملون مع المشي الخطير على اللوح الخشبي لجبل كوان في تايلاند.",
+      "runtime_min": 97,
+      "trailer_youtube_id": "5ktaZGTCzS8"
     },
     "coyotevsacme": {
       "title_en": "Coyote vs Acme",
@@ -458,23 +377,6 @@
       "runtime_min": 103,
       "trailer_youtube_id": "aSW5ky6fTJc"
     },
-    "fall2deadpoint": {
-      "title_en": "Fall 2: Deadpoint",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Fall-2:-Deadpoint/HO00004461"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004461_130.jpg",
-      "title_ar": "فال ٢",
-      "synopsis_ar": "بعد أن حزنت على وفاة أختها شيلوه، ارتبطت جاكس هانتر بصديقة شيلوه الجريئة لوس. إنهم يتعاملون مع المشي الخطير على اللوح الخشبي لجبل كوان في تايلاند.",
-      "runtime_min": 97,
-      "trailer_youtube_id": "5ktaZGTCzS8"
-    },
     "runner": {
       "title_en": "Runner",
       "languages": [
@@ -496,109 +398,48 @@
       "runtime_min": 99,
       "trailer_youtube_id": "laUdCCWp_nI"
     },
-    "catsinthemuseum2treasuresofegypt": {
-      "title_en": "Cats in the Museum 2:Treasures of Egypt",
+    "uprising": {
+      "title_en": "The Uprising",
       "languages": [
         "English"
       ],
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Cats-in-the-Museum-2:Treasures-of-Egypt/HO00004441"
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Uprising/HO00004475"
         }
       ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004441_142.jpg",
-      "title_ar": "كات ان ذا ميوزيم",
-      "synopsis_ar": "بعد عامين من أحداث الفيلم الأول، يحلم موريس الفأر بمآثر جديدة بينما اكتسب فينسنت وكليوباترا قطتين مضطربتين تتوقان إلى المغامرة.",
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004475_235.jpg",
+      "title_ar": "ذا ابرايزنق",
+      "synopsis_ar": "يلعب أندرو غارفيلد دور القائد الأسطوري للتمرد الشرس ضد طغيان الملك ريتشارد الثاني. مع احتراق الحرب في جميع أنحاء إنجلترا، يشكل جيشًا من الشعب لمواجهة قوة الملك في الكفاح من أجل العدالة والبقاء على قيد الحياة.",
+      "genres_ar": [
+        "أكشن",
+        "دراما",
+        "تاريخي"
+      ],
+      "runtime_min": 128,
+      "trailer_youtube_id": "FApDlMrga6s"
+    },
+    "tadandthemagiclamp": {
+      "title_en": "Tad and the Magic Lamp",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Tad-and-the-Magic-Lamp/HO00004432"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004432_713.jpg",
+      "title_ar": "تاد اند ذا ماجك لامب",
+      "synopsis_ar": "لقد حولته أولي، ابنة تاد الشجاعة البالغة من العمر عامين، إلى أب مفرط في الحماية وتشعر أمي بالتهميش بسبب الاهتمام الذي تحظى به. عندما وجدوا المصباح السحري في قصر باكنغهام، طلبت منه أمي العودة في الوقت المناسب إلى بايتيتي، بيرو، في عام 1502.",
       "genres_ar": [
         "رسوم متحركة",
         "مغامرات"
       ],
-      "runtime_min": 89,
-      "trailer_youtube_id": "-uhrpk7eQdY"
-    },
-    "khalibalakminnafsik": {
-      "title_en": "Khali Balak Min Nafsik (Egyptian) - Arabic",
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Khali-Balak-Min-Nafsik-(Egyptian)---Arabic/HO00004436"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004436_022.jpg",
-      "title_ar": "خلى بالك من نفسك",
-      "synopsis_ar": "تدور احداث الفيلم بين علاء مذيع الراديو الذي يدخل في علاقات كثيرة و يترك الفتيات لاسباب سطحية و خوفه من الارتباط ، حتي يتعرف عن طريق الصدفة علي فريده، التي تبدو له الرقيقة المثالية ، لكن فريده في حقيقتها هي من اكبر تجاره سلاح ، و بعد ان علقها به و وقعت في",
-      "genres_ar": [
-        "كوميدي"
-      ],
-      "runtime_min": 103,
-      "trailer_youtube_id": "p8nNykRtUJI"
-    },
-    "odyssey": {
-      "title_en": "The Odyssey",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Odyssey/HO00004251"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004251_096.jpg",
-      "title_ar": "ذا اودسي",
-      "synopsis_ar": "بعد حرب طروادة، يواجه أوديسيوس رحلة خطيرة عائدا إلى إيثاكا، حيث يلتقي بمخلوقات مثل السيكلوبس بوليفيموس، والحوريات، وسيرسي في طريقه.",
-      "genres_ar": [
-        "أكشن",
-        "مغامرات",
-        "خيالي"
-      ],
-      "runtime_min": 172,
-      "trailer_youtube_id": "V8HyNO6VKTg"
-    },
-    "mutiny": {
-      "title_en": "Mutiny",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Mutiny/HO00004352"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004352_452.jpg",
-      "title_ar": "ميوتني",
-      "synopsis_ar": "بعد مقتل رجل أعمال ملياردير، يُلفّق الاتهام لحارسه الخاص، الذي يهرب لكشف مؤامرة دولية خطيرة قبل أن يتم القضاء عليه.",
-      "genres_ar": [
-        "أكشن",
-        "إثارة"
-      ],
-      "runtime_min": 95,
-      "trailer_youtube_id": "wp_uZMVoevE"
-    },
-    "insidiousoutofthefurther": {
-      "title_en": "Insidious: Out Of The Further",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Insidious:-Out-Of-The-Further/HO00004366"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004366_927.jpg",
-      "title_ar": "انسدياوس : اوت اوف ذا فارذر",
-      "synopsis_ar": "في فيلم الغدر: بعيدًا، تلعب أميليا إيف دور جيما، وهي أم شابة تربي ابنتها في المنزل الذي نشأت فيه وتكتشف أنها تستطيع السفر إلى أبعد من ذلك، عالم التطهير للأرواح المفقودة في قلب الكون الغادر.",
-      "genres_ar": [
-        "رعب"
-      ],
-      "runtime_min": 106,
-      "trailer_youtube_id": "7Dlg4-osqbo"
+      "runtime_min": 94,
+      "trailer_youtube_id": "Qq-ucWI8HAc"
     },
     "bethlehemkudumbaunit": {
       "title_en": "Bethlehem Kudumba Unit - Malayalam",
@@ -644,15 +485,15 @@
       "runtime_min": 158,
       "trailer_youtube_id": "JIHongSGUkI"
     },
-    "paradaise": {
-      "title_en": "The Paradaise - Telugu",
+    "paradise": {
+      "title_en": "The Paradise - Telugu",
       "languages": [
         "Telugu"
       ],
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Paradaise---Telugu/HO00004501"
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Paradise---Telugu/HO00004501"
         }
       ],
       "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004501_069.jpg",

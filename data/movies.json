@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23T09:08:26.894376+00:00",
+  "last_updated": "2026-09-24T09:03:30.724863+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -44,35 +44,6 @@
       ]
     },
     {
-      "id": "wd-Q137534351",
-      "title_ar": "فقط تظاهر بالموت",
-      "title_en": "Just Play Dead",
-      "synopsis_ar": "يخطط العقل المدبر الإجرامي (صموئيل ل. جاكسون) لتزييف وفاته للحصول على أموال التأمين أثناء تلفيق التهمة لعشيق زوجته. تخطط زوجته (إيفا غرين) لقتله بشكل حقيقي وأخذ كل شيء. كلاهما يتسابقان على التفوق على بعضهما البعض في معركة قاتلة من الذكاء.",
-      "genres_ar": [
-        "جريمة",
-        "إثارة"
-      ],
-      "runtime_min": 87,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004495_185.jpg",
-      "trailer_youtube_id": "mcVMhuJGcNo",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Just%20Play%20Dead%20official%20trailer",
-      "ratings": {
-        "imdb": "4.1"
-      },
-      "imdb_id": "tt36948232",
-      "release_date": "2026-08-28",
-      "matched": true,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Just-Play-Dead/HO00004495"
-        }
-      ]
-    },
-    {
       "id": "wd-Q140770794",
       "title_ar": "Tad And The Magic Lamp",
       "title_en": "Tad And The Magic Lamp",
@@ -98,10 +69,6 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Tad-and-the-Magic-Lamp/HO00004432"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/tad-and-the-magic-lamp/9999001494/NowShowing"
         }
       ]
     },
@@ -135,39 +102,6 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Spider-Man:-Brand-New-Day/HO00004304"
-        }
-      ]
-    },
-    {
-      "id": "wd-Q131547207",
-      "title_ar": "الأوديسة",
-      "title_en": "The Odyssey",
-      "synopsis_ar": "الأوديسة هو فلم فنتازيا وحركة ملحمي صدر عام 2026، كتبه وأخرجه كريستوفر نولان، وشارك في إنتاجه مع زوجته إيما توماس من خلال شركة سينكوبي. يقتبس الفلم ملحمة الأوديسة الإغريقية للشاعر هوميروس، ويتتبع رحلة أوديسيوس — ملك إيثاكا الإغريقي — الذي يؤديه مات ديمون أثناء سعيه للعودة إلى وطنه بعد انتهاء حرب طروادة، وما يواجهه خلال رحلته من أخطار وكائنات أسطورية، بينما يحاول لمّ شمله بزوجته بينيلوبي، التي تؤدي دورها آن هاثاواي. يضم طاقم التمثيل أيضًا كلًا من توم هولاند وروبرت باتينسون ولوبيتا نيونغو وسامانثا مورتن وزيندايا وتشارليز ثيرون.",
-      "genres_ar": [
-        "فلم خيال",
-        "فلم مغامرة",
-        "فلم أكشن",
-        "فلم تاريخي",
-        "فلم ملحمي"
-      ],
-      "runtime_min": 172,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001458.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Odyssey%20official%20trailer",
-      "ratings": {
-        "imdb": "8.4",
-        "rotten_tomatoes": "93%"
-      },
-      "imdb_id": "tt33764258",
-      "release_date": "2026-07-06",
-      "matched": true,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Odyssey/HO00004251"
         }
       ]
     },
@@ -411,64 +345,6 @@
       ]
     },
     {
-      "id": "local-practicalmagic2",
-      "title_ar": "Practical Magic 2",
-      "title_en": "Practical Magic 2",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001493.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Practical%20Magic%202%20official%20trailer",
-      "ratings": {},
-      "imdb_id": "tt32588798",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Practical-Magic-2/HO00004462"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/practical-magic-2/9999001493/NowShowing"
-        }
-      ]
-    },
-    {
-      "id": "local-uprising",
-      "title_ar": "The Uprising",
-      "title_en": "The Uprising",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001492.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Uprising%20official%20trailer",
-      "ratings": {
-        "imdb": "7.1"
-      },
-      "imdb_id": "tt3230012",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Uprising/HO00004475"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/the-uprising/9999001492/NowShowing"
-        }
-      ]
-    },
-    {
       "id": "local-redflag",
       "title_ar": "Red Flag",
       "title_en": "Red Flag",
@@ -492,29 +368,21 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Red-Flag-(Egyptian)---Arabic/HO00004493"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/red-flag-(egyptian)-arabic/9999001491/NowShowing"
         }
       ]
     },
     {
-      "id": "local-sunrayfallensoldier",
-      "title_ar": "سانراي: قالن سولدجر",
-      "title_en": "Sunray:Fallen Soldier",
-      "synopsis_ar": "محارب قديم يستعين بأصدقاء ماضيه للبحث عمن تورط في مقتل ابنته. في رحلته، يكتشف عن نفسه أكثر مما توقع.",
-      "genres_ar": [
-        "أكشن"
-      ],
-      "runtime_min": 112,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004454_953.jpg",
-      "trailer_youtube_id": "XDFJ7WkbSPk",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Sunray%3AFallen%20Soldier%20official%20trailer",
-      "ratings": {
-        "imdb": "4.3"
-      },
-      "imdb_id": "tt15128544",
+      "id": "local-practicalmagic2",
+      "title_ar": "Practical Magic 2",
+      "title_en": "Practical Magic 2",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001493.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Practical%20Magic%202%20official%20trailer",
+      "ratings": {},
+      "imdb_id": "tt32588798",
       "release_date": null,
       "matched": false,
       "languages": [
@@ -523,7 +391,7 @@
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Sunray:Fallen-Soldier/HO00004454"
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Practical-Magic-2/HO00004462"
         }
       ]
     },
@@ -552,158 +420,6 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Buttery-Effect:-Azzam-(Saudi)---Arabic/HO00004471"
-        }
-      ]
-    },
-    {
-      "id": "local-elgawahergy",
-      "title_ar": "El Gawahergy",
-      "title_en": "El Gawahergy",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001466.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=El%20Gawahergy%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/El-Gawahergy-(Egyptian)---Arabic/HO00004448"
-        }
-      ]
-    },
-    {
-      "id": "local-coyotevsacme",
-      "title_ar": "Coyote Vs Acme",
-      "title_en": "Coyote Vs Acme",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001479.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Coyote%20Vs%20Acme%20official%20trailer",
-      "ratings": {
-        "imdb": "7.6",
-        "rotten_tomatoes": "96%"
-      },
-      "imdb_id": "tt1756855",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Coyote-vs-Acme/HO00004371"
-        }
-      ]
-    },
-    {
-      "id": "local-fall2deadpoint",
-      "title_ar": "Fall 2: Deadpoint",
-      "title_en": "Fall 2: Deadpoint",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001488.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Fall%202%3A%20Deadpoint%20official%20trailer",
-      "ratings": {
-        "imdb": "5.7",
-        "rotten_tomatoes": "55%"
-      },
-      "imdb_id": "tt31192372",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Fall-2:-Deadpoint/HO00004461"
-        }
-      ]
-    },
-    {
-      "id": "local-runner",
-      "title_ar": "Runner",
-      "title_en": "Runner",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001490.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Runner%20official%20trailer",
-      "ratings": {
-        "imdb": "6.5"
-      },
-      "imdb_id": "tt9348578",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Runner/HO00004463"
-        }
-      ]
-    },
-    {
-      "id": "local-catsinthemuseum2treasuresofegypt",
-      "title_ar": "Cats In The Museum 2:Treasures Of Egypt",
-      "title_en": "Cats In The Museum 2:Treasures Of Egypt",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001489.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Cats%20In%20The%20Museum%202%3ATreasures%20Of%20Egypt%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Cats-in-the-Museum-2:Treasures-of-Egypt/HO00004441"
-        }
-      ]
-    },
-    {
-      "id": "local-khalibalakminnafsik",
-      "title_ar": "Khali Balak Min Nafsik",
-      "title_en": "Khali Balak Min Nafsik",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001461.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Khali%20Balak%20Min%20Nafsik%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Khali-Balak-Min-Nafsik-(Egyptian)---Arabic/HO00004436"
         }
       ]
     },
@@ -738,22 +454,20 @@
       ]
     },
     {
-      "id": "local-insidiousoutofthefurther",
-      "title_ar": "انسدياوس : اوت اوف ذا فارذر",
-      "title_en": "Insidious: Out Of The Further",
-      "synopsis_ar": "في فيلم الغدر: بعيدًا، تلعب أميليا إيف دور جيما، وهي أم شابة تربي ابنتها في المنزل الذي نشأت فيه وتكتشف أنها تستطيع السفر إلى أبعد من ذلك، عالم التطهير للأرواح المفقودة في قلب الكون الغادر.",
-      "genres_ar": [
-        "رعب"
-      ],
-      "runtime_min": 106,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001477.jpg",
-      "trailer_youtube_id": "7Dlg4-osqbo",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Insidious%3A%20Out%20Of%20The%20Further%20official%20trailer",
+      "id": "local-fall2deadpoint",
+      "title_ar": "Fall 2: Deadpoint",
+      "title_en": "Fall 2: Deadpoint",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001488.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Fall%202%3A%20Deadpoint%20official%20trailer",
       "ratings": {
-        "imdb": "6.2",
-        "rotten_tomatoes": "58%"
+        "imdb": "5.7",
+        "rotten_tomatoes": "55%"
       },
-      "imdb_id": "tt32393988",
+      "imdb_id": "tt31192372",
       "release_date": null,
       "matched": false,
       "languages": [
@@ -762,7 +476,86 @@
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Insidious:-Out-Of-The-Further/HO00004366"
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Fall-2:-Deadpoint/HO00004461"
+        }
+      ]
+    },
+    {
+      "id": "local-coyotevsacme",
+      "title_ar": "Coyote Vs Acme",
+      "title_en": "Coyote Vs Acme",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001479.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Coyote%20Vs%20Acme%20official%20trailer",
+      "ratings": {
+        "imdb": "7.6",
+        "rotten_tomatoes": "96%"
+      },
+      "imdb_id": "tt1756855",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Coyote-vs-Acme/HO00004371"
+        }
+      ]
+    },
+    {
+      "id": "local-runner",
+      "title_ar": "Runner",
+      "title_en": "Runner",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001490.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Runner%20official%20trailer",
+      "ratings": {
+        "imdb": "6.5"
+      },
+      "imdb_id": "tt9348578",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Runner/HO00004463"
+        }
+      ]
+    },
+    {
+      "id": "local-uprising",
+      "title_ar": "The Uprising",
+      "title_en": "The Uprising",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001492.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Uprising%20official%20trailer",
+      "ratings": {
+        "imdb": "7.1"
+      },
+      "imdb_id": "tt3230012",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Uprising/HO00004475"
         }
       ]
     },
@@ -825,9 +618,9 @@
       ]
     },
     {
-      "id": "local-paradaise",
+      "id": "local-paradise",
       "title_ar": "ذا برادياس - تليغو",
-      "title_en": "The Paradaise - Telugu",
+      "title_en": "The Paradise - Telugu",
       "synopsis_ar": "في ثمانينيات القرن الماضي، كانت قبيلة مهمشة تحارب التمييز وتناضل من أجل المواطنة تحت إشراف زعيم غير متوقع، متحدية القمع المنهجي.",
       "genres_ar": [
         "أكشن",
@@ -836,9 +629,11 @@
       "runtime_min": 172,
       "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004501_069.jpg",
       "trailer_youtube_id": "i4pfwIR1z40",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Paradaise%20-%20Telugu%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Paradise%20-%20Telugu%20official%20trailer",
+      "ratings": {
+        "imdb": "7.7"
+      },
+      "imdb_id": "tt2391224",
       "release_date": null,
       "matched": false,
       "languages": [
@@ -847,7 +642,7 @@
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Paradaise---Telugu/HO00004501"
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Paradise---Telugu/HO00004501"
         }
       ]
     }
