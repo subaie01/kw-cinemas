@@ -1,9 +1,87 @@
 {
-  "scraped_at": "2026-09-28T10:39:44.815302+00:00",
+  "scraped_at": "2026-09-29T10:27:17.075753+00:00",
   "failures": [
     "vox"
   ],
   "movies": {
+    "verity": {
+      "title_en": "Verity",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/verity/9999001510/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001510.jpg"
+    },
+    "digger": {
+      "title_en": "Digger",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/digger/9999001509/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001509.jpg"
+    },
+    "charlieharper": {
+      "title_en": "Charlie Harper",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/charlie-harper/9999001508/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001508.jpg"
+    },
+    "wake": {
+      "title_en": "Wake",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/wake/9999001507/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001507.jpg"
+    },
+    "crystalplanet": {
+      "title_en": "The Crystal Planet",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/the-crystal-planet/9999001506/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001506.jpg"
+    },
+    "legendaries": {
+      "title_en": "The Legendaries",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/the-legendaries/9999001505/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001505.jpg"
+    },
     "heartofthebeast": {
       "title_en": "Heart Of The Beast",
       "languages": [
@@ -37,23 +115,11 @@
       ],
       "cinemas": [
         {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Bloody-Tennis/HO00004500"
-        },
-        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/bloody-tennis/9999001502/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001502.jpg",
-      "title_ar": "بلودي تينس",
-      "synopsis_ar": "بعد قبولها في أكاديمية النخبة للتنس موقعها في أعماق جنوب أوروبا، يجب على صوفي أن تتنافس فقط ولكن أيض  عليها ان تتعامل  مع التيارات الشريرة المتزايدة للمدرسة. ما يبدأ كطقوس مرور تنافسية سرعان ما يتكشف إلى شيء أكثر تعقيدا، مما يجبر صوفي على الاختيار بين مطا",
-      "genres_ar": [
-        "رعب",
-        "رياضي"
-      ],
-      "runtime_min": 88,
-      "trailer_youtube_id": "39oC67OSg8g"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001502.jpg"
     },
     "shishdou": {
       "title_en": "Shish Dou (Egyptian) - Arabic",

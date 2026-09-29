@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-28T10:39:52.506124+00:00",
+  "last_updated": "2026-09-29T10:27:32.069112+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -106,6 +106,162 @@
       ]
     },
     {
+      "id": "wd-Q139073423",
+      "title_ar": "The Crystal Planet",
+      "title_en": "The Crystal Planet",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": 97,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001506.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Crystal%20Planet%20official%20trailer",
+      "ratings": {
+        "imdb": "7.0"
+      },
+      "imdb_id": "tt35571526",
+      "release_date": "2026-00-00",
+      "matched": true,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/the-crystal-planet/9999001506/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "wd-Q136190269",
+      "title_ar": "Charlie Harper",
+      "title_en": "Charlie Harper",
+      "synopsis_ar": "",
+      "genres_ar": [
+        "فلم رومانسي"
+      ],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001508.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Charlie%20Harper%20official%20trailer",
+      "ratings": {
+        "imdb": "6.8",
+        "rotten_tomatoes": "59%"
+      },
+      "imdb_id": "tt27739255",
+      "release_date": "2025-09-04",
+      "matched": true,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/charlie-harper/9999001508/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "local-verity",
+      "title_ar": "Verity",
+      "title_en": "Verity",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001510.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Verity%20official%20trailer",
+      "ratings": {},
+      "imdb_id": "tt3144236",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/verity/9999001510/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "local-digger",
+      "title_ar": "Digger",
+      "title_en": "Digger",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001509.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Digger%20official%20trailer",
+      "ratings": {
+        "imdb": "7.4",
+        "rotten_tomatoes": "70%"
+      },
+      "imdb_id": "tt9389916",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/digger/9999001509/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "local-wake",
+      "title_ar": "Wake",
+      "title_en": "Wake",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001507.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Wake%20official%20trailer",
+      "ratings": {
+        "imdb": "5.5"
+      },
+      "imdb_id": "tt0960097",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/wake/9999001507/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "local-legendaries",
+      "title_ar": "The Legendaries",
+      "title_en": "The Legendaries",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001505.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Legendaries%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/the-legendaries/9999001505/NowShowing"
+        }
+      ]
+    },
+    {
       "id": "local-heartofthebeast",
       "title_ar": "Heart Of The Beast",
       "title_en": "Heart Of The Beast",
@@ -155,10 +311,6 @@
         "English"
       ],
       "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Bloody-Tennis/HO00004500"
-        },
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/bloody-tennis/9999001502/NowShowing"
@@ -602,7 +754,7 @@
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=Pradhama%20Drishtiya%20Kuttakkar%20-%20Malayalam%20official%20trailer",
       "ratings": {
-        "imdb": "7.9"
+        "imdb": "7.8"
       },
       "imdb_id": "tt38265603",
       "release_date": null,
