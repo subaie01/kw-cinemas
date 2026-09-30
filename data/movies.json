@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-29T10:27:32.069112+00:00",
+  "last_updated": "2026-09-30T10:19:43.806144+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -116,7 +116,7 @@
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Crystal%20Planet%20official%20trailer",
       "ratings": {
-        "imdb": "7.0"
+        "imdb": "7.1"
       },
       "imdb_id": "tt35571526",
       "release_date": "2026-00-00",
@@ -125,6 +125,10 @@
         "English"
       ],
       "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Crystal-Planet/HO00004503"
+        },
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/the-crystal-planet/9999001506/NowShowing"
@@ -155,6 +159,10 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Charlie-Harper/HO00004532"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/charlie-harper/9999001508/NowShowing"
         }
@@ -178,6 +186,10 @@
         "English"
       ],
       "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Verity/HO00004477"
+        },
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/verity/9999001510/NowShowing"
@@ -206,6 +218,10 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Digger/HO00004277"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/digger/9999001509/NowShowing"
         }
@@ -232,6 +248,10 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Wake/HO00004453"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/wake/9999001507/NowShowing"
         }
@@ -255,6 +275,10 @@
         "English"
       ],
       "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Legendaries/HO00004531"
+        },
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/the-legendaries/9999001505/NowShowing"
@@ -524,6 +548,33 @@
       ]
     },
     {
+      "id": "local-coyotevsacme",
+      "title_ar": "Coyote Vs Acme",
+      "title_en": "Coyote Vs Acme",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001479.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Coyote%20Vs%20Acme%20official%20trailer",
+      "ratings": {
+        "imdb": "7.6",
+        "rotten_tomatoes": "96%"
+      },
+      "imdb_id": "tt1756855",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Coyote-vs-Acme/HO00004371"
+        }
+      ]
+    },
+    {
       "id": "local-practicalmagic2",
       "title_ar": "Practical Magic 2",
       "title_en": "Practical Magic 2",
@@ -544,34 +595,6 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Practical-Magic-2/HO00004462"
-        }
-      ]
-    },
-    {
-      "id": "local-butteryeffectazzamsaudi",
-      "title_ar": "أثر الفراشة - عزام",
-      "title_en": "Buttery Effect: Azzam (Saudi) - Arabic",
-      "synopsis_ar": "نتقل \"عزام\" اليافع (12 عاماً) فجأة إلى عالم الفراشات المعزول أثناء رحلة لعائلته في جنوب المملكة؛ حيث يجد نفسه قد تحول إلى فراشة ويجب عليه اكتشاف ذاته ليجد طريق العودة لعالمه وأسرته.",
-      "genres_ar": [
-        "رسوم متحركة",
-        "مغامرات",
-        "خيالي"
-      ],
-      "runtime_min": 98,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004471_371.jpg",
-      "trailer_youtube_id": "i_UqEwJBEss",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Buttery%20Effect%3A%20Azzam%20%28Saudi%29%20-%20Arabic%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Buttery-Effect:-Azzam-(Saudi)---Arabic/HO00004471"
         }
       ]
     },
@@ -606,20 +629,19 @@
       ]
     },
     {
-      "id": "local-fall2deadpoint",
-      "title_ar": "Fall 2: Deadpoint",
-      "title_en": "Fall 2: Deadpoint",
+      "id": "local-uprising",
+      "title_ar": "The Uprising",
+      "title_en": "The Uprising",
       "synopsis_ar": "",
       "genres_ar": [],
       "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001488.jpg",
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001492.jpg",
       "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Fall%202%3A%20Deadpoint%20official%20trailer",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Uprising%20official%20trailer",
       "ratings": {
-        "imdb": "5.7",
-        "rotten_tomatoes": "55%"
+        "imdb": "7.1"
       },
-      "imdb_id": "tt31192372",
+      "imdb_id": "tt3230012",
       "release_date": null,
       "matched": false,
       "languages": [
@@ -628,34 +650,7 @@
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Fall-2:-Deadpoint/HO00004461"
-        }
-      ]
-    },
-    {
-      "id": "local-coyotevsacme",
-      "title_ar": "Coyote Vs Acme",
-      "title_en": "Coyote Vs Acme",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001479.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Coyote%20Vs%20Acme%20official%20trailer",
-      "ratings": {
-        "imdb": "7.6",
-        "rotten_tomatoes": "96%"
-      },
-      "imdb_id": "tt1756855",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Coyote-vs-Acme/HO00004371"
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Uprising/HO00004475"
         }
       ]
     },
@@ -686,19 +681,20 @@
       ]
     },
     {
-      "id": "local-uprising",
-      "title_ar": "The Uprising",
-      "title_en": "The Uprising",
+      "id": "local-fall2deadpoint",
+      "title_ar": "Fall 2: Deadpoint",
+      "title_en": "Fall 2: Deadpoint",
       "synopsis_ar": "",
       "genres_ar": [],
       "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001492.jpg",
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001488.jpg",
       "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Uprising%20official%20trailer",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Fall%202%3A%20Deadpoint%20official%20trailer",
       "ratings": {
-        "imdb": "7.1"
+        "imdb": "5.7",
+        "rotten_tomatoes": "55%"
       },
-      "imdb_id": "tt3230012",
+      "imdb_id": "tt31192372",
       "release_date": null,
       "matched": false,
       "languages": [
@@ -707,35 +703,7 @@
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Uprising/HO00004475"
-        }
-      ]
-    },
-    {
-      "id": "wd-Q138716562",
-      "title_ar": "بيثاهيم كودومبا ينات",
-      "title_en": "Bethlehem Kudumba Unit - Malayalam",
-      "synopsis_ar": "يتبع زوجين مع اختلاف كبير في العمر أثناء تنقلهما في علاقتهما الرومانسية.",
-      "genres_ar": [
-        "رومانسي",
-        "كوميدي",
-        "دراما"
-      ],
-      "runtime_min": 155,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004474_982.jpg",
-      "trailer_youtube_id": "GpTvTWlZ2U4",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Bethlehem%20Kudumba%20Unit%20-%20Malayalam%20official%20trailer",
-      "ratings": {},
-      "imdb_id": "tt37535100",
-      "release_date": null,
-      "matched": true,
-      "languages": [
-        "Malayalam"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Bethlehem-Kudumba-Unit---Malayalam/HO00004474"
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Fall-2:-Deadpoint/HO00004461"
         }
       ]
     },
@@ -766,6 +734,62 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Pradhama-Drishtiya-Kuttakkar---Malayalam/HO00004513"
+        }
+      ]
+    },
+    {
+      "id": "local-butteryeffectazzamsaudi",
+      "title_ar": "أثر الفراشة - عزام",
+      "title_en": "Buttery Effect: Azzam (Saudi) - Arabic",
+      "synopsis_ar": "نتقل \"عزام\" اليافع (12 عاماً) فجأة إلى عالم الفراشات المعزول أثناء رحلة لعائلته في جنوب المملكة؛ حيث يجد نفسه قد تحول إلى فراشة ويجب عليه اكتشاف ذاته ليجد طريق العودة لعالمه وأسرته.",
+      "genres_ar": [
+        "رسوم متحركة",
+        "مغامرات",
+        "خيالي"
+      ],
+      "runtime_min": 98,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004471_371.jpg",
+      "trailer_youtube_id": "i_UqEwJBEss",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Buttery%20Effect%3A%20Azzam%20%28Saudi%29%20-%20Arabic%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Buttery-Effect:-Azzam-(Saudi)---Arabic/HO00004471"
+        }
+      ]
+    },
+    {
+      "id": "wd-Q138716562",
+      "title_ar": "بيثاهيم كودومبا ينات",
+      "title_en": "Bethlehem Kudumba Unit - Malayalam",
+      "synopsis_ar": "يتبع زوجين مع اختلاف كبير في العمر أثناء تنقلهما في علاقتهما الرومانسية.",
+      "genres_ar": [
+        "رومانسي",
+        "كوميدي",
+        "دراما"
+      ],
+      "runtime_min": 155,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004474_982.jpg",
+      "trailer_youtube_id": "GpTvTWlZ2U4",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Bethlehem%20Kudumba%20Unit%20-%20Malayalam%20official%20trailer",
+      "ratings": {},
+      "imdb_id": "tt37535100",
+      "release_date": null,
+      "matched": true,
+      "languages": [
+        "Malayalam"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Bethlehem-Kudumba-Unit---Malayalam/HO00004474"
         }
       ]
     },

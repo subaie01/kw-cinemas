@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-09-29T10:27:17.075753+00:00",
+  "scraped_at": "2026-09-30T10:19:34.760499+00:00",
   "failures": [
     "vox"
   ],
@@ -11,11 +11,23 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Verity/HO00004477"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/verity/9999001510/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001510.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001510.jpg",
+      "title_ar": "فيريتي",
+      "synopsis_ar": "مقتبس من رواية كولين هوفر الأكثر مبيعًا، يتبع هذا الفيلم النفسي المغري الكاتبة الشهيرة فيريتي كروفورد (آن هاثاواي) ولوين آشلي (داكوتا جونسون)، وهي كاتبة تكافح وتنتقل إلى ضيعة كروفورد النائية للكتابة الشبح من أجل فيريتي.",
+      "genres_ar": [
+        "إثارة",
+        "دراما"
+      ],
+      "runtime_min": 108,
+      "trailer_youtube_id": "FueZihqk8jM"
     },
     "digger": {
       "title_en": "Digger",
@@ -24,11 +36,24 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Digger/HO00004277"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/digger/9999001509/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001509.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001509.jpg",
+      "title_ar": "ديغر",
+      "synopsis_ar": "يشرع أقوى رجل في العالم في مهمة خطيرة لإثبات أنه منقذ البشرية قبل أن تدمر الكارثة التي أطلقها كل شيء.",
+      "genres_ar": [
+        "كوميدي",
+        "أكشن",
+        "دراما"
+      ],
+      "runtime_min": 128,
+      "trailer_youtube_id": "yIaR-63XB54"
     },
     "charlieharper": {
       "title_en": "Charlie Harper",
@@ -37,11 +62,22 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Charlie-Harper/HO00004532"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/charlie-harper/9999001508/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001508.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001508.jpg",
+      "title_ar": "تشارلي هاربر",
+      "synopsis_ar": "يحاول هاربر وتشارلي بناء حياة معا. بينما يسعى هاربر جاهدا للحصول على مهنة كطاهي، فإن تشارلي عالق. في مواجهة التحديات في علاقتهم، يكافحون لإثبات أنهم مخصصون لبعضهم البعض، ولكن هل سيكون ذلك كافيا؟",
+      "genres_ar": [
+        "رومانسي"
+      ],
+      "runtime_min": 97,
+      "trailer_youtube_id": "h9eUgR0tHeE"
     },
     "wake": {
       "title_en": "Wake",
@@ -50,11 +86,22 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Wake/HO00004453"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/wake/9999001507/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001507.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001507.jpg",
+      "title_ar": "ويك",
+      "synopsis_ar": "في سعيها للحصول على دور البطولة في إعادة تصوير فيلم كلاسيكي، تتتبع ممثلة شابة بطلة الفيلم الأصلي التي باتت تعيش منعزلةً في غموض. سرعان ما تتحول لقاءاتهما إلى كابوس.",
+      "genres_ar": [
+        "رعب"
+      ],
+      "runtime_min": 85,
+      "trailer_youtube_id": "OqblSi-Ds3k"
     },
     "crystalplanet": {
       "title_en": "The Crystal Planet",
@@ -63,11 +110,23 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Crystal-Planet/HO00004503"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/the-crystal-planet/9999001506/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001506.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001506.jpg",
+      "title_ar": "ذا كرستال بلانت",
+      "synopsis_ar": "من جيريمي آيرونز وفانيسا ريدغريف الفائزين بجائزة الأوسكار تأتي مغامرة رسوم متحركة لا تنسى! في عالم مستعمر حديثًا، يجب أن تعتمد فتاة صغيرة وشبل يشبه الديناصور على الصداقة والشجاعة لحماية كل ما يحبونه.",
+      "genres_ar": [
+        "رسوم متحركة",
+        "عائلي"
+      ],
+      "runtime_min": 97,
+      "trailer_youtube_id": "3ujsVdQx-tU"
     },
     "legendaries": {
       "title_en": "The Legendaries",
@@ -76,11 +135,23 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Legendaries/HO00004531"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/the-legendaries/9999001505/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001505.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001505.jpg",
+      "title_ar": "ذا ليجندريز",
+      "synopsis_ar": "يجب على فريق الأبطال السابق، الذي تم استبداله لسنوات، لم شمله مرة أخرى عندما تعود قوة شريرة مهددة لقمة العالم في الظلام.",
+      "genres_ar": [
+        "رسوم متحركة",
+        "مغامرات"
+      ],
+      "runtime_min": 92,
+      "trailer_youtube_id": "cc6X5Sg4vwU"
     },
     "heartofthebeast": {
       "title_en": "Heart Of The Beast",
@@ -317,49 +388,27 @@
       "runtime_min": 100,
       "trailer_youtube_id": "uO2BKCC85rY"
     },
-    "practicalmagic2": {
-      "title_en": "Practical Magic 2",
+    "coyotevsacme": {
+      "title_en": "Coyote vs Acme",
       "languages": [
         "English"
       ],
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Practical-Magic-2/HO00004462"
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Coyote-vs-Acme/HO00004371"
         }
       ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004462_479.jpg",
-      "title_ar": "بارتكل ماجك ٢",
-      "synopsis_ar": "يعود الجزء الثاني من السحر العملي ليأخذنا مجددًا إلى عالم مليء بالأجواء الغامضة وسحر الأجداد المتوارث، حيث تضطر الشقيقتان من عائلة أوينز لمواجهة لعنة مظلمة تهدد بتفكيك إرث العائلة إلى الأبد. في تجربة سينمائية مليئة بالمرح والسحر والفوضى",
-      "genres_ar": [
-        "كوميدي",
-        "دراما",
-        "خيالي"
-      ],
-      "runtime_min": 126,
-      "trailer_youtube_id": "bdJsow2SC6s"
-    },
-    "butteryeffectazzamsaudi": {
-      "title_en": "Buttery Effect: Azzam (Saudi) - Arabic",
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Buttery-Effect:-Azzam-(Saudi)---Arabic/HO00004471"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004471_371.jpg",
-      "title_ar": "أثر الفراشة - عزام",
-      "synopsis_ar": "نتقل \"عزام\" اليافع (12 عاماً) فجأة إلى عالم الفراشات المعزول أثناء رحلة لعائلته في جنوب المملكة؛ حيث يجد نفسه قد تحول إلى فراشة ويجب عليه اكتشاف ذاته ليجد طريق العودة لعالمه وأسرته.",
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004371_597.-Acme.jpg",
+      "title_ar": "كايوتي ضد آكمي",
+      "synopsis_ar": "قصة تدور داخل مستودعات شركة آكمي، المصنعة لكل ما يستخدمه شخصيات لوني تونز من أي شيء وكل شيء.",
       "genres_ar": [
         "رسوم متحركة",
         "مغامرات",
-        "خيالي"
+        "كوميدي"
       ],
-      "runtime_min": 98,
-      "trailer_youtube_id": "i_UqEwJBEss"
+      "runtime_min": 103,
+      "trailer_youtube_id": "aSW5ky6fTJc"
     },
     "spidermanbrandnewday": {
       "title_en": "Spider Man: Brand New Day",
@@ -383,6 +432,28 @@
       "runtime_min": 141,
       "trailer_youtube_id": "FL5RBUGHOAY"
     },
+    "practicalmagic2": {
+      "title_en": "Practical Magic 2",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Practical-Magic-2/HO00004462"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004462_479.jpg",
+      "title_ar": "بارتكل ماجك ٢",
+      "synopsis_ar": "يعود الجزء الثاني من السحر العملي ليأخذنا مجددًا إلى عالم مليء بالأجواء الغامضة وسحر الأجداد المتوارث، حيث تضطر الشقيقتان من عائلة أوينز لمواجهة لعنة مظلمة تهدد بتفكيك إرث العائلة إلى الأبد. في تجربة سينمائية مليئة بالمرح والسحر والفوضى",
+      "genres_ar": [
+        "كوميدي",
+        "دراما",
+        "خيالي"
+      ],
+      "runtime_min": 126,
+      "trailer_youtube_id": "bdJsow2SC6s"
+    },
     "mutiny": {
       "title_en": "Mutiny",
       "languages": [
@@ -403,66 +474,6 @@
       ],
       "runtime_min": 95,
       "trailer_youtube_id": "wp_uZMVoevE"
-    },
-    "fall2deadpoint": {
-      "title_en": "Fall 2: Deadpoint",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Fall-2:-Deadpoint/HO00004461"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004461_130.jpg",
-      "title_ar": "فال ٢",
-      "synopsis_ar": "بعد أن حزنت على وفاة أختها شيلوه، ارتبطت جاكس هانتر بصديقة شيلوه الجريئة لوس. إنهم يتعاملون مع المشي الخطير على اللوح الخشبي لجبل كوان في تايلاند.",
-      "runtime_min": 97,
-      "trailer_youtube_id": "5ktaZGTCzS8"
-    },
-    "coyotevsacme": {
-      "title_en": "Coyote vs Acme",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Coyote-vs-Acme/HO00004371"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004371_597.-Acme.jpg",
-      "title_ar": "كايوتي ضد آكمي",
-      "synopsis_ar": "قصة تدور داخل مستودعات شركة آكمي، المصنعة لكل ما يستخدمه شخصيات لوني تونز من أي شيء وكل شيء.",
-      "genres_ar": [
-        "رسوم متحركة",
-        "مغامرات",
-        "كوميدي"
-      ],
-      "runtime_min": 103,
-      "trailer_youtube_id": "aSW5ky6fTJc"
-    },
-    "runner": {
-      "title_en": "Runner",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Runner/HO00004463"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004463_944.jpg",
-      "title_ar": "رانار",
-      "synopsis_ar": "يُلقى جندي سابق في سباق وحشي مع الزمن عندما تجعله الولادة الطبية الحرجة هدفًا لكارتل لا يرحم. مع اقتراب الخيانة من كل جانب، يجب عليه النجاة من المطاردة وتسليم حمولته قبل نفاد الوقت لطفل بريء.",
-      "genres_ar": [
-        "أكشن",
-        "إثارة"
-      ],
-      "runtime_min": 99,
-      "trailer_youtube_id": "laUdCCWp_nI"
     },
     "uprising": {
       "title_en": "The Uprising",
@@ -486,6 +497,44 @@
       "runtime_min": 128,
       "trailer_youtube_id": "FApDlMrga6s"
     },
+    "runner": {
+      "title_en": "Runner",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Runner/HO00004463"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004463_944.jpg",
+      "title_ar": "رانار",
+      "synopsis_ar": "يُلقى جندي سابق في سباق وحشي مع الزمن عندما تجعله الولادة الطبية الحرجة هدفًا لكارتل لا يرحم. مع اقتراب الخيانة من كل جانب، يجب عليه النجاة من المطاردة وتسليم حمولته قبل نفاد الوقت لطفل بريء.",
+      "genres_ar": [
+        "أكشن",
+        "إثارة"
+      ],
+      "runtime_min": 99,
+      "trailer_youtube_id": "laUdCCWp_nI"
+    },
+    "fall2deadpoint": {
+      "title_en": "Fall 2: Deadpoint",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Fall-2:-Deadpoint/HO00004461"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004461_130.jpg",
+      "title_ar": "فال ٢",
+      "synopsis_ar": "بعد أن حزنت على وفاة أختها شيلوه، ارتبطت جاكس هانتر بصديقة شيلوه الجريئة لوس. إنهم يتعاملون مع المشي الخطير على اللوح الخشبي لجبل كوان في تايلاند.",
+      "runtime_min": 97,
+      "trailer_youtube_id": "5ktaZGTCzS8"
+    },
     "tadandthemagiclamp": {
       "title_en": "Tad and the Magic Lamp",
       "languages": [
@@ -506,28 +555,6 @@
       ],
       "runtime_min": 94,
       "trailer_youtube_id": "Qq-ucWI8HAc"
-    },
-    "bethlehemkudumbaunit": {
-      "title_en": "Bethlehem Kudumba Unit - Malayalam",
-      "languages": [
-        "Malayalam"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Bethlehem-Kudumba-Unit---Malayalam/HO00004474"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004474_982.jpg",
-      "title_ar": "بيثاهيم كودومبا ينات",
-      "synopsis_ar": "يتبع زوجين مع اختلاف كبير في العمر أثناء تنقلهما في علاقتهما الرومانسية.",
-      "genres_ar": [
-        "رومانسي",
-        "كوميدي",
-        "دراما"
-      ],
-      "runtime_min": 155,
-      "trailer_youtube_id": "GpTvTWlZ2U4"
     },
     "pradhamadrishtiyakuttakkar": {
       "title_en": "Pradhama Drishtiya Kuttakkar - Malayalam",
@@ -550,6 +577,50 @@
       ],
       "runtime_min": 158,
       "trailer_youtube_id": "JIHongSGUkI"
+    },
+    "butteryeffectazzamsaudi": {
+      "title_en": "Buttery Effect: Azzam (Saudi) - Arabic",
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Buttery-Effect:-Azzam-(Saudi)---Arabic/HO00004471"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004471_371.jpg",
+      "title_ar": "أثر الفراشة - عزام",
+      "synopsis_ar": "نتقل \"عزام\" اليافع (12 عاماً) فجأة إلى عالم الفراشات المعزول أثناء رحلة لعائلته في جنوب المملكة؛ حيث يجد نفسه قد تحول إلى فراشة ويجب عليه اكتشاف ذاته ليجد طريق العودة لعالمه وأسرته.",
+      "genres_ar": [
+        "رسوم متحركة",
+        "مغامرات",
+        "خيالي"
+      ],
+      "runtime_min": 98,
+      "trailer_youtube_id": "i_UqEwJBEss"
+    },
+    "bethlehemkudumbaunit": {
+      "title_en": "Bethlehem Kudumba Unit - Malayalam",
+      "languages": [
+        "Malayalam"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Bethlehem-Kudumba-Unit---Malayalam/HO00004474"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004474_982.jpg",
+      "title_ar": "بيثاهيم كودومبا ينات",
+      "synopsis_ar": "يتبع زوجين مع اختلاف كبير في العمر أثناء تنقلهما في علاقتهما الرومانسية.",
+      "genres_ar": [
+        "رومانسي",
+        "كوميدي",
+        "دراما"
+      ],
+      "runtime_min": 155,
+      "trailer_youtube_id": "GpTvTWlZ2U4"
     },
     "paradise": {
       "title_en": "The Paradise - Telugu",
