@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-30T10:19:43.806144+00:00",
+  "last_updated": "2026-10-01T10:46:01.772210+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -15,63 +15,6 @@
     }
   },
   "movies": [
-    {
-      "id": "wd-Q141124396",
-      "title_ar": "Crawlers",
-      "title_en": "Crawlers",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001499.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Crawlers%20official%20trailer",
-      "ratings": {},
-      "imdb_id": "tt42439612",
-      "release_date": "2026-10-29",
-      "matched": true,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Crawlers/HO00004499"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/crawlers/9999001499/NowShowing"
-        }
-      ]
-    },
-    {
-      "id": "wd-Q140770794",
-      "title_ar": "Tad And The Magic Lamp",
-      "title_en": "Tad And The Magic Lamp",
-      "synopsis_ar": "",
-      "genres_ar": [
-        "فلم عائلي",
-        "فلم مغامرة"
-      ],
-      "runtime_min": 94,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001494.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Tad%20And%20The%20Magic%20Lamp%20official%20trailer",
-      "ratings": {
-        "imdb": "6.5"
-      },
-      "imdb_id": "tt36164852",
-      "release_date": "2026-08-26",
-      "matched": true,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Tad-and-the-Magic-Lamp/HO00004432"
-        }
-      ]
-    },
     {
       "id": "wd-Q113244935",
       "title_ar": "الرجل العنكبوت: يوم جديد",
@@ -165,6 +108,30 @@
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/charlie-harper/9999001508/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "local-matloubaaeleyan",
+      "title_ar": "Matloub Aaeleyan",
+      "title_en": "Matloub Aaeleyan",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001511.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Matloub%20Aaeleyan%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/matloub-aaeleyan-(egyptian)-arabic/9999001511/NowShowing"
         }
       ]
     },
@@ -316,119 +283,6 @@
       ]
     },
     {
-      "id": "local-bloodytennis",
-      "title_ar": "Bloody Tennis",
-      "title_en": "Bloody Tennis",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001502.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Bloody%20Tennis%20official%20trailer",
-      "ratings": {
-        "imdb": "5.7"
-      },
-      "imdb_id": "tt34735922",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/bloody-tennis/9999001502/NowShowing"
-        }
-      ]
-    },
-    {
-      "id": "local-shishdou",
-      "title_ar": "Shish Dou",
-      "title_en": "Shish Dou",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001501.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Shish%20Dou%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Shish-Dou-(Egyptian)---Arabic/HO00004520"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/shish-dou-(egyptian)-arabic/9999001501/NowShowing"
-        }
-      ]
-    },
-    {
-      "id": "local-sacrifice",
-      "title_ar": "Sacrifice",
-      "title_en": "Sacrifice",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001500.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Sacrifice%20official%20trailer",
-      "ratings": {
-        "imdb": "5.3",
-        "rotten_tomatoes": "29%"
-      },
-      "imdb_id": "tt2078718",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Sacrifice/HO00004497"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/sacrifice/9999001500/NowShowing"
-        }
-      ]
-    },
-    {
-      "id": "local-smurfstimelessadventurevolume2",
-      "title_ar": "The Smurfs Timeless Adventure Volume 2",
-      "title_en": "The Smurfs Timeless Adventure Volume 2",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001498.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Smurfs%20Timeless%20Adventure%20Volume%202%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Smurfs-Timeless-Adventure-Volume-2/HO00004496"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/the-smurfs-timeless-adventure-volume-2/9999001498/NowShowing"
-        }
-      ]
-    },
-    {
       "id": "local-residentevil",
       "title_ar": "Resident Evil",
       "title_en": "Resident Evil",
@@ -460,63 +314,54 @@
       ]
     },
     {
-      "id": "local-weight",
-      "title_ar": "The Weight",
-      "title_en": "The Weight",
+      "id": "local-shishdou",
+      "title_ar": "Shish Dou",
+      "title_en": "Shish Dou",
       "synopsis_ar": "",
       "genres_ar": [],
       "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001496.jpg",
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001501.jpg",
       "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Weight%20official%20trailer",
-      "ratings": {
-        "imdb": "6.2"
-      },
-      "imdb_id": "tt2384688",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Shish%20Dou%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
       "release_date": null,
       "matched": false,
       "languages": [
-        "English"
+        "Arabic"
       ],
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Weight/HO00004465"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/the-weight/9999001496/NowShowing"
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Shish-Dou-(Egyptian)---Arabic/HO00004520"
         }
       ]
     },
     {
-      "id": "local-pressure",
-      "title_ar": "Pressure",
-      "title_en": "Pressure",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001495.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Pressure%20official%20trailer",
-      "ratings": {
-        "imdb": "7.3",
-        "rotten_tomatoes": "87%"
-      },
-      "imdb_id": "tt32547691",
+      "id": "local-drishyamtheconclusion",
+      "title_ar": "درشيام ذا كونسليوشن (هندي)",
+      "title_en": "Drishyam:The Conclusion - Hindi",
+      "synopsis_ar": "يتبع عائلة سالغاونكار أثناء محاولتهم التستر على جريمة قتل.",
+      "genres_ar": [
+        "جريمة",
+        "إثارة",
+        "دراما"
+      ],
+      "runtime_min": 148,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004533_248.jpg",
+      "trailer_youtube_id": "zjPXHHt4nq0",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Drishyam%3AThe%20Conclusion%20-%20Hindi%20official%20trailer",
+      "ratings": {},
+      "imdb_id": "tt27050858",
       "release_date": null,
       "matched": false,
       "languages": [
-        "English"
+        "Hindi"
       ],
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Pressure/HO00004464"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/pressure/9999001495/NowShowing"
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Drishyam:The-Conclusion---Hindi/HO00004533"
         }
       ]
     },
@@ -544,6 +389,30 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Red-Flag-(Egyptian)---Arabic/HO00004493"
+        }
+      ]
+    },
+    {
+      "id": "local-smurfstimelessadventurevolume2",
+      "title_ar": "The Smurfs Timeless Adventure Volume 2",
+      "title_en": "The Smurfs Timeless Adventure Volume 2",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001498.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Smurfs%20Timeless%20Adventure%20Volume%202%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Smurfs-Timeless-Adventure-Volume-2/HO00004496"
         }
       ]
     },
@@ -599,49 +468,20 @@
       ]
     },
     {
-      "id": "local-mutiny",
-      "title_ar": "ميوتني",
-      "title_en": "Mutiny",
-      "synopsis_ar": "بعد مقتل رجل أعمال ملياردير، يُلفّق الاتهام لحارسه الخاص، الذي يهرب لكشف مؤامرة دولية خطيرة قبل أن يتم القضاء عليه.",
-      "genres_ar": [
-        "أكشن",
-        "إثارة"
-      ],
-      "runtime_min": 95,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001478.jpg",
-      "trailer_youtube_id": "wp_uZMVoevE",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Mutiny%20official%20trailer",
-      "ratings": {
-        "imdb": "5.7",
-        "rotten_tomatoes": "50%"
-      },
-      "imdb_id": "tt32338669",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Mutiny/HO00004352"
-        }
-      ]
-    },
-    {
-      "id": "local-uprising",
-      "title_ar": "The Uprising",
-      "title_en": "The Uprising",
+      "id": "local-pressure",
+      "title_ar": "Pressure",
+      "title_en": "Pressure",
       "synopsis_ar": "",
       "genres_ar": [],
       "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001492.jpg",
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001495.jpg",
       "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Uprising%20official%20trailer",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Pressure%20official%20trailer",
       "ratings": {
-        "imdb": "7.1"
+        "imdb": "7.3",
+        "rotten_tomatoes": "87%"
       },
-      "imdb_id": "tt3230012",
+      "imdb_id": "tt32547691",
       "release_date": null,
       "matched": false,
       "languages": [
@@ -650,60 +490,7 @@
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Uprising/HO00004475"
-        }
-      ]
-    },
-    {
-      "id": "local-runner",
-      "title_ar": "Runner",
-      "title_en": "Runner",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001490.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Runner%20official%20trailer",
-      "ratings": {
-        "imdb": "6.5"
-      },
-      "imdb_id": "tt9348578",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Runner/HO00004463"
-        }
-      ]
-    },
-    {
-      "id": "local-fall2deadpoint",
-      "title_ar": "Fall 2: Deadpoint",
-      "title_en": "Fall 2: Deadpoint",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001488.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Fall%202%3A%20Deadpoint%20official%20trailer",
-      "ratings": {
-        "imdb": "5.7",
-        "rotten_tomatoes": "55%"
-      },
-      "imdb_id": "tt31192372",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Fall-2:-Deadpoint/HO00004461"
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Pressure/HO00004464"
         }
       ]
     },
@@ -734,34 +521,6 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Pradhama-Drishtiya-Kuttakkar---Malayalam/HO00004513"
-        }
-      ]
-    },
-    {
-      "id": "local-butteryeffectazzamsaudi",
-      "title_ar": "أثر الفراشة - عزام",
-      "title_en": "Buttery Effect: Azzam (Saudi) - Arabic",
-      "synopsis_ar": "نتقل \"عزام\" اليافع (12 عاماً) فجأة إلى عالم الفراشات المعزول أثناء رحلة لعائلته في جنوب المملكة؛ حيث يجد نفسه قد تحول إلى فراشة ويجب عليه اكتشاف ذاته ليجد طريق العودة لعالمه وأسرته.",
-      "genres_ar": [
-        "رسوم متحركة",
-        "مغامرات",
-        "خيالي"
-      ],
-      "runtime_min": 98,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004471_371.jpg",
-      "trailer_youtube_id": "i_UqEwJBEss",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Buttery%20Effect%3A%20Azzam%20%28Saudi%29%20-%20Arabic%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Buttery-Effect:-Azzam-(Saudi)---Arabic/HO00004471"
         }
       ]
     },
@@ -819,6 +578,35 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Paradise---Telugu/HO00004501"
+        }
+      ]
+    },
+    {
+      "id": "local-sigma",
+      "title_ar": "سيقما",
+      "title_en": "Sigma - Tamil",
+      "synopsis_ar": "يلقي صائد الكنوز الجريء الحذر في مهب الريح، ويخدع الفخاخ القاتلة والحلفاء الغادرين بالعصبية المطلقة والمكر في هذه المغامرة النابضة بالنبض",
+      "genres_ar": [
+        "أكشن",
+        "إثارة"
+      ],
+      "runtime_min": 145,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004540_690.jpg",
+      "trailer_youtube_id": "QadoHLWeaqY",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Sigma%20-%20Tamil%20official%20trailer",
+      "ratings": {
+        "imdb": "6.4"
+      },
+      "imdb_id": "tt0459543",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Tamil"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Sigma---Tamil/HO00004540"
         }
       ]
     }

@@ -1,9 +1,22 @@
 {
-  "scraped_at": "2026-09-30T10:19:34.760499+00:00",
+  "scraped_at": "2026-10-01T10:45:52.142713+00:00",
   "failures": [
     "vox"
   ],
   "movies": {
+    "matloubaaeleyan": {
+      "title_en": "Matloub Aaeleyan",
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/matloub-aaeleyan-(egyptian)-arabic/9999001511/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001511.jpg"
+    },
     "verity": {
       "title_en": "Verity",
       "languages": [
@@ -179,119 +192,6 @@
       "runtime_min": 101,
       "trailer_youtube_id": "6pVBiPMJwlc"
     },
-    "bloodytennis": {
-      "title_en": "Bloody Tennis",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/bloody-tennis/9999001502/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001502.jpg"
-    },
-    "shishdou": {
-      "title_en": "Shish Dou (Egyptian) - Arabic",
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Shish-Dou-(Egyptian)---Arabic/HO00004520"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/shish-dou-(egyptian)-arabic/9999001501/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001501.jpg",
-      "title_ar": "شيش دو",
-      "synopsis_ar": "شيش دو هي دراما كوميدية تتكشف على مدار ليلة واحدة، وتكشف هشاشة الطبقات الاجتماعية المختلفة. تعثر صديقان في منتصف العمر، عادل ونبيل، بعد سنوات من المشقة، على طارق، وهو شاب ثري فاقد الوعي بعد شجار.",
-      "genres_ar": [
-        "كوميدي",
-        "دراما"
-      ],
-      "runtime_min": 92
-    },
-    "sacrifice": {
-      "title_en": "Sacrifice",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Sacrifice/HO00004497"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/sacrifice/9999001500/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001500.jpg",
-      "title_ar": "ساكرفايس",
-      "synopsis_ar": "يتم أخذ نجم سينمائي يكافح من أجل العودة كرهينة في حدث خيري من قبل مجموعة متطرفة تعتقد أنه يجب التضحية به في بركان ينقذ البشرية من نهاية العالم.",
-      "genres_ar": [
-        "أكشن",
-        "كوميدي",
-        "مغامرات"
-      ],
-      "runtime_min": 98,
-      "trailer_youtube_id": "0px5IQREkGM"
-    },
-    "crawlers": {
-      "title_en": "Crawlers",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Crawlers/HO00004499"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/crawlers/9999001499/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001499.jpg",
-      "title_ar": "كرواليرز",
-      "synopsis_ar": "أدى غزو كارثي للعناكب القاتلة إلى إغلاق مبنى سكني. تكافح مديرة المبنى سيرينا (ماتيلدا لوتز) وسكانها للبقاء على قيد الحياة بينما تتكاثر المخلوقات في الثانية. قد تكون سيرينا هي الوحيدة التي يمكنها إبقائهم على قيد الحياة - إذا تمكنت من مواجهة أعمق مخاوفها.",
-      "genres_ar": [
-        "إثارة",
-        "رعب"
-      ],
-      "runtime_min": 78,
-      "trailer_youtube_id": "0gMemorXtVA"
-    },
-    "smurfstimelessadventurevolume2": {
-      "title_en": "The Smurfs Timeless Adventure Volume 2",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Smurfs-Timeless-Adventure-Volume-2/HO00004496"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/the-smurfs-timeless-adventure-volume-2/9999001498/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001498.jpg",
-      "title_ar": "ذا سمارفز تايمزليس ادفنجر فوليوم 2",
-      "synopsis_ar": "انضم إلى السنافر في مجموعة من المغامرات المليئة بالمرح المليئة بالاختراعات البرية والمسابقات المثيرة والعمل الجماعي والمهام الفوضوية. من المسابقات الرياضية إلى اللقاءات المضحكة مع جارغامل، يكتشف السنافر أن الصداقة والشجاعة تنقذان اليوم دائمًا.",
-      "genres_ar": [
-        "مغامرات",
-        "كوميدي"
-      ],
-      "runtime_min": 78,
-      "trailer_youtube_id": "MHApR8KopaE"
-    },
     "residentevil": {
       "title_en": "Resident Evil",
       "languages": [
@@ -317,56 +217,47 @@
       "runtime_min": 94,
       "trailer_youtube_id": "Qmr46ekFKt8"
     },
-    "weight": {
-      "title_en": "The Weight",
+    "shishdou": {
+      "title_en": "Shish Dou (Egyptian) - Arabic",
       "languages": [
-        "English"
+        "Arabic"
       ],
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Weight/HO00004465"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/the-weight/9999001496/NowShowing"
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Shish-Dou-(Egyptian)---Arabic/HO00004520"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001496.jpg",
-      "title_ar": "ذا وايت",
-      "synopsis_ar": "في محاولة يائسة لإنقاذ ما تبقى من عائلته، خلال ذروة الكساد الكبير، تم تعيين محارب قديم يحمل ندوبًا للمساعدة في تهريب ثروة من الذهب عبر 100 ميل من البرية التي لا يمكن اختراقها.",
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004520_855.jpg",
+      "title_ar": "شيش دو",
+      "synopsis_ar": "شيش دو هي دراما كوميدية تتكشف على مدار ليلة واحدة، وتكشف هشاشة الطبقات الاجتماعية المختلفة. تعثر صديقان في منتصف العمر، عادل ونبيل، بعد سنوات من المشقة، على طارق، وهو شاب ثري فاقد الوعي بعد شجار.",
       "genres_ar": [
-        "أكشن",
-        "مغامرات"
+        "كوميدي",
+        "دراما"
       ],
-      "runtime_min": 113,
-      "trailer_youtube_id": "NMxF7LTosQA"
+      "runtime_min": 92
     },
-    "pressure": {
-      "title_en": "Pressure",
+    "drishyamtheconclusion": {
+      "title_en": "Drishyam:The Conclusion - Hindi",
       "languages": [
-        "English"
+        "Hindi"
       ],
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Pressure/HO00004464"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/pressure/9999001495/NowShowing"
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Drishyam:The-Conclusion---Hindi/HO00004533"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001495.jpg",
-      "title_ar": "برشر",
-      "synopsis_ar": "في التوتر قبل 72 ساعة من يوم النصر، ومصير العالم الحر معلق في الميزان، يواجه الجنرال دوايت أيزنهاور والكابتن جيمس ستاغ خيارًا مستحيلًا - إطلاق أكبر وأخطر غزو بحري في التاريخ أو المخاطرة بخسارة الحرب تمامًا.",
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004533_248.jpg",
+      "title_ar": "درشيام ذا كونسليوشن (هندي)",
+      "synopsis_ar": "يتبع عائلة سالغاونكار أثناء محاولتهم التستر على جريمة قتل.",
       "genres_ar": [
-        "دراما",
-        "تاريخي",
-        "إثارة"
+        "جريمة",
+        "إثارة",
+        "دراما"
       ],
-      "runtime_min": 100,
-      "trailer_youtube_id": "jlRWt-UgWQo"
+      "runtime_min": 148,
+      "trailer_youtube_id": "zjPXHHt4nq0"
     },
     "redflag": {
       "title_en": "Red Flag (Egyptian) - Arabic",
@@ -387,6 +278,27 @@
       ],
       "runtime_min": 100,
       "trailer_youtube_id": "uO2BKCC85rY"
+    },
+    "smurfstimelessadventurevolume2": {
+      "title_en": "The Smurfs Timeless Adventure Volume 2",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Smurfs-Timeless-Adventure-Volume-2/HO00004496"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004496_882.jpg",
+      "title_ar": "ذا سمارفز تايمزليس ادفنجر فوليوم 2",
+      "synopsis_ar": "انضم إلى السنافر في مجموعة من المغامرات المليئة بالمرح المليئة بالاختراعات البرية والمسابقات المثيرة والعمل الجماعي والمهام الفوضوية. من المسابقات الرياضية إلى اللقاءات المضحكة مع جارغامل، يكتشف السنافر أن الصداقة والشجاعة تنقذان اليوم دائمًا.",
+      "genres_ar": [
+        "مغامرات",
+        "كوميدي"
+      ],
+      "runtime_min": 78,
+      "trailer_youtube_id": "MHApR8KopaE"
     },
     "coyotevsacme": {
       "title_en": "Coyote vs Acme",
@@ -454,107 +366,27 @@
       "runtime_min": 126,
       "trailer_youtube_id": "bdJsow2SC6s"
     },
-    "mutiny": {
-      "title_en": "Mutiny",
+    "pressure": {
+      "title_en": "Pressure",
       "languages": [
         "English"
       ],
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Mutiny/HO00004352"
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Pressure/HO00004464"
         }
       ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004352_452.jpg",
-      "title_ar": "ميوتني",
-      "synopsis_ar": "بعد مقتل رجل أعمال ملياردير، يُلفّق الاتهام لحارسه الخاص، الذي يهرب لكشف مؤامرة دولية خطيرة قبل أن يتم القضاء عليه.",
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004464_279.jpg",
+      "title_ar": "برشر",
+      "synopsis_ar": "في التوتر قبل 72 ساعة من يوم النصر، ومصير العالم الحر معلق في الميزان، يواجه الجنرال دوايت أيزنهاور والكابتن جيمس ستاغ خيارًا مستحيلًا - إطلاق أكبر وأخطر غزو بحري في التاريخ أو المخاطرة بخسارة الحرب تمامًا.",
       "genres_ar": [
-        "أكشن",
-        "إثارة"
-      ],
-      "runtime_min": 95,
-      "trailer_youtube_id": "wp_uZMVoevE"
-    },
-    "uprising": {
-      "title_en": "The Uprising",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Uprising/HO00004475"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004475_235.jpg",
-      "title_ar": "ذا ابرايزنق",
-      "synopsis_ar": "يلعب أندرو غارفيلد دور القائد الأسطوري للتمرد الشرس ضد طغيان الملك ريتشارد الثاني. مع احتراق الحرب في جميع أنحاء إنجلترا، يشكل جيشًا من الشعب لمواجهة قوة الملك في الكفاح من أجل العدالة والبقاء على قيد الحياة.",
-      "genres_ar": [
-        "أكشن",
         "دراما",
-        "تاريخي"
-      ],
-      "runtime_min": 128,
-      "trailer_youtube_id": "FApDlMrga6s"
-    },
-    "runner": {
-      "title_en": "Runner",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Runner/HO00004463"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004463_944.jpg",
-      "title_ar": "رانار",
-      "synopsis_ar": "يُلقى جندي سابق في سباق وحشي مع الزمن عندما تجعله الولادة الطبية الحرجة هدفًا لكارتل لا يرحم. مع اقتراب الخيانة من كل جانب، يجب عليه النجاة من المطاردة وتسليم حمولته قبل نفاد الوقت لطفل بريء.",
-      "genres_ar": [
-        "أكشن",
+        "تاريخي",
         "إثارة"
       ],
-      "runtime_min": 99,
-      "trailer_youtube_id": "laUdCCWp_nI"
-    },
-    "fall2deadpoint": {
-      "title_en": "Fall 2: Deadpoint",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Fall-2:-Deadpoint/HO00004461"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004461_130.jpg",
-      "title_ar": "فال ٢",
-      "synopsis_ar": "بعد أن حزنت على وفاة أختها شيلوه، ارتبطت جاكس هانتر بصديقة شيلوه الجريئة لوس. إنهم يتعاملون مع المشي الخطير على اللوح الخشبي لجبل كوان في تايلاند.",
-      "runtime_min": 97,
-      "trailer_youtube_id": "5ktaZGTCzS8"
-    },
-    "tadandthemagiclamp": {
-      "title_en": "Tad and the Magic Lamp",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Tad-and-the-Magic-Lamp/HO00004432"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004432_713.jpg",
-      "title_ar": "تاد اند ذا ماجك لامب",
-      "synopsis_ar": "لقد حولته أولي، ابنة تاد الشجاعة البالغة من العمر عامين، إلى أب مفرط في الحماية وتشعر أمي بالتهميش بسبب الاهتمام الذي تحظى به. عندما وجدوا المصباح السحري في قصر باكنغهام، طلبت منه أمي العودة في الوقت المناسب إلى بايتيتي، بيرو، في عام 1502.",
-      "genres_ar": [
-        "رسوم متحركة",
-        "مغامرات"
-      ],
-      "runtime_min": 94,
-      "trailer_youtube_id": "Qq-ucWI8HAc"
+      "runtime_min": 100,
+      "trailer_youtube_id": "jlRWt-UgWQo"
     },
     "pradhamadrishtiyakuttakkar": {
       "title_en": "Pradhama Drishtiya Kuttakkar - Malayalam",
@@ -577,28 +409,6 @@
       ],
       "runtime_min": 158,
       "trailer_youtube_id": "JIHongSGUkI"
-    },
-    "butteryeffectazzamsaudi": {
-      "title_en": "Buttery Effect: Azzam (Saudi) - Arabic",
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Buttery-Effect:-Azzam-(Saudi)---Arabic/HO00004471"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004471_371.jpg",
-      "title_ar": "أثر الفراشة - عزام",
-      "synopsis_ar": "نتقل \"عزام\" اليافع (12 عاماً) فجأة إلى عالم الفراشات المعزول أثناء رحلة لعائلته في جنوب المملكة؛ حيث يجد نفسه قد تحول إلى فراشة ويجب عليه اكتشاف ذاته ليجد طريق العودة لعالمه وأسرته.",
-      "genres_ar": [
-        "رسوم متحركة",
-        "مغامرات",
-        "خيالي"
-      ],
-      "runtime_min": 98,
-      "trailer_youtube_id": "i_UqEwJBEss"
     },
     "bethlehemkudumbaunit": {
       "title_en": "Bethlehem Kudumba Unit - Malayalam",
@@ -642,6 +452,27 @@
       ],
       "runtime_min": 172,
       "trailer_youtube_id": "i4pfwIR1z40"
+    },
+    "sigma": {
+      "title_en": "Sigma - Tamil",
+      "languages": [
+        "Tamil"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Sigma---Tamil/HO00004540"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004540_690.jpg",
+      "title_ar": "سيقما",
+      "synopsis_ar": "يلقي صائد الكنوز الجريء الحذر في مهب الريح، ويخدع الفخاخ القاتلة والحلفاء الغادرين بالعصبية المطلقة والمكر في هذه المغامرة النابضة بالنبض",
+      "genres_ar": [
+        "أكشن",
+        "إثارة"
+      ],
+      "runtime_min": 145,
+      "trailer_youtube_id": "QadoHLWeaqY"
     }
   }
 }
