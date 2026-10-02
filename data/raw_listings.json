@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-01T10:45:52.142713+00:00",
+  "scraped_at": "2026-10-02T10:20:53.938319+00:00",
   "failures": [
     "vox"
   ],
@@ -388,28 +388,6 @@
       "runtime_min": 100,
       "trailer_youtube_id": "jlRWt-UgWQo"
     },
-    "pradhamadrishtiyakuttakkar": {
-      "title_en": "Pradhama Drishtiya Kuttakkar - Malayalam",
-      "languages": [
-        "Malayalam"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Pradhama-Drishtiya-Kuttakkar---Malayalam/HO00004513"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004513_981.jpg",
-      "title_ar": "برداما درستايا كوتكار ـ مالايالم",
-      "synopsis_ar": "يتبع امرأة شرطية تنضم إلى قوة الشرطة من خلال التعيين بعد وفاة زوجها.",
-      "genres_ar": [
-        "جريمة",
-        "إثارة",
-        "دراما"
-      ],
-      "runtime_min": 158,
-      "trailer_youtube_id": "JIHongSGUkI"
-    },
     "bethlehemkudumbaunit": {
       "title_en": "Bethlehem Kudumba Unit - Malayalam",
       "languages": [
@@ -431,27 +409,6 @@
       ],
       "runtime_min": 155,
       "trailer_youtube_id": "GpTvTWlZ2U4"
-    },
-    "paradise": {
-      "title_en": "The Paradise - Telugu",
-      "languages": [
-        "Telugu"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Paradise---Telugu/HO00004501"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004501_069.jpg",
-      "title_ar": "ذا برادياس - تليغو",
-      "synopsis_ar": "في ثمانينيات القرن الماضي، كانت قبيلة مهمشة تحارب التمييز وتناضل من أجل المواطنة تحت إشراف زعيم غير متوقع، متحدية القمع المنهجي.",
-      "genres_ar": [
-        "أكشن",
-        "مغامرات"
-      ],
-      "runtime_min": 172,
-      "trailer_youtube_id": "i4pfwIR1z40"
     },
     "sigma": {
       "title_en": "Sigma - Tamil",

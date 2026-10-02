@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T10:46:01.772210+00:00",
+  "last_updated": "2026-10-02T10:21:00.764614+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -495,36 +495,6 @@
       ]
     },
     {
-      "id": "wd-Q141247883",
-      "title_ar": "برداما درستايا كوتكار ـ مالايالم",
-      "title_en": "Pradhama Drishtiya Kuttakkar - Malayalam",
-      "synopsis_ar": "بعد أن خسر ابنه أمام إمبراطورية مخدرات قاتلة، ينضم DYSP Balagopal إلى أربعة مجندين شباب لا يخافون لشن حرب ضد باشا الذي لا يرحم وعصابته.",
-      "genres_ar": [
-        "جريمة",
-        "إثارة",
-        "دراما"
-      ],
-      "runtime_min": 158,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004513_981.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Pradhama%20Drishtiya%20Kuttakkar%20-%20Malayalam%20official%20trailer",
-      "ratings": {
-        "imdb": "7.8"
-      },
-      "imdb_id": "tt38265603",
-      "release_date": null,
-      "matched": true,
-      "languages": [
-        "Malayalam"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Pradhama-Drishtiya-Kuttakkar---Malayalam/HO00004513"
-        }
-      ]
-    },
-    {
       "id": "wd-Q138716562",
       "title_ar": "بيثاهيم كودومبا ينات",
       "title_en": "Bethlehem Kudumba Unit - Malayalam",
@@ -549,35 +519,6 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Bethlehem-Kudumba-Unit---Malayalam/HO00004474"
-        }
-      ]
-    },
-    {
-      "id": "local-paradise",
-      "title_ar": "ذا برادياس - تليغو",
-      "title_en": "The Paradise - Telugu",
-      "synopsis_ar": "في ثمانينيات القرن الماضي، كانت قبيلة مهمشة تحارب التمييز وتناضل من أجل المواطنة تحت إشراف زعيم غير متوقع، متحدية القمع المنهجي.",
-      "genres_ar": [
-        "أكشن",
-        "مغامرات"
-      ],
-      "runtime_min": 172,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004501_069.jpg",
-      "trailer_youtube_id": "i4pfwIR1z40",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Paradise%20-%20Telugu%20official%20trailer",
-      "ratings": {
-        "imdb": "7.7"
-      },
-      "imdb_id": "tt2391224",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Telugu"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Paradise---Telugu/HO00004501"
         }
       ]
     },
