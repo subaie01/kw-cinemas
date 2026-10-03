@@ -1,22 +1,9 @@
 {
-  "scraped_at": "2026-10-02T10:20:53.938319+00:00",
+  "scraped_at": "2026-10-03T09:42:43.965126+00:00",
   "failures": [
     "vox"
   ],
   "movies": {
-    "matloubaaeleyan": {
-      "title_en": "Matloub Aaeleyan",
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/matloub-aaeleyan-(egyptian)-arabic/9999001511/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001511.jpg"
-    },
     "verity": {
       "title_en": "Verity",
       "languages": [

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-02T10:21:00.764614+00:00",
+  "last_updated": "2026-10-03T09:42:50.359345+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -91,7 +91,7 @@
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=Charlie%20Harper%20official%20trailer",
       "ratings": {
-        "imdb": "6.8",
+        "imdb": "6.9",
         "rotten_tomatoes": "59%"
       },
       "imdb_id": "tt27739255",
@@ -108,30 +108,6 @@
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/charlie-harper/9999001508/NowShowing"
-        }
-      ]
-    },
-    {
-      "id": "local-matloubaaeleyan",
-      "title_ar": "Matloub Aaeleyan",
-      "title_en": "Matloub Aaeleyan",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001511.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Matloub%20Aaeleyan%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/matloub-aaeleyan-(egyptian)-arabic/9999001511/NowShowing"
         }
       ]
     },
