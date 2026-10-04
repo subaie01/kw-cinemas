@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-03T09:42:50.359345+00:00",
+  "last_updated": "2026-10-04T10:27:01.586996+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -91,7 +91,7 @@
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=Charlie%20Harper%20official%20trailer",
       "ratings": {
-        "imdb": "6.9",
+        "imdb": "6.8",
         "rotten_tomatoes": "59%"
       },
       "imdb_id": "tt27739255",
