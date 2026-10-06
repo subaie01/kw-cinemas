@@ -1,9 +1,87 @@
 {
-  "scraped_at": "2026-10-05T11:13:56.789311+00:00",
+  "scraped_at": "2026-10-06T11:03:41.466740+00:00",
   "failures": [
     "vox"
   ],
   "movies": {
+    "matloubaaeleyan": {
+      "title_en": "Matloub Aaeleyan",
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/matloub-aaeleyan-(egyptian)-arabic/9999001517/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001517.jpg"
+    },
+    "othermommy": {
+      "title_en": "Other Mommy",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/other-mommy/9999001516/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001516.jpg"
+    },
+    "socialreckoning": {
+      "title_en": "The Social Reckoning",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/the-social-reckoning/9999001515/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001515.jpg"
+    },
+    "bewareboluna": {
+      "title_en": "Beware Boluna",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/beware-boluna/9999001514/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001514.jpg"
+    },
+    "florist": {
+      "title_en": "The Florist",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/the-florist/9999001513/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001513.jpg"
+    },
+    "beast": {
+      "title_en": "The Beast",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/the-beast/9999001512/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001512.jpg"
+    },
     "verity": {
       "title_en": "Verity",
       "languages": [
