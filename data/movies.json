@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06T11:03:58.342569+00:00",
+  "last_updated": "2026-10-07T10:53:30.316404+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -16,20 +16,22 @@
   },
   "movies": [
     {
-      "id": "wd-Q136387857",
-      "title_ar": "الحساب الاجتماعي",
-      "title_en": "The Social Reckoning",
-      "synopsis_ar": "الحساب الاجتماعي هو فلم دراما سيرة ذاتية أمريكي قادم من كتابة وإخراج آرون سوركين. يُعدّ الفلم عملًا مكمّلًا لفلم الشبكة الاجتماعية (2010)، ويستند إلى الأحداث المحيطة بتسريب ملفات فيسبوك عام 2021 الذي كشفت عنه فرانسيس هوغن. وهو التسريب الذي استُلهمت منه أيضًا سلسلة مقالات وبودكاست من ثماني حلقات بعنوان The Facebook Files عام 2021، الصادران عن صحيفة وول ستريت جورنال. يقوم ببطولة الفلم جيرمي سترونغ في دور مارك زوكربيرغ، إلى جانب جيريمي ألين وايت، ومايكي ماديسون، وبيل بر، ويونومي موساكو، وبيلي ماجنوسن، وبيتي غيلبين، وغبينغا أكيناجبي، وآنا لامب، وسييرا كابري، وبورشيا دووبلدي، وتهمينا صني.",
+      "id": "wd-Q141052811",
+      "title_ar": "بيوير بوينا",
+      "title_en": "Beware Boiúna",
+      "synopsis_ar": "يشرع فريق من الأطباء في مهمة محلية في غابة الأمازون المطيرة، ولكن سرعان ما يتضح أنه ليس الجميع - أو كل شيء - سعداء برؤيتهم. يجذب وصولهم انتباه المفترس القديم العملاق، المهيمن على الأرض والمياه، الذي يخرج لاستعادة الغابة.",
       "genres_ar": [
-        "فلم دراما",
-        "فلم سيرة ذاتية"
+        "إثارة",
+        "رعب"
       ],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001515.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Social%20Reckoning%20official%20trailer",
-      "ratings": {},
-      "imdb_id": "tt37510326",
+      "runtime_min": 99,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004523_221.jpg",
+      "trailer_youtube_id": "PRkA_Igeqr4",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Beware%20Boi%C3%BAna%20official%20trailer",
+      "ratings": {
+        "imdb": "6.2"
+      },
+      "imdb_id": "tt10377864",
       "release_date": "2026-10-08",
       "matched": true,
       "languages": [
@@ -37,8 +39,8 @@
       ],
       "cinemas": [
         {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/the-social-reckoning/9999001515/NowShowing"
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Beware-Boiúna/HO00004523"
         }
       ]
     },
@@ -55,7 +57,7 @@
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Florist%20official%20trailer",
       "ratings": {
-        "imdb": "6.3"
+        "imdb": "6.4"
       },
       "imdb_id": "tt33214716",
       "release_date": "2026-08-25",
@@ -64,6 +66,10 @@
         "English"
       ],
       "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Florist/HO00004504"
+        },
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/the-florist/9999001513/NowShowing"
@@ -88,7 +94,7 @@
       "trailer_search_url": "https://www.youtube.com/results?search_query=Spider%20Man%3A%20Brand%20New%20Day%20official%20trailer",
       "ratings": {
         "imdb": "8.0",
-        "rotten_tomatoes": "89%"
+        "rotten_tomatoes": "90%"
       },
       "imdb_id": "tt22084616",
       "release_date": "2026-07-29",
@@ -123,6 +129,10 @@
         "English"
       ],
       "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Other-Mommy/HO00004479"
+        },
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/other-mommy/9999001516/NowShowing"
@@ -211,6 +221,10 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Matloub-Aaeleyan-(Egyptian)---Arabic/HO00004534"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/matloub-aaeleyan-(egyptian)-arabic/9999001517/NowShowing"
         }
@@ -261,6 +275,10 @@
         "English"
       ],
       "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Beast/HO00004535"
+        },
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/the-beast/9999001512/NowShowing"
@@ -395,7 +413,8 @@
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=Heart%20Of%20The%20Beast%20official%20trailer",
       "ratings": {
-        "imdb": "7.5"
+        "imdb": "7.5",
+        "rotten_tomatoes": "85%"
       },
       "imdb_id": "tt7526136",
       "release_date": null,
@@ -446,6 +465,32 @@
       ]
     },
     {
+      "id": "local-sb19wakasatsimulathetrilogyfilipino",
+      "title_ar": "سب ١٩ واكس ات سيمولا : ذا ترولجي",
+      "title_en": "SB19 Wakas at Simula:The Trilogy - Filipino",
+      "synopsis_ar": "تم التقاطها أمام حشد قياسي من 100000 معجب، وتأتي Wakas التاريخية لـ SB19 في Simula: The Trilogy Concert Finale إلى الشاشة الكبيرة في احتفال قوي بالموسيقى والفاندوم والبدايات الجديدة.",
+      "genres_ar": [
+        "موسيقى"
+      ],
+      "runtime_min": 130,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004502_391.jpg",
+      "trailer_youtube_id": "eoZX2SETdA0",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=SB19%20Wakas%20at%20Simula%3AThe%20Trilogy%20-%20Filipino%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Filipino"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/SB19-Wakas-at-Simula:The-Trilogy---Filipino/HO00004502"
+        }
+      ]
+    },
+    {
       "id": "local-shishdou",
       "title_ar": "Shish Dou",
       "title_en": "Shish Dou",
@@ -466,6 +511,111 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Shish-Dou-(Egyptian)---Arabic/HO00004520"
+        }
+      ]
+    },
+    {
+      "id": "local-redflag",
+      "title_ar": "Red Flag",
+      "title_en": "Red Flag",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001491.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Red%20Flag%20official%20trailer",
+      "ratings": {
+        "imdb": "5.5",
+        "rotten_tomatoes": "74%"
+      },
+      "imdb_id": "tt2147048",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Red-Flag-(Egyptian)---Arabic/HO00004493"
+        }
+      ]
+    },
+    {
+      "id": "local-coyotevsacme",
+      "title_ar": "Coyote Vs Acme",
+      "title_en": "Coyote Vs Acme",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001479.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Coyote%20Vs%20Acme%20official%20trailer",
+      "ratings": {
+        "imdb": "7.6",
+        "rotten_tomatoes": "96%"
+      },
+      "imdb_id": "tt1756855",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Coyote-vs-Acme/HO00004371"
+        }
+      ]
+    },
+    {
+      "id": "local-smurfstimelessadventurevolume2",
+      "title_ar": "The Smurfs Timeless Adventure Volume 2",
+      "title_en": "The Smurfs Timeless Adventure Volume 2",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001498.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Smurfs%20Timeless%20Adventure%20Volume%202%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Smurfs-Timeless-Adventure-Volume-2/HO00004496"
+        }
+      ]
+    },
+    {
+      "id": "local-pressure",
+      "title_ar": "Pressure",
+      "title_en": "Pressure",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001495.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Pressure%20official%20trailer",
+      "ratings": {
+        "imdb": "7.3",
+        "rotten_tomatoes": "89%"
+      },
+      "imdb_id": "tt32547691",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Pressure/HO00004464"
         }
       ]
     },
@@ -498,84 +648,6 @@
       ]
     },
     {
-      "id": "local-redflag",
-      "title_ar": "Red Flag",
-      "title_en": "Red Flag",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001491.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Red%20Flag%20official%20trailer",
-      "ratings": {
-        "imdb": "5.5",
-        "rotten_tomatoes": "74%"
-      },
-      "imdb_id": "tt2147048",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Red-Flag-(Egyptian)---Arabic/HO00004493"
-        }
-      ]
-    },
-    {
-      "id": "local-smurfstimelessadventurevolume2",
-      "title_ar": "The Smurfs Timeless Adventure Volume 2",
-      "title_en": "The Smurfs Timeless Adventure Volume 2",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001498.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Smurfs%20Timeless%20Adventure%20Volume%202%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Smurfs-Timeless-Adventure-Volume-2/HO00004496"
-        }
-      ]
-    },
-    {
-      "id": "local-coyotevsacme",
-      "title_ar": "Coyote Vs Acme",
-      "title_en": "Coyote Vs Acme",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001479.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Coyote%20Vs%20Acme%20official%20trailer",
-      "ratings": {
-        "imdb": "7.6",
-        "rotten_tomatoes": "96%"
-      },
-      "imdb_id": "tt1756855",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Coyote-vs-Acme/HO00004371"
-        }
-      ]
-    },
-    {
       "id": "local-practicalmagic2",
       "title_ar": "Practical Magic 2",
       "title_en": "Practical Magic 2",
@@ -585,7 +657,9 @@
       "poster": "https://www.skycinemaskw.com/images/movies/9999001493.jpg",
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=Practical%20Magic%202%20official%20trailer",
-      "ratings": {},
+      "ratings": {
+        "rotten_tomatoes": "37%"
+      },
       "imdb_id": "tt32588798",
       "release_date": null,
       "matched": false,
@@ -596,33 +670,6 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Practical-Magic-2/HO00004462"
-        }
-      ]
-    },
-    {
-      "id": "local-pressure",
-      "title_ar": "Pressure",
-      "title_en": "Pressure",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001495.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Pressure%20official%20trailer",
-      "ratings": {
-        "imdb": "7.3",
-        "rotten_tomatoes": "87%"
-      },
-      "imdb_id": "tt32547691",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Pressure/HO00004464"
         }
       ]
     },
@@ -640,7 +687,9 @@
       "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004474_982.jpg",
       "trailer_youtube_id": "GpTvTWlZ2U4",
       "trailer_search_url": "https://www.youtube.com/results?search_query=Bethlehem%20Kudumba%20Unit%20-%20Malayalam%20official%20trailer",
-      "ratings": {},
+      "ratings": {
+        "rotten_tomatoes": "90%"
+      },
       "imdb_id": "tt37535100",
       "release_date": null,
       "matched": true,

@@ -1,21 +1,32 @@
 {
-  "scraped_at": "2026-10-06T11:03:41.466740+00:00",
+  "scraped_at": "2026-10-07T10:53:20.245947+00:00",
   "failures": [
     "vox"
   ],
   "movies": {
     "matloubaaeleyan": {
-      "title_en": "Matloub Aaeleyan",
+      "title_en": "Matloub Aaeleyan (Egyptian) - Arabic",
       "languages": [
         "Arabic"
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Matloub-Aaeleyan-(Egyptian)---Arabic/HO00004534"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/matloub-aaeleyan-(egyptian)-arabic/9999001517/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001517.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001517.jpg",
+      "title_ar": "مطلوب عائليا",
+      "synopsis_ar": "تدور احداث الفيلم حول فاروق\"كريم عبد العزيز\" مدير السوبر ماركت مشغول عن بيته وزوجته مي \"ياسمين صبري \"واولاده، يأتي اخو زوجته جلال \"مصطفي خاطر\" العاطل يعيش معه و مع اسرته في البيت و يقلب حياته بالكامل\nو يدخله في مصائب يستحيل عليه حلها تدور الاحداث في اطار",
+      "genres_ar": [
+        "كوميدي"
+      ],
+      "runtime_min": 92,
+      "trailer_youtube_id": "vgXdeRilGWY"
     },
     "othermommy": {
       "title_en": "Other Mommy",
@@ -24,24 +35,22 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Other-Mommy/HO00004479"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/other-mommy/9999001516/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001516.jpg"
-    },
-    "socialreckoning": {
-      "title_en": "The Social Reckoning",
-      "languages": [
-        "English"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001516.jpg",
+      "title_ar": "اوذر مومي",
+      "synopsis_ar": "تواجه بيلا، وهي فتاة تبلغ من العمر 8 سنوات تعيش في منزل يعاني من مشاكل زوجية، كيانًا شريرًا يخرج من خزانتها. الوجود، الذي تسميه \"الأم الأخرى\"، يصبح تهديدًا متزايدًا لها ولعائلتها.",
+      "genres_ar": [
+        "رعب"
       ],
-      "cinemas": [
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/the-social-reckoning/9999001515/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001515.jpg"
+      "runtime_min": 93,
+      "trailer_youtube_id": "VmmoOgHuq_8"
     },
     "bewareboluna": {
       "title_en": "Beware Boluna",
@@ -63,11 +72,23 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Florist/HO00004504"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/the-florist/9999001513/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001513.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001513.jpg",
+      "title_ar": "ذا فلورست",
+      "synopsis_ar": "يجد بستاني هادئ يؤوي حياة سرية كقاتل قاتل أن هويته الحقيقية معرضة للخطر عندما يشكل صداقة غير محتملة مع شهود على فساد الشرطة.",
+      "genres_ar": [
+        "أكشن",
+        "إثارة"
+      ],
+      "runtime_min": 97,
+      "trailer_youtube_id": "IwHrPPJ-1Cs"
     },
     "beast": {
       "title_en": "The Beast",
@@ -76,11 +97,24 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Beast/HO00004535"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/the-beast/9999001512/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001512.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001512.jpg",
+      "title_ar": "ذا بيست",
+      "synopsis_ar": "عندما تقوم ميليشيا من الأعداء المجهولين بتنسيق انقلاب ضد الولايات المتحدة، يكشف الرئيس عن مدى القدرات الهجومية السرية للغاية للوحش من أجل إنقاذ حياته وأمريكا.",
+      "genres_ar": [
+        "أكشن",
+        "إثارة",
+        "دراما"
+      ],
+      "runtime_min": 100,
+      "trailer_youtube_id": "jtqOzKRMDes"
     },
     "verity": {
       "title_en": "Verity",
@@ -282,6 +316,47 @@
       "runtime_min": 94,
       "trailer_youtube_id": "Qmr46ekFKt8"
     },
+    "sb19wakasatsimulathetrilogyfilipino": {
+      "title_en": "SB19 Wakas at Simula:The Trilogy - Filipino",
+      "languages": [
+        "Filipino"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/SB19-Wakas-at-Simula:The-Trilogy---Filipino/HO00004502"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004502_391.jpg",
+      "title_ar": "سب ١٩ واكس ات سيمولا : ذا ترولجي",
+      "synopsis_ar": "تم التقاطها أمام حشد قياسي من 100000 معجب، وتأتي Wakas التاريخية لـ SB19 في Simula: The Trilogy Concert Finale إلى الشاشة الكبيرة في احتفال قوي بالموسيقى والفاندوم والبدايات الجديدة.",
+      "genres_ar": [
+        "موسيقى"
+      ],
+      "runtime_min": 130,
+      "trailer_youtube_id": "eoZX2SETdA0"
+    },
+    "bewareboiuna": {
+      "title_en": "Beware Boiúna",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Beware-Boiúna/HO00004523"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004523_221.jpg",
+      "title_ar": "بيوير بوينا",
+      "synopsis_ar": "يشرع فريق من الأطباء في مهمة محلية في غابة الأمازون المطيرة، ولكن سرعان ما يتضح أنه ليس الجميع - أو كل شيء - سعداء برؤيتهم. يجذب وصولهم انتباه المفترس القديم العملاق، المهيمن على الأرض والمياه، الذي يخرج لاستعادة الغابة.",
+      "genres_ar": [
+        "إثارة",
+        "رعب"
+      ],
+      "runtime_min": 99,
+      "trailer_youtube_id": "PRkA_Igeqr4"
+    },
     "shishdou": {
       "title_en": "Shish Dou (Egyptian) - Arabic",
       "languages": [
@@ -302,28 +377,6 @@
       ],
       "runtime_min": 92
     },
-    "drishyamtheconclusion": {
-      "title_en": "Drishyam:The Conclusion - Hindi",
-      "languages": [
-        "Hindi"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Drishyam:The-Conclusion---Hindi/HO00004533"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004533_248.jpg",
-      "title_ar": "درشيام ذا كونسليوشن (هندي)",
-      "synopsis_ar": "يتبع عائلة سالغاونكار أثناء محاولتهم التستر على جريمة قتل.",
-      "genres_ar": [
-        "جريمة",
-        "إثارة",
-        "دراما"
-      ],
-      "runtime_min": 148,
-      "trailer_youtube_id": "zjPXHHt4nq0"
-    },
     "redflag": {
       "title_en": "Red Flag (Egyptian) - Arabic",
       "languages": [
@@ -343,27 +396,6 @@
       ],
       "runtime_min": 100,
       "trailer_youtube_id": "uO2BKCC85rY"
-    },
-    "smurfstimelessadventurevolume2": {
-      "title_en": "The Smurfs Timeless Adventure Volume 2",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Smurfs-Timeless-Adventure-Volume-2/HO00004496"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004496_882.jpg",
-      "title_ar": "ذا سمارفز تايمزليس ادفنجر فوليوم 2",
-      "synopsis_ar": "انضم إلى السنافر في مجموعة من المغامرات المليئة بالمرح المليئة بالاختراعات البرية والمسابقات المثيرة والعمل الجماعي والمهام الفوضوية. من المسابقات الرياضية إلى اللقاءات المضحكة مع جارغامل، يكتشف السنافر أن الصداقة والشجاعة تنقذان اليوم دائمًا.",
-      "genres_ar": [
-        "مغامرات",
-        "كوميدي"
-      ],
-      "runtime_min": 78,
-      "trailer_youtube_id": "MHApR8KopaE"
     },
     "coyotevsacme": {
       "title_en": "Coyote vs Acme",
@@ -387,6 +419,27 @@
       "runtime_min": 103,
       "trailer_youtube_id": "aSW5ky6fTJc"
     },
+    "smurfstimelessadventurevolume2": {
+      "title_en": "The Smurfs Timeless Adventure Volume 2",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Smurfs-Timeless-Adventure-Volume-2/HO00004496"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004496_882.jpg",
+      "title_ar": "ذا سمارفز تايمزليس ادفنجر فوليوم 2",
+      "synopsis_ar": "انضم إلى السنافر في مجموعة من المغامرات المليئة بالمرح المليئة بالاختراعات البرية والمسابقات المثيرة والعمل الجماعي والمهام الفوضوية. من المسابقات الرياضية إلى اللقاءات المضحكة مع جارغامل، يكتشف السنافر أن الصداقة والشجاعة تنقذان اليوم دائمًا.",
+      "genres_ar": [
+        "مغامرات",
+        "كوميدي"
+      ],
+      "runtime_min": 78,
+      "trailer_youtube_id": "MHApR8KopaE"
+    },
     "spidermanbrandnewday": {
       "title_en": "Spider Man: Brand New Day",
       "languages": [
@@ -409,28 +462,6 @@
       "runtime_min": 141,
       "trailer_youtube_id": "FL5RBUGHOAY"
     },
-    "practicalmagic2": {
-      "title_en": "Practical Magic 2",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Practical-Magic-2/HO00004462"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004462_479.jpg",
-      "title_ar": "بارتكل ماجك ٢",
-      "synopsis_ar": "يعود الجزء الثاني من السحر العملي ليأخذنا مجددًا إلى عالم مليء بالأجواء الغامضة وسحر الأجداد المتوارث، حيث تضطر الشقيقتان من عائلة أوينز لمواجهة لعنة مظلمة تهدد بتفكيك إرث العائلة إلى الأبد. في تجربة سينمائية مليئة بالمرح والسحر والفوضى",
-      "genres_ar": [
-        "كوميدي",
-        "دراما",
-        "خيالي"
-      ],
-      "runtime_min": 126,
-      "trailer_youtube_id": "bdJsow2SC6s"
-    },
     "pressure": {
       "title_en": "Pressure",
       "languages": [
@@ -452,6 +483,50 @@
       ],
       "runtime_min": 100,
       "trailer_youtube_id": "jlRWt-UgWQo"
+    },
+    "drishyamtheconclusion": {
+      "title_en": "Drishyam:The Conclusion - Hindi",
+      "languages": [
+        "Hindi"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Drishyam:The-Conclusion---Hindi/HO00004533"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004533_248.jpg",
+      "title_ar": "درشيام ذا كونسليوشن (هندي)",
+      "synopsis_ar": "يتبع عائلة سالغاونكار أثناء محاولتهم التستر على جريمة قتل.",
+      "genres_ar": [
+        "جريمة",
+        "إثارة",
+        "دراما"
+      ],
+      "runtime_min": 148,
+      "trailer_youtube_id": "zjPXHHt4nq0"
+    },
+    "practicalmagic2": {
+      "title_en": "Practical Magic 2",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Practical-Magic-2/HO00004462"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004462_479.jpg",
+      "title_ar": "بارتكل ماجك ٢",
+      "synopsis_ar": "يعود الجزء الثاني من السحر العملي ليأخذنا مجددًا إلى عالم مليء بالأجواء الغامضة وسحر الأجداد المتوارث، حيث تضطر الشقيقتان من عائلة أوينز لمواجهة لعنة مظلمة تهدد بتفكيك إرث العائلة إلى الأبد. في تجربة سينمائية مليئة بالمرح والسحر والفوضى",
+      "genres_ar": [
+        "كوميدي",
+        "دراما",
+        "خيالي"
+      ],
+      "runtime_min": 126,
+      "trailer_youtube_id": "bdJsow2SC6s"
     },
     "bethlehemkudumbaunit": {
       "title_en": "Bethlehem Kudumba Unit - Malayalam",
