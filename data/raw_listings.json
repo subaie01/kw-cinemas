@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-07T10:53:20.245947+00:00",
+  "scraped_at": "2026-10-08T11:10:58.660730+00:00",
   "failures": [
     "vox"
   ],
@@ -27,30 +27,6 @@
       ],
       "runtime_min": 92,
       "trailer_youtube_id": "vgXdeRilGWY"
-    },
-    "othermommy": {
-      "title_en": "Other Mommy",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Other-Mommy/HO00004479"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/other-mommy/9999001516/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001516.jpg",
-      "title_ar": "اوذر مومي",
-      "synopsis_ar": "تواجه بيلا، وهي فتاة تبلغ من العمر 8 سنوات تعيش في منزل يعاني من مشاكل زوجية، كيانًا شريرًا يخرج من خزانتها. الوجود، الذي تسميه \"الأم الأخرى\"، يصبح تهديدًا متزايدًا لها ولعائلتها.",
-      "genres_ar": [
-        "رعب"
-      ],
-      "runtime_min": 93,
-      "trailer_youtube_id": "VmmoOgHuq_8"
     },
     "bewareboluna": {
       "title_en": "Beware Boluna",
@@ -167,104 +143,6 @@
       "runtime_min": 128,
       "trailer_youtube_id": "yIaR-63XB54"
     },
-    "charlieharper": {
-      "title_en": "Charlie Harper",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Charlie-Harper/HO00004532"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/charlie-harper/9999001508/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001508.jpg",
-      "title_ar": "تشارلي هاربر",
-      "synopsis_ar": "يحاول هاربر وتشارلي بناء حياة معا. بينما يسعى هاربر جاهدا للحصول على مهنة كطاهي، فإن تشارلي عالق. في مواجهة التحديات في علاقتهم، يكافحون لإثبات أنهم مخصصون لبعضهم البعض، ولكن هل سيكون ذلك كافيا؟",
-      "genres_ar": [
-        "رومانسي"
-      ],
-      "runtime_min": 97,
-      "trailer_youtube_id": "h9eUgR0tHeE"
-    },
-    "wake": {
-      "title_en": "Wake",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Wake/HO00004453"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/wake/9999001507/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001507.jpg",
-      "title_ar": "ويك",
-      "synopsis_ar": "في سعيها للحصول على دور البطولة في إعادة تصوير فيلم كلاسيكي، تتتبع ممثلة شابة بطلة الفيلم الأصلي التي باتت تعيش منعزلةً في غموض. سرعان ما تتحول لقاءاتهما إلى كابوس.",
-      "genres_ar": [
-        "رعب"
-      ],
-      "runtime_min": 85,
-      "trailer_youtube_id": "OqblSi-Ds3k"
-    },
-    "crystalplanet": {
-      "title_en": "The Crystal Planet",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Crystal-Planet/HO00004503"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/the-crystal-planet/9999001506/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001506.jpg",
-      "title_ar": "ذا كرستال بلانت",
-      "synopsis_ar": "من جيريمي آيرونز وفانيسا ريدغريف الفائزين بجائزة الأوسكار تأتي مغامرة رسوم متحركة لا تنسى! في عالم مستعمر حديثًا، يجب أن تعتمد فتاة صغيرة وشبل يشبه الديناصور على الصداقة والشجاعة لحماية كل ما يحبونه.",
-      "genres_ar": [
-        "رسوم متحركة",
-        "عائلي"
-      ],
-      "runtime_min": 97,
-      "trailer_youtube_id": "3ujsVdQx-tU"
-    },
-    "legendaries": {
-      "title_en": "The Legendaries",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Legendaries/HO00004531"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/the-legendaries/9999001505/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001505.jpg",
-      "title_ar": "ذا ليجندريز",
-      "synopsis_ar": "يجب على فريق الأبطال السابق، الذي تم استبداله لسنوات، لم شمله مرة أخرى عندما تعود قوة شريرة مهددة لقمة العالم في الظلام.",
-      "genres_ar": [
-        "رسوم متحركة",
-        "مغامرات"
-      ],
-      "runtime_min": 92,
-      "trailer_youtube_id": "cc6X5Sg4vwU"
-    },
     "heartofthebeast": {
       "title_en": "Heart Of The Beast",
       "languages": [
@@ -300,13 +178,9 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Resident-Evil/HO00004405"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/resident-evil/9999001497/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001497.jpg",
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004405_839.jpg",
       "title_ar": "رسيدنت ايفل",
       "synopsis_ar": "من عقل المخرج البصيرة زاك كريغر (أسلحة، بربري) يأتي تجديد مثير ومرعب لسلسلة Resident Evil.",
       "genres_ar": [
@@ -357,26 +231,6 @@
       "runtime_min": 99,
       "trailer_youtube_id": "PRkA_Igeqr4"
     },
-    "shishdou": {
-      "title_en": "Shish Dou (Egyptian) - Arabic",
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Shish-Dou-(Egyptian)---Arabic/HO00004520"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004520_855.jpg",
-      "title_ar": "شيش دو",
-      "synopsis_ar": "شيش دو هي دراما كوميدية تتكشف على مدار ليلة واحدة، وتكشف هشاشة الطبقات الاجتماعية المختلفة. تعثر صديقان في منتصف العمر، عادل ونبيل، بعد سنوات من المشقة، على طارق، وهو شاب ثري فاقد الوعي بعد شجار.",
-      "genres_ar": [
-        "كوميدي",
-        "دراما"
-      ],
-      "runtime_min": 92
-    },
     "redflag": {
       "title_en": "Red Flag (Egyptian) - Arabic",
       "languages": [
@@ -396,6 +250,26 @@
       ],
       "runtime_min": 100,
       "trailer_youtube_id": "uO2BKCC85rY"
+    },
+    "shishdou": {
+      "title_en": "Shish Dou (Egyptian) - Arabic",
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Shish-Dou-(Egyptian)---Arabic/HO00004520"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004520_855.jpg",
+      "title_ar": "شيش دو",
+      "synopsis_ar": "شيش دو هي دراما كوميدية تتكشف على مدار ليلة واحدة، وتكشف هشاشة الطبقات الاجتماعية المختلفة. تعثر صديقان في منتصف العمر، عادل ونبيل، بعد سنوات من المشقة، على طارق، وهو شاب ثري فاقد الوعي بعد شجار.",
+      "genres_ar": [
+        "كوميدي",
+        "دراما"
+      ],
+      "runtime_min": 92
     },
     "coyotevsacme": {
       "title_en": "Coyote vs Acme",
@@ -440,28 +314,6 @@
       "runtime_min": 78,
       "trailer_youtube_id": "MHApR8KopaE"
     },
-    "spidermanbrandnewday": {
-      "title_en": "Spider Man: Brand New Day",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Spider-Man:-Brand-New-Day/HO00004304"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004304_849.jpg",
-      "title_ar": "سبايدر مان : براند نو داي",
-      "synopsis_ar": "إنه يوم جديد لبيتر باركر. إن مكافحة الجريمة بدوام كامل كرجل العنكبوت في عالم لا يتذكره - وضغط رؤية أصدقائه القدامى يمضون قدمًا بدونه - يثير تغييرًا في بيتر قد لا يكون لديه القدرة على السيطرة عليه.",
-      "genres_ar": [
-        "أكشن",
-        "مغامرات",
-        "خيالي"
-      ],
-      "runtime_min": 141,
-      "trailer_youtube_id": "FL5RBUGHOAY"
-    },
     "pressure": {
       "title_en": "Pressure",
       "languages": [
@@ -484,6 +336,48 @@
       "runtime_min": 100,
       "trailer_youtube_id": "jlRWt-UgWQo"
     },
+    "spidermanbrandnewday": {
+      "title_en": "Spider Man: Brand New Day",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Spider-Man:-Brand-New-Day/HO00004304"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004304_849.jpg",
+      "title_ar": "سبايدر مان : براند نو داي",
+      "synopsis_ar": "إنه يوم جديد لبيتر باركر. إن مكافحة الجريمة بدوام كامل كرجل العنكبوت في عالم لا يتذكره - وضغط رؤية أصدقائه القدامى يمضون قدمًا بدونه - يثير تغييرًا في بيتر قد لا يكون لديه القدرة على السيطرة عليه.",
+      "genres_ar": [
+        "أكشن",
+        "مغامرات",
+        "خيالي"
+      ],
+      "runtime_min": 141,
+      "trailer_youtube_id": "FL5RBUGHOAY"
+    },
+    "wake": {
+      "title_en": "Wake",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Wake/HO00004453"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004453_116.jpg",
+      "title_ar": "ويك",
+      "synopsis_ar": "في سعيها للحصول على دور البطولة في إعادة تصوير فيلم كلاسيكي، تتتبع ممثلة شابة بطلة الفيلم الأصلي التي باتت تعيش منعزلةً في غموض. سرعان ما تتحول لقاءاتهما إلى كابوس.",
+      "genres_ar": [
+        "رعب"
+      ],
+      "runtime_min": 85,
+      "trailer_youtube_id": "OqblSi-Ds3k"
+    },
     "drishyamtheconclusion": {
       "title_en": "Drishyam:The Conclusion - Hindi",
       "languages": [
@@ -505,71 +399,6 @@
       ],
       "runtime_min": 148,
       "trailer_youtube_id": "zjPXHHt4nq0"
-    },
-    "practicalmagic2": {
-      "title_en": "Practical Magic 2",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Practical-Magic-2/HO00004462"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004462_479.jpg",
-      "title_ar": "بارتكل ماجك ٢",
-      "synopsis_ar": "يعود الجزء الثاني من السحر العملي ليأخذنا مجددًا إلى عالم مليء بالأجواء الغامضة وسحر الأجداد المتوارث، حيث تضطر الشقيقتان من عائلة أوينز لمواجهة لعنة مظلمة تهدد بتفكيك إرث العائلة إلى الأبد. في تجربة سينمائية مليئة بالمرح والسحر والفوضى",
-      "genres_ar": [
-        "كوميدي",
-        "دراما",
-        "خيالي"
-      ],
-      "runtime_min": 126,
-      "trailer_youtube_id": "bdJsow2SC6s"
-    },
-    "bethlehemkudumbaunit": {
-      "title_en": "Bethlehem Kudumba Unit - Malayalam",
-      "languages": [
-        "Malayalam"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Bethlehem-Kudumba-Unit---Malayalam/HO00004474"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004474_982.jpg",
-      "title_ar": "بيثاهيم كودومبا ينات",
-      "synopsis_ar": "يتبع زوجين مع اختلاف كبير في العمر أثناء تنقلهما في علاقتهما الرومانسية.",
-      "genres_ar": [
-        "رومانسي",
-        "كوميدي",
-        "دراما"
-      ],
-      "runtime_min": 155,
-      "trailer_youtube_id": "GpTvTWlZ2U4"
-    },
-    "sigma": {
-      "title_en": "Sigma - Tamil",
-      "languages": [
-        "Tamil"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Sigma---Tamil/HO00004540"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004540_690.jpg",
-      "title_ar": "سيقما",
-      "synopsis_ar": "يلقي صائد الكنوز الجريء الحذر في مهب الريح، ويخدع الفخاخ القاتلة والحلفاء الغادرين بالعصبية المطلقة والمكر في هذه المغامرة النابضة بالنبض",
-      "genres_ar": [
-        "أكشن",
-        "إثارة"
-      ],
-      "runtime_min": 145,
-      "trailer_youtube_id": "QadoHLWeaqY"
     }
   }
 }

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T10:53:30.316404+00:00",
+  "last_updated": "2026-10-08T11:11:04.838028+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -57,7 +57,7 @@
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Florist%20official%20trailer",
       "ratings": {
-        "imdb": "6.4"
+        "imdb": "6.3"
       },
       "imdb_id": "tt33214716",
       "release_date": "2026-08-25",
@@ -106,99 +106,6 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Spider-Man:-Brand-New-Day/HO00004304"
-        }
-      ]
-    },
-    {
-      "id": "wd-Q134588273",
-      "title_ar": "Other Mommy",
-      "title_en": "Other Mommy",
-      "synopsis_ar": "",
-      "genres_ar": [
-        "فلم رعب خارق للطبيعة"
-      ],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001516.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Other%20Mommy%20official%20trailer",
-      "ratings": {},
-      "imdb_id": "tt36586020",
-      "release_date": "2026-05-08",
-      "matched": true,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Other-Mommy/HO00004479"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/other-mommy/9999001516/NowShowing"
-        }
-      ]
-    },
-    {
-      "id": "wd-Q139073423",
-      "title_ar": "The Crystal Planet",
-      "title_en": "The Crystal Planet",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": 97,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001506.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Crystal%20Planet%20official%20trailer",
-      "ratings": {
-        "imdb": "7.2"
-      },
-      "imdb_id": "tt35571526",
-      "release_date": "2026-00-00",
-      "matched": true,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Crystal-Planet/HO00004503"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/the-crystal-planet/9999001506/NowShowing"
-        }
-      ]
-    },
-    {
-      "id": "wd-Q136190269",
-      "title_ar": "Charlie Harper",
-      "title_en": "Charlie Harper",
-      "synopsis_ar": "",
-      "genres_ar": [
-        "فلم رومانسي"
-      ],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001508.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Charlie%20Harper%20official%20trailer",
-      "ratings": {
-        "imdb": "6.8",
-        "rotten_tomatoes": "59%"
-      },
-      "imdb_id": "tt27739255",
-      "release_date": "2025-09-04",
-      "matched": true,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Charlie-Harper/HO00004532"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/charlie-harper/9999001508/NowShowing"
         }
       ]
     },
@@ -345,64 +252,6 @@
       ]
     },
     {
-      "id": "local-wake",
-      "title_ar": "Wake",
-      "title_en": "Wake",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001507.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Wake%20official%20trailer",
-      "ratings": {
-        "imdb": "5.5"
-      },
-      "imdb_id": "tt0960097",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Wake/HO00004453"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/wake/9999001507/NowShowing"
-        }
-      ]
-    },
-    {
-      "id": "local-legendaries",
-      "title_ar": "The Legendaries",
-      "title_en": "The Legendaries",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001505.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Legendaries%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Legendaries/HO00004531"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/the-legendaries/9999001505/NowShowing"
-        }
-      ]
-    },
-    {
       "id": "local-heartofthebeast",
       "title_ar": "Heart Of The Beast",
       "title_en": "Heart Of The Beast",
@@ -457,10 +306,6 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Resident-Evil/HO00004405"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/resident-evil/9999001497/NowShowing"
         }
       ]
     },
@@ -491,30 +336,6 @@
       ]
     },
     {
-      "id": "local-shishdou",
-      "title_ar": "Shish Dou",
-      "title_en": "Shish Dou",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001501.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Shish%20Dou%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Shish-Dou-(Egyptian)---Arabic/HO00004520"
-        }
-      ]
-    },
-    {
       "id": "local-redflag",
       "title_ar": "Red Flag",
       "title_en": "Red Flag",
@@ -538,6 +359,30 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Red-Flag-(Egyptian)---Arabic/HO00004493"
+        }
+      ]
+    },
+    {
+      "id": "local-shishdou",
+      "title_ar": "Shish Dou",
+      "title_en": "Shish Dou",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001501.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Shish%20Dou%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Shish-Dou-(Egyptian)---Arabic/HO00004520"
         }
       ]
     },
@@ -620,6 +465,32 @@
       ]
     },
     {
+      "id": "local-wake",
+      "title_ar": "Wake",
+      "title_en": "Wake",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001507.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Wake%20official%20trailer",
+      "ratings": {
+        "imdb": "5.5"
+      },
+      "imdb_id": "tt0960097",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Wake/HO00004453"
+        }
+      ]
+    },
+    {
       "id": "local-drishyamtheconclusion",
       "title_ar": "درشيام ذا كونسليوشن (هندي)",
       "title_en": "Drishyam:The Conclusion - Hindi",
@@ -633,7 +504,9 @@
       "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004533_248.jpg",
       "trailer_youtube_id": "zjPXHHt4nq0",
       "trailer_search_url": "https://www.youtube.com/results?search_query=Drishyam%3AThe%20Conclusion%20-%20Hindi%20official%20trailer",
-      "ratings": {},
+      "ratings": {
+        "rotten_tomatoes": "100%"
+      },
       "imdb_id": "tt27050858",
       "release_date": null,
       "matched": false,
@@ -644,91 +517,6 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Drishyam:The-Conclusion---Hindi/HO00004533"
-        }
-      ]
-    },
-    {
-      "id": "local-practicalmagic2",
-      "title_ar": "Practical Magic 2",
-      "title_en": "Practical Magic 2",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001493.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Practical%20Magic%202%20official%20trailer",
-      "ratings": {
-        "rotten_tomatoes": "37%"
-      },
-      "imdb_id": "tt32588798",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Practical-Magic-2/HO00004462"
-        }
-      ]
-    },
-    {
-      "id": "wd-Q138716562",
-      "title_ar": "بيثاهيم كودومبا ينات",
-      "title_en": "Bethlehem Kudumba Unit - Malayalam",
-      "synopsis_ar": "يتبع زوجين مع اختلاف كبير في العمر أثناء تنقلهما في علاقتهما الرومانسية.",
-      "genres_ar": [
-        "رومانسي",
-        "كوميدي",
-        "دراما"
-      ],
-      "runtime_min": 155,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004474_982.jpg",
-      "trailer_youtube_id": "GpTvTWlZ2U4",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Bethlehem%20Kudumba%20Unit%20-%20Malayalam%20official%20trailer",
-      "ratings": {
-        "rotten_tomatoes": "90%"
-      },
-      "imdb_id": "tt37535100",
-      "release_date": null,
-      "matched": true,
-      "languages": [
-        "Malayalam"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Bethlehem-Kudumba-Unit---Malayalam/HO00004474"
-        }
-      ]
-    },
-    {
-      "id": "local-sigma",
-      "title_ar": "سيقما",
-      "title_en": "Sigma - Tamil",
-      "synopsis_ar": "يلقي صائد الكنوز الجريء الحذر في مهب الريح، ويخدع الفخاخ القاتلة والحلفاء الغادرين بالعصبية المطلقة والمكر في هذه المغامرة النابضة بالنبض",
-      "genres_ar": [
-        "أكشن",
-        "إثارة"
-      ],
-      "runtime_min": 145,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004540_690.jpg",
-      "trailer_youtube_id": "QadoHLWeaqY",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Sigma%20-%20Tamil%20official%20trailer",
-      "ratings": {
-        "imdb": "6.4"
-      },
-      "imdb_id": "tt0459543",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Tamil"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Sigma---Tamil/HO00004540"
         }
       ]
     }
