@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-08T11:10:58.660730+00:00",
+  "scraped_at": "2026-10-09T11:09:46.169957+00:00",
   "failures": [
     "vox"
   ],
@@ -27,6 +27,56 @@
       ],
       "runtime_min": 92,
       "trailer_youtube_id": "vgXdeRilGWY"
+    },
+    "othermommy": {
+      "title_en": "Other Mommy",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Other-Mommy/HO00004479"
+        },
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/other-mommy/9999001516/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001516.jpg",
+      "title_ar": "اوذر مومي",
+      "synopsis_ar": "تواجه بيلا، وهي فتاة تبلغ من العمر 8 سنوات تعيش في منزل يعاني من مشاكل زوجية، كيانًا شريرًا يخرج من خزانتها. الوجود، الذي تسميه \"الأم الأخرى\"، يصبح تهديدًا متزايدًا لها ولعائلتها.",
+      "genres_ar": [
+        "رعب"
+      ],
+      "runtime_min": 93,
+      "trailer_youtube_id": "VmmoOgHuq_8"
+    },
+    "socialreckoning": {
+      "title_en": "The Social Reckoning",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Social-Reckoning/HO00004478"
+        },
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/the-social-reckoning/9999001515/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001515.jpg",
+      "title_ar": "ذا سوشال ركونانق",
+      "synopsis_ar": "قطعة مصاحبة للفيلم الناجح The Social Network، تستند سيناريو سوركين الأصلي إلى الأحداث التي أدت إلى فضح صحيفة وول ستريت جورنال الصادم The Facebook Files.",
+      "genres_ar": [
+        "سيرة ذاتية",
+        "دراما",
+        "إثارة"
+      ],
+      "runtime_min": 112,
+      "trailer_youtube_id": "rdTzW1xIQTI"
     },
     "bewareboluna": {
       "title_en": "Beware Boluna",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-08T11:11:04.838028+00:00",
+  "last_updated": "2026-10-09T11:09:53.128345+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -15,6 +15,39 @@
     }
   },
   "movies": [
+    {
+      "id": "wd-Q136387857",
+      "title_ar": "الحساب الاجتماعي",
+      "title_en": "The Social Reckoning",
+      "synopsis_ar": "الحساب الاجتماعي هو فلم دراما سيرة ذاتية أمريكي قادم من كتابة وإخراج آرون سوركين. يُعدّ الفلم عملًا مكمّلًا لفلم الشبكة الاجتماعية (2010)، ويستند إلى الأحداث المحيطة بتسريب ملفات فيسبوك عام 2021 الذي كشفت عنه فرانسيس هوغن. وهو التسريب الذي استُلهمت منه أيضًا سلسلة مقالات وبودكاست من ثماني حلقات بعنوان The Facebook Files عام 2021، الصادران عن صحيفة وول ستريت جورنال. يقوم ببطولة الفلم جيرمي سترونغ في دور مارك زوكربيرغ، إلى جانب جيريمي ألين وايت، ومايكي ماديسون، وبيل بر، ويونومي موساكو، وبيلي ماجنوسن، وبيتي غيلبين، وغبينغا أكيناجبي، وآنا لامب، وسييرا كابري، وبورشيا دووبلدي، وتهمينا صني.",
+      "genres_ar": [
+        "فلم دراما",
+        "فلم سيرة ذاتية"
+      ],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001515.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Social%20Reckoning%20official%20trailer",
+      "ratings": {
+        "imdb": "6.7"
+      },
+      "imdb_id": "tt37510326",
+      "release_date": "2026-10-08",
+      "matched": true,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Social-Reckoning/HO00004478"
+        },
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/the-social-reckoning/9999001515/NowShowing"
+        }
+      ]
+    },
     {
       "id": "wd-Q141052811",
       "title_ar": "بيوير بوينا",
@@ -57,7 +90,7 @@
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Florist%20official%20trailer",
       "ratings": {
-        "imdb": "6.3"
+        "imdb": "6.1"
       },
       "imdb_id": "tt33214716",
       "release_date": "2026-08-25",
@@ -106,6 +139,38 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Spider-Man:-Brand-New-Day/HO00004304"
+        }
+      ]
+    },
+    {
+      "id": "wd-Q134588273",
+      "title_ar": "Other Mommy",
+      "title_en": "Other Mommy",
+      "synopsis_ar": "",
+      "genres_ar": [
+        "فلم رعب خارق للطبيعة"
+      ],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001516.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Other%20Mommy%20official%20trailer",
+      "ratings": {
+        "imdb": "6.2"
+      },
+      "imdb_id": "tt36586020",
+      "release_date": "2026-05-08",
+      "matched": true,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Other-Mommy/HO00004479"
+        },
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/other-mommy/9999001516/NowShowing"
         }
       ]
     },
