@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-09T11:09:53.128345+00:00",
+  "last_updated": "2026-10-10T10:27:24.639143+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -62,7 +62,7 @@
       "trailer_youtube_id": "PRkA_Igeqr4",
       "trailer_search_url": "https://www.youtube.com/results?search_query=Beware%20Boi%C3%BAna%20official%20trailer",
       "ratings": {
-        "imdb": "6.2"
+        "imdb": "6.1"
       },
       "imdb_id": "tt10377864",
       "release_date": "2026-10-08",
@@ -90,7 +90,7 @@
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Florist%20official%20trailer",
       "ratings": {
-        "imdb": "6.1"
+        "imdb": "5.6"
       },
       "imdb_id": "tt33214716",
       "release_date": "2026-08-25",
@@ -155,7 +155,7 @@
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=Other%20Mommy%20official%20trailer",
       "ratings": {
-        "imdb": "6.2"
+        "imdb": "5.7"
       },
       "imdb_id": "tt36586020",
       "release_date": "2026-05-08",
