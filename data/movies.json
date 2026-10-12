@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11T10:38:54.292078+00:00",
+  "last_updated": "2026-10-12T11:42:47.263105+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -126,7 +126,7 @@
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=Spider%20Man%3A%20Brand%20New%20Day%20official%20trailer",
       "ratings": {
-        "imdb": "8.0",
+        "imdb": "7.9",
         "rotten_tomatoes": "90%"
       },
       "imdb_id": "tt22084616",
@@ -526,32 +526,6 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Pressure/HO00004464"
-        }
-      ]
-    },
-    {
-      "id": "local-wake",
-      "title_ar": "Wake",
-      "title_en": "Wake",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001507.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Wake%20official%20trailer",
-      "ratings": {
-        "imdb": "5.5"
-      },
-      "imdb_id": "tt0960097",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Wake/HO00004453"
         }
       ]
     },

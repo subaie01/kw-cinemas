@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-11T10:38:47.102653+00:00",
+  "scraped_at": "2026-10-12T11:42:40.690767+00:00",
   "failures": [
     "vox"
   ],
@@ -407,26 +407,6 @@
       ],
       "runtime_min": 141,
       "trailer_youtube_id": "FL5RBUGHOAY"
-    },
-    "wake": {
-      "title_en": "Wake",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Wake/HO00004453"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004453_116.jpg",
-      "title_ar": "ويك",
-      "synopsis_ar": "في سعيها للحصول على دور البطولة في إعادة تصوير فيلم كلاسيكي، تتتبع ممثلة شابة بطلة الفيلم الأصلي التي باتت تعيش منعزلةً في غموض. سرعان ما تتحول لقاءاتهما إلى كابوس.",
-      "genres_ar": [
-        "رعب"
-      ],
-      "runtime_min": 85,
-      "trailer_youtube_id": "OqblSi-Ds3k"
     },
     "drishyamtheconclusion": {
       "title_en": "Drishyam:The Conclusion - Hindi",
