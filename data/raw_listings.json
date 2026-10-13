@@ -1,9 +1,48 @@
 {
-  "scraped_at": "2026-10-12T11:42:40.690767+00:00",
+  "scraped_at": "2026-10-13T11:28:36.646815+00:00",
   "failures": [
     "vox"
   ],
   "movies": {
+    "whalefall": {
+      "title_en": "Whalefall",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/whalefall/9999001520/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001520.jpg"
+    },
+    "streetfighter": {
+      "title_en": "Street Fighter",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/street-fighter/9999001519/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001519.jpg"
+    },
+    "saoudwainahqatari": {
+      "title_en": "Saoud Wainah (Qatari)",
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/saoud-wainah-(qatari)-arabic/9999001518/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001518.jpg"
+    },
     "matloubaaeleyan": {
       "title_en": "Matloub Aaeleyan (Egyptian) - Arabic",
       "languages": [

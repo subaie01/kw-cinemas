@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T11:42:47.263105+00:00",
+  "last_updated": "2026-10-13T11:28:48.285265+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -15,6 +15,33 @@
     }
   },
   "movies": [
+    {
+      "id": "wd-Q134876629",
+      "title_ar": "سقوط الحوت",
+      "title_en": "Whalefall",
+      "synopsis_ar": "سقوط الحوت هو فلم بقاء وإثارة أمريكي قادم، من إخراج وإنتاج بريان دوفيلد، ومقتبس من رواية تحمل العنوان نفسه، صدرت عام 2023 للكاتب دانيال كراوس، الذي شارك دوفيلد في كتابة السيناريو. ويتتبع الفلم غواصًا ، يبتلعه حوت أثناء بحثه عن رفات والده ، فيجد نفسه محاصرًا في جوفه ويحاول النجاة. كما يشارك في الفلم إليزابيث شو وجون أورتيز وجين ليفي وإميلي رود.",
+      "genres_ar": [
+        "فلم البقاء على قيد الحياة",
+        "فلم إثارة"
+      ],
+      "runtime_min": 98,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001520.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Whalefall%20official%20trailer",
+      "ratings": {},
+      "imdb_id": "tt28535715",
+      "release_date": "2026-10-15",
+      "matched": true,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/whalefall/9999001520/NowShowing"
+        }
+      ]
+    },
     {
       "id": "wd-Q136387857",
       "title_ar": "الحساب الاجتماعي",
@@ -171,6 +198,57 @@
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/other-mommy/9999001516/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "local-streetfighter",
+      "title_ar": "Street Fighter",
+      "title_en": "Street Fighter",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001519.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Street%20Fighter%20official%20trailer",
+      "ratings": {
+        "imdb": "4.2",
+        "rotten_tomatoes": "11%"
+      },
+      "imdb_id": "tt0111301",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/street-fighter/9999001519/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "local-saoudwainahqatari",
+      "title_ar": "Saoud Wainah (Qatari)",
+      "title_en": "Saoud Wainah (Qatari)",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001518.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Saoud%20Wainah%20%28Qatari%29%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/saoud-wainah-(qatari)-arabic/9999001518/NowShowing"
         }
       ]
     },
