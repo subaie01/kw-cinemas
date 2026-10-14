@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-13T11:28:36.646815+00:00",
+  "scraped_at": "2026-10-14T09:20:42.608420+00:00",
   "failures": [
     "vox"
   ],
@@ -11,11 +11,22 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Whalefall/HO00004404"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/whalefall/9999001520/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001520.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001520.jpg",
+      "title_ar": "وايل فال",
+      "synopsis_ar": "يتبع غواصًا، أثناء البحث عن رفات والده، يبتلعه حوت منوي يبلغ طوله 80 قدمًا و 60 طنًا ولديه ساعة واحدة فقط للخروج قبل نفاد الأكسجين.",
+      "genres_ar": [
+        "إثارة"
+      ],
+      "runtime_min": 105,
+      "trailer_youtube_id": "qYVrqPSd1Cw"
     },
     "streetfighter": {
       "title_en": "Street Fighter",
@@ -24,24 +35,48 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Street-Fighter/HO00004276"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/street-fighter/9999001519/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001519.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001519.jpg",
+      "title_ar": "ستريت فايتر",
+      "synopsis_ar": "في عام 1993، تم إلقاء مقاتلي الشوارع المنفصلين ريو (أندرو كوجي) وكين ماسترز (نواه سينتينيو) مرة أخرى في القتال عندما قام تشون لي (كالينا ليانغ) الغامض بتجنيدهم في بطولة المحارب العالمي التالية: صدام وحشي بين القبضات والمصير والغضب.",
+      "genres_ar": [
+        "أكشن",
+        "دراما"
+      ],
+      "runtime_min": 110,
+      "trailer_youtube_id": "1gNRoqYwwbM"
     },
     "saoudwainahqatari": {
-      "title_en": "Saoud Wainah (Qatari)",
+      "title_en": "Saoud Wainah (Qatari) - Arabic",
       "languages": [
         "Arabic"
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Saoud-Wainah-(Qatari)---Arabic/HO00004550"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/saoud-wainah-(qatari)-arabic/9999001518/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001518.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001518.jpg",
+      "title_ar": "سعود وينه (فيلم قطري)",
+      "synopsis_ar": "تخطئ الخدعة السحرية بشكل فظيع عندما يحاول شقيقان تكرارها بعد سنوات من تعلمها من والدهما.",
+      "genres_ar": [
+        "غموض",
+        "اثارة"
+      ],
+      "runtime_min": 81,
+      "trailer_youtube_id": "Z-XMo0oQt1A"
     },
     "matloubaaeleyan": {
       "title_en": "Matloub Aaeleyan (Egyptian) - Arabic",
@@ -279,46 +314,92 @@
       "runtime_min": 94,
       "trailer_youtube_id": "Qmr46ekFKt8"
     },
-    "sb19wakasatsimulathetrilogyfilipino": {
-      "title_en": "SB19 Wakas at Simula:The Trilogy - Filipino",
-      "languages": [
-        "Filipino"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/SB19-Wakas-at-Simula:The-Trilogy---Filipino/HO00004502"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004502_391.jpg",
-      "title_ar": "سب ١٩ واكس ات سيمولا : ذا ترولجي",
-      "synopsis_ar": "تم التقاطها أمام حشد قياسي من 100000 معجب، وتأتي Wakas التاريخية لـ SB19 في Simula: The Trilogy Concert Finale إلى الشاشة الكبيرة في احتفال قوي بالموسيقى والفاندوم والبدايات الجديدة.",
-      "genres_ar": [
-        "موسيقى"
-      ],
-      "runtime_min": 130,
-      "trailer_youtube_id": "eoZX2SETdA0"
-    },
-    "bewareboiuna": {
-      "title_en": "Beware Boiúna",
+    "smurfstimelessadventurevolume2": {
+      "title_en": "The Smurfs Timeless Adventure Volume 2",
       "languages": [
         "English"
       ],
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Beware-Boiúna/HO00004523"
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Smurfs-Timeless-Adventure-Volume-2/HO00004496"
         }
       ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004523_221.jpg",
-      "title_ar": "بيوير بوينا",
-      "synopsis_ar": "يشرع فريق من الأطباء في مهمة محلية في غابة الأمازون المطيرة، ولكن سرعان ما يتضح أنه ليس الجميع - أو كل شيء - سعداء برؤيتهم. يجذب وصولهم انتباه المفترس القديم العملاق، المهيمن على الأرض والمياه، الذي يخرج لاستعادة الغابة.",
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004496_882.jpg",
+      "title_ar": "ذا سمارفز تايمزليس ادفنجر فوليوم 2",
+      "synopsis_ar": "انضم إلى السنافر في مجموعة من المغامرات المليئة بالمرح المليئة بالاختراعات البرية والمسابقات المثيرة والعمل الجماعي والمهام الفوضوية. من المسابقات الرياضية إلى اللقاءات المضحكة مع جارغامل، يكتشف السنافر أن الصداقة والشجاعة تنقذان اليوم دائمًا.",
       "genres_ar": [
-        "إثارة",
-        "رعب"
+        "مغامرات",
+        "كوميدي"
       ],
-      "runtime_min": 99,
-      "trailer_youtube_id": "PRkA_Igeqr4"
+      "runtime_min": 78,
+      "trailer_youtube_id": "MHApR8KopaE"
+    },
+    "coyotevsacme": {
+      "title_en": "Coyote vs Acme",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Coyote-vs-Acme/HO00004371"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004371_597.-Acme.jpg",
+      "title_ar": "كايوتي ضد آكمي",
+      "synopsis_ar": "قصة تدور داخل مستودعات شركة آكمي، المصنعة لكل ما يستخدمه شخصيات لوني تونز من أي شيء وكل شيء.",
+      "genres_ar": [
+        "رسوم متحركة",
+        "مغامرات",
+        "كوميدي"
+      ],
+      "runtime_min": 103,
+      "trailer_youtube_id": "aSW5ky6fTJc"
+    },
+    "spidermanbrandnewday": {
+      "title_en": "Spider Man: Brand New Day",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Spider-Man:-Brand-New-Day/HO00004304"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004304_849.jpg",
+      "title_ar": "سبايدر مان : براند نو داي",
+      "synopsis_ar": "إنه يوم جديد لبيتر باركر. إن مكافحة الجريمة بدوام كامل كرجل العنكبوت في عالم لا يتذكره - وضغط رؤية أصدقائه القدامى يمضون قدمًا بدونه - يثير تغييرًا في بيتر قد لا يكون لديه القدرة على السيطرة عليه.",
+      "genres_ar": [
+        "أكشن",
+        "مغامرات",
+        "خيالي"
+      ],
+      "runtime_min": 141,
+      "trailer_youtube_id": "FL5RBUGHOAY"
+    },
+    "pressure": {
+      "title_en": "Pressure",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Pressure/HO00004464"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004464_279.jpg",
+      "title_ar": "برشر",
+      "synopsis_ar": "في التوتر قبل 72 ساعة من يوم النصر، ومصير العالم الحر معلق في الميزان، يواجه الجنرال دوايت أيزنهاور والكابتن جيمس ستاغ خيارًا مستحيلًا - إطلاق أكبر وأخطر غزو بحري في التاريخ أو المخاطرة بخسارة الحرب تمامًا.",
+      "genres_ar": [
+        "دراما",
+        "تاريخي",
+        "إثارة"
+      ],
+      "runtime_min": 100,
+      "trailer_youtube_id": "jlRWt-UgWQo"
     },
     "redflag": {
       "title_en": "Red Flag (Egyptian) - Arabic",
@@ -360,92 +441,26 @@
       ],
       "runtime_min": 92
     },
-    "coyotevsacme": {
-      "title_en": "Coyote vs Acme",
+    "bewareboiuna": {
+      "title_en": "Beware Boiúna",
       "languages": [
         "English"
       ],
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Coyote-vs-Acme/HO00004371"
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Beware-Boiúna/HO00004523"
         }
       ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004371_597.-Acme.jpg",
-      "title_ar": "كايوتي ضد آكمي",
-      "synopsis_ar": "قصة تدور داخل مستودعات شركة آكمي، المصنعة لكل ما يستخدمه شخصيات لوني تونز من أي شيء وكل شيء.",
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004523_221.jpg",
+      "title_ar": "بيوير بوينا",
+      "synopsis_ar": "يشرع فريق من الأطباء في مهمة محلية في غابة الأمازون المطيرة، ولكن سرعان ما يتضح أنه ليس الجميع - أو كل شيء - سعداء برؤيتهم. يجذب وصولهم انتباه المفترس القديم العملاق، المهيمن على الأرض والمياه، الذي يخرج لاستعادة الغابة.",
       "genres_ar": [
-        "رسوم متحركة",
-        "مغامرات",
-        "كوميدي"
+        "إثارة",
+        "رعب"
       ],
-      "runtime_min": 103,
-      "trailer_youtube_id": "aSW5ky6fTJc"
-    },
-    "smurfstimelessadventurevolume2": {
-      "title_en": "The Smurfs Timeless Adventure Volume 2",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Smurfs-Timeless-Adventure-Volume-2/HO00004496"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004496_882.jpg",
-      "title_ar": "ذا سمارفز تايمزليس ادفنجر فوليوم 2",
-      "synopsis_ar": "انضم إلى السنافر في مجموعة من المغامرات المليئة بالمرح المليئة بالاختراعات البرية والمسابقات المثيرة والعمل الجماعي والمهام الفوضوية. من المسابقات الرياضية إلى اللقاءات المضحكة مع جارغامل، يكتشف السنافر أن الصداقة والشجاعة تنقذان اليوم دائمًا.",
-      "genres_ar": [
-        "مغامرات",
-        "كوميدي"
-      ],
-      "runtime_min": 78,
-      "trailer_youtube_id": "MHApR8KopaE"
-    },
-    "pressure": {
-      "title_en": "Pressure",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Pressure/HO00004464"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004464_279.jpg",
-      "title_ar": "برشر",
-      "synopsis_ar": "في التوتر قبل 72 ساعة من يوم النصر، ومصير العالم الحر معلق في الميزان، يواجه الجنرال دوايت أيزنهاور والكابتن جيمس ستاغ خيارًا مستحيلًا - إطلاق أكبر وأخطر غزو بحري في التاريخ أو المخاطرة بخسارة الحرب تمامًا.",
-      "genres_ar": [
-        "دراما",
-        "تاريخي",
-        "إثارة"
-      ],
-      "runtime_min": 100,
-      "trailer_youtube_id": "jlRWt-UgWQo"
-    },
-    "spidermanbrandnewday": {
-      "title_en": "Spider Man: Brand New Day",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Spider-Man:-Brand-New-Day/HO00004304"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004304_849.jpg",
-      "title_ar": "سبايدر مان : براند نو داي",
-      "synopsis_ar": "إنه يوم جديد لبيتر باركر. إن مكافحة الجريمة بدوام كامل كرجل العنكبوت في عالم لا يتذكره - وضغط رؤية أصدقائه القدامى يمضون قدمًا بدونه - يثير تغييرًا في بيتر قد لا يكون لديه القدرة على السيطرة عليه.",
-      "genres_ar": [
-        "أكشن",
-        "مغامرات",
-        "خيالي"
-      ],
-      "runtime_min": 141,
-      "trailer_youtube_id": "FL5RBUGHOAY"
+      "runtime_min": 99,
+      "trailer_youtube_id": "PRkA_Igeqr4"
     },
     "drishyamtheconclusion": {
       "title_en": "Drishyam:The Conclusion - Hindi",
@@ -468,6 +483,26 @@
       ],
       "runtime_min": 148,
       "trailer_youtube_id": "zjPXHHt4nq0"
+    },
+    "jailer2": {
+      "title_en": "Jailer 2 - Tamil",
+      "languages": [
+        "Tamil"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Jailer-2---Tamil/HO00004541"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004541_998.jpg",
+      "title_ar": "جايلر ٢",
+      "synopsis_ar": "يتبع السجان 2 السجان المتقاعد تايجر موثوفيل بانديان (راجينيكانث) كتهديد جديد من عالم الجريمة الإجرامي الذي يحطم حياته السلمية، مما يجبره على العودة إلى طرقه القاسية لحماية عائلته وإرثه.",
+      "genres_ar": [
+        "أكشن"
+      ],
+      "runtime_min": 163,
+      "trailer_youtube_id": "lKKpJB8xqzI"
     }
   }
 }

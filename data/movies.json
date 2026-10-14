@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T11:28:48.285265+00:00",
+  "last_updated": "2026-10-14T09:20:51.732566+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -37,6 +37,10 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Whalefall/HO00004404"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/whalefall/9999001520/NowShowing"
         }
@@ -56,7 +60,7 @@
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Social%20Reckoning%20official%20trailer",
       "ratings": {
-        "imdb": "6.8"
+        "imdb": "6.7"
       },
       "imdb_id": "tt37510326",
       "release_date": "2026-10-08",
@@ -117,7 +121,7 @@
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Florist%20official%20trailer",
       "ratings": {
-        "imdb": "4.8"
+        "imdb": "4.9"
       },
       "imdb_id": "tt33214716",
       "release_date": "2026-08-25",
@@ -223,6 +227,10 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Street-Fighter/HO00004276"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/street-fighter/9999001519/NowShowing"
         }
@@ -246,6 +254,10 @@
         "Arabic"
       ],
       "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Saoud-Wainah-(Qatari)---Arabic/HO00004550"
+        },
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/saoud-wainah-(qatari)-arabic/9999001518/NowShowing"
@@ -453,28 +465,80 @@
       ]
     },
     {
-      "id": "local-sb19wakasatsimulathetrilogyfilipino",
-      "title_ar": "سب ١٩ واكس ات سيمولا : ذا ترولجي",
-      "title_en": "SB19 Wakas at Simula:The Trilogy - Filipino",
-      "synopsis_ar": "تم التقاطها أمام حشد قياسي من 100000 معجب، وتأتي Wakas التاريخية لـ SB19 في Simula: The Trilogy Concert Finale إلى الشاشة الكبيرة في احتفال قوي بالموسيقى والفاندوم والبدايات الجديدة.",
-      "genres_ar": [
-        "موسيقى"
-      ],
-      "runtime_min": 130,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004502_391.jpg",
-      "trailer_youtube_id": "eoZX2SETdA0",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=SB19%20Wakas%20at%20Simula%3AThe%20Trilogy%20-%20Filipino%20official%20trailer",
+      "id": "local-smurfstimelessadventurevolume2",
+      "title_ar": "The Smurfs Timeless Adventure Volume 2",
+      "title_en": "The Smurfs Timeless Adventure Volume 2",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001498.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Smurfs%20Timeless%20Adventure%20Volume%202%20official%20trailer",
       "ratings": {},
       "imdb_id": null,
       "release_date": null,
       "matched": false,
       "languages": [
-        "Filipino"
+        "English"
       ],
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/SB19-Wakas-at-Simula:The-Trilogy---Filipino/HO00004502"
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Smurfs-Timeless-Adventure-Volume-2/HO00004496"
+        }
+      ]
+    },
+    {
+      "id": "local-coyotevsacme",
+      "title_ar": "Coyote Vs Acme",
+      "title_en": "Coyote Vs Acme",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001479.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Coyote%20Vs%20Acme%20official%20trailer",
+      "ratings": {
+        "imdb": "7.6",
+        "rotten_tomatoes": "96%"
+      },
+      "imdb_id": "tt1756855",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Coyote-vs-Acme/HO00004371"
+        }
+      ]
+    },
+    {
+      "id": "local-pressure",
+      "title_ar": "Pressure",
+      "title_en": "Pressure",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001495.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Pressure%20official%20trailer",
+      "ratings": {
+        "imdb": "7.3",
+        "rotten_tomatoes": "89%"
+      },
+      "imdb_id": "tt32547691",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Pressure/HO00004464"
         }
       ]
     },
@@ -530,84 +594,6 @@
       ]
     },
     {
-      "id": "local-coyotevsacme",
-      "title_ar": "Coyote Vs Acme",
-      "title_en": "Coyote Vs Acme",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001479.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Coyote%20Vs%20Acme%20official%20trailer",
-      "ratings": {
-        "imdb": "7.6",
-        "rotten_tomatoes": "96%"
-      },
-      "imdb_id": "tt1756855",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Coyote-vs-Acme/HO00004371"
-        }
-      ]
-    },
-    {
-      "id": "local-smurfstimelessadventurevolume2",
-      "title_ar": "The Smurfs Timeless Adventure Volume 2",
-      "title_en": "The Smurfs Timeless Adventure Volume 2",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001498.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Smurfs%20Timeless%20Adventure%20Volume%202%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Smurfs-Timeless-Adventure-Volume-2/HO00004496"
-        }
-      ]
-    },
-    {
-      "id": "local-pressure",
-      "title_ar": "Pressure",
-      "title_en": "Pressure",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001495.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Pressure%20official%20trailer",
-      "ratings": {
-        "imdb": "7.3",
-        "rotten_tomatoes": "89%"
-      },
-      "imdb_id": "tt32547691",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Pressure/HO00004464"
-        }
-      ]
-    },
-    {
       "id": "local-drishyamtheconclusion",
       "title_ar": "درشيام ذا كونسليوشن (هندي)",
       "title_en": "Drishyam:The Conclusion - Hindi",
@@ -634,6 +620,32 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Drishyam:The-Conclusion---Hindi/HO00004533"
+        }
+      ]
+    },
+    {
+      "id": "wd-Q133255153",
+      "title_ar": "جايلر ٢",
+      "title_en": "Jailer 2 - Tamil",
+      "synopsis_ar": "يتبع السجان 2 السجان المتقاعد تايجر موثوفيل بانديان (راجينيكانث) كتهديد جديد من عالم الجريمة الإجرامي الذي يحطم حياته السلمية، مما يجبره على العودة إلى طرقه القاسية لحماية عائلته وإرثه.",
+      "genres_ar": [
+        "أكشن"
+      ],
+      "runtime_min": 163,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004541_998.jpg",
+      "trailer_youtube_id": "lKKpJB8xqzI",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Jailer%202%20-%20Tamil%20official%20trailer",
+      "ratings": {},
+      "imdb_id": "tt33318732",
+      "release_date": null,
+      "matched": true,
+      "languages": [
+        "Tamil"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Jailer-2---Tamil/HO00004541"
         }
       ]
     }
