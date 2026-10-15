@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-14T09:20:42.608420+00:00",
+  "scraped_at": "2026-10-15T08:55:52.966723+00:00",
   "failures": [
     "vox"
   ],
@@ -21,7 +21,7 @@
       ],
       "poster_src": "https://www.skycinemaskw.com/images/movies/9999001520.jpg",
       "title_ar": "وايل فال",
-      "synopsis_ar": "يتبع غواصًا، أثناء البحث عن رفات والده، يبتلعه حوت منوي يبلغ طوله 80 قدمًا و 60 طنًا ولديه ساعة واحدة فقط للخروج قبل نفاد الأكسجين.",
+      "synopsis_ar": "يتبع غواصًا، أثناء البحث عن رفات والده، يبتلعه حوت يبلغ طوله 80 قدمًا و 60 طنًا ولديه ساعة واحدة فقط للخروج قبل نفاد الأكسجين.",
       "genres_ar": [
         "إثارة"
       ],
@@ -152,70 +152,6 @@
       "runtime_min": 112,
       "trailer_youtube_id": "rdTzW1xIQTI"
     },
-    "bewareboluna": {
-      "title_en": "Beware Boluna",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/beware-boluna/9999001514/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001514.jpg"
-    },
-    "florist": {
-      "title_en": "The Florist",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Florist/HO00004504"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/the-florist/9999001513/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001513.jpg",
-      "title_ar": "ذا فلورست",
-      "synopsis_ar": "يجد بستاني هادئ يؤوي حياة سرية كقاتل قاتل أن هويته الحقيقية معرضة للخطر عندما يشكل صداقة غير محتملة مع شهود على فساد الشرطة.",
-      "genres_ar": [
-        "أكشن",
-        "إثارة"
-      ],
-      "runtime_min": 97,
-      "trailer_youtube_id": "IwHrPPJ-1Cs"
-    },
-    "beast": {
-      "title_en": "The Beast",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Beast/HO00004535"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/the-beast/9999001512/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001512.jpg",
-      "title_ar": "ذا بيست",
-      "synopsis_ar": "عندما تقوم ميليشيا من الأعداء المجهولين بتنسيق انقلاب ضد الولايات المتحدة، يكشف الرئيس عن مدى القدرات الهجومية السرية للغاية للوحش من أجل إنقاذ حياته وأمريكا.",
-      "genres_ar": [
-        "أكشن",
-        "إثارة",
-        "دراما"
-      ],
-      "runtime_min": 100,
-      "trailer_youtube_id": "jtqOzKRMDes"
-    },
     "verity": {
       "title_en": "Verity",
       "languages": [
@@ -241,34 +177,8 @@
       "runtime_min": 108,
       "trailer_youtube_id": "FueZihqk8jM"
     },
-    "digger": {
-      "title_en": "Digger",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Digger/HO00004277"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/digger/9999001509/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001509.jpg",
-      "title_ar": "ديغر",
-      "synopsis_ar": "يشرع أقوى رجل في العالم في مهمة خطيرة لإثبات أنه منقذ البشرية قبل أن تدمر الكارثة التي أطلقها كل شيء.",
-      "genres_ar": [
-        "كوميدي",
-        "أكشن",
-        "دراما"
-      ],
-      "runtime_min": 128,
-      "trailer_youtube_id": "yIaR-63XB54"
-    },
     "heartofthebeast": {
-      "title_en": "Heart Of The Beast",
+      "title_en": "Heart of the Beast",
       "languages": [
         "English"
       ],
@@ -276,13 +186,9 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Heart-of-the-Beast/HO00004466"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/heart-of-the-beast/9999001504/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001504.jpg",
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004466_650.jpg",
       "title_ar": "هارت اوف ذا بيست",
       "synopsis_ar": "بعد حادث تحطم طائرة مروع، يجد ضابط القوات الخاصة جيمس بلمونت (براد بيت) وكلبه القتالي، أودين، أنفسهم عالقين في عمق برية ألاسكا. معا، يضطرون إلى قتال وحشي من أجل البقاء ضد العناصر.",
       "genres_ar": [
@@ -313,6 +219,50 @@
       ],
       "runtime_min": 94,
       "trailer_youtube_id": "Qmr46ekFKt8"
+    },
+    "beast": {
+      "title_en": "The Beast",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Beast/HO00004535"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004535_155.jpg",
+      "title_ar": "ذا بيست",
+      "synopsis_ar": "عندما تقوم ميليشيا من الأعداء المجهولين بتنسيق انقلاب ضد الولايات المتحدة، يكشف الرئيس عن مدى القدرات الهجومية السرية للغاية للوحش من أجل إنقاذ حياته وأمريكا.",
+      "genres_ar": [
+        "أكشن",
+        "إثارة",
+        "دراما"
+      ],
+      "runtime_min": 100,
+      "trailer_youtube_id": "jtqOzKRMDes"
+    },
+    "digger": {
+      "title_en": "Digger",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Digger/HO00004277"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004277_159.jpg",
+      "title_ar": "ديغر",
+      "synopsis_ar": "يشرع أقوى رجل في العالم في مهمة خطيرة لإثبات أنه منقذ البشرية قبل أن تدمر الكارثة التي أطلقها كل شيء.",
+      "genres_ar": [
+        "كوميدي",
+        "أكشن",
+        "دراما"
+      ],
+      "runtime_min": 128,
+      "trailer_youtube_id": "yIaR-63XB54"
     },
     "smurfstimelessadventurevolume2": {
       "title_en": "The Smurfs Timeless Adventure Volume 2",
@@ -357,111 +307,6 @@
       "runtime_min": 103,
       "trailer_youtube_id": "aSW5ky6fTJc"
     },
-    "spidermanbrandnewday": {
-      "title_en": "Spider Man: Brand New Day",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Spider-Man:-Brand-New-Day/HO00004304"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004304_849.jpg",
-      "title_ar": "سبايدر مان : براند نو داي",
-      "synopsis_ar": "إنه يوم جديد لبيتر باركر. إن مكافحة الجريمة بدوام كامل كرجل العنكبوت في عالم لا يتذكره - وضغط رؤية أصدقائه القدامى يمضون قدمًا بدونه - يثير تغييرًا في بيتر قد لا يكون لديه القدرة على السيطرة عليه.",
-      "genres_ar": [
-        "أكشن",
-        "مغامرات",
-        "خيالي"
-      ],
-      "runtime_min": 141,
-      "trailer_youtube_id": "FL5RBUGHOAY"
-    },
-    "pressure": {
-      "title_en": "Pressure",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Pressure/HO00004464"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004464_279.jpg",
-      "title_ar": "برشر",
-      "synopsis_ar": "في التوتر قبل 72 ساعة من يوم النصر، ومصير العالم الحر معلق في الميزان، يواجه الجنرال دوايت أيزنهاور والكابتن جيمس ستاغ خيارًا مستحيلًا - إطلاق أكبر وأخطر غزو بحري في التاريخ أو المخاطرة بخسارة الحرب تمامًا.",
-      "genres_ar": [
-        "دراما",
-        "تاريخي",
-        "إثارة"
-      ],
-      "runtime_min": 100,
-      "trailer_youtube_id": "jlRWt-UgWQo"
-    },
-    "redflag": {
-      "title_en": "Red Flag (Egyptian) - Arabic",
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Red-Flag-(Egyptian)---Arabic/HO00004493"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004493_721.jpg",
-      "title_ar": "ريد فلاج",
-      "synopsis_ar": "تتبع القصة الطيار أحمد وزوجته، مديرة شركة إعلانات، وتسلط الضوء على تحديات الحب والتردد والثقة والخيانة في علاقات الأزواج الشباب.",
-      "genres_ar": [
-        "كوميدي"
-      ],
-      "runtime_min": 100,
-      "trailer_youtube_id": "uO2BKCC85rY"
-    },
-    "shishdou": {
-      "title_en": "Shish Dou (Egyptian) - Arabic",
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Shish-Dou-(Egyptian)---Arabic/HO00004520"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004520_855.jpg",
-      "title_ar": "شيش دو",
-      "synopsis_ar": "شيش دو هي دراما كوميدية تتكشف على مدار ليلة واحدة، وتكشف هشاشة الطبقات الاجتماعية المختلفة. تعثر صديقان في منتصف العمر، عادل ونبيل، بعد سنوات من المشقة، على طارق، وهو شاب ثري فاقد الوعي بعد شجار.",
-      "genres_ar": [
-        "كوميدي",
-        "دراما"
-      ],
-      "runtime_min": 92
-    },
-    "bewareboiuna": {
-      "title_en": "Beware Boiúna",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Beware-Boiúna/HO00004523"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004523_221.jpg",
-      "title_ar": "بيوير بوينا",
-      "synopsis_ar": "يشرع فريق من الأطباء في مهمة محلية في غابة الأمازون المطيرة، ولكن سرعان ما يتضح أنه ليس الجميع - أو كل شيء - سعداء برؤيتهم. يجذب وصولهم انتباه المفترس القديم العملاق، المهيمن على الأرض والمياه، الذي يخرج لاستعادة الغابة.",
-      "genres_ar": [
-        "إثارة",
-        "رعب"
-      ],
-      "runtime_min": 99,
-      "trailer_youtube_id": "PRkA_Igeqr4"
-    },
     "drishyamtheconclusion": {
       "title_en": "Drishyam:The Conclusion - Hindi",
       "languages": [
@@ -483,6 +328,27 @@
       ],
       "runtime_min": 148,
       "trailer_youtube_id": "zjPXHHt4nq0"
+    },
+    "ranabaali": {
+      "title_en": "Ranabaali - Telugu",
+      "languages": [
+        "Telugu"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Ranabaali---Telugu/HO00004554"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004554_906.jpg",
+      "title_ar": "رانابالي",
+      "synopsis_ar": "يتبع محاربًا متمردًا في سبعينيات القرن التاسع عشر في جنوب الهند أثناء المجاعة الكبرى يواجه مفوضًا بريطانيًا بينما يحمي منطقته وشعبه.",
+      "genres_ar": [
+        "أكشن",
+        "دراما"
+      ],
+      "runtime_min": 178,
+      "trailer_youtube_id": "9fN3QCvD_wA"
     },
     "jailer2": {
       "title_en": "Jailer 2 - Tamil",

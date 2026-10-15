@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14T09:20:51.732566+00:00",
+  "last_updated": "2026-10-15T08:56:00.108696+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -80,100 +80,6 @@
       ]
     },
     {
-      "id": "wd-Q141052811",
-      "title_ar": "بيوير بوينا",
-      "title_en": "Beware Boiúna",
-      "synopsis_ar": "يشرع فريق من الأطباء في مهمة محلية في غابة الأمازون المطيرة، ولكن سرعان ما يتضح أنه ليس الجميع - أو كل شيء - سعداء برؤيتهم. يجذب وصولهم انتباه المفترس القديم العملاق، المهيمن على الأرض والمياه، الذي يخرج لاستعادة الغابة.",
-      "genres_ar": [
-        "إثارة",
-        "رعب"
-      ],
-      "runtime_min": 99,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004523_221.jpg",
-      "trailer_youtube_id": "PRkA_Igeqr4",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Beware%20Boi%C3%BAna%20official%20trailer",
-      "ratings": {
-        "imdb": "6.1"
-      },
-      "imdb_id": "tt10377864",
-      "release_date": "2026-10-08",
-      "matched": true,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Beware-Boiúna/HO00004523"
-        }
-      ]
-    },
-    {
-      "id": "wd-Q134888419",
-      "title_ar": "The Florist",
-      "title_en": "The Florist",
-      "synopsis_ar": "",
-      "genres_ar": [
-        "فلم أكشن"
-      ],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001513.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Florist%20official%20trailer",
-      "ratings": {
-        "imdb": "4.9"
-      },
-      "imdb_id": "tt33214716",
-      "release_date": "2026-08-25",
-      "matched": true,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Florist/HO00004504"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/the-florist/9999001513/NowShowing"
-        }
-      ]
-    },
-    {
-      "id": "wd-Q113244935",
-      "title_ar": "الرجل العنكبوت: يوم جديد",
-      "title_en": "Spider Man: Brand New Day",
-      "synopsis_ar": "الرجل العنكبوت: يوم جديد هو فلم بطل خارق أمريكي قادم، يستند إلى شخصية الرجل العنكبوت من قصص مارفل المصورة، من إنتاج مشترك بين كولومبيا بيكتشرز واستوديوهات مارفل، وتوزيع سوني بيكتشرز ريليسنغ. من المقرر أن يكون الفلم الثامن والثلاثين في عالم مارفل السينمائي (MCU)، والرابع ضمن سلسلة أفلام الرجل العنكبوت في هذا العالم بعد الرجل العنكبوت: لا طريق للوطن (2021). الفلم من إخراج ديستين دانيال كريتون، عن سيناريو من تأليف كريس ماكينا وإريك سومرز، وبطولة توم هولاند في دور بيتر باركر / الرجل العنكبوت، إلى جانب زندايا، جيكوب باتالون، تشارلي كوكس، سيدي سينك، ليزا كولون-زايس، وجون بيرنثال.",
-      "genres_ar": [
-        "فلم مغامرة",
-        "فلم خيال",
-        "فلم أكشن",
-        "فلم خيال علمي",
-        "فلم بطل خارق"
-      ],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001463.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Spider%20Man%3A%20Brand%20New%20Day%20official%20trailer",
-      "ratings": {
-        "imdb": "7.9",
-        "rotten_tomatoes": "90%"
-      },
-      "imdb_id": "tt22084616",
-      "release_date": "2026-07-29",
-      "matched": true,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Spider-Man:-Brand-New-Day/HO00004304"
-        }
-      ]
-    },
-    {
       "id": "wd-Q134588273",
       "title_ar": "Other Mommy",
       "title_en": "Other Mommy",
@@ -186,7 +92,7 @@
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=Other%20Mommy%20official%20trailer",
       "ratings": {
-        "imdb": "5.5"
+        "imdb": "5.4"
       },
       "imdb_id": "tt36586020",
       "release_date": "2026-05-08",
@@ -293,61 +199,6 @@
       ]
     },
     {
-      "id": "local-bewareboluna",
-      "title_ar": "Beware Boluna",
-      "title_en": "Beware Boluna",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001514.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Beware%20Boluna%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/beware-boluna/9999001514/NowShowing"
-        }
-      ]
-    },
-    {
-      "id": "local-beast",
-      "title_ar": "The Beast",
-      "title_en": "The Beast",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001512.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Beast%20official%20trailer",
-      "ratings": {
-        "imdb": "6.4",
-        "rotten_tomatoes": "86%"
-      },
-      "imdb_id": "tt14407336",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Beast/HO00004535"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/the-beast/9999001512/NowShowing"
-        }
-      ]
-    },
-    {
       "id": "local-verity",
       "title_ar": "Verity",
       "title_en": "Verity",
@@ -376,37 +227,6 @@
       ]
     },
     {
-      "id": "local-digger",
-      "title_ar": "Digger",
-      "title_en": "Digger",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001509.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Digger%20official%20trailer",
-      "ratings": {
-        "imdb": "7.4",
-        "rotten_tomatoes": "70%"
-      },
-      "imdb_id": "tt9389916",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Digger/HO00004277"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/digger/9999001509/NowShowing"
-        }
-      ]
-    },
-    {
       "id": "local-heartofthebeast",
       "title_ar": "Heart Of The Beast",
       "title_en": "Heart Of The Beast",
@@ -430,10 +250,6 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Heart-of-the-Beast/HO00004466"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/heart-of-the-beast/9999001504/NowShowing"
         }
       ]
     },
@@ -461,6 +277,60 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Resident-Evil/HO00004405"
+        }
+      ]
+    },
+    {
+      "id": "local-beast",
+      "title_ar": "The Beast",
+      "title_en": "The Beast",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001512.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Beast%20official%20trailer",
+      "ratings": {
+        "imdb": "6.4",
+        "rotten_tomatoes": "86%"
+      },
+      "imdb_id": "tt14407336",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Beast/HO00004535"
+        }
+      ]
+    },
+    {
+      "id": "local-digger",
+      "title_ar": "Digger",
+      "title_en": "Digger",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001509.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Digger%20official%20trailer",
+      "ratings": {
+        "imdb": "7.4",
+        "rotten_tomatoes": "70%"
+      },
+      "imdb_id": "tt9389916",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Digger/HO00004277"
         }
       ]
     },
@@ -516,84 +386,6 @@
       ]
     },
     {
-      "id": "local-pressure",
-      "title_ar": "Pressure",
-      "title_en": "Pressure",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001495.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Pressure%20official%20trailer",
-      "ratings": {
-        "imdb": "7.3",
-        "rotten_tomatoes": "89%"
-      },
-      "imdb_id": "tt32547691",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Pressure/HO00004464"
-        }
-      ]
-    },
-    {
-      "id": "local-redflag",
-      "title_ar": "Red Flag",
-      "title_en": "Red Flag",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001491.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Red%20Flag%20official%20trailer",
-      "ratings": {
-        "imdb": "5.5",
-        "rotten_tomatoes": "74%"
-      },
-      "imdb_id": "tt2147048",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Red-Flag-(Egyptian)---Arabic/HO00004493"
-        }
-      ]
-    },
-    {
-      "id": "local-shishdou",
-      "title_ar": "Shish Dou",
-      "title_en": "Shish Dou",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001501.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Shish%20Dou%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Shish-Dou-(Egyptian)---Arabic/HO00004520"
-        }
-      ]
-    },
-    {
       "id": "local-drishyamtheconclusion",
       "title_ar": "درشيام ذا كونسليوشن (هندي)",
       "title_en": "Drishyam:The Conclusion - Hindi",
@@ -620,6 +412,33 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Drishyam:The-Conclusion---Hindi/HO00004533"
+        }
+      ]
+    },
+    {
+      "id": "wd-Q140419781",
+      "title_ar": "رانابالي",
+      "title_en": "Ranabaali - Telugu",
+      "synopsis_ar": "يتبع محاربًا متمردًا في سبعينيات القرن التاسع عشر في جنوب الهند أثناء المجاعة الكبرى يواجه مفوضًا بريطانيًا بينما يحمي منطقته وشعبه.",
+      "genres_ar": [
+        "أكشن",
+        "دراما"
+      ],
+      "runtime_min": 178,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004554_906.jpg",
+      "trailer_youtube_id": "9fN3QCvD_wA",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Ranabaali%20-%20Telugu%20official%20trailer",
+      "ratings": {},
+      "imdb_id": "tt32324552",
+      "release_date": null,
+      "matched": true,
+      "languages": [
+        "Telugu"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Ranabaali---Telugu/HO00004554"
         }
       ]
     },
