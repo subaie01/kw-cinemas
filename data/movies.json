@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T08:56:00.108696+00:00",
+  "last_updated": "2026-10-16T08:48:18.784411+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -28,7 +28,9 @@
       "poster": "https://www.skycinemaskw.com/images/movies/9999001520.jpg",
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=Whalefall%20official%20trailer",
-      "ratings": {},
+      "ratings": {
+        "imdb": "6.5"
+      },
       "imdb_id": "tt28535715",
       "release_date": "2026-10-15",
       "matched": true,
