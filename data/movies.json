@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16T08:48:18.784411+00:00",
+  "last_updated": "2026-10-17T08:18:44.341149+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -29,7 +29,7 @@
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=Whalefall%20official%20trailer",
       "ratings": {
-        "imdb": "6.5"
+        "imdb": "6.8"
       },
       "imdb_id": "tt28535715",
       "release_date": "2026-10-15",
@@ -456,7 +456,9 @@
       "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004541_998.jpg",
       "trailer_youtube_id": "lKKpJB8xqzI",
       "trailer_search_url": "https://www.youtube.com/results?search_query=Jailer%202%20-%20Tamil%20official%20trailer",
-      "ratings": {},
+      "ratings": {
+        "imdb": "8.1"
+      },
       "imdb_id": "tt33318732",
       "release_date": null,
       "matched": true,
