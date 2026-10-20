@@ -1,9 +1,74 @@
 {
-  "scraped_at": "2026-10-19T09:39:37.949720+00:00",
+  "scraped_at": "2026-10-20T09:12:41.279940+00:00",
   "failures": [
     "vox"
   ],
   "movies": {
+    "clayface": {
+      "title_en": "Clayface",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/clayface/9999001534/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001534.jpg"
+    },
+    "noparadiseifyouarekilledbyawomanvariou": {
+      "title_en": "No Paradise If You Are Killed By A Woman - Variou",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/no-paradise-if-you-are-killed-by-a-woman-variou/9999001533/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001533.jpg"
+    },
+    "treasuretrekkers": {
+      "title_en": "Treasure Trekkers",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/treasure-trekkers/9999001532/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001532.jpg"
+    },
+    "traintobusan2016korean": {
+      "title_en": "Train To Busan (2016) - Korean",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/train-to-busan-(2016)-korean/9999001531/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001531.jpg"
+    },
+    "dinofamily": {
+      "title_en": "The Dino Family",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/the-dino-family/9999001530/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001530.jpg"
+    },
     "whalefall": {
       "title_en": "Whalefall",
       "languages": [

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19T09:39:44.093857+00:00",
+  "last_updated": "2026-10-20T09:12:51.700479+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -110,6 +110,131 @@
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/other-mommy/9999001516/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "wd-Q135181039",
+      "title_ar": "The Dino Family",
+      "title_en": "The Dino Family",
+      "synopsis_ar": "",
+      "genres_ar": [
+        "فلم مغامرة",
+        "فلم عائلي"
+      ],
+      "runtime_min": 94,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001530.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Dino%20Family%20official%20trailer",
+      "ratings": {
+        "imdb": "6.1"
+      },
+      "imdb_id": "tt23767810",
+      "release_date": "2025-08-28",
+      "matched": true,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/the-dino-family/9999001530/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "local-clayface",
+      "title_ar": "Clayface",
+      "title_en": "Clayface",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001534.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Clayface%20official%20trailer",
+      "ratings": {},
+      "imdb_id": "tt6492922",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/clayface/9999001534/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "local-noparadiseifyouarekilledbyawomanvariou",
+      "title_ar": "No Paradise If You Are Killed By A Woman - Variou",
+      "title_en": "No Paradise If You Are Killed By A Woman - Variou",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001533.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=No%20Paradise%20If%20You%20Are%20Killed%20By%20A%20Woman%20-%20Variou%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/no-paradise-if-you-are-killed-by-a-woman-variou/9999001533/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "local-treasuretrekkers",
+      "title_ar": "Treasure Trekkers",
+      "title_en": "Treasure Trekkers",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001532.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Treasure%20Trekkers%20official%20trailer",
+      "ratings": {},
+      "imdb_id": "tt10483886",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/treasure-trekkers/9999001532/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "local-traintobusan2016korean",
+      "title_ar": "Train To Busan (2016) - Korean",
+      "title_en": "Train To Busan (2016) - Korean",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001531.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Train%20To%20Busan%20%282016%29%20-%20Korean%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/train-to-busan-(2016)-korean/9999001531/NowShowing"
         }
       ]
     },
@@ -430,7 +555,9 @@
       "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004554_906.jpg",
       "trailer_youtube_id": "9fN3QCvD_wA",
       "trailer_search_url": "https://www.youtube.com/results?search_query=Ranabaali%20-%20Telugu%20official%20trailer",
-      "ratings": {},
+      "ratings": {
+        "imdb": "6.1"
+      },
       "imdb_id": "tt32324552",
       "release_date": null,
       "matched": true,
@@ -457,7 +584,7 @@
       "trailer_youtube_id": "lKKpJB8xqzI",
       "trailer_search_url": "https://www.youtube.com/results?search_query=Jailer%202%20-%20Tamil%20official%20trailer",
       "ratings": {
-        "imdb": "8.1"
+        "imdb": "8.0"
       },
       "imdb_id": "tt33318732",
       "release_date": null,
