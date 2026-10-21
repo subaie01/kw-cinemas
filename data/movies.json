@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20T09:12:51.700479+00:00",
+  "last_updated": "2026-10-21T09:10:30.397284+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -29,7 +29,7 @@
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=Whalefall%20official%20trailer",
       "ratings": {
-        "imdb": "6.8"
+        "imdb": "6.7"
       },
       "imdb_id": "tt28535715",
       "release_date": "2026-10-15",
@@ -408,60 +408,6 @@
       ]
     },
     {
-      "id": "local-beast",
-      "title_ar": "The Beast",
-      "title_en": "The Beast",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001512.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Beast%20official%20trailer",
-      "ratings": {
-        "imdb": "6.4",
-        "rotten_tomatoes": "86%"
-      },
-      "imdb_id": "tt14407336",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Beast/HO00004535"
-        }
-      ]
-    },
-    {
-      "id": "local-digger",
-      "title_ar": "Digger",
-      "title_en": "Digger",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001509.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Digger%20official%20trailer",
-      "ratings": {
-        "imdb": "7.4",
-        "rotten_tomatoes": "70%"
-      },
-      "imdb_id": "tt9389916",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Digger/HO00004277"
-        }
-      ]
-    },
-    {
       "id": "local-smurfstimelessadventurevolume2",
       "title_ar": "The Smurfs Timeless Adventure Volume 2",
       "title_en": "The Smurfs Timeless Adventure Volume 2",
@@ -513,6 +459,60 @@
       ]
     },
     {
+      "id": "local-digger",
+      "title_ar": "Digger",
+      "title_en": "Digger",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001509.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Digger%20official%20trailer",
+      "ratings": {
+        "imdb": "7.4",
+        "rotten_tomatoes": "70%"
+      },
+      "imdb_id": "tt9389916",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Digger/HO00004277"
+        }
+      ]
+    },
+    {
+      "id": "local-beast",
+      "title_ar": "The Beast",
+      "title_en": "The Beast",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001512.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Beast%20official%20trailer",
+      "ratings": {
+        "imdb": "6.4",
+        "rotten_tomatoes": "86%"
+      },
+      "imdb_id": "tt14407336",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Beast/HO00004535"
+        }
+      ]
+    },
+    {
       "id": "local-drishyamtheconclusion",
       "title_ar": "درشيام ذا كونسليوشن (هندي)",
       "title_en": "Drishyam:The Conclusion - Hindi",
@@ -543,35 +543,6 @@
       ]
     },
     {
-      "id": "wd-Q140419781",
-      "title_ar": "رانابالي",
-      "title_en": "Ranabaali - Telugu",
-      "synopsis_ar": "يتبع محاربًا متمردًا في سبعينيات القرن التاسع عشر في جنوب الهند أثناء المجاعة الكبرى يواجه مفوضًا بريطانيًا بينما يحمي منطقته وشعبه.",
-      "genres_ar": [
-        "أكشن",
-        "دراما"
-      ],
-      "runtime_min": 178,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004554_906.jpg",
-      "trailer_youtube_id": "9fN3QCvD_wA",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Ranabaali%20-%20Telugu%20official%20trailer",
-      "ratings": {
-        "imdb": "6.1"
-      },
-      "imdb_id": "tt32324552",
-      "release_date": null,
-      "matched": true,
-      "languages": [
-        "Telugu"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Ranabaali---Telugu/HO00004554"
-        }
-      ]
-    },
-    {
       "id": "wd-Q133255153",
       "title_ar": "جايلر ٢",
       "title_en": "Jailer 2 - Tamil",
@@ -596,6 +567,35 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Jailer-2---Tamil/HO00004541"
+        }
+      ]
+    },
+    {
+      "id": "wd-Q140419781",
+      "title_ar": "رانابالي",
+      "title_en": "Ranabaali - Telugu",
+      "synopsis_ar": "يتبع محاربًا متمردًا في سبعينيات القرن التاسع عشر في جنوب الهند أثناء المجاعة الكبرى يواجه مفوضًا بريطانيًا بينما يحمي منطقته وشعبه.",
+      "genres_ar": [
+        "أكشن",
+        "دراما"
+      ],
+      "runtime_min": 178,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004554_906.jpg",
+      "trailer_youtube_id": "9fN3QCvD_wA",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Ranabaali%20-%20Telugu%20official%20trailer",
+      "ratings": {
+        "imdb": "6.2"
+      },
+      "imdb_id": "tt32324552",
+      "release_date": null,
+      "matched": true,
+      "languages": [
+        "Telugu"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Ranabaali---Telugu/HO00004554"
         }
       ]
     }

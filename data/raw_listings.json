@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-20T09:12:41.279940+00:00",
+  "scraped_at": "2026-10-21T09:10:23.714175+00:00",
   "failures": [
     "vox"
   ],
@@ -285,50 +285,6 @@
       "runtime_min": 94,
       "trailer_youtube_id": "Qmr46ekFKt8"
     },
-    "beast": {
-      "title_en": "The Beast",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Beast/HO00004535"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004535_155.jpg",
-      "title_ar": "ذا بيست",
-      "synopsis_ar": "عندما تقوم ميليشيا من الأعداء المجهولين بتنسيق انقلاب ضد الولايات المتحدة، يكشف الرئيس عن مدى القدرات الهجومية السرية للغاية للوحش من أجل إنقاذ حياته وأمريكا.",
-      "genres_ar": [
-        "أكشن",
-        "إثارة",
-        "دراما"
-      ],
-      "runtime_min": 100,
-      "trailer_youtube_id": "jtqOzKRMDes"
-    },
-    "digger": {
-      "title_en": "Digger",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Digger/HO00004277"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004277_159.jpg",
-      "title_ar": "ديغر",
-      "synopsis_ar": "يشرع أقوى رجل في العالم في مهمة خطيرة لإثبات أنه منقذ البشرية قبل أن تدمر الكارثة التي أطلقها كل شيء.",
-      "genres_ar": [
-        "كوميدي",
-        "أكشن",
-        "دراما"
-      ],
-      "runtime_min": 128,
-      "trailer_youtube_id": "yIaR-63XB54"
-    },
     "smurfstimelessadventurevolume2": {
       "title_en": "The Smurfs Timeless Adventure Volume 2",
       "languages": [
@@ -372,6 +328,50 @@
       "runtime_min": 103,
       "trailer_youtube_id": "aSW5ky6fTJc"
     },
+    "digger": {
+      "title_en": "Digger",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Digger/HO00004277"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004277_159.jpg",
+      "title_ar": "ديغر",
+      "synopsis_ar": "يشرع أقوى رجل في العالم في مهمة خطيرة لإثبات أنه منقذ البشرية قبل أن تدمر الكارثة التي أطلقها كل شيء.",
+      "genres_ar": [
+        "كوميدي",
+        "أكشن",
+        "دراما"
+      ],
+      "runtime_min": 128,
+      "trailer_youtube_id": "yIaR-63XB54"
+    },
+    "beast": {
+      "title_en": "The Beast",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Beast/HO00004535"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004535_155.jpg",
+      "title_ar": "ذا بيست",
+      "synopsis_ar": "عندما تقوم ميليشيا من الأعداء المجهولين بتنسيق انقلاب ضد الولايات المتحدة، يكشف الرئيس عن مدى القدرات الهجومية السرية للغاية للوحش من أجل إنقاذ حياته وأمريكا.",
+      "genres_ar": [
+        "أكشن",
+        "إثارة",
+        "دراما"
+      ],
+      "runtime_min": 100,
+      "trailer_youtube_id": "jtqOzKRMDes"
+    },
     "drishyamtheconclusion": {
       "title_en": "Drishyam:The Conclusion - Hindi",
       "languages": [
@@ -394,6 +394,26 @@
       "runtime_min": 148,
       "trailer_youtube_id": "zjPXHHt4nq0"
     },
+    "jailer2": {
+      "title_en": "Jailer 2 - Tamil",
+      "languages": [
+        "Tamil"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Jailer-2---Tamil/HO00004541"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004541_998.jpg",
+      "title_ar": "جايلر ٢",
+      "synopsis_ar": "يتبع السجان 2 السجان المتقاعد تايجر موثوفيل بانديان (راجينيكانث) كتهديد جديد من عالم الجريمة الإجرامي الذي يحطم حياته السلمية، مما يجبره على العودة إلى طرقه القاسية لحماية عائلته وإرثه.",
+      "genres_ar": [
+        "أكشن"
+      ],
+      "runtime_min": 163,
+      "trailer_youtube_id": "lKKpJB8xqzI"
+    },
     "ranabaali": {
       "title_en": "Ranabaali - Telugu",
       "languages": [
@@ -414,26 +434,6 @@
       ],
       "runtime_min": 178,
       "trailer_youtube_id": "9fN3QCvD_wA"
-    },
-    "jailer2": {
-      "title_en": "Jailer 2 - Tamil",
-      "languages": [
-        "Tamil"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Jailer-2---Tamil/HO00004541"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004541_998.jpg",
-      "title_ar": "جايلر ٢",
-      "synopsis_ar": "يتبع السجان 2 السجان المتقاعد تايجر موثوفيل بانديان (راجينيكانث) كتهديد جديد من عالم الجريمة الإجرامي الذي يحطم حياته السلمية، مما يجبره على العودة إلى طرقه القاسية لحماية عائلته وإرثه.",
-      "genres_ar": [
-        "أكشن"
-      ],
-      "runtime_min": 163,
-      "trailer_youtube_id": "lKKpJB8xqzI"
     }
   }
 }
