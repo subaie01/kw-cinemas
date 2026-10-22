@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-21T09:10:23.714175+00:00",
+  "scraped_at": "2026-10-22T09:12:56.406436+00:00",
   "failures": [
     "vox"
   ],
@@ -11,11 +11,23 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Clayface/HO00004372"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/clayface/9999001534/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001534.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001534.jpg",
+      "title_ar": "كلاي فيس",
+      "synopsis_ar": "يكشف فيلم «كلاي فيس» عن السقوط المرعب لرجل من نجم هوليوود صاعد إلى وحش مدفوع بالانتقام، مستكشفًا فقدان الهوية والإنسانية، والحب المتآكل، والجانب المظلم للطموح العلمي.",
+      "genres_ar": [
+        "رعب",
+        "إثارة"
+      ],
+      "runtime_min": 104,
+      "trailer_youtube_id": "rN6ZTbskJ0E"
     },
     "noparadiseifyouarekilledbyawomanvariou": {
       "title_en": "No Paradise If You Are Killed By A Woman - Variou",
@@ -37,24 +49,49 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Treasure-Trekkers/HO00004524"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/treasure-trekkers/9999001532/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001532.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001532.jpg",
+      "title_ar": "تريجر تريكرز",
+      "synopsis_ar": "يتم نقل ميب، وهو قرد بالتبني يبلغ من العمر 12 عامًا في عالم القطط والقوارض، بواسطة خريطة سحرية إلى إمباثرا. يشرع في سعي محفوف بالمخاطر للكشف عن أصوله، ويكتشف قوته التعاطفية، ويستعيد التعاطف مع الأرض.",
+      "genres_ar": [
+        "رسوم متحركة",
+        "عائلي"
+      ],
+      "runtime_min": 98,
+      "trailer_youtube_id": "ETsEx5B5z_c"
     },
     "traintobusan2016korean": {
       "title_en": "Train To Busan (2016) - Korean",
       "languages": [
-        "English"
+        "English",
+        "Korean"
       ],
       "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Train-to-Busan-(2016)---Korean/HO00004552"
+        },
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/train-to-busan-(2016)-korean/9999001531/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001531.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001531.jpg",
+      "title_ar": "تراين تو بوستن",
+      "synopsis_ar": "عندما يندلع فيروس غامض، يتحول المصاب إلى قاتل غير ميت. بينما يقاتل المسافرون المرعوبون من أجل حياتهم في قطار، فإن النتيجة هي تصادم عالي السرعة بين الأحياء والأموات الأحياء.",
+      "genres_ar": [
+        "أكشن",
+        "رعب"
+      ],
+      "runtime_min": 118,
+      "trailer_youtube_id": "IAJ0iWgJqTM"
     },
     "dinofamily": {
       "title_en": "The Dino Family",
@@ -63,11 +100,22 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Dino-Family/HO00004505"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/the-dino-family/9999001530/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001530.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001530.jpg",
+      "title_ar": "ذا دينو فاميلي",
+      "synopsis_ar": "فيل مراهق عادي تطغى على حياته الإخفاقات الشخصية، والمضايقات في فناء المدرسة، وصراعات محاولة إثارة إعجابه. يتغير كل شيء بشكل كبير عندما يتعثر ويفتح عن طريق الخطأ بوابة خفية للعودة إلى الوراء 65 مليون سنة.",
+      "genres_ar": [
+        "رسوم متحركة"
+      ],
+      "runtime_min": 94,
+      "trailer_youtube_id": "vzdNIgZHXh4"
     },
     "whalefall": {
       "title_en": "Whalefall",
@@ -118,31 +166,6 @@
       "runtime_min": 110,
       "trailer_youtube_id": "1gNRoqYwwbM"
     },
-    "saoudwainahqatari": {
-      "title_en": "Saoud Wainah (Qatari) - Arabic",
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Saoud-Wainah-(Qatari)---Arabic/HO00004550"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/saoud-wainah-(qatari)-arabic/9999001518/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001518.jpg",
-      "title_ar": "سعود وينه (فيلم قطري)",
-      "synopsis_ar": "تخطئ الخدعة السحرية بشكل فظيع عندما يحاول شقيقان تكرارها بعد سنوات من تعلمها من والدهما.",
-      "genres_ar": [
-        "غموض",
-        "اثارة"
-      ],
-      "runtime_min": 81,
-      "trailer_youtube_id": "Z-XMo0oQt1A"
-    },
     "matloubaaeleyan": {
       "title_en": "Matloub Aaeleyan (Egyptian) - Arabic",
       "languages": [
@@ -167,56 +190,6 @@
       "runtime_min": 92,
       "trailer_youtube_id": "vgXdeRilGWY"
     },
-    "othermommy": {
-      "title_en": "Other Mommy",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Other-Mommy/HO00004479"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/other-mommy/9999001516/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001516.jpg",
-      "title_ar": "اوذر مومي",
-      "synopsis_ar": "تواجه بيلا، وهي فتاة تبلغ من العمر 8 سنوات تعيش في منزل يعاني من مشاكل زوجية، كيانًا شريرًا يخرج من خزانتها. الوجود، الذي تسميه \"الأم الأخرى\"، يصبح تهديدًا متزايدًا لها ولعائلتها.",
-      "genres_ar": [
-        "رعب"
-      ],
-      "runtime_min": 93,
-      "trailer_youtube_id": "VmmoOgHuq_8"
-    },
-    "socialreckoning": {
-      "title_en": "The Social Reckoning",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Social-Reckoning/HO00004478"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/the-social-reckoning/9999001515/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001515.jpg",
-      "title_ar": "ذا سوشال ركونانق",
-      "synopsis_ar": "يأتي هذا الفيلم كعمل متمم لفيلم \" ذا سوشل نتورك \" الناجح، حيث يستند سيناريو \"سوركين\" الأصلي إلى الأحداث التي أدت إلى نشر التحقيق الصادم في صحيفة \"وول ستريت جورنال\" بعنوان \"ملفات فيسبوك\" الفيلم مستوحى من القصة الحقيقية لـ \"فرانسيس هاوجن\"، وهي مهندسة شابة ف",
-      "genres_ar": [
-        "سيرة ذاتية",
-        "دراما",
-        "إثارة"
-      ],
-      "runtime_min": 112,
-      "trailer_youtube_id": "rdTzW1xIQTI"
-    },
     "verity": {
       "title_en": "Verity",
       "languages": [
@@ -226,13 +199,9 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Verity/HO00004477"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/verity/9999001510/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001510.jpg",
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004477_498.jpg",
       "title_ar": "فيريتي",
       "synopsis_ar": "مقتبس من رواية كولين هوفر الأكثر مبيعًا، يتبع هذا الفيلم النفسي الكاتبة الشهيرة فيريتي كروفورد ولوين آشلي، وهي كاتبة تكافح وتنتقل إلى ضيعة كروفورد النائية للكتابة الشبح من أجل فيريتي.",
       "genres_ar": [
@@ -241,6 +210,69 @@
       ],
       "runtime_min": 108,
       "trailer_youtube_id": "FueZihqk8jM"
+    },
+    "noparadiseifyouarekilledbyawomanvarious": {
+      "title_en": "No Paradise If You Are Killed by a Woman - Various",
+      "languages": [
+        "Various"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/No-Paradise-If-You-Are-Killed-by-a-Woman---Various/HO00004544"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004544_712.jpg",
+      "title_ar": "نو بارادايس اف يو ار كلد بي اومن",
+      "synopsis_ar": "نجت فيان، وهي قناصة كردية، من الحرب من خلال إيقاف عواطفها. عندما علمت أن أختها الصغرى، التي يعتقد أنها فقدت خلال هجوم داعش عام 2014، قد لا تزال على قيد الحياة في الموصل، عادت إلى مدينة شكلها الموت والدمار.",
+      "genres_ar": [
+        "أكشن",
+        "دراما",
+        "إثارة"
+      ],
+      "runtime_min": 110,
+      "trailer_youtube_id": "n8n7KBTtUyo"
+    },
+    "saoudwainahqatari": {
+      "title_en": "Saoud Wainah (Qatari) - Arabic",
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Saoud-Wainah-(Qatari)---Arabic/HO00004550"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004550_911.jpg",
+      "title_ar": "سعود وينه (فيلم قطري)",
+      "synopsis_ar": "تخطئ الخدعة السحرية بشكل فظيع عندما يحاول شقيقان تكرارها بعد سنوات من تعلمها من والدهما.",
+      "genres_ar": [
+        "غموض",
+        "اثارة"
+      ],
+      "runtime_min": 81,
+      "trailer_youtube_id": "Z-XMo0oQt1A"
+    },
+    "othermommy": {
+      "title_en": "Other Mommy",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Other-Mommy/HO00004479"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004479_318.jpg",
+      "title_ar": "اوذر مومي",
+      "synopsis_ar": "تواجه بيلا، وهي فتاة تبلغ من العمر 8 سنوات تعيش في منزل يعاني من مشاكل زوجية، كيانًا شريرًا يخرج من خزانتها. الوجود، الذي تسميه \"الأم الأخرى\"، يصبح تهديدًا متزايدًا لها ولعائلتها.",
+      "genres_ar": [
+        "رعب"
+      ],
+      "runtime_min": 93,
+      "trailer_youtube_id": "VmmoOgHuq_8"
     },
     "heartofthebeast": {
       "title_en": "Heart of the Beast",
@@ -306,72 +338,6 @@
       "runtime_min": 78,
       "trailer_youtube_id": "MHApR8KopaE"
     },
-    "coyotevsacme": {
-      "title_en": "Coyote vs Acme",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Coyote-vs-Acme/HO00004371"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004371_597.-Acme.jpg",
-      "title_ar": "كايوتي ضد آكمي",
-      "synopsis_ar": "قصة تدور داخل مستودعات شركة آكمي، المصنعة لكل ما يستخدمه شخصيات لوني تونز من أي شيء وكل شيء.",
-      "genres_ar": [
-        "رسوم متحركة",
-        "مغامرات",
-        "كوميدي"
-      ],
-      "runtime_min": 103,
-      "trailer_youtube_id": "aSW5ky6fTJc"
-    },
-    "digger": {
-      "title_en": "Digger",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Digger/HO00004277"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004277_159.jpg",
-      "title_ar": "ديغر",
-      "synopsis_ar": "يشرع أقوى رجل في العالم في مهمة خطيرة لإثبات أنه منقذ البشرية قبل أن تدمر الكارثة التي أطلقها كل شيء.",
-      "genres_ar": [
-        "كوميدي",
-        "أكشن",
-        "دراما"
-      ],
-      "runtime_min": 128,
-      "trailer_youtube_id": "yIaR-63XB54"
-    },
-    "beast": {
-      "title_en": "The Beast",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Beast/HO00004535"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004535_155.jpg",
-      "title_ar": "ذا بيست",
-      "synopsis_ar": "عندما تقوم ميليشيا من الأعداء المجهولين بتنسيق انقلاب ضد الولايات المتحدة، يكشف الرئيس عن مدى القدرات الهجومية السرية للغاية للوحش من أجل إنقاذ حياته وأمريكا.",
-      "genres_ar": [
-        "أكشن",
-        "إثارة",
-        "دراما"
-      ],
-      "runtime_min": 100,
-      "trailer_youtube_id": "jtqOzKRMDes"
-    },
     "drishyamtheconclusion": {
       "title_en": "Drishyam:The Conclusion - Hindi",
       "languages": [
@@ -413,27 +379,6 @@
       ],
       "runtime_min": 163,
       "trailer_youtube_id": "lKKpJB8xqzI"
-    },
-    "ranabaali": {
-      "title_en": "Ranabaali - Telugu",
-      "languages": [
-        "Telugu"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Ranabaali---Telugu/HO00004554"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004554_906.jpg",
-      "title_ar": "رانابالي",
-      "synopsis_ar": "يتبع محاربًا متمردًا في سبعينيات القرن التاسع عشر في جنوب الهند أثناء المجاعة الكبرى يواجه مفوضًا بريطانيًا بينما يحمي منطقته وشعبه.",
-      "genres_ar": [
-        "أكشن",
-        "دراما"
-      ],
-      "runtime_min": 178,
-      "trailer_youtube_id": "9fN3QCvD_wA"
     }
   }
 }

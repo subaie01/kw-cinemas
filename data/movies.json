@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21T09:10:30.397284+00:00",
+  "last_updated": "2026-10-22T09:13:02.876232+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -49,39 +49,6 @@
       ]
     },
     {
-      "id": "wd-Q136387857",
-      "title_ar": "الحساب الاجتماعي",
-      "title_en": "The Social Reckoning",
-      "synopsis_ar": "الحساب الاجتماعي هو فلم دراما سيرة ذاتية أمريكي قادم من كتابة وإخراج آرون سوركين. يُعدّ الفلم عملًا مكمّلًا لفلم الشبكة الاجتماعية (2010)، ويستند إلى الأحداث المحيطة بتسريب ملفات فيسبوك عام 2021 الذي كشفت عنه فرانسيس هوغن. وهو التسريب الذي استُلهمت منه أيضًا سلسلة مقالات وبودكاست من ثماني حلقات بعنوان The Facebook Files عام 2021، الصادران عن صحيفة وول ستريت جورنال. يقوم ببطولة الفلم جيرمي سترونغ في دور مارك زوكربيرغ، إلى جانب جيريمي ألين وايت، ومايكي ماديسون، وبيل بر، ويونومي موساكو، وبيلي ماجنوسن، وبيتي غيلبين، وغبينغا أكيناجبي، وآنا لامب، وسييرا كابري، وبورشيا دووبلدي، وتهمينا صني.",
-      "genres_ar": [
-        "فلم دراما",
-        "فلم سيرة ذاتية"
-      ],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001515.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Social%20Reckoning%20official%20trailer",
-      "ratings": {
-        "imdb": "6.7"
-      },
-      "imdb_id": "tt37510326",
-      "release_date": "2026-10-08",
-      "matched": true,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Social-Reckoning/HO00004478"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/the-social-reckoning/9999001515/NowShowing"
-        }
-      ]
-    },
-    {
       "id": "wd-Q134588273",
       "title_ar": "Other Mommy",
       "title_en": "Other Mommy",
@@ -106,10 +73,6 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Other-Mommy/HO00004479"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/other-mommy/9999001516/NowShowing"
         }
       ]
     },
@@ -137,6 +100,10 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Dino-Family/HO00004505"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/the-dino-family/9999001530/NowShowing"
         }
@@ -160,6 +127,10 @@
         "English"
       ],
       "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Clayface/HO00004372"
+        },
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/clayface/9999001534/NowShowing"
@@ -209,6 +180,10 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Treasure-Trekkers/HO00004524"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/treasure-trekkers/9999001532/NowShowing"
         }
@@ -229,9 +204,14 @@
       "release_date": null,
       "matched": false,
       "languages": [
-        "English"
+        "English",
+        "Korean"
       ],
       "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Train-to-Busan-(2016)---Korean/HO00004552"
+        },
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/train-to-busan-(2016)-korean/9999001531/NowShowing"
@@ -266,34 +246,6 @@
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/street-fighter/9999001519/NowShowing"
-        }
-      ]
-    },
-    {
-      "id": "local-saoudwainahqatari",
-      "title_ar": "Saoud Wainah (Qatari)",
-      "title_en": "Saoud Wainah (Qatari)",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001518.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Saoud%20Wainah%20%28Qatari%29%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Saoud-Wainah-(Qatari)---Arabic/HO00004550"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/saoud-wainah-(qatari)-arabic/9999001518/NowShowing"
         }
       ]
     },
@@ -346,10 +298,58 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Verity/HO00004477"
-        },
+        }
+      ]
+    },
+    {
+      "id": "local-noparadiseifyouarekilledbyawomanvarious",
+      "title_ar": "نو بارادايس اف يو ار كلد بي اومن",
+      "title_en": "No Paradise If You Are Killed by a Woman - Various",
+      "synopsis_ar": "نجت فيان، وهي قناصة كردية، من الحرب من خلال إيقاف عواطفها. عندما علمت أن أختها الصغرى، التي يعتقد أنها فقدت خلال هجوم داعش عام 2014، قد لا تزال على قيد الحياة في الموصل، عادت إلى مدينة شكلها الموت والدمار.",
+      "genres_ar": [
+        "أكشن",
+        "دراما",
+        "إثارة"
+      ],
+      "runtime_min": 110,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004544_712.jpg",
+      "trailer_youtube_id": "n8n7KBTtUyo",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=No%20Paradise%20If%20You%20Are%20Killed%20by%20a%20Woman%20-%20Various%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Various"
+      ],
+      "cinemas": [
         {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/verity/9999001510/NowShowing"
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/No-Paradise-If-You-Are-Killed-by-a-Woman---Various/HO00004544"
+        }
+      ]
+    },
+    {
+      "id": "local-saoudwainahqatari",
+      "title_ar": "Saoud Wainah (Qatari)",
+      "title_en": "Saoud Wainah (Qatari)",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001518.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Saoud%20Wainah%20%28Qatari%29%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Saoud-Wainah-(Qatari)---Arabic/HO00004550"
         }
       ]
     },
@@ -432,87 +432,6 @@
       ]
     },
     {
-      "id": "local-coyotevsacme",
-      "title_ar": "Coyote Vs Acme",
-      "title_en": "Coyote Vs Acme",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001479.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Coyote%20Vs%20Acme%20official%20trailer",
-      "ratings": {
-        "imdb": "7.6",
-        "rotten_tomatoes": "96%"
-      },
-      "imdb_id": "tt1756855",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Coyote-vs-Acme/HO00004371"
-        }
-      ]
-    },
-    {
-      "id": "local-digger",
-      "title_ar": "Digger",
-      "title_en": "Digger",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001509.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Digger%20official%20trailer",
-      "ratings": {
-        "imdb": "7.4",
-        "rotten_tomatoes": "70%"
-      },
-      "imdb_id": "tt9389916",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Digger/HO00004277"
-        }
-      ]
-    },
-    {
-      "id": "local-beast",
-      "title_ar": "The Beast",
-      "title_en": "The Beast",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001512.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Beast%20official%20trailer",
-      "ratings": {
-        "imdb": "6.4",
-        "rotten_tomatoes": "86%"
-      },
-      "imdb_id": "tt14407336",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Beast/HO00004535"
-        }
-      ]
-    },
-    {
       "id": "local-drishyamtheconclusion",
       "title_ar": "درشيام ذا كونسليوشن (هندي)",
       "title_en": "Drishyam:The Conclusion - Hindi",
@@ -567,35 +486,6 @@
         {
           "id": "cinescape",
           "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Jailer-2---Tamil/HO00004541"
-        }
-      ]
-    },
-    {
-      "id": "wd-Q140419781",
-      "title_ar": "رانابالي",
-      "title_en": "Ranabaali - Telugu",
-      "synopsis_ar": "يتبع محاربًا متمردًا في سبعينيات القرن التاسع عشر في جنوب الهند أثناء المجاعة الكبرى يواجه مفوضًا بريطانيًا بينما يحمي منطقته وشعبه.",
-      "genres_ar": [
-        "أكشن",
-        "دراما"
-      ],
-      "runtime_min": 178,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004554_906.jpg",
-      "trailer_youtube_id": "9fN3QCvD_wA",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Ranabaali%20-%20Telugu%20official%20trailer",
-      "ratings": {
-        "imdb": "6.2"
-      },
-      "imdb_id": "tt32324552",
-      "release_date": null,
-      "matched": true,
-      "languages": [
-        "Telugu"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Ranabaali---Telugu/HO00004554"
         }
       ]
     }
