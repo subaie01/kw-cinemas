@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22T09:13:02.876232+00:00",
+  "last_updated": "2026-10-23T09:09:28.345521+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -61,7 +61,7 @@
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=Other%20Mommy%20official%20trailer",
       "ratings": {
-        "imdb": "5.4"
+        "imdb": "5.3"
       },
       "imdb_id": "tt36586020",
       "release_date": "2026-05-08",
@@ -230,7 +230,7 @@
       "trailer_search_url": "https://www.youtube.com/results?search_query=Street%20Fighter%20official%20trailer",
       "ratings": {
         "imdb": "4.2",
-        "rotten_tomatoes": "11%"
+        "rotten_tomatoes": "20%"
       },
       "imdb_id": "tt0111301",
       "release_date": null,
@@ -474,7 +474,7 @@
       "trailer_youtube_id": "lKKpJB8xqzI",
       "trailer_search_url": "https://www.youtube.com/results?search_query=Jailer%202%20-%20Tamil%20official%20trailer",
       "ratings": {
-        "imdb": "8.0"
+        "imdb": "8.2"
       },
       "imdb_id": "tt33318732",
       "release_date": null,
