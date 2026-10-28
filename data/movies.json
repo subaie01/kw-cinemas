@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-27T09:39:16.139150+00:00",
+  "last_updated": "2026-10-28T10:23:53.285017+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -39,40 +39,8 @@
       ],
       "cinemas": [
         {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Whalefall/HO00004404"
-        },
-        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/whalefall/9999001520/NowShowing"
-        }
-      ]
-    },
-    {
-      "id": "wd-Q134588273",
-      "title_ar": "Other Mommy",
-      "title_en": "Other Mommy",
-      "synopsis_ar": "",
-      "genres_ar": [
-        "فلم رعب خارق للطبيعة"
-      ],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001516.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Other%20Mommy%20official%20trailer",
-      "ratings": {
-        "imdb": "5.3"
-      },
-      "imdb_id": "tt36586020",
-      "release_date": "2026-05-08",
-      "matched": true,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Other-Mommy/HO00004479"
         }
       ]
     },
@@ -100,12 +68,183 @@
       ],
       "cinemas": [
         {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Dino-Family/HO00004505"
-        },
-        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/the-dino-family/9999001530/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "local-senseandsensibility",
+      "title_ar": "Sense And Sensibility",
+      "title_en": "Sense And Sensibility",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001541.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Sense%20And%20Sensibility%20official%20trailer",
+      "ratings": {
+        "imdb": "7.7",
+        "rotten_tomatoes": "97%"
+      },
+      "imdb_id": "tt0114388",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/sense-and-sensibility-/9999001541/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "local-wildwood",
+      "title_ar": "Wildwood",
+      "title_en": "Wildwood",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001540.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Wildwood%20official%20trailer",
+      "ratings": {},
+      "imdb_id": "tt37968648",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/wildwood-/9999001540/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "local-walakanalaelbal",
+      "title_ar": "Wala Kan Ala El-Bal",
+      "title_en": "Wala Kan Ala El-Bal",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001539.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Wala%20Kan%20Ala%20El-Bal%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/wala-kan-ala-el-bal-(egyptian)-arabic/9999001539/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "local-naseeb",
+      "title_ar": "Naseeb",
+      "title_en": "Naseeb",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001538.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Naseeb%20official%20trailer",
+      "ratings": {
+        "imdb": "7.1"
+      },
+      "imdb_id": "tt0082797",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/naseeb-(egyptian)-arabic/9999001538/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "local-hopekorean",
+      "title_ar": "Hope - Korean",
+      "title_en": "Hope - Korean",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001537.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Hope%20-%20Korean%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/hope-korean/9999001537/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "local-soy",
+      "title_ar": "Soy",
+      "title_en": "Soy",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001536.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Soy%20official%20trailer",
+      "ratings": {
+        "imdb": "6.6"
+      },
+      "imdb_id": "tt0378453",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Turkish"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/soy-turkish/9999001536/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "local-mongoose",
+      "title_ar": "The Mongoose",
+      "title_en": "The Mongoose",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001535.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Mongoose%20official%20trailer",
+      "ratings": {},
+      "imdb_id": "tt13611778",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/the-mongoose/9999001535/NowShowing"
         }
       ]
     },
@@ -127,10 +266,6 @@
         "English"
       ],
       "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Clayface/HO00004372"
-        },
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/clayface/9999001534/NowShowing"
@@ -180,10 +315,6 @@
       ],
       "cinemas": [
         {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Treasure-Trekkers/HO00004524"
-        },
-        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/treasure-trekkers/9999001532/NowShowing"
         }
@@ -204,14 +335,9 @@
       "release_date": null,
       "matched": false,
       "languages": [
-        "English",
-        "Korean"
+        "English"
       ],
       "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Train-to-Busan-(2016)---Korean/HO00004552"
-        },
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/train-to-busan-(2016)-korean/9999001531/NowShowing"
@@ -240,10 +366,6 @@
       ],
       "cinemas": [
         {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Street-Fighter/HO00004276"
-        },
-        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/street-fighter/9999001519/NowShowing"
         }
@@ -268,224 +390,8 @@
       ],
       "cinemas": [
         {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Matloub-Aaeleyan-(Egyptian)---Arabic/HO00004534"
-        },
-        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/matloub-aaeleyan-(egyptian)-arabic/9999001517/NowShowing"
-        }
-      ]
-    },
-    {
-      "id": "local-verity",
-      "title_ar": "Verity",
-      "title_en": "Verity",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001510.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Verity%20official%20trailer",
-      "ratings": {},
-      "imdb_id": "tt3144236",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Verity/HO00004477"
-        }
-      ]
-    },
-    {
-      "id": "local-noparadiseifyouarekilledbyawomanvarious",
-      "title_ar": "نو بارادايس اف يو ار كلد بي اومن",
-      "title_en": "No Paradise If You Are Killed by a Woman - Various",
-      "synopsis_ar": "نجت فيان، وهي قناصة كردية، من الحرب من خلال إيقاف عواطفها. عندما علمت أن أختها الصغرى، التي يعتقد أنها فقدت خلال هجوم داعش عام 2014، قد لا تزال على قيد الحياة في الموصل، عادت إلى مدينة شكلها الموت والدمار.",
-      "genres_ar": [
-        "أكشن",
-        "دراما",
-        "إثارة"
-      ],
-      "runtime_min": 110,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004544_712.jpg",
-      "trailer_youtube_id": "n8n7KBTtUyo",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=No%20Paradise%20If%20You%20Are%20Killed%20by%20a%20Woman%20-%20Various%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Various"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/No-Paradise-If-You-Are-Killed-by-a-Woman---Various/HO00004544"
-        }
-      ]
-    },
-    {
-      "id": "local-saoudwainahqatari",
-      "title_ar": "Saoud Wainah (Qatari)",
-      "title_en": "Saoud Wainah (Qatari)",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001518.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Saoud%20Wainah%20%28Qatari%29%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Saoud-Wainah-(Qatari)---Arabic/HO00004550"
-        }
-      ]
-    },
-    {
-      "id": "local-heartofthebeast",
-      "title_ar": "Heart Of The Beast",
-      "title_en": "Heart Of The Beast",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001504.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Heart%20Of%20The%20Beast%20official%20trailer",
-      "ratings": {
-        "imdb": "7.5",
-        "rotten_tomatoes": "85%"
-      },
-      "imdb_id": "tt7526136",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Heart-of-the-Beast/HO00004466"
-        }
-      ]
-    },
-    {
-      "id": "local-residentevil",
-      "title_ar": "Resident Evil",
-      "title_en": "Resident Evil",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001497.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Resident%20Evil%20official%20trailer",
-      "ratings": {
-        "imdb": "6.6",
-        "rotten_tomatoes": "36%"
-      },
-      "imdb_id": "tt0120804",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Resident-Evil/HO00004405"
-        }
-      ]
-    },
-    {
-      "id": "local-smurfstimelessadventurevolume2",
-      "title_ar": "The Smurfs Timeless Adventure Volume 2",
-      "title_en": "The Smurfs Timeless Adventure Volume 2",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001498.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Smurfs%20Timeless%20Adventure%20Volume%202%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/The-Smurfs-Timeless-Adventure-Volume-2/HO00004496"
-        }
-      ]
-    },
-    {
-      "id": "local-drishyamtheconclusion",
-      "title_ar": "درشيام ذا كونسليوشن (هندي)",
-      "title_en": "Drishyam:The Conclusion - Hindi",
-      "synopsis_ar": "يتبع عائلة سالغاونكار أثناء محاولتهم التستر على جريمة قتل.",
-      "genres_ar": [
-        "جريمة",
-        "إثارة",
-        "دراما"
-      ],
-      "runtime_min": 148,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004533_248.jpg",
-      "trailer_youtube_id": "zjPXHHt4nq0",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Drishyam%3AThe%20Conclusion%20-%20Hindi%20official%20trailer",
-      "ratings": {
-        "rotten_tomatoes": "100%"
-      },
-      "imdb_id": "tt27050858",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Hindi"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Drishyam:The-Conclusion---Hindi/HO00004533"
-        }
-      ]
-    },
-    {
-      "id": "wd-Q133255153",
-      "title_ar": "جايلر ٢",
-      "title_en": "Jailer 2 - Tamil",
-      "synopsis_ar": "يتبع السجان 2 السجان المتقاعد تايجر موثوفيل بانديان (راجينيكانث) كتهديد جديد من عالم الجريمة الإجرامي الذي يحطم حياته السلمية، مما يجبره على العودة إلى طرقه القاسية لحماية عائلته وإرثه.",
-      "genres_ar": [
-        "أكشن"
-      ],
-      "runtime_min": 163,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004541_998.jpg",
-      "trailer_youtube_id": "lKKpJB8xqzI",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Jailer%202%20-%20Tamil%20official%20trailer",
-      "ratings": {
-        "imdb": "8.2"
-      },
-      "imdb_id": "tt33318732",
-      "release_date": null,
-      "matched": true,
-      "languages": [
-        "Tamil"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://cinescapeweb.wemonde.co/movie-details/Jailer-2---Tamil/HO00004541"
         }
       ]
     }
