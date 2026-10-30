@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-29T10:44:31.433775+00:00",
+  "last_updated": "2026-10-30T10:44:15.981783+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -576,7 +576,7 @@
       "trailer_youtube_id": "lKKpJB8xqzI",
       "trailer_search_url": "https://www.youtube.com/results?search_query=Jailer%202%20-%20Tamil%20official%20trailer",
       "ratings": {
-        "imdb": "8.2"
+        "imdb": "8.1"
       },
       "imdb_id": "tt33318732",
       "release_date": null,
@@ -615,36 +615,6 @@
         {
           "id": "cinescape",
           "booking_url": "https://www.cinescape.com.kw/movie-details/Aadarsha-Kutumbam-House-No:47---Telugu/HO00004570"
-        }
-      ]
-    },
-    {
-      "id": "local-drishyamtheconclusion",
-      "title_ar": "درشيام ذا كونسليوشن (هندي)",
-      "title_en": "Drishyam:The Conclusion - Hindi",
-      "synopsis_ar": "يتبع عائلة سالغاونكار أثناء محاولتهم التستر على جريمة قتل.",
-      "genres_ar": [
-        "جريمة",
-        "إثارة",
-        "دراما"
-      ],
-      "runtime_min": 148,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004533_248.jpg",
-      "trailer_youtube_id": "zjPXHHt4nq0",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Drishyam%3AThe%20Conclusion%20-%20Hindi%20official%20trailer",
-      "ratings": {
-        "rotten_tomatoes": "100%"
-      },
-      "imdb_id": "tt27050858",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Hindi"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Drishyam:The-Conclusion---Hindi/HO00004533"
         }
       ]
     }

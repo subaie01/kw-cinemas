@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-10-29T10:44:20.435351+00:00",
+  "scraped_at": "2026-10-30T10:44:09.091496+00:00",
   "failures": [
     "vox"
   ],
@@ -495,28 +495,6 @@
       ],
       "runtime_min": 147,
       "trailer_youtube_id": "erAPiMHv0jQ"
-    },
-    "drishyamtheconclusion": {
-      "title_en": "Drishyam:The Conclusion - Hindi",
-      "languages": [
-        "Hindi"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Drishyam:The-Conclusion---Hindi/HO00004533"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004533_248.jpg",
-      "title_ar": "درشيام ذا كونسليوشن (هندي)",
-      "synopsis_ar": "يتبع عائلة سالغاونكار أثناء محاولتهم التستر على جريمة قتل.",
-      "genres_ar": [
-        "جريمة",
-        "إثارة",
-        "دراما"
-      ],
-      "runtime_min": 148,
-      "trailer_youtube_id": "zjPXHHt4nq0"
     }
   }
 }
