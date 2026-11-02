@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T11:04:27.583920+00:00",
+  "last_updated": "2026-11-02T12:02:48.565594+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -113,8 +113,10 @@
       "poster": "https://www.skycinemaskw.com/images/movies/9999001540.jpg",
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=Wildwood%20official%20trailer",
-      "ratings": {},
-      "imdb_id": "tt37968648",
+      "ratings": {
+        "imdb": "8.7"
+      },
+      "imdb_id": "tt2056785",
       "release_date": null,
       "matched": false,
       "languages": [
@@ -286,8 +288,10 @@
       "poster": "https://www.skycinemaskw.com/images/movies/9999001534.jpg",
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=Clayface%20official%20trailer",
-      "ratings": {},
-      "imdb_id": "tt6492922",
+      "ratings": {
+        "imdb": "7.5"
+      },
+      "imdb_id": "tt34890576",
       "release_date": null,
       "matched": false,
       "languages": [
