@@ -1,9 +1,62 @@
 {
-  "scraped_at": "2026-11-02T12:02:41.076332+00:00",
+  "scraped_at": "2026-11-03T11:40:33.884549+00:00",
   "failures": [
     "vox"
   ],
   "movies": {
+    "atalentformurder": {
+      "title_en": "A Talent For Murder",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/a-talent-for-murder/9999001546/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001546.jpg"
+    },
+    "godzillaminuszerojapanese": {
+      "title_en": "Godzilla Minus Zero - Japanese",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/godzilla-minus-zero-japanese/9999001545/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001545.jpg"
+    },
+    "catinthehat": {
+      "title_en": "The Cat In The Hat",
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/the-cat-in-the-hat-/9999001544/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001544.jpg"
+    },
+    "cycle": {
+      "title_en": "The Cycle",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/the-cycle/9999001542/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001542.jpg"
+    },
     "senseandsensibility": {
       "title_en": "Sense And Sensibility",
       "languages": [

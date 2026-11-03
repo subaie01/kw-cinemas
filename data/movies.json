@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-02T12:02:48.565594+00:00",
+  "last_updated": "2026-11-03T11:40:47.003809+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -45,6 +45,35 @@
       ]
     },
     {
+      "id": "wd-Q131935663",
+      "title_ar": "A Talent For Murder",
+      "title_en": "A Talent For Murder",
+      "synopsis_ar": "",
+      "genres_ar": [
+        "فلم إثارة"
+      ],
+      "runtime_min": 106,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001546.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=A%20Talent%20For%20Murder%20official%20trailer",
+      "ratings": {
+        "imdb": "6.8",
+        "rotten_tomatoes": "85%"
+      },
+      "imdb_id": "tt14129116",
+      "release_date": "2026-09-14",
+      "matched": true,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/a-talent-for-murder/9999001546/NowShowing"
+        }
+      ]
+    },
+    {
       "id": "wd-Q134588273",
       "title_ar": "Other Mommy",
       "title_en": "Other Mommy",
@@ -69,6 +98,85 @@
         {
           "id": "cinescape",
           "booking_url": "https://www.cinescape.com.kw/movie-details/Other-Mommy/HO00004479"
+        }
+      ]
+    },
+    {
+      "id": "local-godzillaminuszerojapanese",
+      "title_ar": "Godzilla Minus Zero - Japanese",
+      "title_en": "Godzilla Minus Zero - Japanese",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001545.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Godzilla%20Minus%20Zero%20-%20Japanese%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/godzilla-minus-zero-japanese/9999001545/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "local-catinthehat",
+      "title_ar": "The Cat In The Hat",
+      "title_en": "The Cat In The Hat",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001544.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Cat%20In%20The%20Hat%20official%20trailer",
+      "ratings": {
+        "imdb": "4.2",
+        "rotten_tomatoes": "10%"
+      },
+      "imdb_id": "tt0312528",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/the-cat-in-the-hat-/9999001544/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "wd-Q141817267",
+      "title_ar": "The Cycle",
+      "title_en": "The Cycle",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001542.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Cycle%20official%20trailer",
+      "ratings": {
+        "imdb": "6.4",
+        "rotten_tomatoes": "100%"
+      },
+      "imdb_id": "tt32358390",
+      "release_date": null,
+      "matched": true,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/the-cycle/9999001542/NowShowing"
         }
       ]
     },
