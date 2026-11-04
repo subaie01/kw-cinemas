@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-03T11:40:33.884549+00:00",
+  "scraped_at": "2026-11-04T11:54:26.434050+00:00",
   "failures": [
     "vox"
   ],
@@ -11,38 +11,75 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/A-Talent-for-Murder/HO00004526"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/a-talent-for-murder/9999001546/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001546.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001546.jpg",
+      "title_ar": "اي تالنت فور موردر",
+      "synopsis_ar": "تم إرسال شاب غامض من ناشر في نيويورك إلى سويسرا لإقناع الكاتبة الشهيرة باتريشيا هايسميث بكتابة جزء أخير من مختارات ريبلي.",
+      "genres_ar": [
+        "إثارة"
+      ],
+      "runtime_min": 100,
+      "trailer_youtube_id": "hTkvibcgga0"
     },
     "godzillaminuszerojapanese": {
       "title_en": "Godzilla Minus Zero - Japanese",
       "languages": [
-        "English"
+        "English",
+        "Japanese"
       ],
       "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/Godzilla-Minus-Zero---Japanese/HO00004537"
+        },
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/godzilla-minus-zero-japanese/9999001545/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001545.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001545.jpg",
+      "title_ar": "غودزيلا ماينس ون -يابانية",
+      "synopsis_ar": "فضت الحرب اليابان إلى الصفر، وأغرقها غودزيلا في ناقص. لقد مر عامان منذ ذلك الحين، وواجهت البلاد صراعات مؤلمة لتحقيق الانتصار واستعادة حياتها اليومية أخيرا.\n\r\n.تماما كما تمكنت البشرية من التشبث بسلام وتم تحقيقه بشق الأنفس، يضرب غودزيلا تهديد جديد،",
+      "genres_ar": [
+        "أكشن",
+        "رعب",
+        "إثارة"
+      ],
+      "runtime_min": 135,
+      "trailer_youtube_id": "aX1CBirOlJc"
     },
     "catinthehat": {
-      "title_en": "The Cat In The Hat",
+      "title_en": "The Cat in the Hat - Arabic",
       "languages": [
         "Arabic",
         "English"
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/The-Cat-in-the-Hat/HO00004467"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/the-cat-in-the-hat-/9999001544/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001544.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001544.jpg",
+      "title_ar": "ذا كات ان ذا هات",
+      "synopsis_ar": "تعرف على \"القط ذو القبعة\" بطريقة جديدة ومختلفة! مستوحى من عالم دكتور سوس الخيالي الممتع، يأتي \"القط ذو القبعة\" إلى السينما لأول مرة في فيلم رسوم متحركة مليء بالمغامرات والإثارة، حيث يجتمع المرح والسحر والفوضى في قصة مليئة بالمواقف المدهشة.",
+      "genres_ar": [
+        "رسوم متحركة",
+        "مغامرات"
+      ],
+      "runtime_min": 113,
+      "trailer_youtube_id": "No84r9sFSuA"
     },
     "cycle": {
       "title_en": "The Cycle",
@@ -51,11 +88,23 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/The-Cycle/HO00004557"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/the-cycle/9999001542/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001542.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001542.jpg",
+      "title_ar": "ذا سايكل",
+      "synopsis_ar": "عندما يتم اكتشاف جثة رجل مفقود منذ ستة وثلاثين عامًا في مسرح جريمة مروعة، فإن الأمر متروك لابنته المنفصلة لكشف ماضيه المظلم.",
+      "genres_ar": [
+        "رعب",
+        "إثارة"
+      ],
+      "runtime_min": 109,
+      "trailer_youtube_id": "59mA5W6ppv0"
     },
     "senseandsensibility": {
       "title_en": "Sense And Sensibility",
@@ -259,6 +308,27 @@
       "runtime_min": 104,
       "trailer_youtube_id": "rN6ZTbskJ0E"
     },
+    "ramayanariseofalegend": {
+      "title_en": "Ramayana: Rise of a Legend - Hindi",
+      "languages": [
+        "Hindi"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/Ramayana:-Rise-of-a-Legend---Hindi/HO00004560"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004560_669.jpg",
+      "title_ar": "رامايانا رايز اوف ذا   ليجند",
+      "synopsis_ar": "استنادًا إلى الملحمة القديمة الشهيرة المعروفة للمليارات، يحكي ناميت مالهوترا رامايانا: صعود أسطورة قصة راما، وهو أمير مقيد بالتضحية ؛ رافانا، ملك خالد مدفوع بالانتقام ؛ والنبوءة التي تربط مصائرهم معًا.",
+      "genres_ar": [
+        "أكشن",
+        "مغامرات"
+      ],
+      "runtime_min": 208,
+      "trailer_youtube_id": "QKzleGN82iM"
+    },
     "matloubaaeleyan": {
       "title_en": "Matloub Aaeleyan (Egyptian) - Arabic",
       "languages": [
@@ -279,27 +349,67 @@
       "runtime_min": 92,
       "trailer_youtube_id": "vgXdeRilGWY"
     },
-    "howtosavetheimmortal2elixiroflife": {
-      "title_en": "How to Save the Immortal 2: Elixir Of Life",
+    "draw": {
+      "title_en": "The Draw",
       "languages": [
         "English"
       ],
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/How-to-Save-the-Immortal-2:-Elixir-Of-Life/HO00004559"
+          "booking_url": "https://www.cinescape.com.kw/movie-details/The-Draw/HO00004545"
         }
       ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004559_593.jpg",
-      "title_ar": "هاو تو سيف ذا امورتل ٢ :اليكسر اف لايف",
-      "synopsis_ar": "لإنقاذ عروسه من نوبة نوم قوية، يجب أن يتعاون درايبون الخالد مع فارس أخرق ويجد إكسير الحياة الأسطوري.",
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004545_516.jpg",
+      "title_ar": "ذا دراو",
+      "synopsis_ar": "في عالم قمعي تتلاشى فيه الإرادة الحرة ويتم استبدال جميع الصور التناظرية بـ \"The EyeLight\"، يجب على أليك وجايد محاربة النظام وبرنامج تلفزيوني خطير سرعان ما يتسلل إلى حياتهما.",
       "genres_ar": [
-        "رسوم متحركة",
-        "أكشن",
-        "مغامرات"
+        "إثارة",
+        "خيال علمي"
       ],
-      "runtime_min": 75,
-      "trailer_youtube_id": "-xvC5Ue15M0"
+      "runtime_min": 94,
+      "trailer_youtube_id": "u6KUpoA7AwA"
+    },
+    "shawshankredemption1994": {
+      "title_en": "The Shawshank Redemption (1994)",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/The-Shawshank-Redemption-(1994)/HO00004536"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004536_442.jpg",
+      "title_ar": "ذا شاوشنك ريدمشن (١٩٩٤)",
+      "synopsis_ar": "بعد الحكم على مصرفي بالسجن مدى الحياة في سجن شوشانك، يشكل صداقة غير محتملة مع سجين محنك ويتشبث بالأمل وسط القسوة والفساد.",
+      "genres_ar": [
+        "دراما"
+      ],
+      "runtime_min": 138,
+      "trailer_youtube_id": "4Mr2ozMzG5s"
+    },
+    "idiots": {
+      "title_en": "Idiots",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/Idiots/HO00004558"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004558_316.jpg",
+      "title_ar": "اديوتس",
+      "synopsis_ar": "عندما يتم توظيف اثنين من الأوغاد غير المؤهلين لنقل مراهق ثري إلى إعادة التأهيل، فإن حفلتهم المباشرة تتحول بسرعة إلى فوضى خطيرة.",
+      "genres_ar": [
+        "كوميدي",
+        "جريمة"
+      ],
+      "runtime_min": 96,
+      "trailer_youtube_id": "1PsDWL71U44"
     },
     "texaschainsawmassacre1974": {
       "title_en": "The Texas Chain Saw Massacre (1974)",
@@ -320,67 +430,6 @@
       ],
       "runtime_min": 82,
       "trailer_youtube_id": "jL565F2N9Ug"
-    },
-    "influencerproject": {
-      "title_en": "The Influencer Project",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/The-Influencer-Project/HO00004509"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004509_632.jpg",
-      "title_ar": "ذا انفلونسر بروجكت",
-      "synopsis_ar": "تسافر المؤثرة إلى كوبنهاغن للحصول على فيلم وثائقي عن شهرتها عبر الإنترنت، ولكن عندما يبدأ المطارد المهووس في تتبع تحركاتها، يجب عليها مواجهة الإرهاب واستعادة قوتها.",
-      "genres_ar": [
-        "رعب"
-      ],
-      "runtime_min": 101,
-      "trailer_youtube_id": "7UzfgrVkLQo"
-    },
-    "whalefall": {
-      "title_en": "Whalefall",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Whalefall/HO00004404"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004404_522.jpg",
-      "title_ar": "وايل فال",
-      "synopsis_ar": "يتبع غواصًا، أثناء البحث عن رفات والده، يبتلعه حوت يبلغ طوله 80 قدمًا و 60 طنًا ولديه ساعة واحدة فقط للخروج قبل نفاد الأكسجين.",
-      "genres_ar": [
-        "إثارة"
-      ],
-      "runtime_min": 105,
-      "trailer_youtube_id": "qYVrqPSd1Cw"
-    },
-    "verity": {
-      "title_en": "Verity",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Verity/HO00004477"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004477_498.jpg",
-      "title_ar": "فيريتي",
-      "synopsis_ar": "مقتبس من رواية كولين هوفر الأكثر مبيعًا، يتبع هذا الفيلم النفسي الكاتبة الشهيرة فيريتي كروفورد ولوين آشلي، وهي كاتبة تكافح وتنتقل إلى ضيعة كروفورد النائية للكتابة الشبح من أجل فيريتي.",
-      "genres_ar": [
-        "إثارة",
-        "دراما"
-      ],
-      "runtime_min": 108,
-      "trailer_youtube_id": "FueZihqk8jM"
     },
     "heartofthebeast": {
       "title_en": "Heart of the Beast",
@@ -404,88 +453,46 @@
       "runtime_min": 101,
       "trailer_youtube_id": "6pVBiPMJwlc"
     },
-    "othermommy": {
-      "title_en": "Other Mommy",
+    "verity": {
+      "title_en": "Verity",
       "languages": [
         "English"
       ],
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Other-Mommy/HO00004479"
+          "booking_url": "https://www.cinescape.com.kw/movie-details/Verity/HO00004477"
         }
       ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004479_318.jpg",
-      "title_ar": "اوذر مومي",
-      "synopsis_ar": "تواجه بيلا، وهي فتاة تبلغ من العمر 8 سنوات تعيش في منزل يعاني من مشاكل زوجية، كيانًا شريرًا يخرج من خزانتها. الوجود، الذي تسميه \"الأم الأخرى\"، يصبح تهديدًا متزايدًا لها ولعائلتها.",
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004477_498.jpg",
+      "title_ar": "فيريتي",
+      "synopsis_ar": "مقتبس من رواية كولين هوفر الأكثر مبيعًا، يتبع هذا الفيلم النفسي الكاتبة الشهيرة فيريتي كروفورد ولوين آشلي، وهي كاتبة تكافح وتنتقل إلى ضيعة كروفورد النائية للكتابة الشبح من أجل فيريتي.",
       "genres_ar": [
-        "رعب"
-      ],
-      "runtime_min": 93,
-      "trailer_youtube_id": "VmmoOgHuq_8"
-    },
-    "streetfighter": {
-      "title_en": "Street Fighter",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Street-Fighter/HO00004276"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004276_751.jpg",
-      "title_ar": "ستريت فايتر",
-      "synopsis_ar": "في عام 1993، تم إلقاء مقاتلي الشوارع المنفصلين ريو (أندرو كوجي) وكين ماسترز (نواه سينتينيو) مرة أخرى في القتال عندما قام تشون لي (كالينا ليانغ) الغامض بتجنيدهم في بطولة المحارب العالمي التالية: صدام وحشي بين القبضات والمصير والغضب.",
-      "genres_ar": [
-        "أكشن",
+        "إثارة",
         "دراما"
       ],
-      "runtime_min": 110,
-      "trailer_youtube_id": "1gNRoqYwwbM"
+      "runtime_min": 108,
+      "trailer_youtube_id": "FueZihqk8jM"
     },
-    "traintobusan2016korean": {
-      "title_en": "Train to Busan (2016) - Korean",
-      "languages": [
-        "Korean"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Train-to-Busan-(2016)---Korean/HO00004552"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004552_910.jpg",
-      "title_ar": "تراين تو بوستن",
-      "synopsis_ar": "عندما يندلع فيروس غامض، يتحول المصاب إلى قاتل غير ميت. بينما يقاتل المسافرون المرعوبون من أجل حياتهم في قطار، فإن النتيجة هي تصادم عالي السرعة بين الأحياء والأموات الأحياء.",
-      "genres_ar": [
-        "أكشن",
-        "رعب"
-      ],
-      "runtime_min": 118,
-      "trailer_youtube_id": "IAJ0iWgJqTM"
-    },
-    "treasuretrekkers": {
-      "title_en": "Treasure Trekkers",
+    "whalefall": {
+      "title_en": "Whalefall",
       "languages": [
         "English"
       ],
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Treasure-Trekkers/HO00004524"
+          "booking_url": "https://www.cinescape.com.kw/movie-details/Whalefall/HO00004404"
         }
       ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004524_944.jpg",
-      "title_ar": "تريجر تريكرز",
-      "synopsis_ar": "يتم نقل ميب، وهو قرد بالتبني يبلغ من العمر 12 عامًا في عالم القطط والقوارض، بواسطة خريطة سحرية إلى إمباثرا. يشرع في سعي محفوف بالمخاطر للكشف عن أصوله، ويكتشف قوته التعاطفية، ويستعيد التعاطف مع الأرض.",
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004404_522.jpg",
+      "title_ar": "وايل فال",
+      "synopsis_ar": "يتبع غواصًا، أثناء البحث عن رفات والده، يبتلعه حوت يبلغ طوله 80 قدمًا و 60 طنًا ولديه ساعة واحدة فقط للخروج قبل نفاد الأكسجين.",
       "genres_ar": [
-        "رسوم متحركة",
-        "عائلي"
+        "إثارة"
       ],
-      "runtime_min": 98,
-      "trailer_youtube_id": "ETsEx5B5z_c"
+      "runtime_min": 105,
+      "trailer_youtube_id": "qYVrqPSd1Cw"
     },
     "smurfstimelessadventurevolume2": {
       "title_en": "The Smurfs Timeless Adventure Volume 2",
@@ -508,25 +515,109 @@
       "runtime_min": 78,
       "trailer_youtube_id": "MHApR8KopaE"
     },
-    "jailer2": {
-      "title_en": "Jailer 2 - Tamil",
+    "howtosavetheimmortal2elixiroflife": {
+      "title_en": "How to Save the Immortal 2: Elixir Of Life",
       "languages": [
-        "Tamil"
+        "English"
       ],
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Jailer-2---Tamil/HO00004541"
+          "booking_url": "https://www.cinescape.com.kw/movie-details/How-to-Save-the-Immortal-2:-Elixir-Of-Life/HO00004559"
         }
       ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004541_998.jpg",
-      "title_ar": "جايلر ٢",
-      "synopsis_ar": "يتبع السجان 2 السجان المتقاعد تايجر موثوفيل بانديان (راجينيكانث) كتهديد جديد من عالم الجريمة الإجرامي الذي يحطم حياته السلمية، مما يجبره على العودة إلى طرقه القاسية لحماية عائلته وإرثه.",
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004559_593.jpg",
+      "title_ar": "هاو تو سيف ذا امورتل ٢ :اليكسر اف لايف",
+      "synopsis_ar": "لإنقاذ عروسه من نوبة نوم قوية، يجب أن يتعاون درايبون الخالد مع فارس أخرق ويجد إكسير الحياة الأسطوري.",
       "genres_ar": [
-        "أكشن"
+        "رسوم متحركة",
+        "أكشن",
+        "مغامرات"
       ],
-      "runtime_min": 163,
-      "trailer_youtube_id": "lKKpJB8xqzI"
+      "runtime_min": 75,
+      "trailer_youtube_id": "-xvC5Ue15M0"
+    },
+    "streetfighter": {
+      "title_en": "Street Fighter",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/Street-Fighter/HO00004276"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004276_751.jpg",
+      "title_ar": "ستريت فايتر",
+      "synopsis_ar": "في عام 1993، تم إلقاء مقاتلي الشوارع المنفصلين ريو (أندرو كوجي) وكين ماسترز (نواه سينتينيو) مرة أخرى في القتال عندما قام تشون لي (كالينا ليانغ) الغامض بتجنيدهم في بطولة المحارب العالمي التالية: صدام وحشي بين القبضات والمصير والغضب.",
+      "genres_ar": [
+        "أكشن",
+        "دراما"
+      ],
+      "runtime_min": 110,
+      "trailer_youtube_id": "1gNRoqYwwbM"
+    },
+    "othermommy": {
+      "title_en": "Other Mommy",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/Other-Mommy/HO00004479"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004479_318.jpg",
+      "title_ar": "اوذر مومي",
+      "synopsis_ar": "تواجه بيلا، وهي فتاة تبلغ من العمر 8 سنوات تعيش في منزل يعاني من مشاكل زوجية، كيانًا شريرًا يخرج من خزانتها. الوجود، الذي تسميه \"الأم الأخرى\"، يصبح تهديدًا متزايدًا لها ولعائلتها.",
+      "genres_ar": [
+        "رعب"
+      ],
+      "runtime_min": 93,
+      "trailer_youtube_id": "VmmoOgHuq_8"
+    },
+    "traintobusan2016korean": {
+      "title_en": "Train to Busan (2016) - Korean",
+      "languages": [
+        "Korean"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/Train-to-Busan-(2016)---Korean/HO00004552"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004552_910.jpg",
+      "title_ar": "تراين تو بوستن",
+      "synopsis_ar": "عندما يندلع فيروس غامض، يتحول المصاب إلى قاتل غير ميت. بينما يقاتل المسافرون المرعوبون من أجل حياتهم في قطار، فإن النتيجة هي تصادم عالي السرعة بين الأحياء والأموات الأحياء.",
+      "genres_ar": [
+        "أكشن",
+        "رعب"
+      ],
+      "runtime_min": 118,
+      "trailer_youtube_id": "IAJ0iWgJqTM"
+    },
+    "influencerproject": {
+      "title_en": "The Influencer Project",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/The-Influencer-Project/HO00004509"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004509_632.jpg",
+      "title_ar": "ذا انفلونسر بروجكت",
+      "synopsis_ar": "تسافر المؤثرة إلى كوبنهاغن للحصول على فيلم وثائقي عن شهرتها عبر الإنترنت، ولكن عندما يبدأ المطارد المهووس في تتبع تحركاتها، يجب عليها مواجهة الإرهاب واستعادة قوتها.",
+      "genres_ar": [
+        "رعب"
+      ],
+      "runtime_min": 101,
+      "trailer_youtube_id": "7UzfgrVkLQo"
     },
     "aadarshakutumbamhouseno47": {
       "title_en": "Aadarsha Kutumbam House No:47 - Telugu",
@@ -548,6 +639,26 @@
       ],
       "runtime_min": 147,
       "trailer_youtube_id": "erAPiMHv0jQ"
+    },
+    "jailer2": {
+      "title_en": "Jailer 2 - Tamil",
+      "languages": [
+        "Tamil"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/Jailer-2---Tamil/HO00004541"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004541_998.jpg",
+      "title_ar": "جايلر ٢",
+      "synopsis_ar": "يتبع السجان 2 السجان المتقاعد تايجر موثوفيل بانديان (راجينيكانث) كتهديد جديد من عالم الجريمة الإجرامي الذي يحطم حياته السلمية، مما يجبره على العودة إلى طرقه القاسية لحماية عائلته وإرثه.",
+      "genres_ar": [
+        "أكشن"
+      ],
+      "runtime_min": 163,
+      "trailer_youtube_id": "lKKpJB8xqzI"
     }
   }
 }

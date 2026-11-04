@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-03T11:40:47.003809+00:00",
+  "last_updated": "2026-11-04T11:54:39.014940+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -15,6 +15,33 @@
     }
   },
   "movies": [
+    {
+      "id": "wd-Q135196186",
+      "title_ar": "رامايانا رايز اوف ذا   ليجند",
+      "title_en": "Ramayana: Rise of a Legend - Hindi",
+      "synopsis_ar": "استنادًا إلى الملحمة القديمة الشهيرة المعروفة للمليارات، يحكي ناميت مالهوترا رامايانا: صعود أسطورة قصة راما، وهو أمير مقيد بالتضحية ؛ رافانا، ملك خالد مدفوع بالانتقام ؛ والنبوءة التي تربط مصائرهم معًا.",
+      "genres_ar": [
+        "أكشن",
+        "مغامرات"
+      ],
+      "runtime_min": 208,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004560_669.jpg",
+      "trailer_youtube_id": "QKzleGN82iM",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Ramayana%3A%20Rise%20of%20a%20Legend%20-%20Hindi%20official%20trailer",
+      "ratings": {},
+      "imdb_id": "tt27988879",
+      "release_date": "2026-11-08",
+      "matched": true,
+      "languages": [
+        "Hindi"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/Ramayana:-Rise-of-a-Legend---Hindi/HO00004560"
+        }
+      ]
+    },
     {
       "id": "wd-Q134876629",
       "title_ar": "سقوط الحوت",
@@ -68,6 +95,10 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/A-Talent-for-Murder/HO00004526"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/a-talent-for-murder/9999001546/NowShowing"
         }
@@ -102,6 +133,36 @@
       ]
     },
     {
+      "id": "wd-Q137356276",
+      "title_ar": "اديوتس",
+      "title_en": "Idiots",
+      "synopsis_ar": "عندما يتم توظيف اثنين من الأوغاد غير المؤهلين لنقل مراهق ثري إلى إعادة التأهيل، فإن حفلتهم المباشرة تتحول بسرعة إلى فوضى خطيرة.",
+      "genres_ar": [
+        "كوميدي",
+        "جريمة"
+      ],
+      "runtime_min": 96,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004558_316.jpg",
+      "trailer_youtube_id": "1PsDWL71U44",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Idiots%20official%20trailer",
+      "ratings": {
+        "imdb": "5.5",
+        "rotten_tomatoes": "64%"
+      },
+      "imdb_id": "tt6628920",
+      "release_date": "2026-01-23",
+      "matched": true,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/Idiots/HO00004558"
+        }
+      ]
+    },
+    {
       "id": "local-godzillaminuszerojapanese",
       "title_ar": "Godzilla Minus Zero - Japanese",
       "title_en": "Godzilla Minus Zero - Japanese",
@@ -116,9 +177,14 @@
       "release_date": null,
       "matched": false,
       "languages": [
-        "English"
+        "English",
+        "Japanese"
       ],
       "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/Godzilla-Minus-Zero---Japanese/HO00004537"
+        },
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/godzilla-minus-zero-japanese/9999001545/NowShowing"
@@ -148,6 +214,10 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/The-Cat-in-the-Hat/HO00004467"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/the-cat-in-the-hat-/9999001544/NowShowing"
         }
@@ -174,6 +244,10 @@
         "English"
       ],
       "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/The-Cycle/HO00004557"
+        },
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/the-cycle/9999001542/NowShowing"
@@ -441,19 +515,46 @@
       ]
     },
     {
-      "id": "local-howtosavetheimmortal2elixiroflife",
-      "title_ar": "هاو تو سيف ذا امورتل ٢ :اليكسر اف لايف",
-      "title_en": "How to Save the Immortal 2: Elixir Of Life",
-      "synopsis_ar": "لإنقاذ عروسه من نوبة نوم قوية، يجب أن يتعاون درايبون الخالد مع فارس أخرق ويجد إكسير الحياة الأسطوري.",
+      "id": "local-draw",
+      "title_ar": "ذا دراو",
+      "title_en": "The Draw",
+      "synopsis_ar": "في عالم قمعي تتلاشى فيه الإرادة الحرة ويتم استبدال جميع الصور التناظرية بـ \"The EyeLight\"، يجب على أليك وجايد محاربة النظام وبرنامج تلفزيوني خطير سرعان ما يتسلل إلى حياتهما.",
       "genres_ar": [
-        "رسوم متحركة",
-        "أكشن",
-        "مغامرات"
+        "إثارة",
+        "خيال علمي"
       ],
-      "runtime_min": 75,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004559_593.jpg",
-      "trailer_youtube_id": "-xvC5Ue15M0",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=How%20to%20Save%20the%20Immortal%202%3A%20Elixir%20Of%20Life%20official%20trailer",
+      "runtime_min": 94,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004545_516.jpg",
+      "trailer_youtube_id": "u6KUpoA7AwA",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Draw%20official%20trailer",
+      "ratings": {
+        "imdb": "5.6"
+      },
+      "imdb_id": "tt23803134",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/The-Draw/HO00004545"
+        }
+      ]
+    },
+    {
+      "id": "local-shawshankredemption1994",
+      "title_ar": "ذا شاوشنك ريدمشن (١٩٩٤)",
+      "title_en": "The Shawshank Redemption (1994)",
+      "synopsis_ar": "بعد الحكم على مصرفي بالسجن مدى الحياة في سجن شوشانك، يشكل صداقة غير محتملة مع سجين محنك ويتشبث بالأمل وسط القسوة والفساد.",
+      "genres_ar": [
+        "دراما"
+      ],
+      "runtime_min": 138,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004536_442.jpg",
+      "trailer_youtube_id": "4Mr2ozMzG5s",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Shawshank%20Redemption%20%281994%29%20official%20trailer",
       "ratings": {},
       "imdb_id": null,
       "release_date": null,
@@ -464,7 +565,7 @@
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/How-to-Save-the-Immortal-2:-Elixir-Of-Life/HO00004559"
+          "booking_url": "https://www.cinescape.com.kw/movie-details/The-Shawshank-Redemption-(1994)/HO00004536"
         }
       ]
     },
@@ -497,31 +598,29 @@
       ]
     },
     {
-      "id": "wd-Q141697796",
-      "title_ar": "ذا انفلونسر بروجكت",
-      "title_en": "The Influencer Project",
-      "synopsis_ar": "تسافر المؤثرة إلى كوبنهاغن للحصول على فيلم وثائقي عن شهرتها عبر الإنترنت، ولكن عندما يبدأ المطارد المهووس في تتبع تحركاتها، يجب عليها مواجهة الإرهاب واستعادة قوتها.",
-      "genres_ar": [
-        "رعب"
-      ],
-      "runtime_min": 101,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004509_632.jpg",
-      "trailer_youtube_id": "7UzfgrVkLQo",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Influencer%20Project%20official%20trailer",
+      "id": "local-heartofthebeast",
+      "title_ar": "Heart Of The Beast",
+      "title_en": "Heart Of The Beast",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001504.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Heart%20Of%20The%20Beast%20official%20trailer",
       "ratings": {
-        "imdb": "4.7",
-        "rotten_tomatoes": "54%"
+        "imdb": "7.5",
+        "rotten_tomatoes": "85%"
       },
-      "imdb_id": "tt42643242",
+      "imdb_id": "tt7526136",
       "release_date": null,
-      "matched": true,
+      "matched": false,
       "languages": [
         "English"
       ],
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/The-Influencer-Project/HO00004509"
+          "booking_url": "https://www.cinescape.com.kw/movie-details/Heart-of-the-Beast/HO00004466"
         }
       ]
     },
@@ -550,20 +649,17 @@
       ]
     },
     {
-      "id": "local-heartofthebeast",
-      "title_ar": "Heart Of The Beast",
-      "title_en": "Heart Of The Beast",
+      "id": "local-smurfstimelessadventurevolume2",
+      "title_ar": "The Smurfs Timeless Adventure Volume 2",
+      "title_en": "The Smurfs Timeless Adventure Volume 2",
       "synopsis_ar": "",
       "genres_ar": [],
       "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001504.jpg",
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001498.jpg",
       "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Heart%20Of%20The%20Beast%20official%20trailer",
-      "ratings": {
-        "imdb": "7.5",
-        "rotten_tomatoes": "85%"
-      },
-      "imdb_id": "tt7526136",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Smurfs%20Timeless%20Adventure%20Volume%202%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
       "release_date": null,
       "matched": false,
       "languages": [
@@ -572,7 +668,35 @@
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Heart-of-the-Beast/HO00004466"
+          "booking_url": "https://www.cinescape.com.kw/movie-details/The-Smurfs-Timeless-Adventure-Volume-2/HO00004496"
+        }
+      ]
+    },
+    {
+      "id": "local-howtosavetheimmortal2elixiroflife",
+      "title_ar": "هاو تو سيف ذا امورتل ٢ :اليكسر اف لايف",
+      "title_en": "How to Save the Immortal 2: Elixir Of Life",
+      "synopsis_ar": "لإنقاذ عروسه من نوبة نوم قوية، يجب أن يتعاون درايبون الخالد مع فارس أخرق ويجد إكسير الحياة الأسطوري.",
+      "genres_ar": [
+        "رسوم متحركة",
+        "أكشن",
+        "مغامرات"
+      ],
+      "runtime_min": 75,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004559_593.jpg",
+      "trailer_youtube_id": "-xvC5Ue15M0",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=How%20to%20Save%20the%20Immortal%202%3A%20Elixir%20Of%20Life%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/How-to-Save-the-Immortal-2:-Elixir-Of-Life/HO00004559"
         }
       ]
     },
@@ -628,50 +752,58 @@
       ]
     },
     {
-      "id": "local-treasuretrekkers",
-      "title_ar": "Treasure Trekkers",
-      "title_en": "Treasure Trekkers",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001532.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Treasure%20Trekkers%20official%20trailer",
-      "ratings": {},
-      "imdb_id": "tt10483886",
+      "id": "wd-Q141697796",
+      "title_ar": "ذا انفلونسر بروجكت",
+      "title_en": "The Influencer Project",
+      "synopsis_ar": "تسافر المؤثرة إلى كوبنهاغن للحصول على فيلم وثائقي عن شهرتها عبر الإنترنت، ولكن عندما يبدأ المطارد المهووس في تتبع تحركاتها، يجب عليها مواجهة الإرهاب واستعادة قوتها.",
+      "genres_ar": [
+        "رعب"
+      ],
+      "runtime_min": 101,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004509_632.jpg",
+      "trailer_youtube_id": "7UzfgrVkLQo",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Influencer%20Project%20official%20trailer",
+      "ratings": {
+        "imdb": "4.7",
+        "rotten_tomatoes": "54%"
+      },
+      "imdb_id": "tt42643242",
       "release_date": null,
-      "matched": false,
+      "matched": true,
       "languages": [
         "English"
       ],
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Treasure-Trekkers/HO00004524"
+          "booking_url": "https://www.cinescape.com.kw/movie-details/The-Influencer-Project/HO00004509"
         }
       ]
     },
     {
-      "id": "local-smurfstimelessadventurevolume2",
-      "title_ar": "The Smurfs Timeless Adventure Volume 2",
-      "title_en": "The Smurfs Timeless Adventure Volume 2",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001498.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Smurfs%20Timeless%20Adventure%20Volume%202%20official%20trailer",
+      "id": "local-aadarshakutumbamhouseno47",
+      "title_ar": "ادارشا كوتومبام هاوس : 47",
+      "title_en": "Aadarsha Kutumbam House No:47 - Telugu",
+      "synopsis_ar": "عائلة لا تشوبها شائبة على ما يبدو في المنزل رقم 47 تتفكك بعد وقوع حادث يكشف عن توترات خفية. مع ظهور الأسرار وتلاشي الروابط، يواجه كل عضو الحقيقة وراء واجهته المثالية في حكاية المظاهر هذه مقابل الواقع",
+      "genres_ar": [
+        "كوميدي",
+        "إثارة"
+      ],
+      "runtime_min": 147,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004570_256.jpg",
+      "trailer_youtube_id": "erAPiMHv0jQ",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Aadarsha%20Kutumbam%20House%20No%3A47%20-%20Telugu%20official%20trailer",
       "ratings": {},
       "imdb_id": null,
       "release_date": null,
       "matched": false,
       "languages": [
-        "English"
+        "Telugu"
       ],
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/The-Smurfs-Timeless-Adventure-Volume-2/HO00004496"
+          "booking_url": "https://www.cinescape.com.kw/movie-details/Aadarsha-Kutumbam-House-No:47---Telugu/HO00004570"
         }
       ]
     },
@@ -700,33 +832,6 @@
         {
           "id": "cinescape",
           "booking_url": "https://www.cinescape.com.kw/movie-details/Jailer-2---Tamil/HO00004541"
-        }
-      ]
-    },
-    {
-      "id": "local-aadarshakutumbamhouseno47",
-      "title_ar": "ادارشا كوتومبام هاوس : 47",
-      "title_en": "Aadarsha Kutumbam House No:47 - Telugu",
-      "synopsis_ar": "عائلة لا تشوبها شائبة على ما يبدو في المنزل رقم 47 تتفكك بعد وقوع حادث يكشف عن توترات خفية. مع ظهور الأسرار وتلاشي الروابط، يواجه كل عضو الحقيقة وراء واجهته المثالية في حكاية المظاهر هذه مقابل الواقع",
-      "genres_ar": [
-        "كوميدي",
-        "إثارة"
-      ],
-      "runtime_min": 147,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004570_256.jpg",
-      "trailer_youtube_id": "erAPiMHv0jQ",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Aadarsha%20Kutumbam%20House%20No%3A47%20-%20Telugu%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Telugu"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Aadarsha-Kutumbam-House-No:47---Telugu/HO00004570"
         }
       ]
     }
