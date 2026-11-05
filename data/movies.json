@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-04T11:54:39.014940+00:00",
+  "last_updated": "2026-11-05T11:56:10.186775+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -101,34 +101,6 @@
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/a-talent-for-murder/9999001546/NowShowing"
-        }
-      ]
-    },
-    {
-      "id": "wd-Q134588273",
-      "title_ar": "Other Mommy",
-      "title_en": "Other Mommy",
-      "synopsis_ar": "",
-      "genres_ar": [
-        "فلم رعب خارق للطبيعة"
-      ],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001516.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Other%20Mommy%20official%20trailer",
-      "ratings": {
-        "imdb": "5.3"
-      },
-      "imdb_id": "tt36586020",
-      "release_date": "2026-05-08",
-      "matched": true,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Other-Mommy/HO00004479"
         }
       ]
     },
@@ -255,37 +227,6 @@
       ]
     },
     {
-      "id": "local-senseandsensibility",
-      "title_ar": "Sense And Sensibility",
-      "title_en": "Sense And Sensibility",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001541.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Sense%20And%20Sensibility%20official%20trailer",
-      "ratings": {
-        "imdb": "7.7",
-        "rotten_tomatoes": "97%"
-      },
-      "imdb_id": "tt0114388",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Sense-and-Sensibility/HO00004480"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/sense-and-sensibility-/9999001541/NowShowing"
-        }
-      ]
-    },
-    {
       "id": "local-wildwood",
       "title_ar": "Wildwood",
       "title_en": "Wildwood",
@@ -312,34 +253,6 @@
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/wildwood-/9999001540/NowShowing"
-        }
-      ]
-    },
-    {
-      "id": "local-walakanalaelbal",
-      "title_ar": "Wala Kan Ala El-Bal",
-      "title_en": "Wala Kan Ala El-Bal",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001539.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Wala%20Kan%20Ala%20El-Bal%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Wala-Kan-Ala-El-Bal-(Egyptian)---Arabic/HO00004521"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/wala-kan-ala-el-bal-(egyptian)-arabic/9999001539/NowShowing"
         }
       ]
     },
@@ -374,93 +287,6 @@
       ]
     },
     {
-      "id": "local-hopekorean",
-      "title_ar": "Hope - Korean",
-      "title_en": "Hope - Korean",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001537.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Hope%20-%20Korean%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English",
-        "Korean"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Hope---Korean/HO00004556"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/hope-korean/9999001537/NowShowing"
-        }
-      ]
-    },
-    {
-      "id": "local-soy",
-      "title_ar": "Soy",
-      "title_en": "Soy",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001536.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Soy%20official%20trailer",
-      "ratings": {
-        "imdb": "6.6"
-      },
-      "imdb_id": "tt0378453",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Turkish"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/SOY---Turkish/HO00004553"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/soy-turkish/9999001536/NowShowing"
-        }
-      ]
-    },
-    {
-      "id": "local-mongoose",
-      "title_ar": "The Mongoose",
-      "title_en": "The Mongoose",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001535.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Mongoose%20official%20trailer",
-      "ratings": {},
-      "imdb_id": "tt13611778",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/The-Mongoose/HO00004511"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/the-mongoose/9999001535/NowShowing"
-        }
-      ]
-    },
-    {
       "id": "local-clayface",
       "title_ar": "Clayface",
       "title_en": "Clayface",
@@ -491,6 +317,30 @@
       ]
     },
     {
+      "id": "local-walakanalaelbal",
+      "title_ar": "Wala Kan Ala El-Bal",
+      "title_en": "Wala Kan Ala El-Bal",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001539.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Wala%20Kan%20Ala%20El-Bal%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/Wala-Kan-Ala-El-Bal-(Egyptian)---Arabic/HO00004521"
+        }
+      ]
+    },
+    {
       "id": "local-matloubaaeleyan",
       "title_ar": "Matloub Aaeleyan",
       "title_en": "Matloub Aaeleyan",
@@ -511,6 +361,33 @@
         {
           "id": "cinescape",
           "booking_url": "https://www.cinescape.com.kw/movie-details/Matloub-Aaeleyan-(Egyptian)---Arabic/HO00004534"
+        }
+      ]
+    },
+    {
+      "id": "local-senseandsensibility",
+      "title_ar": "Sense And Sensibility",
+      "title_en": "Sense And Sensibility",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001541.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Sense%20And%20Sensibility%20official%20trailer",
+      "ratings": {
+        "imdb": "7.7",
+        "rotten_tomatoes": "97%"
+      },
+      "imdb_id": "tt0114388",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/Sense-and-Sensibility/HO00004480"
         }
       ]
     },
@@ -570,6 +447,54 @@
       ]
     },
     {
+      "id": "local-mongoose",
+      "title_ar": "The Mongoose",
+      "title_en": "The Mongoose",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001535.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Mongoose%20official%20trailer",
+      "ratings": {},
+      "imdb_id": "tt13611778",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/The-Mongoose/HO00004511"
+        }
+      ]
+    },
+    {
+      "id": "local-hopekorean",
+      "title_ar": "Hope - Korean",
+      "title_en": "Hope - Korean",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001537.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Hope%20-%20Korean%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Korean"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/Hope---Korean/HO00004556"
+        }
+      ]
+    },
+    {
       "id": "local-texaschainsawmassacre1974",
       "title_ar": "تكسس جاين سو ماسكر",
       "title_en": "The Texas Chain Saw Massacre (1974)",
@@ -594,6 +519,32 @@
         {
           "id": "cinescape",
           "booking_url": "https://www.cinescape.com.kw/movie-details/The-Texas-Chain-Saw-Massacre-(1974)/HO00004555"
+        }
+      ]
+    },
+    {
+      "id": "local-soy",
+      "title_ar": "Soy",
+      "title_en": "Soy",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001536.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Soy%20official%20trailer",
+      "ratings": {
+        "imdb": "6.6"
+      },
+      "imdb_id": "tt0378453",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Turkish"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/SOY---Turkish/HO00004553"
         }
       ]
     },
@@ -649,165 +600,6 @@
       ]
     },
     {
-      "id": "local-smurfstimelessadventurevolume2",
-      "title_ar": "The Smurfs Timeless Adventure Volume 2",
-      "title_en": "The Smurfs Timeless Adventure Volume 2",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001498.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Smurfs%20Timeless%20Adventure%20Volume%202%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/The-Smurfs-Timeless-Adventure-Volume-2/HO00004496"
-        }
-      ]
-    },
-    {
-      "id": "local-howtosavetheimmortal2elixiroflife",
-      "title_ar": "هاو تو سيف ذا امورتل ٢ :اليكسر اف لايف",
-      "title_en": "How to Save the Immortal 2: Elixir Of Life",
-      "synopsis_ar": "لإنقاذ عروسه من نوبة نوم قوية، يجب أن يتعاون درايبون الخالد مع فارس أخرق ويجد إكسير الحياة الأسطوري.",
-      "genres_ar": [
-        "رسوم متحركة",
-        "أكشن",
-        "مغامرات"
-      ],
-      "runtime_min": 75,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004559_593.jpg",
-      "trailer_youtube_id": "-xvC5Ue15M0",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=How%20to%20Save%20the%20Immortal%202%3A%20Elixir%20Of%20Life%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/How-to-Save-the-Immortal-2:-Elixir-Of-Life/HO00004559"
-        }
-      ]
-    },
-    {
-      "id": "local-streetfighter",
-      "title_ar": "Street Fighter",
-      "title_en": "Street Fighter",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001519.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Street%20Fighter%20official%20trailer",
-      "ratings": {
-        "imdb": "4.2",
-        "rotten_tomatoes": "20%"
-      },
-      "imdb_id": "tt0111301",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Street-Fighter/HO00004276"
-        }
-      ]
-    },
-    {
-      "id": "local-traintobusan2016korean",
-      "title_ar": "Train To Busan (2016) - Korean",
-      "title_en": "Train To Busan (2016) - Korean",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001531.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Train%20To%20Busan%20%282016%29%20-%20Korean%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Korean"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Train-to-Busan-(2016)---Korean/HO00004552"
-        }
-      ]
-    },
-    {
-      "id": "wd-Q141697796",
-      "title_ar": "ذا انفلونسر بروجكت",
-      "title_en": "The Influencer Project",
-      "synopsis_ar": "تسافر المؤثرة إلى كوبنهاغن للحصول على فيلم وثائقي عن شهرتها عبر الإنترنت، ولكن عندما يبدأ المطارد المهووس في تتبع تحركاتها، يجب عليها مواجهة الإرهاب واستعادة قوتها.",
-      "genres_ar": [
-        "رعب"
-      ],
-      "runtime_min": 101,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004509_632.jpg",
-      "trailer_youtube_id": "7UzfgrVkLQo",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Influencer%20Project%20official%20trailer",
-      "ratings": {
-        "imdb": "4.7",
-        "rotten_tomatoes": "54%"
-      },
-      "imdb_id": "tt42643242",
-      "release_date": null,
-      "matched": true,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/The-Influencer-Project/HO00004509"
-        }
-      ]
-    },
-    {
-      "id": "local-aadarshakutumbamhouseno47",
-      "title_ar": "ادارشا كوتومبام هاوس : 47",
-      "title_en": "Aadarsha Kutumbam House No:47 - Telugu",
-      "synopsis_ar": "عائلة لا تشوبها شائبة على ما يبدو في المنزل رقم 47 تتفكك بعد وقوع حادث يكشف عن توترات خفية. مع ظهور الأسرار وتلاشي الروابط، يواجه كل عضو الحقيقة وراء واجهته المثالية في حكاية المظاهر هذه مقابل الواقع",
-      "genres_ar": [
-        "كوميدي",
-        "إثارة"
-      ],
-      "runtime_min": 147,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004570_256.jpg",
-      "trailer_youtube_id": "erAPiMHv0jQ",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Aadarsha%20Kutumbam%20House%20No%3A47%20-%20Telugu%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Telugu"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Aadarsha-Kutumbam-House-No:47---Telugu/HO00004570"
-        }
-      ]
-    },
-    {
       "id": "wd-Q133255153",
       "title_ar": "جايلر ٢",
       "title_en": "Jailer 2 - Tamil",
@@ -832,6 +624,35 @@
         {
           "id": "cinescape",
           "booking_url": "https://www.cinescape.com.kw/movie-details/Jailer-2---Tamil/HO00004541"
+        }
+      ]
+    },
+    {
+      "id": "local-scene",
+      "title_ar": "سينس _ تامل",
+      "title_en": "Scene - Tamil",
+      "synopsis_ar": "إنباراج، يجد ضابط شرطة نفسه منجذباً مرة أخرى إلى قضية قديمة تركها وراءه ذات مرة. تجلب الحالة تحديات ومضاعفات جديدة. تتبع القصة كيف تناولت إنباراج القضية مرة أخرى وتقاتل لكشف الحقيقة.",
+      "genres_ar": [
+        "أكشن",
+        "إثارة"
+      ],
+      "runtime_min": 147,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004579_424.jpg",
+      "trailer_youtube_id": "_RbZHpqP_go",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Scene%20-%20Tamil%20official%20trailer",
+      "ratings": {
+        "imdb": "7.7"
+      },
+      "imdb_id": "tt0247082",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Tamil"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/Scene---Tamil/HO00004579"
         }
       ]
     }
