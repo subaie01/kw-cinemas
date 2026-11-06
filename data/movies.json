@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-05T11:56:10.186775+00:00",
+  "last_updated": "2026-11-06T11:52:08.610349+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -28,7 +28,9 @@
       "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004560_669.jpg",
       "trailer_youtube_id": "QKzleGN82iM",
       "trailer_search_url": "https://www.youtube.com/results?search_query=Ramayana%3A%20Rise%20of%20a%20Legend%20-%20Hindi%20official%20trailer",
-      "ratings": {},
+      "ratings": {
+        "imdb": "8.7"
+      },
       "imdb_id": "tt27988879",
       "release_date": "2026-11-08",
       "matched": true,
