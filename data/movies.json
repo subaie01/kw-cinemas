@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-06T11:52:08.610349+00:00",
+  "last_updated": "2026-11-07T10:54:51.594613+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -29,7 +29,7 @@
       "trailer_youtube_id": "QKzleGN82iM",
       "trailer_search_url": "https://www.youtube.com/results?search_query=Ramayana%3A%20Rise%20of%20a%20Legend%20-%20Hindi%20official%20trailer",
       "ratings": {
-        "imdb": "8.7"
+        "imdb": "8.6"
       },
       "imdb_id": "tt27988879",
       "release_date": "2026-11-08",
@@ -120,8 +120,7 @@
       "trailer_youtube_id": "1PsDWL71U44",
       "trailer_search_url": "https://www.youtube.com/results?search_query=Idiots%20official%20trailer",
       "ratings": {
-        "imdb": "5.5",
-        "rotten_tomatoes": "64%"
+        "imdb": "5.5"
       },
       "imdb_id": "tt6628920",
       "release_date": "2026-01-23",
@@ -328,8 +327,10 @@
       "poster": "https://www.skycinemaskw.com/images/movies/9999001539.jpg",
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=Wala%20Kan%20Ala%20El-Bal%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
+      "ratings": {
+        "imdb": "7.1"
+      },
+      "imdb_id": "tt43634235",
       "release_date": null,
       "matched": false,
       "languages": [
@@ -352,8 +353,10 @@
       "poster": "https://www.skycinemaskw.com/images/movies/9999001511.jpg",
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=Matloub%20Aaeleyan%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
+      "ratings": {
+        "imdb": "4.2"
+      },
+      "imdb_id": "tt43698551",
       "release_date": null,
       "matched": false,
       "languages": [
@@ -561,8 +564,7 @@
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=Heart%20Of%20The%20Beast%20official%20trailer",
       "ratings": {
-        "imdb": "7.5",
-        "rotten_tomatoes": "85%"
+        "imdb": "7.5"
       },
       "imdb_id": "tt7526136",
       "release_date": null,
