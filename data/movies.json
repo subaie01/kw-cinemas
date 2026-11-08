@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-07T10:54:51.594613+00:00",
+  "last_updated": "2026-11-08T11:05:32.850927+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -29,7 +29,7 @@
       "trailer_youtube_id": "QKzleGN82iM",
       "trailer_search_url": "https://www.youtube.com/results?search_query=Ramayana%3A%20Rise%20of%20a%20Legend%20-%20Hindi%20official%20trailer",
       "ratings": {
-        "imdb": "8.6"
+        "imdb": "8.5"
       },
       "imdb_id": "tt27988879",
       "release_date": "2026-11-08",
@@ -86,8 +86,7 @@
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=A%20Talent%20For%20Murder%20official%20trailer",
       "ratings": {
-        "imdb": "6.8",
-        "rotten_tomatoes": "85%"
+        "imdb": "6.8"
       },
       "imdb_id": "tt14129116",
       "release_date": "2026-09-14",
@@ -207,8 +206,7 @@
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Cycle%20official%20trailer",
       "ratings": {
-        "imdb": "6.4",
-        "rotten_tomatoes": "100%"
+        "imdb": "6.4"
       },
       "imdb_id": "tt32358390",
       "release_date": null,
