@@ -1,9 +1,75 @@
 {
-  "scraped_at": "2026-11-09T12:35:37.572089+00:00",
+  "scraped_at": "2026-11-10T12:12:48.973833+00:00",
   "failures": [
-    "vox"
+    "vox",
+    "cinescape"
   ],
   "movies": {
+    "howtorobabank": {
+      "title_en": "How To Rob A Bank",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/how-to-rob-a-bank/9999001552/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001552.jpg"
+    },
+    "hadoota": {
+      "title_en": "Hadoota",
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/hadoota-(egyptian)-arabic/9999001551/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001551.jpg"
+    },
+    "ebenezer": {
+      "title_en": "Ebenezer",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/ebenezer/9999001550/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001550.jpg"
+    },
+    "bestpancakesinthecounty": {
+      "title_en": "Best Pancakes In The County",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/best-pancakes-in-the-county/9999001549/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001549.jpg"
+    },
+    "lasttemptationofbecky": {
+      "title_en": "The Last Temptation Of Becky",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/the-last-temptation-of-becky/9999001548/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001548.jpg"
+    },
     "atalentformurder": {
       "title_en": "A Talent For Murder",
       "languages": [
@@ -11,75 +77,38 @@
       ],
       "cinemas": [
         {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/A-Talent-for-Murder/HO00004526"
-        },
-        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/a-talent-for-murder/9999001546/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001546.jpg",
-      "title_ar": "اي تالنت فور موردر",
-      "synopsis_ar": "تم إرسال شاب غامض من ناشر في نيويورك إلى سويسرا لإقناع الكاتبة الشهيرة باتريشيا هايسميث بكتابة جزء أخير من مختارات ريبلي.",
-      "genres_ar": [
-        "إثارة"
-      ],
-      "runtime_min": 100,
-      "trailer_youtube_id": "hTkvibcgga0"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001546.jpg"
     },
     "godzillaminuszerojapanese": {
       "title_en": "Godzilla Minus Zero - Japanese",
       "languages": [
-        "English",
-        "Japanese"
+        "English"
       ],
       "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Godzilla-Minus-Zero---Japanese/HO00004537"
-        },
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/godzilla-minus-zero-japanese/9999001545/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001545.jpg",
-      "title_ar": "غودزيلا ماينس ون -يابانية",
-      "synopsis_ar": "فضت الحرب اليابان إلى الصفر، وأغرقها غودزيلا في ناقص. لقد مر عامان منذ ذلك الحين، وواجهت البلاد صراعات مؤلمة لتحقيق الانتصار واستعادة حياتها اليومية أخيرا.\n\r\n.تماما كما تمكنت البشرية من التشبث بسلام وتم تحقيقه بشق الأنفس، يضرب غودزيلا تهديد جديد،",
-      "genres_ar": [
-        "أكشن",
-        "رعب",
-        "إثارة"
-      ],
-      "runtime_min": 135,
-      "trailer_youtube_id": "aX1CBirOlJc"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001545.jpg"
     },
     "catinthehat": {
-      "title_en": "The Cat in the Hat - Arabic",
+      "title_en": "The Cat In The Hat",
       "languages": [
         "Arabic",
         "English"
       ],
       "cinemas": [
         {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/The-Cat-in-the-Hat/HO00004467"
-        },
-        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/the-cat-in-the-hat-/9999001544/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001544.jpg",
-      "title_ar": "ذا كات ان ذا هات",
-      "synopsis_ar": "تعرف على \"القط ذو القبعة\" بطريقة جديدة ومختلفة! مستوحى من عالم دكتور سوس الخيالي الممتع، يأتي \"القط ذو القبعة\" إلى السينما لأول مرة في فيلم رسوم متحركة مليء بالمغامرات والإثارة، حيث يجتمع المرح والسحر والفوضى في قصة مليئة بالمواقف المدهشة.",
-      "genres_ar": [
-        "رسوم متحركة",
-        "مغامرات"
-      ],
-      "runtime_min": 113,
-      "trailer_youtube_id": "No84r9sFSuA"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001544.jpg"
     },
     "cycle": {
       "title_en": "The Cycle",
@@ -88,23 +117,11 @@
       ],
       "cinemas": [
         {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/The-Cycle/HO00004557"
-        },
-        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/the-cycle/9999001542/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001542.jpg",
-      "title_ar": "ذا سايكل",
-      "synopsis_ar": "عندما يتم اكتشاف جثة رجل مفقود منذ ستة وثلاثين عامًا في مسرح جريمة مروعة، فإن الأمر متروك لابنته المنفصلة لكشف ماضيه المظلم.",
-      "genres_ar": [
-        "رعب",
-        "إثارة"
-      ],
-      "runtime_min": 109,
-      "trailer_youtube_id": "59mA5W6ppv0"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001542.jpg"
     },
     "wildwood": {
       "title_en": "Wildwood",
@@ -113,49 +130,24 @@
       ],
       "cinemas": [
         {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Wildwood/HO00004507"
-        },
-        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/wildwood-/9999001540/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001540.jpg",
-      "title_ar": "وايلدود",
-      "synopsis_ar": "مغامرات برو ماكيل وهي تنطلق إلى الغابات خارج بورتلاند للعثور على شقيقها المختطف.",
-      "genres_ar": [
-        "رسوم متحركة",
-        "مغامرات",
-        "خيالي"
-      ],
-      "runtime_min": 128,
-      "trailer_youtube_id": "jtPIzw1lh2k"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001540.jpg"
     },
     "naseeb": {
-      "title_en": "Naseeb (Egyptian) - Arabic",
+      "title_en": "Naseeb",
       "languages": [
         "Arabic"
       ],
       "cinemas": [
         {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Naseeb-(Egyptian)---Arabic/HO00004551"
-        },
-        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/naseeb-(egyptian)-arabic/9999001538/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001538.jpg",
-      "title_ar": "نصيب",
-      "synopsis_ar": "تدور أحداث القصة في منتجع سياحي في الغردقة، حيث ترث أرملة ثرية المنتجع بعد وفاة زوجها الملياردير. أثناء إدارتها للمنتجع، تمر بعدة تجارب رومانسية بحثًا عن شريك حياة مناسب، حتى تلتقي برجل تقع في حبه",
-      "genres_ar": [
-        "أكشن",
-        "كوميدي"
-      ],
-      "runtime_min": 92,
-      "trailer_youtube_id": "0rlEiQs7YAY"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001538.jpg"
     },
     "clayface": {
       "title_en": "Clayface",
@@ -164,355 +156,11 @@
       ],
       "cinemas": [
         {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Clayface/HO00004372"
-        },
-        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/clayface/9999001534/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001534.jpg",
-      "title_ar": "كلاي فيس",
-      "synopsis_ar": "يكشف فيلم «كلاي فيس» عن السقوط المرعب لرجل من نجم هوليوود صاعد إلى وحش مدفوع بالانتقام، مستكشفًا فقدان الهوية والإنسانية، والحب المتآكل، والجانب المظلم للطموح العلمي.",
-      "genres_ar": [
-        "رعب",
-        "إثارة"
-      ],
-      "runtime_min": 104,
-      "trailer_youtube_id": "rN6ZTbskJ0E"
-    },
-    "ramayanariseofalegend": {
-      "title_en": "Ramayana: Rise of a Legend - Hindi",
-      "languages": [
-        "Hindi"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Ramayana:-Rise-of-a-Legend---Hindi/HO00004560"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004560_669.jpg",
-      "title_ar": "رامايانا رايز اوف ذا   ليجند",
-      "synopsis_ar": "استنادًا إلى الملحمة القديمة الشهيرة المعروفة للمليارات، يحكي ناميت مالهوترا رامايانا: صعود أسطورة قصة راما، وهو أمير مقيد بالتضحية ؛ رافانا، ملك خالد مدفوع بالانتقام ؛ والنبوءة التي تربط مصائرهم معًا.",
-      "genres_ar": [
-        "أكشن",
-        "مغامرات"
-      ],
-      "runtime_min": 208,
-      "trailer_youtube_id": "QKzleGN82iM"
-    },
-    "walakanalaelbal": {
-      "title_en": "Wala Kan Ala El Bal (Egyptian) - Arabic",
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Wala-Kan-Ala-El-Bal-(Egyptian)---Arabic/HO00004521"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004521_237.jpg",
-      "title_ar": "ولا كان على البال",
-      "synopsis_ar": "يقبل مرشد سياحي شاب في مدينة الأقصر عرضاً غريباً من رجل أعمال ثري: أن يجعل ابنته تقع في حبه ويساعدها على نسيان حبيبها السابق. ولكن عندما لا تسير الأمور كما هو مخطط لها، يجد حسن نفسه عالقاً في سلسلة من المواقف الكوميدية وغير المتوقعة، وفي قلب قصة حب لم يكن",
-      "genres_ar": [
-        "كوميدي",
-        "رومانسي"
-      ],
-      "runtime_min": 87,
-      "trailer_youtube_id": "J_gCiZM3PCI"
-    },
-    "matloubaaeleyan": {
-      "title_en": "Matloub Aaeleyan (Egyptian) - Arabic",
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Matloub-Aaeleyan-(Egyptian)---Arabic/HO00004534"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004534_211.jpg",
-      "title_ar": "مطلوب عائليا",
-      "synopsis_ar": "تدور احداث الفيلم حول فاروق\"كريم عبد العزيز\" مدير السوبر ماركت مشغول عن بيته وزوجته مي \"ياسمين صبري \"واولاده، يأتي اخو زوجته جلال \"مصطفي خاطر\" العاطل يعيش معه و مع اسرته في البيت و يقلب حياته بالكامل\nو يدخله في مصائب يستحيل عليه حلها تدور الاحداث في اطار",
-      "genres_ar": [
-        "كوميدي"
-      ],
-      "runtime_min": 92,
-      "trailer_youtube_id": "vgXdeRilGWY"
-    },
-    "senseandsensibility": {
-      "title_en": "Sense and Sensibility",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Sense-and-Sensibility/HO00004480"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004480_728.jpg",
-      "title_ar": "عقل وعاطفة",
-      "synopsis_ar": "يتابع فيلم \"عقل وعاطفة\" قصة الشقيقتين إلينور وماريان داشوود، اللتين تواجهان الحب وخيباته وتوقعات المجتمع بعد أن تفقد عائلتهما ممتلكاتها. وعلى الرغم من اختلاف نظرتهما إلى الحب والعلاقات، تظل علاقتهما القوية سندًا لهما في مواجهة ما تمران به من فقد واضطرابات",
-      "genres_ar": [
-        "دراما",
-        "رومانسي"
-      ],
-      "runtime_min": 131,
-      "trailer_youtube_id": "dLZKTQpsveo"
-    },
-    "draw": {
-      "title_en": "The Draw",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/The-Draw/HO00004545"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004545_516.jpg",
-      "title_ar": "ذا دراو",
-      "synopsis_ar": "في عالم قمعي تتلاشى فيه الإرادة الحرة ويتم استبدال جميع الصور التناظرية بـ \"The EyeLight\"، يجب على أليك وجايد محاربة النظام وبرنامج تلفزيوني خطير سرعان ما يتسلل إلى حياتهما.",
-      "genres_ar": [
-        "إثارة",
-        "خيال علمي"
-      ],
-      "runtime_min": 94,
-      "trailer_youtube_id": "u6KUpoA7AwA"
-    },
-    "shawshankredemption1994": {
-      "title_en": "The Shawshank Redemption (1994)",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/The-Shawshank-Redemption-(1994)/HO00004536"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004536_442.jpg",
-      "title_ar": "ذا شاوشنك ريدمشن (١٩٩٤)",
-      "synopsis_ar": "بعد الحكم على مصرفي بالسجن مدى الحياة في سجن شوشانك، يشكل صداقة غير محتملة مع سجين محنك ويتشبث بالأمل وسط القسوة والفساد.",
-      "genres_ar": [
-        "دراما"
-      ],
-      "runtime_min": 138,
-      "trailer_youtube_id": "4Mr2ozMzG5s"
-    },
-    "idiots": {
-      "title_en": "Idiots",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Idiots/HO00004558"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004558_316.jpg",
-      "title_ar": "اديوتس",
-      "synopsis_ar": "عندما يتم توظيف اثنين من الأوغاد غير المؤهلين لنقل مراهق ثري إلى إعادة التأهيل، فإن حفلتهم المباشرة تتحول بسرعة إلى فوضى خطيرة.",
-      "genres_ar": [
-        "كوميدي",
-        "جريمة"
-      ],
-      "runtime_min": 96,
-      "trailer_youtube_id": "1PsDWL71U44"
-    },
-    "mongoose": {
-      "title_en": "The Mongoose",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/The-Mongoose/HO00004511"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004511_036.jpg",
-      "title_ar": "ذا مونقوس",
-      "synopsis_ar": "متهم بجريمة لم يرتكبها وليس لديه ما يخسره، يقود بطل الحرب (ليام نيسون) قوات إنفاذ القانون في مطاردة سيارات عبر البلاد بمساعدة إخوته في السلاح وتأصيل علني متعاطف مع هروبه.",
-      "genres_ar": [
-        "أكشن",
-        "مغامرات"
-      ],
-      "runtime_min": 98,
-      "trailer_youtube_id": "QCnUBzimEk8"
-    },
-    "hopekorean": {
-      "title_en": "Hope - Korean",
-      "languages": [
-        "Korean"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Hope---Korean/HO00004556"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004556_858.jpg",
-      "title_ar": "هوب",
-      "synopsis_ar": "تم اكتشاف غامض في ضواحي مدينة الميناء النائية. يجد السكان أنفسهم في معركة يائسة من أجل البقاء ضد شيء لم يواجهوه من قبل.",
-      "genres_ar": [
-        "رعب",
-        "أكشن"
-      ],
-      "runtime_min": 157,
-      "trailer_youtube_id": "GNH2jYqtnfQ"
-    },
-    "texaschainsawmassacre1974": {
-      "title_en": "The Texas Chain Saw Massacre (1974)",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/The-Texas-Chain-Saw-Massacre-(1974)/HO00004555"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004555_064.jpg",
-      "title_ar": "تكسس جاين سو ماسكر",
-      "synopsis_ar": "خمسة أصدقاء يتوجهون إلى ريف تكساس لزيارة قبر جد. في الطريق، يعثرون على ما يبدو أنه منزل مهجور، ليكتشفوا شيئًا شريرًا في الداخل. شيء مسلح بمنشار.",
-      "genres_ar": [
-        "رعب"
-      ],
-      "runtime_min": 82,
-      "trailer_youtube_id": "jL565F2N9Ug"
-    },
-    "soy": {
-      "title_en": "SOY - Turkish",
-      "languages": [
-        "Turkish"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/SOY---Turkish/HO00004553"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004553_988.jpg",
-      "title_ar": "سوي",
-      "synopsis_ar": "قبل ستين عاماً، وخلال مداهمة لمقبرة في مصر، يعثر مراد على لوحة أثرية ويطلق من دون قصد لعنة أم الصبيان. وبعد عقود، يستدعي حفيده جان إلى قصر مظلم في إسطنبول، حيث يجد جان وأصدقاؤه أنفسهم محاصرين وسط ضباب وأحداث خارقة للطبيعة، بينما تعود اللعنة لتطالب بالسلال",
-      "genres_ar": [
-        "غموض",
-        "اثارة"
-      ],
-      "runtime_min": 92,
-      "trailer_youtube_id": "N5szJnxkqYI"
-    },
-    "heartofthebeast": {
-      "title_en": "Heart of the Beast",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Heart-of-the-Beast/HO00004466"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004466_650.jpg",
-      "title_ar": "هارت اوف ذا بيست",
-      "synopsis_ar": "بعد حادث تحطم طائرة مروع، يجد ضابط القوات الخاصة جيمس بلمونت وكلبه القتالي، أودين، أنفسهم عالقين في عمق برية ألاسكا. معا، يضطرون إلى قتال وحشي من المليتشا أجل البقاء ضد العناصر.",
-      "genres_ar": [
-        "أكشن",
-        "مغامرات",
-        "إثارة"
-      ],
-      "runtime_min": 101,
-      "trailer_youtube_id": "6pVBiPMJwlc"
-    },
-    "verity": {
-      "title_en": "Verity",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Verity/HO00004477"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004477_498.jpg",
-      "title_ar": "فيريتي",
-      "synopsis_ar": "مقتبس من رواية كولين هوفر الأكثر مبيعًا، يتبع هذا الفيلم النفسي الكاتبة الشهيرة فيريتي كروفورد ولوين آشلي، وهي كاتبة تكافح وتنتقل إلى ضيعة كروفورد النائية للكتابة الشبح من أجل فيريتي.",
-      "genres_ar": [
-        "إثارة",
-        "دراما"
-      ],
-      "runtime_min": 108,
-      "trailer_youtube_id": "FueZihqk8jM"
-    },
-    "whalefall": {
-      "title_en": "Whalefall",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Whalefall/HO00004404"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004404_522.jpg",
-      "title_ar": "وايل فال",
-      "synopsis_ar": "يتبع غواصًا، أثناء البحث عن رفات والده، يبتلعه حوت يبلغ طوله 80 قدمًا و 60 طنًا ولديه ساعة واحدة فقط للخروج قبل نفاد الأكسجين.",
-      "genres_ar": [
-        "إثارة"
-      ],
-      "runtime_min": 105,
-      "trailer_youtube_id": "qYVrqPSd1Cw"
-    },
-    "jailer2": {
-      "title_en": "Jailer 2 - Tamil",
-      "languages": [
-        "Tamil"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Jailer-2---Tamil/HO00004541"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004541_998.jpg",
-      "title_ar": "جايلر ٢",
-      "synopsis_ar": "يتبع السجان 2 السجان المتقاعد تايجر موثوفيل بانديان (راجينيكانث) كتهديد جديد من عالم الجريمة الإجرامي الذي يحطم حياته السلمية، مما يجبره على العودة إلى طرقه القاسية لحماية عائلته وإرثه.",
-      "genres_ar": [
-        "أكشن"
-      ],
-      "runtime_min": 163,
-      "trailer_youtube_id": "lKKpJB8xqzI"
-    },
-    "scene": {
-      "title_en": "Scene - Tamil",
-      "languages": [
-        "Tamil"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Scene---Tamil/HO00004579"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004579_424.jpg",
-      "title_ar": "سينس _ تامل",
-      "synopsis_ar": "إنباراج، يجد ضابط شرطة نفسه منجذباً مرة أخرى إلى قضية قديمة تركها وراءه ذات مرة. تجلب الحالة تحديات ومضاعفات جديدة. تتبع القصة كيف تناولت إنباراج القضية مرة أخرى وتقاتل لكشف الحقيقة.",
-      "genres_ar": [
-        "أكشن",
-        "إثارة"
-      ],
-      "runtime_min": 147,
-      "trailer_youtube_id": "_RbZHpqP_go"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001534.jpg"
     }
   }
 }
