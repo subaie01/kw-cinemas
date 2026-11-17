@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-16T12:29:14.887203+00:00",
+  "last_updated": "2026-11-17T12:50:04.231225+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -16,6 +16,36 @@
   },
   "movies": [
     {
+      "id": "wd-Q126390739",
+      "title_ar": "مباريات الجوع: شروق الشمس في الحصاد",
+      "title_en": "The Hunger Games: Sunrise On The Reaping",
+      "synopsis_ar": "مباريات الجوع: شروق الشمس في الحصاد هو فلم ديستوبيا أمريكي قادم من إخراج فرانسيس لورنس، وسيناريو بيلي راي ومايكل ليسلي، مقتبس من رواية شروق الشمس في الحصاد (2025) للكاتبة سوزان كولنز. يُعدّ الجزء السادس من سلسلة أفلام مباريات الجوع، وتكملة لفلم مباريات الجوع: أغنية الطيور المغردة والثعابين (2023)، ومقدمة لأحداث فلم مباريات الجوع (2012). يضم طاقم بطولته جوزيف زادا، وجيسي بليمنز، ورالف فاينس، وغلين كلوز، وبن وانغ، وكيران كولكين، وإيل فانينغ، ومكينا جريس، ومايا هوك، وويتني بيك، وكلفين هاريسون جونيور، إلى جانب ليلي تايلور وبيلي بورتر.",
+      "genres_ar": [
+        "فلم دراما",
+        "فلم أكشن",
+        "فلم مغامرة",
+        "فلم خيال علمي",
+        "فيلم ديستوبيا"
+      ],
+      "runtime_min": 158,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001558.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Hunger%20Games%3A%20Sunrise%20On%20The%20Reaping%20official%20trailer",
+      "ratings": {},
+      "imdb_id": "tt32558705",
+      "release_date": "2026-10-28",
+      "matched": true,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/the-hunger-games-sunrise-on-the-reaping/9999001558/NowShowing"
+        }
+      ]
+    },
+    {
       "id": "wd-Q131935663",
       "title_ar": "A Talent For Murder",
       "title_en": "A Talent For Murder",
@@ -28,7 +58,7 @@
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=A%20Talent%20For%20Murder%20official%20trailer",
       "ratings": {
-        "imdb": "6.8"
+        "imdb": "6.7"
       },
       "imdb_id": "tt14129116",
       "release_date": "2026-09-14",
@@ -40,6 +70,96 @@
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/a-talent-for-murder/9999001546/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "wd-Q136524973",
+      "title_ar": "أنا من سيؤدي دور روكي",
+      "title_en": "I Play Rocky",
+      "synopsis_ar": "أنا من سيؤدي دور روكي هو فلم دراما سيرة ذاتية أمريكي قادم، من إخراج بيتر فاريلي وكتابة بيتر غامبل. ويروي مراحل تطوير وإنتاج فلم روكي (1976). يضم طاقم التمثيل أنتوني إيبوليتو في دور سيلفستر ستالون، إلى جانب ستيفان جيمس، وآناصوفيا روب، ومات ديلون، وبي جاي بيرن، وتوبي كيبيل، وتريسي ليتس، وجاي دوبلاس، وروبرت مورغان. من المقرر أن تطرح استوديوهات أمازون إم جي إم الفلم في عدد محدود من دور السينما بالولايات المتحدة في 6 نوفمبر 2026.",
+      "genres_ar": [
+        "فلم دراما",
+        "فلم سيرة ذاتية"
+      ],
+      "runtime_min": 128,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001557.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=I%20Play%20Rocky%20official%20trailer",
+      "ratings": {
+        "imdb": "8.1"
+      },
+      "imdb_id": "tt11995650",
+      "release_date": "2026-09-12",
+      "matched": true,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/i-play-rocky/9999001557/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "wd-Q141336617",
+      "title_ar": "يمكنك رؤية كل شيء",
+      "title_en": "You Can See Everything",
+      "synopsis_ar": "يمكنك رؤية كل شيء هو فلم وثائقي أمريكي صدر عام 2026، من إخراج ناثان فيلدر ولانس أوبنهايم. يتابع الفيلم إليزابيث هولمز، مؤسسة شركة التقنيات الصحية المنحلة ثيرانوس، وشريكها بيلي إيفانز، اللذين دعوا طاقم تصوير إلى توثيق حياتهما بدءا من الأسابيع التي سبقت دخول هولمز سجنا فيدراليا أمريكيا لقضاء عقوبتها بتهمة الاحتيال على المستثمرين.",
+      "genres_ar": [
+        "فلم وثائقي"
+      ],
+      "runtime_min": 174,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001553.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=You%20Can%20See%20Everything%20official%20trailer",
+      "ratings": {
+        "imdb": "9.0"
+      },
+      "imdb_id": "tt45368240",
+      "release_date": "2026-09-06",
+      "matched": true,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/you-can-see-everything/9999001553/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "wd-Q138335503",
+      "title_ar": "Forgotten Island",
+      "title_en": "Forgotten Island",
+      "synopsis_ar": "",
+      "genres_ar": [
+        "فلم بلوغ سن الرشد",
+        "فلم خيال",
+        "فلم مغامرة",
+        "فلم كوميدي"
+      ],
+      "runtime_min": 109,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001556.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Forgotten%20Island%20official%20trailer",
+      "ratings": {
+        "rotten_tomatoes": "95%",
+        "imdb": "7.4"
+      },
+      "imdb_id": "tt36583977",
+      "release_date": "2026-04-15",
+      "matched": true,
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/forgotten-island/9999001556/NowShowing"
         }
       ]
     },
@@ -68,12 +188,35 @@
       ],
       "cinemas": [
         {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/How-to-Rob-a-Bank/HO00004406"
-        },
-        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/how-to-rob-a-bank/9999001552/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "local-crypto",
+      "title_ar": "Crypto",
+      "title_en": "Crypto",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001554.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Crypto%20official%20trailer",
+      "ratings": {
+        "imdb": "5.3",
+        "rotten_tomatoes": "17%"
+      },
+      "imdb_id": "tt8563452",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/crypto-(egyptian)-arabic-/9999001554/NowShowing"
         }
       ]
     },
@@ -95,10 +238,6 @@
         "Arabic"
       ],
       "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Hadoota-(Egyptian)---Arabic/HO00004569"
-        },
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/hadoota-(egyptian)-arabic/9999001551/NowShowing"
@@ -126,10 +265,6 @@
       ],
       "cinemas": [
         {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Ebenezer/HO00004481"
-        },
-        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/ebenezer/9999001550/NowShowing"
         }
@@ -153,10 +288,6 @@
         "English"
       ],
       "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Best-Pancakes-in-the-County/HO00004561"
-        },
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/best-pancakes-in-the-county/9999001549/NowShowing"
@@ -184,10 +315,6 @@
       ],
       "cinemas": [
         {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/The-Last-Temptation-of-Becky/HO00004572"
-        },
-        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/the-last-temptation-of-becky/9999001548/NowShowing"
         }
@@ -210,14 +337,9 @@
       "release_date": null,
       "matched": false,
       "languages": [
-        "English",
-        "English Dub"
+        "English"
       ],
       "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Gupi-And-the-Grumpy-King---English-Dub/HO00004590"
-        },
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/gupi-and-the-grumpy-king-english-dub/9999001547/NowShowing"
@@ -239,14 +361,9 @@
       "release_date": null,
       "matched": false,
       "languages": [
-        "English",
-        "Japanese"
+        "English"
       ],
       "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Godzilla-Minus-Zero---Japanese/HO00004537"
-        },
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/godzilla-minus-zero-japanese/9999001545/NowShowing"
@@ -271,226 +388,12 @@
       "release_date": null,
       "matched": false,
       "languages": [
-        "Arabic",
         "English"
       ],
       "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/The-Cat-in-the-Hat/HO00004467"
-        },
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/the-cat-in-the-hat-/9999001544/NowShowing"
-        }
-      ]
-    },
-    {
-      "id": "local-naseeb",
-      "title_ar": "Naseeb",
-      "title_en": "Naseeb",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001538.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Naseeb%20official%20trailer",
-      "ratings": {
-        "imdb": "7.1"
-      },
-      "imdb_id": "tt0082797",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Naseeb-(Egyptian)---Arabic/HO00004551"
-        }
-      ]
-    },
-    {
-      "id": "local-belkis",
-      "title_ar": "بيلكيس",
-      "title_en": "Belkis - Turkish",
-      "synopsis_ar": "تركت بلا مأوى بعد مأساة مظلمة، ثلاث أخوات يتيمات يبحثن عن مأوى مع ساحرة غامضة تدعى بلقيس، فقط لجلب قوة خبيثة إلى منزلها تهددهن جميعًا.",
-      "genres_ar": [
-        "رعب"
-      ],
-      "runtime_min": 84,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004571_174.jpg",
-      "trailer_youtube_id": "9w4-TNXVFWA",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Belkis%20-%20Turkish%20official%20trailer",
-      "ratings": {},
-      "imdb_id": "tt8124152",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Turkish"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Belkis---Turkish/HO00004571"
-        }
-      ]
-    },
-    {
-      "id": "local-walakanalaelbal",
-      "title_ar": "Wala Kan Ala El-Bal",
-      "title_en": "Wala Kan Ala El-Bal",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001539.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Wala%20Kan%20Ala%20El-Bal%20official%20trailer",
-      "ratings": {
-        "imdb": "7.1"
-      },
-      "imdb_id": "tt43634235",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Wala-Kan-Ala-El-Bal-(Egyptian)---Arabic/HO00004521"
-        }
-      ]
-    },
-    {
-      "id": "local-matloubaaeleyan",
-      "title_ar": "Matloub Aaeleyan",
-      "title_en": "Matloub Aaeleyan",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001511.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Matloub%20Aaeleyan%20official%20trailer",
-      "ratings": {
-        "imdb": "4.2"
-      },
-      "imdb_id": "tt43698551",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Matloub-Aaeleyan-(Egyptian)---Arabic/HO00004534"
-        }
-      ]
-    },
-    {
-      "id": "local-mongoose",
-      "title_ar": "The Mongoose",
-      "title_en": "The Mongoose",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001535.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Mongoose%20official%20trailer",
-      "ratings": {},
-      "imdb_id": "tt13611778",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/The-Mongoose/HO00004511"
-        }
-      ]
-    },
-    {
-      "id": "local-clayface",
-      "title_ar": "Clayface",
-      "title_en": "Clayface",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001534.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Clayface%20official%20trailer",
-      "ratings": {
-        "imdb": "7.5"
-      },
-      "imdb_id": "tt34890576",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Clayface/HO00004372"
-        }
-      ]
-    },
-    {
-      "id": "local-wildwood",
-      "title_ar": "Wildwood",
-      "title_en": "Wildwood",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001540.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Wildwood%20official%20trailer",
-      "ratings": {
-        "imdb": "8.7"
-      },
-      "imdb_id": "tt2056785",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Wildwood/HO00004507"
-        }
-      ]
-    },
-    {
-      "id": "local-scene",
-      "title_ar": "سينس _ تامل",
-      "title_en": "Scene - Tamil",
-      "synopsis_ar": "إنباراج، يجد ضابط شرطة نفسه منجذباً مرة أخرى إلى قضية قديمة تركها وراءه ذات مرة. تجلب الحالة تحديات ومضاعفات جديدة. تتبع القصة كيف تناولت إنباراج القضية مرة أخرى وتقاتل لكشف الحقيقة.",
-      "genres_ar": [
-        "أكشن",
-        "إثارة"
-      ],
-      "runtime_min": 147,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004579_424.jpg",
-      "trailer_youtube_id": "_RbZHpqP_go",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Scene%20-%20Tamil%20official%20trailer",
-      "ratings": {
-        "imdb": "7.7"
-      },
-      "imdb_id": "tt0247082",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Tamil"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Scene---Tamil/HO00004579"
         }
       ]
     }
