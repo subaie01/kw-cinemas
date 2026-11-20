@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19T12:33:48.922008+00:00",
+  "last_updated": "2026-11-20T12:33:21.450736+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -59,7 +59,7 @@
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Hunger%20Games%3A%20Sunrise%20On%20The%20Reaping%20official%20trailer",
       "ratings": {
-        "imdb": "7.6"
+        "imdb": "7.7"
       },
       "imdb_id": "tt32558705",
       "release_date": "2026-10-28",
@@ -312,7 +312,7 @@
       "trailer_youtube_id": "eXZnwWO6SIM",
       "trailer_search_url": "https://www.youtube.com/results?search_query=I%2C%20Object%20official%20trailer",
       "ratings": {
-        "imdb": "5.8"
+        "imdb": "5.7"
       },
       "imdb_id": "tt27897176",
       "release_date": null,
