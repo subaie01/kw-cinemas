@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23T14:06:27.250523+00:00",
+  "last_updated": "2026-11-24T14:36:49.668522+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -15,6 +15,32 @@
     }
   },
   "movies": [
+    {
+      "id": "wd-Q135713425",
+      "title_ar": "فوكر إن لو",
+      "title_en": "Focker In Law",
+      "synopsis_ar": "فوكر إن لو هو فلم كوميدي أمريكي قادم، من تأليف وإخراج جون هامبورغ. وهو الجزء الرابع من سلسلة أفلام قابل الوالدين، وتتمة لفلم صغار عائلة فوكرز الصادر عام 2010. ويعود فيه روبرت دي نيرو وبن ستيلر وأوين ويلسون وبليث دانر وتيري بولو لأداء أدوارهم من الأفلام السابقة، فيما تنضم أريانا غراندي إلى طاقم التمثيل.",
+      "genres_ar": [
+        "فلم كوميدي"
+      ],
+      "runtime_min": 105,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001564.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Focker%20In%20Law%20official%20trailer",
+      "ratings": {},
+      "imdb_id": "tt34966140",
+      "release_date": "2026-11-25",
+      "matched": true,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/focker-in-law/9999001564/NowShowing"
+        }
+      ]
+    },
     {
       "id": "wd-Q142189646",
       "title_ar": "باتشلور بارتي دي اي يو اكس -مالايالام",
@@ -43,6 +69,35 @@
       ]
     },
     {
+      "id": "wd-Q136027913",
+      "title_ar": "حكاية سحر",
+      "title_en": "Hexed",
+      "synopsis_ar": "حكاية سحر هو فلم رسوم متحركة فانتازي كوميدي أمريكي قادم، من إنتاج استوديوهات والت ديزني للرسوم المتحركة. أخرجه فون فيراسونثورن وجيسون هاند، ويشارك في الأداء الصوتي هيلي ستاينفيلد ورشيدة جونز وتريسي أولمان وستيفن فراي. تدور أحداث الفلم حول بيلي (ستاينفيلد)، وهي فتاة مراهقة تكتشف قدرات سحرية تنقلها من الضواحي إلى عالم واسع للساحرات يُدعى هيكسه.",
+      "genres_ar": [
+        "فلم خيال",
+        "فلم كوميدي",
+        "فلم بلوغ سن الرشد"
+      ],
+      "runtime_min": 103,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001563.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Hexed%20official%20trailer",
+      "ratings": {},
+      "imdb_id": "tt38077943",
+      "release_date": "2026-11-12",
+      "matched": true,
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/hexed-/9999001563/NowShowing"
+        }
+      ]
+    },
+    {
       "id": "wd-Q126390739",
       "title_ar": "مباريات الجوع: شروق الشمس في الحصاد",
       "title_en": "The Hunger Games: Sunrise On The Reaping",
@@ -59,7 +114,7 @@
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Hunger%20Games%3A%20Sunrise%20On%20The%20Reaping%20official%20trailer",
       "ratings": {
-        "imdb": "7.6"
+        "imdb": "7.5"
       },
       "imdb_id": "tt32558705",
       "release_date": "2026-10-28",
@@ -144,6 +199,38 @@
       ]
     },
     {
+      "id": "wd-Q134708172",
+      "title_ar": "نمر من ورق",
+      "title_en": "Paper Tiger",
+      "synopsis_ar": "نمر من ورق هو فلم جريمة درامي صدر عام 2026، كتبه وأخرجه جيمس غراي، وهو إنتاج مشترك بين الولايات المتحدة والبرازيل وإيطاليا، ومن بطولة آدم درايفر وسكارليت جوهانسون ومايلز تيلر. تدور أحداثه حول عائلة في نيويورك تتورط مع المافيا الروسية.",
+      "genres_ar": [
+        "فلم دراما وجريمة",
+        "فلم جريمة",
+        "فلم نوار",
+        "فيلم عصابات"
+      ],
+      "runtime_min": 115,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001562.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Paper%20Tiger%20official%20trailer",
+      "ratings": {
+        "rotten_tomatoes": "86%",
+        "imdb": "6.9"
+      },
+      "imdb_id": "tt34385689",
+      "release_date": "2026-05-16",
+      "matched": true,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/paper-tiger/9999001562/NowShowing"
+        }
+      ]
+    },
+    {
       "id": "wd-Q138335503",
       "title_ar": "Forgotten Island",
       "title_en": "Forgotten Island",
@@ -206,6 +293,60 @@
         {
           "id": "cinescape",
           "booking_url": "https://www.cinescape.com.kw/movie-details/How-to-Rob-a-Bank/HO00004406"
+        }
+      ]
+    },
+    {
+      "id": "local-lelabazitkhalis",
+      "title_ar": "ليلة باظت خالص",
+      "title_en": "Lela Bazit Khalis (Egyptian) - Arabic",
+      "synopsis_ar": "في إطار كوميدي، يجد علاء نفسه في سباق مع الزمن لجمع 30 ألف جنيه قبل زفافه، الذي يصادف أول أيام عيد الفطر. وبرفقة ابن خالته محمود، قليل الحظ وكثير التخبط، ينطلق في رحلة عبثية عبر شوارع القاهرة وسط أجواء الاحتفالات. لكن سرقة ولقاءات غريبة وأشخاصًا يظهرون من",
+      "genres_ar": [
+        "كوميدي"
+      ],
+      "runtime_min": 106,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001561.jpg",
+      "trailer_youtube_id": "Fsm_PKU8Ut8",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Lela%20Bazit%20Khalis%20%28Egyptian%29%20-%20Arabic%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/Lela-Bazit-Khalis-(Egyptian)---Arabic/HO00004596"
+        },
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/lela-bazit-khalis-(egyptian)-arabic/9999001561/NowShowing"
+        }
+      ]
+    },
+    {
+      "id": "local-travellershellsaudi",
+      "title_ar": "Traveller’S Hell (Saudi)",
+      "title_en": "Traveller’S Hell (Saudi)",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001560.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Traveller%E2%80%99S%20Hell%20%28Saudi%29%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/traveller’s-hell-(saudi)-arabic/9999001560/NowShowing"
         }
       ]
     },

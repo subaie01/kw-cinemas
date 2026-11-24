@@ -1,9 +1,86 @@
 {
-  "scraped_at": "2026-11-23T14:06:22.230038+00:00",
+  "scraped_at": "2026-11-24T14:36:35.559985+00:00",
   "failures": [
     "vox"
   ],
   "movies": {
+    "fockerinlaw": {
+      "title_en": "Focker In Law",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/focker-in-law/9999001564/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001564.jpg"
+    },
+    "hexed": {
+      "title_en": "Hexed",
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/hexed-/9999001563/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001563.jpg"
+    },
+    "papertiger": {
+      "title_en": "Paper Tiger",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/paper-tiger/9999001562/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001562.jpg"
+    },
+    "lelabazitkhalis": {
+      "title_en": "Lela Bazit Khalis (Egyptian) - Arabic",
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/Lela-Bazit-Khalis-(Egyptian)---Arabic/HO00004596"
+        },
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/lela-bazit-khalis-(egyptian)-arabic/9999001561/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001561.jpg",
+      "title_ar": "ليلة باظت خالص",
+      "synopsis_ar": "في إطار كوميدي، يجد علاء نفسه في سباق مع الزمن لجمع 30 ألف جنيه قبل زفافه، الذي يصادف أول أيام عيد الفطر. وبرفقة ابن خالته محمود، قليل الحظ وكثير التخبط، ينطلق في رحلة عبثية عبر شوارع القاهرة وسط أجواء الاحتفالات. لكن سرقة ولقاءات غريبة وأشخاصًا يظهرون من",
+      "genres_ar": [
+        "كوميدي"
+      ],
+      "runtime_min": 106,
+      "trailer_youtube_id": "Fsm_PKU8Ut8"
+    },
+    "travellershellsaudi": {
+      "title_en": "Traveller’S Hell (Saudi)",
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "sky",
+          "booking_url": "https://www.skycinemaskw.com/movie-information/traveller’s-hell-(saudi)-arabic/9999001560/NowShowing"
+        }
+      ],
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001560.jpg"
+    },
     "hungergamessunriseonthereaping": {
       "title_en": "The Hunger Games: Sunrise On The Reaping",
       "languages": [
