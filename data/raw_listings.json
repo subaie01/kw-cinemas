@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-24T14:36:35.559985+00:00",
+  "scraped_at": "2026-11-25T13:57:27.662179+00:00",
   "failures": [
     "vox"
   ],
@@ -11,25 +11,48 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/Focker-in-Law/HO00004402"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/focker-in-law/9999001564/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001564.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001564.jpg",
+      "title_ar": "فوكر ان لو",
+      "synopsis_ar": "يواجه شاب يدعى هنري، ابن جريج وبام فوكر، فوضى عائلية عندما يقرر الزواج من امرأة قوية الإرادة يبدو أنها غير متطابقة تمامًا.",
+      "genres_ar": [
+        "كوميدي"
+      ],
+      "runtime_min": 103,
+      "trailer_youtube_id": "W0zuK9mSInM"
     },
     "hexed": {
-      "title_en": "Hexed",
+      "title_en": "Hexed - Arabic",
       "languages": [
         "Arabic",
         "English"
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/Hexed/HO00004468"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/hexed-/9999001563/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001563.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001563.jpg",
+      "title_ar": "هكيسد",
+      "synopsis_ar": "تتعلم مراهقة محرجة وأمها من النوع أ أن خصوصياتها قد تكون قوى سحرية، مما يغير حياتهما ويكشف عن عالم سحري مخفي.",
+      "genres_ar": [
+        "رسوم متحركة",
+        "مغامرات"
+      ],
+      "runtime_min": 109,
+      "trailer_youtube_id": "UPG3R5778Gs"
     },
     "papertiger": {
       "title_en": "Paper Tiger",
@@ -38,11 +61,23 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/Paper-Tiger/HO00004538"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/paper-tiger/9999001562/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001562.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001562.jpg",
+      "title_ar": "بريمر تايقر",
+      "synopsis_ar": "يسعى شقيقان إلى الحلم الأمريكي ولكنهما يتورطان في مخطط مافيا روسي خطير يرهب عائلتهما، ويختبران روابطهما عندما تصبح الخيانة ممكنة.",
+      "genres_ar": [
+        "جريمة",
+        "إثارة"
+      ],
+      "runtime_min": 113,
+      "trailer_youtube_id": "8yaUn67lcXM"
     },
     "lelabazitkhalis": {
       "title_en": "Lela Bazit Khalis (Egyptian) - Arabic",
@@ -69,17 +104,29 @@
       "trailer_youtube_id": "Fsm_PKU8Ut8"
     },
     "travellershellsaudi": {
-      "title_en": "Traveller’S Hell (Saudi)",
+      "title_en": "Traveller’s Hell (Saudi) - Arabic",
       "languages": [
         "Arabic"
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/Traveller’s-Hell-(Saudi)---Arabic/HO00004580"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/traveller’s-hell-(saudi)-arabic/9999001560/NowShowing"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001560.jpg"
+      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001560.jpg",
+      "title_ar": "جحيم العابرين",
+      "synopsis_ar": "تصادف فتاة في طريق جبلي معروف بحوادث الإختفاء والقتل، شاب تعطلت سيارته ويطلب منها أن توصله لأقرب محطة ، لتبدأ رحلة ليلية تزداد غرابةً وخطراً مع مرور الوقت.",
+      "genres_ar": [
+        "null",
+        "غموض"
+      ],
+      "runtime_min": 91,
+      "trailer_youtube_id": "IRBuXuZBdmo"
     },
     "hungergamessunriseonthereaping": {
       "title_en": "The Hunger Games: Sunrise On The Reaping",
@@ -256,6 +303,47 @@
       "runtime_min": 115,
       "trailer_youtube_id": "SasmOAYXW68"
     },
+    "scorpion": {
+      "title_en": "Scorpion",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/Scorpion/HO00004564"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004564_059.jpg",
+      "title_ar": "سكوربيان",
+      "synopsis_ar": "يختبئ قاتل وكالة المخابرات المركزية بعد سقوطه في مهمة فاشلة. لحماية ابنته، يجب عليه الإطاحة برئيس الوكالة الذي أوقع به.",
+      "genres_ar": [
+        "أكشن"
+      ],
+      "runtime_min": 91,
+      "trailer_youtube_id": "lbSWfhkULW8"
+    },
+    "catinthehat": {
+      "title_en": "The Cat in the Hat",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/The-Cat-in-the-Hat/HO00004467"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004467_661.jpg",
+      "title_ar": "ذا كات ان ذا هات",
+      "synopsis_ar": "تعرف على \"القط ذو القبعة\" بطريقة جديدة ومختلفة! مستوحى من عالم دكتور سوس الخيالي الممتع، يأتي \"القط ذو القبعة\" إلى السينما لأول مرة في فيلم رسوم متحركة مليء بالمغامرات والإثارة، حيث يجتمع المرح والسحر والفوضى في قصة مليئة بالمواقف المدهشة.",
+      "genres_ar": [
+        "رسوم متحركة",
+        "مغامرات"
+      ],
+      "runtime_min": 113,
+      "trailer_youtube_id": "No84r9sFSuA"
+    },
     "howtorobabank": {
       "title_en": "How to Rob a Bank",
       "languages": [
@@ -276,44 +364,6 @@
       ],
       "runtime_min": 121,
       "trailer_youtube_id": "EmX0HvSFS4c"
-    },
-    "iobject": {
-      "title_en": "I, Object",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/I,-Object/HO00004419"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004419_781.jpg",
-      "title_ar": "اي، اوبجكت",
-      "synopsis_ar": "يتبع هذا الفيلم الصادق توم، وهو صبي يبلغ من العمر 10 سنوات ولديه خيال حي. بعد الموت المفاجئ لوالده، يتراجع توم إلى عالم خيالي شاركوه ذات مرة، حيث تنبض الوجوه بالحياة في الأشياء اليومية!",
-      "runtime_min": 91,
-      "trailer_youtube_id": "eXZnwWO6SIM"
-    },
-    "3wishesforcinderella": {
-      "title_en": "Three Wishes for Cinderella",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Three-Wishes-for-Cinderella/HO00004582"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004582_619.jpg",
-      "title_ar": "ثري وشيز اف سندريلا",
-      "synopsis_ar": "عندما تكاد ليلة سندريلا أن تفسد بسبب زوجة أبيها الشريرة وكومة من الغسيل، يتعين عليها أن تقرر ما إذا كانت ستسعى وراء خيال القصص الخيالية أم العالم الحقيقي.",
-      "genres_ar": [
-        "رسوم متحركة",
-        "خيالي"
-      ],
-      "runtime_min": 86,
-      "trailer_youtube_id": "SbbB3dr6WAA"
     },
     "godzillaminuszerojapanese": {
       "title_en": "Godzilla Minus Zero - Japanese",
@@ -337,27 +387,6 @@
       "runtime_min": 135,
       "trailer_youtube_id": "aX1CBirOlJc"
     },
-    "catinthehat": {
-      "title_en": "The Cat in the Hat",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/The-Cat-in-the-Hat/HO00004467"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004467_661.jpg",
-      "title_ar": "ذا كات ان ذا هات",
-      "synopsis_ar": "تعرف على \"القط ذو القبعة\" بطريقة جديدة ومختلفة! مستوحى من عالم دكتور سوس الخيالي الممتع، يأتي \"القط ذو القبعة\" إلى السينما لأول مرة في فيلم رسوم متحركة مليء بالمغامرات والإثارة، حيث يجتمع المرح والسحر والفوضى في قصة مليئة بالمواقف المدهشة.",
-      "genres_ar": [
-        "رسوم متحركة",
-        "مغامرات"
-      ],
-      "runtime_min": 113,
-      "trailer_youtube_id": "No84r9sFSuA"
-    },
     "clayface": {
       "title_en": "Clayface",
       "languages": [
@@ -378,6 +407,44 @@
       ],
       "runtime_min": 104,
       "trailer_youtube_id": "rN6ZTbskJ0E"
+    },
+    "3wishesforcinderella": {
+      "title_en": "Three Wishes for Cinderella",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/Three-Wishes-for-Cinderella/HO00004582"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004582_619.jpg",
+      "title_ar": "ثري وشيز اف سندريلا",
+      "synopsis_ar": "عندما تكاد ليلة سندريلا أن تفسد بسبب زوجة أبيها الشريرة وكومة من الغسيل، يتعين عليها أن تقرر ما إذا كانت ستسعى وراء خيال القصص الخيالية أم العالم الحقيقي.",
+      "genres_ar": [
+        "رسوم متحركة",
+        "خيالي"
+      ],
+      "runtime_min": 86,
+      "trailer_youtube_id": "SbbB3dr6WAA"
+    },
+    "iobject": {
+      "title_en": "I, Object",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/I,-Object/HO00004419"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004419_781.jpg",
+      "title_ar": "اي، اوبجكت",
+      "synopsis_ar": "يتبع هذا الفيلم الصادق توم، وهو صبي يبلغ من العمر 10 سنوات ولديه خيال حي. بعد الموت المفاجئ لوالده، يتراجع توم إلى عالم خيالي شاركوه ذات مرة، حيث تنبض الوجوه بالحياة في الأشياء اليومية!",
+      "runtime_min": 91,
+      "trailer_youtube_id": "eXZnwWO6SIM"
     },
     "omchapter1": {
       "title_en": "OM: Chapter 1 - Tamil",

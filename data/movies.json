@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24T14:36:49.668522+00:00",
+  "last_updated": "2026-11-25T13:57:35.766665+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -35,6 +35,10 @@
         "English"
       ],
       "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/Focker-in-Law/HO00004402"
+        },
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/focker-in-law/9999001564/NowShowing"
@@ -91,6 +95,10 @@
         "English"
       ],
       "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/Hexed/HO00004468"
+        },
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/hexed-/9999001563/NowShowing"
@@ -225,6 +233,10 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/Paper-Tiger/HO00004538"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/paper-tiger/9999001562/NowShowing"
         }
@@ -345,6 +357,10 @@
       ],
       "cinemas": [
         {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/Traveller’s-Hell-(Saudi)---Arabic/HO00004580"
+        },
+        {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/traveller’s-hell-(saudi)-arabic/9999001560/NowShowing"
         }
@@ -441,30 +457,106 @@
       ]
     },
     {
-      "id": "wd-Q124450732",
-      "title_ar": "اي، اوبجكت",
-      "title_en": "I, Object",
-      "synopsis_ar": "يتبع هذا الفيلم الصادق توم، وهو صبي يبلغ من العمر 10 سنوات ولديه خيال حي. بعد الموت المفاجئ لوالده، يتراجع توم إلى عالم خيالي شاركوه ذات مرة، حيث تنبض الوجوه بالحياة في الأشياء اليومية!",
+      "id": "local-scorpion",
+      "title_ar": "سكوربيان",
+      "title_en": "Scorpion",
+      "synopsis_ar": "يختبئ قاتل وكالة المخابرات المركزية بعد سقوطه في مهمة فاشلة. لحماية ابنته، يجب عليه الإطاحة برئيس الوكالة الذي أوقع به.",
       "genres_ar": [
-        "فيلم رسوم متحركة حية"
+        "أكشن"
       ],
       "runtime_min": 91,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004419_781.jpg",
-      "trailer_youtube_id": "eXZnwWO6SIM",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=I%2C%20Object%20official%20trailer",
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004564_059.jpg",
+      "trailer_youtube_id": "lbSWfhkULW8",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Scorpion%20official%20trailer",
       "ratings": {
-        "imdb": "5.6"
+        "imdb": "7.1"
       },
-      "imdb_id": "tt27897176",
+      "imdb_id": "tt3514324",
       "release_date": null,
-      "matched": true,
+      "matched": false,
       "languages": [
         "English"
       ],
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/I,-Object/HO00004419"
+          "booking_url": "https://www.cinescape.com.kw/movie-details/Scorpion/HO00004564"
+        }
+      ]
+    },
+    {
+      "id": "local-catinthehat",
+      "title_ar": "The Cat In The Hat",
+      "title_en": "The Cat In The Hat",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001544.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Cat%20In%20The%20Hat%20official%20trailer",
+      "ratings": {
+        "imdb": "4.2"
+      },
+      "imdb_id": "tt0312528",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/The-Cat-in-the-Hat/HO00004467"
+        }
+      ]
+    },
+    {
+      "id": "local-godzillaminuszerojapanese",
+      "title_ar": "Godzilla Minus Zero - Japanese",
+      "title_en": "Godzilla Minus Zero - Japanese",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001545.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Godzilla%20Minus%20Zero%20-%20Japanese%20official%20trailer",
+      "ratings": {},
+      "imdb_id": null,
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Japanese"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/Godzilla-Minus-Zero---Japanese/HO00004537"
+        }
+      ]
+    },
+    {
+      "id": "local-clayface",
+      "title_ar": "Clayface",
+      "title_en": "Clayface",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001534.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Clayface%20official%20trailer",
+      "ratings": {
+        "imdb": "7.5"
+      },
+      "imdb_id": "tt34890576",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/Clayface/HO00004372"
         }
       ]
     },
@@ -498,78 +590,30 @@
       ]
     },
     {
-      "id": "local-godzillaminuszerojapanese",
-      "title_ar": "Godzilla Minus Zero - Japanese",
-      "title_en": "Godzilla Minus Zero - Japanese",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001545.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Godzilla%20Minus%20Zero%20-%20Japanese%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Japanese"
+      "id": "wd-Q124450732",
+      "title_ar": "اي، اوبجكت",
+      "title_en": "I, Object",
+      "synopsis_ar": "يتبع هذا الفيلم الصادق توم، وهو صبي يبلغ من العمر 10 سنوات ولديه خيال حي. بعد الموت المفاجئ لوالده، يتراجع توم إلى عالم خيالي شاركوه ذات مرة، حيث تنبض الوجوه بالحياة في الأشياء اليومية!",
+      "genres_ar": [
+        "فيلم رسوم متحركة حية"
       ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Godzilla-Minus-Zero---Japanese/HO00004537"
-        }
-      ]
-    },
-    {
-      "id": "local-catinthehat",
-      "title_ar": "The Cat In The Hat",
-      "title_en": "The Cat In The Hat",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001544.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=The%20Cat%20In%20The%20Hat%20official%20trailer",
+      "runtime_min": 91,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004419_781.jpg",
+      "trailer_youtube_id": "eXZnwWO6SIM",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=I%2C%20Object%20official%20trailer",
       "ratings": {
-        "imdb": "4.2"
+        "imdb": "5.7"
       },
-      "imdb_id": "tt0312528",
+      "imdb_id": "tt27897176",
       "release_date": null,
-      "matched": false,
+      "matched": true,
       "languages": [
         "English"
       ],
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/The-Cat-in-the-Hat/HO00004467"
-        }
-      ]
-    },
-    {
-      "id": "local-clayface",
-      "title_ar": "Clayface",
-      "title_en": "Clayface",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001534.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Clayface%20official%20trailer",
-      "ratings": {
-        "imdb": "7.5"
-      },
-      "imdb_id": "tt34890576",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Clayface/HO00004372"
+          "booking_url": "https://www.cinescape.com.kw/movie-details/I,-Object/HO00004419"
         }
       ]
     },
