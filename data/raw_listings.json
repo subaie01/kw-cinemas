@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-25T13:57:27.662179+00:00",
+  "scraped_at": "2026-11-26T13:35:54.579138+00:00",
   "failures": [
     "vox"
   ],
@@ -178,82 +178,6 @@
       "runtime_min": 124,
       "trailer_youtube_id": "M2LcIlzL7DA"
     },
-    "forgottenisland": {
-      "title_en": "Forgotten Island - Arabic",
-      "languages": [
-        "Arabic",
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Forgotten-Island/HO00004344"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/forgotten-island/9999001556/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001556.jpg",
-      "title_ar": "فورقاتن ايلاند",
-      "synopsis_ar": "يصبح اثنان من أفضل الأصدقاء عالقين في عالم ناكالي الغامض، حيث قد يكلفهم هروبهم الوحيد ذكرياتهم المشتركة طوال حياتهم.",
-      "genres_ar": [
-        "رسوم متحركة",
-        "أكشن",
-        "مغامرات"
-      ],
-      "runtime_min": 108,
-      "trailer_youtube_id": "vzh5GyOKJgA"
-    },
-    "crypto": {
-      "title_en": "Crypto (Egyptian) - Arabic",
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Crypto-(Egyptian)---Arabic/HO00004562"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/crypto-(egyptian)-arabic-/9999001554/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001554.jpg",
-      "title_ar": "كريبتو",
-      "synopsis_ar": "قصة قائمة على الشخصيات تدور حول عالم عصابات حيث تتقاطع السلطة والولاء والعواقب في إطار يحمل ً طابعا ً كوميديا ساخراً",
-      "genres_ar": [
-        "كوميدي"
-      ],
-      "runtime_min": 100,
-      "trailer_youtube_id": "CHbkM6Ybsn0"
-    },
-    "youcanseeeverything": {
-      "title_en": "You Can See Everything",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/You-Can-See-Everything/HO00004581"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/you-can-see-everything/9999001553/NowShowing"
-        }
-      ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001553.jpg",
-      "title_ar": "يو كان سي إفريثنق",
-      "synopsis_ar": "قبل أربعة وثلاثين يومًا من إرسالها إلى السجن، تدعو مؤسسة وادي السيليكون سيئة السمعة إليزابيث هولمز طاقم تصوير متشككًا لتوثيق كل تحركاتها. ما يبدأ كصورة حميمة لمجرمة غامضة يصبح رحلة مذهلة لمدة ثلاث سنوات إلى الهاوية.",
-      "genres_ar": [
-        "وثائقي",
-        "سيرة ذاتية"
-      ],
-      "runtime_min": 175,
-      "trailer_youtube_id": "OYJLNiESBGY"
-    },
     "hadoota": {
       "title_en": "Hadoota (Egyptian) - Arabic",
       "languages": [
@@ -279,29 +203,26 @@
       "runtime_min": 118,
       "trailer_youtube_id": "3N6psMiU-DI"
     },
-    "ebenezer": {
-      "title_en": "Ebenezer",
+    "yehpremmolliya": {
+      "title_en": "Yeh Prem Mol Liya - Hindi",
       "languages": [
-        "English"
+        "Hindi"
       ],
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Ebenezer/HO00004481"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/ebenezer/9999001550/NowShowing"
+          "booking_url": "https://www.cinescape.com.kw/movie-details/Yeh-Prem-Mol-Liya---Hindi/HO00004593"
         }
       ],
-      "poster_src": "https://www.skycinemaskw.com/images/movies/9999001550.jpg",
-      "title_ar": "ابينيزار",
-      "synopsis_ar": "في نوفمبر من هذا العام، جوني ديب هو إيبينيزر سكروج. الاسم الذي تعرفه، القصة التي لا تعرفها.",
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004593_841.jpg",
+      "title_ar": "ياه بريم مول ليه - هندي",
+      "synopsis_ar": "شاب من بلدة صغيرة يسعى لتحقيق أحلام كبيرة في مومباي يقلب التقاليد رأسًا على عقب عندما ينتقل إلى منزل زوجته برفقة عائلته بأكملها - مما يجبر عائلتين متصادمتين على معرفة ما هو الحب الحقيقي،\r\nوما هو الاحترام في الواقع.",
       "genres_ar": [
-        "خيالي"
+        "عائلي",
+        "دراما"
       ],
-      "runtime_min": 115,
-      "trailer_youtube_id": "SasmOAYXW68"
+      "runtime_min": 172,
+      "trailer_youtube_id": "6nG8fLO6Kvg"
     },
     "scorpion": {
       "title_en": "Scorpion",
@@ -322,6 +243,89 @@
       ],
       "runtime_min": 91,
       "trailer_youtube_id": "lbSWfhkULW8"
+    },
+    "forgottenisland": {
+      "title_en": "Forgotten Island",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/Forgotten-Island/HO00004344"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004344_612.jpg",
+      "title_ar": "فورقاتن ايلاند",
+      "synopsis_ar": "يصبح اثنان من أفضل الأصدقاء عالقين في عالم ناكالي الغامض، حيث قد يكلفهم هروبهم الوحيد ذكرياتهم المشتركة طوال حياتهم.",
+      "genres_ar": [
+        "رسوم متحركة",
+        "أكشن",
+        "مغامرات"
+      ],
+      "runtime_min": 108,
+      "trailer_youtube_id": "vzh5GyOKJgA"
+    },
+    "youcanseeeverything": {
+      "title_en": "You Can See Everything",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/You-Can-See-Everything/HO00004581"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004581_120.jpg",
+      "title_ar": "يو كان سي إفريثنق",
+      "synopsis_ar": "قبل أربعة وثلاثين يومًا من إرسالها إلى السجن، تدعو مؤسسة وادي السيليكون سيئة السمعة إليزابيث هولمز طاقم تصوير متشككًا لتوثيق كل تحركاتها. ما يبدأ كصورة حميمة لمجرمة غامضة يصبح رحلة مذهلة لمدة ثلاث سنوات إلى الهاوية.",
+      "genres_ar": [
+        "وثائقي",
+        "سيرة ذاتية"
+      ],
+      "runtime_min": 175,
+      "trailer_youtube_id": "OYJLNiESBGY"
+    },
+    "crypto": {
+      "title_en": "Crypto (Egyptian) - Arabic",
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/Crypto-(Egyptian)---Arabic/HO00004562"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004562_737.jpg",
+      "title_ar": "كريبتو",
+      "synopsis_ar": "قصة قائمة على الشخصيات تدور حول عالم عصابات حيث تتقاطع السلطة والولاء والعواقب في إطار يحمل ً طابعا ً كوميديا ساخراً",
+      "genres_ar": [
+        "كوميدي"
+      ],
+      "runtime_min": 100,
+      "trailer_youtube_id": "CHbkM6Ybsn0"
+    },
+    "ebenezer": {
+      "title_en": "Ebenezer",
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/Ebenezer/HO00004481"
+        }
+      ],
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004481_556.jpg",
+      "title_ar": "ابينيزار",
+      "synopsis_ar": "في نوفمبر من هذا العام، جوني ديب هو إيبينيزر سكروج. الاسم الذي تعرفه، القصة التي لا تعرفها.",
+      "genres_ar": [
+        "خيالي"
+      ],
+      "runtime_min": 115,
+      "trailer_youtube_id": "SasmOAYXW68"
     },
     "catinthehat": {
       "title_en": "The Cat in the Hat",
@@ -365,87 +369,6 @@
       "runtime_min": 121,
       "trailer_youtube_id": "EmX0HvSFS4c"
     },
-    "godzillaminuszerojapanese": {
-      "title_en": "Godzilla Minus Zero - Japanese",
-      "languages": [
-        "Japanese"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Godzilla-Minus-Zero---Japanese/HO00004537"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004537_632.jpg",
-      "title_ar": "غودزيلا ماينس ون -يابانية",
-      "synopsis_ar": "فضت الحرب اليابان إلى الصفر، وأغرقها غودزيلا في ناقص. لقد مر عامان منذ ذلك الحين، وواجهت البلاد صراعات مؤلمة لتحقيق الانتصار واستعادة حياتها اليومية أخيرا.\n\r\n.تماما كما تمكنت البشرية من التشبث بسلام وتم تحقيقه بشق الأنفس، يضرب غودزيلا تهديد جديد،",
-      "genres_ar": [
-        "أكشن",
-        "رعب",
-        "إثارة"
-      ],
-      "runtime_min": 135,
-      "trailer_youtube_id": "aX1CBirOlJc"
-    },
-    "clayface": {
-      "title_en": "Clayface",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Clayface/HO00004372"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004372_211.jpg",
-      "title_ar": "كلاي فيس",
-      "synopsis_ar": "يكشف فيلم «كلاي فيس» عن السقوط المرعب لرجل من نجم هوليوود صاعد إلى وحش مدفوع بالانتقام، مستكشفًا فقدان الهوية والإنسانية، والحب المتآكل، والجانب المظلم للطموح العلمي.",
-      "genres_ar": [
-        "رعب",
-        "إثارة"
-      ],
-      "runtime_min": 104,
-      "trailer_youtube_id": "rN6ZTbskJ0E"
-    },
-    "3wishesforcinderella": {
-      "title_en": "Three Wishes for Cinderella",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Three-Wishes-for-Cinderella/HO00004582"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004582_619.jpg",
-      "title_ar": "ثري وشيز اف سندريلا",
-      "synopsis_ar": "عندما تكاد ليلة سندريلا أن تفسد بسبب زوجة أبيها الشريرة وكومة من الغسيل، يتعين عليها أن تقرر ما إذا كانت ستسعى وراء خيال القصص الخيالية أم العالم الحقيقي.",
-      "genres_ar": [
-        "رسوم متحركة",
-        "خيالي"
-      ],
-      "runtime_min": 86,
-      "trailer_youtube_id": "SbbB3dr6WAA"
-    },
-    "iobject": {
-      "title_en": "I, Object",
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/I,-Object/HO00004419"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004419_781.jpg",
-      "title_ar": "اي، اوبجكت",
-      "synopsis_ar": "يتبع هذا الفيلم الصادق توم، وهو صبي يبلغ من العمر 10 سنوات ولديه خيال حي. بعد الموت المفاجئ لوالده، يتراجع توم إلى عالم خيالي شاركوه ذات مرة، حيث تنبض الوجوه بالحياة في الأشياء اليومية!",
-      "runtime_min": 91,
-      "trailer_youtube_id": "eXZnwWO6SIM"
-    },
     "omchapter1": {
       "title_en": "OM: Chapter 1 - Tamil",
       "languages": [
@@ -465,27 +388,6 @@
       ],
       "runtime_min": 178,
       "trailer_youtube_id": "3Lk8nnKLAVQ"
-    },
-    "scene": {
-      "title_en": "Scene - Tamil",
-      "languages": [
-        "Tamil"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Scene---Tamil/HO00004579"
-        }
-      ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004579_424.jpg",
-      "title_ar": "سينس _ تامل",
-      "synopsis_ar": "إنباراج، يجد ضابط شرطة نفسه منجذباً مرة أخرى إلى قضية قديمة تركها وراءه ذات مرة. تجلب الحالة تحديات ومضاعفات جديدة. تتبع القصة كيف تناولت إنباراج القضية مرة أخرى وتقاتل لكشف الحقيقة.",
-      "genres_ar": [
-        "أكشن",
-        "إثارة"
-      ],
-      "runtime_min": 147,
-      "trailer_youtube_id": "_RbZHpqP_go"
     },
     "aakasamlookatara": {
       "title_en": "Aakasamlo Oka Tara - Malayalam",
@@ -507,26 +409,26 @@
       "runtime_min": 156,
       "trailer_youtube_id": "HctNT1OakSE"
     },
-    "bachelorpartydeux": {
-      "title_en": "Bachelor Party D’EUX - Malayalam",
+    "prempaatta": {
+      "title_en": "Prempaatta - Malayalam",
       "languages": [
         "Malayalam"
       ],
       "cinemas": [
         {
           "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Bachelor-Party-D’EUX---Malayalam/HO00004591"
+          "booking_url": "https://www.cinescape.com.kw/movie-details/Prempaatta---Malayalam/HO00004598"
         }
       ],
-      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004591_267.jpg",
-      "title_ar": "باتشلور بارتي دي اي يو اكس -مالايالام",
-      "synopsis_ar": "يُعدّ فيلم Bachelor Party D’eux خليفةً روحيًا لفيلم المالايالامية الشهير Bachelor Party (2012). يحمل الفيلم نفس الطاقة الخام والفكاهة غير التقليدية والأسلوب والروح التي جعلت من سلفه فيلمًا مفضلًا دائمًا.",
+      "poster_src": "https://cdn.cinescape.com.kw/movies/web_small/HO00004598_022.jpg",
+      "title_ar": "بريمباتا - مالايالم",
+      "synopsis_ar": "تجسّد القصة، التي تدور أحداثها على خلفية مخيم NSS، الطاقة والروح الجماعية والحنين إلى حياة الحرم الجامعي مع استكشاف موضوعات الصداقة والموسيقى والرومانسية بين الطلاب الشباب الذين يكتشفون أنفسهم.",
       "genres_ar": [
-        "أكشن",
-        "دراما"
+        "كوميدي",
+        "رومانسي"
       ],
-      "runtime_min": 129,
-      "trailer_youtube_id": "XWDpj2wgCGE"
+      "runtime_min": 126,
+      "trailer_youtube_id": "3fsg175808I"
     }
   }
 }

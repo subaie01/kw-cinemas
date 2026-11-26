@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-25T13:57:35.766665+00:00",
+  "last_updated": "2026-11-26T13:36:01.905365+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -15,6 +15,33 @@
     }
   },
   "movies": [
+    {
+      "id": "wd-Q141539509",
+      "title_ar": "ياه بريم مول ليه - هندي",
+      "title_en": "Yeh Prem Mol Liya - Hindi",
+      "synopsis_ar": "شاب من بلدة صغيرة يسعى لتحقيق أحلام كبيرة في مومباي يقلب التقاليد رأسًا على عقب عندما ينتقل إلى منزل زوجته برفقة عائلته بأكملها - مما يجبر عائلتين متصادمتين على معرفة ما هو الحب الحقيقي،\r\nوما هو الاحترام في الواقع.",
+      "genres_ar": [
+        "عائلي",
+        "دراما"
+      ],
+      "runtime_min": 172,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004593_841.jpg",
+      "trailer_youtube_id": "6nG8fLO6Kvg",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Yeh%20Prem%20Mol%20Liya%20-%20Hindi%20official%20trailer",
+      "ratings": {},
+      "imdb_id": "tt38907401",
+      "release_date": "2026-11-27",
+      "matched": true,
+      "languages": [
+        "Hindi"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/Yeh-Prem-Mol-Liya---Hindi/HO00004593"
+        }
+      ]
+    },
     {
       "id": "wd-Q135713425",
       "title_ar": "فوكر إن لو",
@@ -46,33 +73,6 @@
       ]
     },
     {
-      "id": "wd-Q142189646",
-      "title_ar": "باتشلور بارتي دي اي يو اكس -مالايالام",
-      "title_en": "Bachelor Party D’EUX - Malayalam",
-      "synopsis_ar": "يُعدّ فيلم Bachelor Party D’eux خليفةً روحيًا لفيلم المالايالامية الشهير Bachelor Party (2012). يحمل الفيلم نفس الطاقة الخام والفكاهة غير التقليدية والأسلوب والروح التي جعلت من سلفه فيلمًا مفضلًا دائمًا.",
-      "genres_ar": [
-        "أكشن",
-        "دراما"
-      ],
-      "runtime_min": 129,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004591_267.jpg",
-      "trailer_youtube_id": "XWDpj2wgCGE",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Bachelor%20Party%20D%E2%80%99EUX%20-%20Malayalam%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": "2026-11-19",
-      "matched": true,
-      "languages": [
-        "Malayalam"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Bachelor-Party-D’EUX---Malayalam/HO00004591"
-        }
-      ]
-    },
-    {
       "id": "wd-Q136027913",
       "title_ar": "حكاية سحر",
       "title_en": "Hexed",
@@ -86,7 +86,9 @@
       "poster": "https://www.skycinemaskw.com/images/movies/9999001563.jpg",
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=Hexed%20official%20trailer",
-      "ratings": {},
+      "ratings": {
+        "imdb": "6.8"
+      },
       "imdb_id": "tt38077943",
       "release_date": "2026-11-12",
       "matched": true,
@@ -187,7 +189,7 @@
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=You%20Can%20See%20Everything%20official%20trailer",
       "ratings": {
-        "imdb": "9.0"
+        "imdb": "8.9"
       },
       "imdb_id": "tt45368240",
       "release_date": "2026-09-06",
@@ -199,10 +201,6 @@
         {
           "id": "cinescape",
           "booking_url": "https://www.cinescape.com.kw/movie-details/You-Can-See-Everything/HO00004581"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/you-can-see-everything/9999001553/NowShowing"
         }
       ]
     },
@@ -265,17 +263,12 @@
       "release_date": "2026-04-15",
       "matched": true,
       "languages": [
-        "Arabic",
         "English"
       ],
       "cinemas": [
         {
           "id": "cinescape",
           "booking_url": "https://www.cinescape.com.kw/movie-details/Forgotten-Island/HO00004344"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/forgotten-island/9999001556/NowShowing"
         }
       ]
     },
@@ -367,36 +360,6 @@
       ]
     },
     {
-      "id": "local-crypto",
-      "title_ar": "Crypto",
-      "title_en": "Crypto",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001554.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Crypto%20official%20trailer",
-      "ratings": {
-        "imdb": "5.3"
-      },
-      "imdb_id": "tt8563452",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Arabic"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Crypto-(Egyptian)---Arabic/HO00004562"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/crypto-(egyptian)-arabic-/9999001554/NowShowing"
-        }
-      ]
-    },
-    {
       "id": "local-hadoota",
       "title_ar": "Hadoota",
       "title_en": "Hadoota",
@@ -423,36 +386,6 @@
         {
           "id": "sky",
           "booking_url": "https://www.skycinemaskw.com/movie-information/hadoota-(egyptian)-arabic/9999001551/NowShowing"
-        }
-      ]
-    },
-    {
-      "id": "local-ebenezer",
-      "title_ar": "Ebenezer",
-      "title_en": "Ebenezer",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001550.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Ebenezer%20official%20trailer",
-      "ratings": {
-        "imdb": "5.6"
-      },
-      "imdb_id": "tt0133727",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Ebenezer/HO00004481"
-        },
-        {
-          "id": "sky",
-          "booking_url": "https://www.skycinemaskw.com/movie-information/ebenezer/9999001550/NowShowing"
         }
       ]
     },
@@ -485,6 +418,58 @@
       ]
     },
     {
+      "id": "local-crypto",
+      "title_ar": "Crypto",
+      "title_en": "Crypto",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001554.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Crypto%20official%20trailer",
+      "ratings": {
+        "imdb": "5.3"
+      },
+      "imdb_id": "tt8563452",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "Arabic"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/Crypto-(Egyptian)---Arabic/HO00004562"
+        }
+      ]
+    },
+    {
+      "id": "local-ebenezer",
+      "title_ar": "Ebenezer",
+      "title_en": "Ebenezer",
+      "synopsis_ar": "",
+      "genres_ar": [],
+      "runtime_min": null,
+      "poster": "https://www.skycinemaskw.com/images/movies/9999001550.jpg",
+      "trailer_youtube_id": null,
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Ebenezer%20official%20trailer",
+      "ratings": {
+        "imdb": "5.6"
+      },
+      "imdb_id": "tt0133727",
+      "release_date": null,
+      "matched": false,
+      "languages": [
+        "English"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/Ebenezer/HO00004481"
+        }
+      ]
+    },
+    {
       "id": "local-catinthehat",
       "title_ar": "The Cat In The Hat",
       "title_en": "The Cat In The Hat",
@@ -507,113 +492,6 @@
         {
           "id": "cinescape",
           "booking_url": "https://www.cinescape.com.kw/movie-details/The-Cat-in-the-Hat/HO00004467"
-        }
-      ]
-    },
-    {
-      "id": "local-godzillaminuszerojapanese",
-      "title_ar": "Godzilla Minus Zero - Japanese",
-      "title_en": "Godzilla Minus Zero - Japanese",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001545.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Godzilla%20Minus%20Zero%20-%20Japanese%20official%20trailer",
-      "ratings": {},
-      "imdb_id": null,
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Japanese"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Godzilla-Minus-Zero---Japanese/HO00004537"
-        }
-      ]
-    },
-    {
-      "id": "local-clayface",
-      "title_ar": "Clayface",
-      "title_en": "Clayface",
-      "synopsis_ar": "",
-      "genres_ar": [],
-      "runtime_min": null,
-      "poster": "https://www.skycinemaskw.com/images/movies/9999001534.jpg",
-      "trailer_youtube_id": null,
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Clayface%20official%20trailer",
-      "ratings": {
-        "imdb": "7.5"
-      },
-      "imdb_id": "tt34890576",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Clayface/HO00004372"
-        }
-      ]
-    },
-    {
-      "id": "local-3wishesforcinderella",
-      "title_ar": "ثري وشيز اف سندريلا",
-      "title_en": "Three Wishes for Cinderella",
-      "synopsis_ar": "عندما تكاد ليلة سندريلا أن تفسد بسبب زوجة أبيها الشريرة وكومة من الغسيل، يتعين عليها أن تقرر ما إذا كانت ستسعى وراء خيال القصص الخيالية أم العالم الحقيقي.",
-      "genres_ar": [
-        "رسوم متحركة",
-        "خيالي"
-      ],
-      "runtime_min": 86,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004582_619.jpg",
-      "trailer_youtube_id": "SbbB3dr6WAA",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Three%20Wishes%20for%20Cinderella%20official%20trailer",
-      "ratings": {
-        "imdb": "7.6"
-      },
-      "imdb_id": "tt0070832",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Three-Wishes-for-Cinderella/HO00004582"
-        }
-      ]
-    },
-    {
-      "id": "wd-Q124450732",
-      "title_ar": "اي، اوبجكت",
-      "title_en": "I, Object",
-      "synopsis_ar": "يتبع هذا الفيلم الصادق توم، وهو صبي يبلغ من العمر 10 سنوات ولديه خيال حي. بعد الموت المفاجئ لوالده، يتراجع توم إلى عالم خيالي شاركوه ذات مرة، حيث تنبض الوجوه بالحياة في الأشياء اليومية!",
-      "genres_ar": [
-        "فيلم رسوم متحركة حية"
-      ],
-      "runtime_min": 91,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004419_781.jpg",
-      "trailer_youtube_id": "eXZnwWO6SIM",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=I%2C%20Object%20official%20trailer",
-      "ratings": {
-        "imdb": "5.7"
-      },
-      "imdb_id": "tt27897176",
-      "release_date": null,
-      "matched": true,
-      "languages": [
-        "English"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/I,-Object/HO00004419"
         }
       ]
     },
@@ -644,35 +522,6 @@
       ]
     },
     {
-      "id": "local-scene",
-      "title_ar": "سينس _ تامل",
-      "title_en": "Scene - Tamil",
-      "synopsis_ar": "إنباراج، يجد ضابط شرطة نفسه منجذباً مرة أخرى إلى قضية قديمة تركها وراءه ذات مرة. تجلب الحالة تحديات ومضاعفات جديدة. تتبع القصة كيف تناولت إنباراج القضية مرة أخرى وتقاتل لكشف الحقيقة.",
-      "genres_ar": [
-        "أكشن",
-        "إثارة"
-      ],
-      "runtime_min": 147,
-      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004579_424.jpg",
-      "trailer_youtube_id": "_RbZHpqP_go",
-      "trailer_search_url": "https://www.youtube.com/results?search_query=Scene%20-%20Tamil%20official%20trailer",
-      "ratings": {
-        "imdb": "7.7"
-      },
-      "imdb_id": "tt0247082",
-      "release_date": null,
-      "matched": false,
-      "languages": [
-        "Tamil"
-      ],
-      "cinemas": [
-        {
-          "id": "cinescape",
-          "booking_url": "https://www.cinescape.com.kw/movie-details/Scene---Tamil/HO00004579"
-        }
-      ]
-    },
-    {
       "id": "local-aakasamlookatara",
       "title_ar": "اكاسواملو اكا تارا",
       "title_en": "Aakasamlo Oka Tara - Malayalam",
@@ -695,6 +544,33 @@
         {
           "id": "cinescape",
           "booking_url": "https://www.cinescape.com.kw/movie-details/Aakasamlo-Oka-Tara---Malayalam/HO00004595"
+        }
+      ]
+    },
+    {
+      "id": "wd-Q141949338",
+      "title_ar": "بريمباتا - مالايالم",
+      "title_en": "Prempaatta - Malayalam",
+      "synopsis_ar": "تجسّد القصة، التي تدور أحداثها على خلفية مخيم NSS، الطاقة والروح الجماعية والحنين إلى حياة الحرم الجامعي مع استكشاف موضوعات الصداقة والموسيقى والرومانسية بين الطلاب الشباب الذين يكتشفون أنفسهم.",
+      "genres_ar": [
+        "كوميدي",
+        "رومانسي"
+      ],
+      "runtime_min": 126,
+      "poster": "https://cdn.cinescape.com.kw/movies/web_small/HO00004598_022.jpg",
+      "trailer_youtube_id": "3fsg175808I",
+      "trailer_search_url": "https://www.youtube.com/results?search_query=Prempaatta%20-%20Malayalam%20official%20trailer",
+      "ratings": {},
+      "imdb_id": "tt38492881",
+      "release_date": null,
+      "matched": true,
+      "languages": [
+        "Malayalam"
+      ],
+      "cinemas": [
+        {
+          "id": "cinescape",
+          "booking_url": "https://www.cinescape.com.kw/movie-details/Prempaatta---Malayalam/HO00004598"
         }
       ]
     }
