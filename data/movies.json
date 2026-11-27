@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T13:36:01.905365+00:00",
+  "last_updated": "2026-11-27T13:31:50.076108+00:00",
   "cinemas": {
     "cinescape": {
       "name_ar": "سينسكيب"
@@ -54,7 +54,9 @@
       "poster": "https://www.skycinemaskw.com/images/movies/9999001564.jpg",
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=Focker%20In%20Law%20official%20trailer",
-      "ratings": {},
+      "ratings": {
+        "imdb": "6.0"
+      },
       "imdb_id": "tt34966140",
       "release_date": "2026-11-25",
       "matched": true,
@@ -87,7 +89,7 @@
       "trailer_youtube_id": null,
       "trailer_search_url": "https://www.youtube.com/results?search_query=Hexed%20official%20trailer",
       "ratings": {
-        "imdb": "6.8"
+        "imdb": "6.7"
       },
       "imdb_id": "tt38077943",
       "release_date": "2026-11-12",
@@ -221,7 +223,7 @@
       "trailer_search_url": "https://www.youtube.com/results?search_query=Paper%20Tiger%20official%20trailer",
       "ratings": {
         "rotten_tomatoes": "86%",
-        "imdb": "6.9"
+        "imdb": "7.0"
       },
       "imdb_id": "tt34385689",
       "release_date": "2026-05-16",
